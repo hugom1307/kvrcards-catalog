@@ -1,0 +1,5 @@
+[
+  { "name": "Sobre Bronce", "cardsPerPack": 3, "strategy": "equal" },
+  { "name": "Sobre Plata",  "cardsPerPack": 3, "strategy": "halfTop" },
+  { "name": "Sobre Oro maximo",    "cardsPerPack": 3, "strategy": "topThird" }
+]
