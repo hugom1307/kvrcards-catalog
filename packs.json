@@ -1,5 +1,26 @@
 [
-  { "name": "Sobre Bronce", "cardsPerPack": 3, "strategy": "equal", "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/bronce.png" },
-  { "name": "Sobre Plata",  "cardsPerPack": 3, "strategy": "halfTop", "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plata.png" },
-  { "name": "Sobre Oro maximo",    "cardsPerPack": 3, "strategy": "topThird", "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/oro.png" }
+  { "name": "Sobre Bronce", "cardsPerPack": 3, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/bronce.png", "strategy": "qualityMedia",
+    "qualityWeights": {
+    "Bronce": 60,
+    "Plata": 30,
+    "Oro": 9,
+    "Icono": 1
+    }
+  },
+  { "name": "Sobre Plata", "cardsPerPack": 3, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plata.png", "strategy": "qualityMedia",
+    "qualityWeights": {
+    "Bronce": 5,
+    "Plata": 5,
+    "Oro": 70,
+    "Icono": 20
+    }
+  },
+  { "name": "Sobre Oro maximo", "cardsPerPack": 3, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/oro.png", "strategy": "qualityMedia",
+    "qualityWeights": {
+    "Bronce": 5,
+    "Plata": 5,
+    "Oro": 10,
+    "Icono": 80
+    }
+  }
 ]
