@@ -1,12 +1,12 @@
 [
   {
     "name": "INMO",
-    "stats": [90, 85, 88, 92, 80, 87],
+    "stats": [90, 85, 88, 92, 80, 87, 99],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/inmo.png"
   },
   {
     "name": "SoacC",
-    "stats": [78, 81, 79, 76, 82, 80],
+    "stats": [78, 81, 79, 76, 82, 80, 98],
     "imageUrl": ""
   }
 ]
