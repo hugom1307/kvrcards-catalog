@@ -5,7 +5,9 @@
     "Plata": 30,
     "Oro": 9,
     "Icono": 1
-    }
+    },
+    "priceCoins": 100,
+    "priceKvr": 0
   },
   { "name": "Sobre Plata", "cardsPerPack": 3, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plata.png", "strategy": "qualityMedia",
     "qualityWeights": {
@@ -13,7 +15,9 @@
     "Plata": 5,
     "Oro": 70,
     "Icono": 20
-    }
+    },
+    "priceCoins": 2500,
+    "priceKvr": 0
   },
   { "name": "Sobre Oro maximo", "cardsPerPack": 3, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/oro.png", "strategy": "qualityMedia",
     "qualityWeights": {
@@ -21,6 +25,8 @@
     "Plata": 5,
     "Oro": 10,
     "Icono": 80
-    }
+    },
+    "priceCoins": 2500,
+    "priceKvr": 10
   }
 ]
