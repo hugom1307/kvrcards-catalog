@@ -14,6 +14,13 @@
     "calidad": "Oro"
   },
   {
+    "name": "Sekitan",
+    "stats": [83, 85, 80, 76, 83, 71],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sekitan.png",
+    "media": 82,
+    "calidad": "Oro"
+  },
+  {
     "name": "Negiro",
     "stats": [88, 91, 29, 96, 98, 95],
     "imageUrl": "",
