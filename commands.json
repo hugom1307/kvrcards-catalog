@@ -1,6 +1,6 @@
 {
-"version": "10",
+"version": "11",
 "commands": [
-
+{ "username": "HugoM1307", "action": "add", "cardName": "SoacC", "count": 1 }
 ]
 }
