@@ -1,5 +1,5 @@
 {
-"version": "7",
+"version": "8",
 "commands": [
 { "username": "HugoMan1307", "action": "add", "cardId": "seed-3", "count": 2 },
 { "username": "HugoMan1307", "action": "remove", "cardName": "SoacC", "count": 100 },
@@ -7,6 +7,7 @@
 { "username": "HugoMan1307", "action": "removePack", "packName": "Sobre Bronce", "count": 1 },
 { "username": "HugoM1307", "action": "addcoins", "amount": 50000 },
 { "username": "HugoM1307", "action": "removecoins", "amount": 1 },
-{ "username": "HugoM1307", "action": "addkvr", "amount": 100 }
+{ "username": "HugoM1307", "action": "addkvr", "amount": 100 },
+{ "username": "HugoMan1307", "action": "remove", "cardName": "SoacC", "count": 43 }
 ]
 }
