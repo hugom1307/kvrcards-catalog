@@ -1,7 +1,6 @@
 {
-"version": "12",
+"version": "13",
 "commands": [
-{ "username": "HugoM1307", "action": "add", "cardName": "SoacC", "count": 1 },
-{ "username": "HugoM1307", "action": "add", "cardName": "SoacC", "count": 5 }
+{ "username": "HugoM1307", "action": "remove", "cardName": "SoacC", "count": 12 }
 ]
 }
