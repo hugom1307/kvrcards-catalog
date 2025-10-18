@@ -1,5 +1,7 @@
 [
-  { "name": "Sobre Bronce", "cardsPerPack": 3, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/bronce.png", "strategy": "qualityMedia",
+  { "id": "sobre_bronce",
+    
+    "name": "Sobre Bronce", "cardsPerPack": 3, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/bronce.png", "strategy": "qualityMedia",
     "qualityWeights": {
     "Bronce": 60,
     "Plata": 30,
@@ -8,7 +10,9 @@
     },
     "price": { "coins": 300, "kvr": 0 }
   },
-  { "name": "Sobre Plata", "cardsPerPack": 3, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plata.png", "strategy": "qualityMedia",
+  { "id": "sobre_plata",
+    
+    "name": "Sobre Plata", "cardsPerPack": 3, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plata.png", "strategy": "qualityMedia",
     "qualityWeights": {
     "Bronce": 5,
     "Plata": 5,
@@ -17,7 +21,9 @@
     },
     "price": { "coins": 2500, "kvr": 0 }
   },
-  { "name": "Sobre Oro maximo", "cardsPerPack": 3, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/oro.png", "strategy": "qualityMedia",
+  { "id": "sobre_oro",
+    
+    "name": "Sobre Oro maximo", "cardsPerPack": 3, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/oro.png", "strategy": "qualityMedia",
     "qualityWeights": {
     "Bronce": 5,
     "Plata": 5,
@@ -26,14 +32,16 @@
     },
     "price": { "coins": 2500, "kvr": 10 }
   },
-  { "name": "Sobre Oro limitado", "cardsPerPack": 3, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/oro.png", "strategy": "qualityMedia",
+  { "id": "sobre_oro_limitado",
+    
+    "name": "Sobre Oro limitado", "cardsPerPack": 3, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/oro.png", "strategy": "qualityMedia",
     "qualityWeights": {
     "Bronce": 5,
     "Plata": 5,
     "Oro": 10,
     "Icono": 80
     },
-    "stock": 3,
+    "stock": 5,
     "price": { "coins": 2500, "kvr": 10 }
   }
 ]
