@@ -1,0 +1,4 @@
+calidades:
+Bronce, Plata, Oro, Icono
+
+sobres:
