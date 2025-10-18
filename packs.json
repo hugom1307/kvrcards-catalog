@@ -24,7 +24,7 @@
     "Oro": 10,
     "Icono": 80
     },
-    "price": { "coins": 2500, "kvr": 10 },
+    "price": { "coins": 2500, "kvr": 10 }
   },
   { "name": "Sobre Oro limitado", "cardsPerPack": 3, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/oro.png", "strategy": "qualityMedia",
     "qualityWeights": {
