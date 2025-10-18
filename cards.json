@@ -4,7 +4,7 @@
     "stats": [90, 82, 77, 82, 88, 75],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ronan.png",
     "media": 85,
-    "calidad": "Oro"
+    "calidad": "Oro",
     "valor": 10000
   },
   {
@@ -12,7 +12,7 @@
     "stats": [87, 82, 83, 83, 78, 74],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kurai.png",
     "media": 84,
-    "calidad": "Oro"
+    "calidad": "Oro",
     "valor": 8000
   },
   {
@@ -20,7 +20,7 @@
     "stats": [86, 80, 77, 80, 75, 78],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sukui.png",
     "media": 82,
-    "calidad": "Oro"
+    "calidad": "Oro",
     "valor": 6500
   },
   {
@@ -28,7 +28,7 @@
     "stats": [83, 85, 80, 76, 83, 71],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sekitan.png",
     "media": 82,
-    "calidad": "Oro"
+    "calidad": "Oro",
     "valor": 6500
   },
   {
@@ -36,7 +36,7 @@
     "stats": [84, 77, 75, 82, 79, 63],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ken.png",
     "media": 80,
-    "calidad": "Oro"
+    "calidad": "Oro",
     "valor": 4000
   },
   {
@@ -44,7 +44,7 @@
     "stats": [82, 76, 78, 77, 74, 67],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fuutaro.png",
     "media": 78,
-    "calidad": "Oro"
+    "calidad": "Oro",
     "valor": 3000
   },
   {
@@ -52,7 +52,7 @@
     "stats": [70, 78, 77, 72, 71, 65],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taka.png",
     "media": 74,
-    "calidad": "Plata"
+    "calidad": "Plata",
     "valor": 1000
   },
   {
@@ -60,7 +60,7 @@
     "stats": [71, 75, 72, 75, 69, 73],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kenji.png",
     "media": 72,
-    "calidad": "Plata"
+    "calidad": "Plata",
     "valor": 850
   }
 ]
