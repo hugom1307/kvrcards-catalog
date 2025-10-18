@@ -1,17 +1,27 @@
 [
   {
-    "name": "INMO",
-    "stats": [90, 85, 88, 92, 80, 87],
-    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/inmo.png",
-    "media": 99,
-    "calidad": "Icono"
+    "name": "Ronan Hatake",
+    "stats": [90, 82, 77, 82, 88, 75],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ronan.png",
+    "media": 85,
+    "calidad": "Oro"
+    "valor": 10000
   },
   {
-    "name": "SoacC",
-    "stats": [78, 81, 79, 76, 82, 80],
-    "imageUrl": "",
-    "media": 98,
-    "calidad": "Icono"
+    "name": "Kurai Tenro",
+    "stats": [87, 82, 83, 83, 78, 74],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kurai.png",
+    "media": 84,
+    "calidad": "Oro"
+    "valor": 8000
+  },
+  {
+    "name": "Sukui Uzumaki",
+    "stats": [86, 80, 77, 80, 75, 78],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sukui.png",
+    "media": 82,
+    "calidad": "Oro"
+    "valor": 6500
   },
   {
     "name": "Sekitan",
@@ -19,12 +29,38 @@
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sekitan.png",
     "media": 82,
     "calidad": "Oro"
+    "valor": 6500
   },
   {
-    "name": "Negiro",
-    "stats": [88, 91, 29, 96, 98, 95],
-    "imageUrl": "",
-    "media": 68,
-    "calidad": "Bronce"
+    "name": "Ken Inazuma",
+    "stats": [84, 77, 75, 82, 79, 63],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ken.png",
+    "media": 80,
+    "calidad": "Oro"
+    "valor": 4000
+  },
+  {
+    "name": "Raiden Fuutaro",
+    "stats": [82, 76, 78, 77, 74, 67],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fuutaro.png",
+    "media": 78,
+    "calidad": "Oro"
+    "valor": 3000
+  },
+  {
+    "name": "Taka Uzumaki",
+    "stats": [70, 78, 77, 72, 71, 65],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taka.png",
+    "media": 74,
+    "calidad": "Plata"
+    "valor": 1000
+  },
+  {
+    "name": "Kenji Ikari",
+    "stats": [71, 75, 72, 75, 69, 73],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kenji.png",
+    "media": 72,
+    "calidad": "Plata"
+    "valor": 850
   }
 ]
