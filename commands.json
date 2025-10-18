@@ -1,6 +1,13 @@
 {
-"version": "14",
+"version": "15",
 "commands": [
-{ "username": "HugoM1307", "action": "remove", "cardName": "SoacC", "count": 5 }
+{ "username": "HugoM1307", "action": "remove", "cardId": "seed-0", "count": 47 },
+{ "username": "HugoM1307", "action": "remove", "cardId": "seed-1", "count": 4 },
+{ "username": "HugoM1307", "action": "remove", "cardId": "seed-2", "count": 66 },
+{ "username": "HugoM1307", "action": "remove", "cardId": "seed-3", "count": 37 },
+{ "username": "HugoM1307", "action": "remove", "cardId": "seed-4", "count": 4 },
+{ "username": "HugoM1307", "action": "remove", "cardId": "seed-5", "count": 4 },
+{ "username": "HugoM1307", "action": "remove", "cardId": "seed-6", "count": 3 },
+{ "username": "HugoM1307", "action": "remove", "cardId": "seed-7", "count": 3 }
 ]
 }
