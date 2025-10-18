@@ -1,5 +1,6 @@
 [
   {
+    "id": "ronan_hatake",
     "name": "Ronan Hatake",
     "stats": [90, 82, 77, 82, 88, 75],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ronan.png",
@@ -8,6 +9,7 @@
     "valor": 10000
   },
   {
+    "id": "kurai_tenro",
     "name": "Kurai Tenro",
     "stats": [87, 82, 83, 83, 78, 74],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kurai.png",
@@ -16,6 +18,7 @@
     "valor": 8000
   },
   {
+    "id": "sukui_uzumaki",
     "name": "Sukui Uzumaki",
     "stats": [86, 80, 77, 80, 75, 78],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sukui.png",
@@ -24,6 +27,7 @@
     "valor": 6500
   },
   {
+    "id": "sekitan",
     "name": "Sekitan",
     "stats": [83, 85, 80, 76, 83, 71],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sekitan.png",
@@ -32,6 +36,7 @@
     "valor": 6500
   },
   {
+    "id": "ken_inazuma",
     "name": "Ken Inazuma",
     "stats": [84, 77, 75, 82, 79, 63],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ken.png",
@@ -40,6 +45,7 @@
     "valor": 4000
   },
   {
+    "id": "raiden_fuutaro",
     "name": "Raiden Fuutaro",
     "stats": [82, 76, 78, 77, 74, 67],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fuutaro.png",
@@ -48,6 +54,7 @@
     "valor": 3000
   },
   {
+    "id": "taka_uzumaki",
     "name": "Taka Uzumaki",
     "stats": [70, 78, 77, 72, 71, 65],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taka.png",
@@ -56,6 +63,7 @@
     "valor": 1000
   },
   {
+    "id": "kenji_ikari",
     "name": "Kenji Ikari",
     "stats": [71, 75, 72, 75, 69, 73],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kenji.png",
