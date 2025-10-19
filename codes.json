@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "codes": [
     {
       "code": "PRUEBA1",
@@ -20,6 +20,8 @@
             "quantity": 1
           }
         ]
-    },
+      },
       "description": "Mega pack especial - 5000 Coins, 100 KvR, 3 sobres y 1 carta legendaria"
+    }
+  ]
 }
