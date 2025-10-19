@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "codes": [
+    {
+      "code": "PRUEBA1",
+      "active": true,
+      "rewardsType": "mixed",
+      "rewards": {
+        "coins": 5000,
+        "kvr": 100,
+        "packs": [
+          {
+            "packId": "tu-pack-id-aqui",
+            "quantity": 3
+          }
+        ],
+        "cards": [
+          {
+            "cardId": "tu-carta-id-aqui",
+            "quantity": 1
+          }
+        ]
+    },
+      "description": "Mega pack especial - 5000 Coins, 100 KvR, 3 sobres y 1 carta legendaria"
+}
