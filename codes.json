@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "codes": [
     {
       "code": "PRUEBA1",
@@ -22,6 +22,28 @@
         ]
       },
       "description": "Mega pack especial - 5000 Coins, 100 KvR, 3 sobres y 1 carta legendaria"
+    },
+    {
+      "code": "PRUEBA2",
+      "active": true,
+      "rewardsType": "mixed",
+      "rewards": {
+        "coins": 5000,
+        "kvr": 100,
+        "packs": [
+          {
+            "packId": "sobre_bronce",
+            "quantity": 3
+          }
+        ],
+        "cards": [
+          {
+            "cardId": "kenji_ikari",
+            "quantity": 1
+          }
+        ]
+      },
+      "description": "Prueba 2 - 5000 Coins, 100 KvR, 3 sobres bronce y 1 kenji ikari"
     }
   ]
 }
