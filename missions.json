@@ -1,0 +1,133 @@
+[
+  {
+    "id": "first_pack",
+    "title": "Primer Sobre",
+    "description": "Abre tu primer sobre",
+    "requirement": {
+      "type": "packs_opened",
+      "amount": 1
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 500
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "collector_bronze",
+    "title": "Coleccionista Principiante",
+    "description": "Consigue 10 cartas diferentes",
+    "requirement": {
+      "type": "unique_cards",
+      "amount": 10
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 1000
+      },
+      {
+        "type": "pack",
+        "packId": "basic"
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "rich_player",
+    "title": "Jugador Adinerado",
+    "description": "Acumula 5,000 Coins",
+    "requirement": {
+      "type": "coins",
+      "amount": 5000
+    },
+    "rewards": [
+      {
+        "type": "title",
+        "titleId": "adinerado"
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "gold_hunter",
+    "title": "Cazador de Oro",
+    "description": "Consigue 5 cartas de calidad Oro",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Oro",
+      "amount": 5
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 2500
+      },
+      {
+        "type": "kvr",
+        "amount": 50
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "pack_addict",
+    "title": "Adicto a los Sobres",
+    "description": "Abre 50 sobres",
+    "requirement": {
+      "type": "packs_opened",
+      "amount": 50
+    },
+    "rewards": [
+      {
+        "type": "title",
+        "titleId": "abridor"
+      },
+      {
+        "type": "pack",
+        "packId": "premium"
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "icon_collector",
+    "title": "Coleccionista de Iconos",
+    "description": "Consigue 3 cartas de calidad Icono",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Icono",
+      "amount": 3
+    },
+    "rewards": [
+      {
+        "type": "title",
+        "titleId": "icono_legendario"
+      },
+      {
+        "type": "kvr",
+        "amount": 100
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "daily_login",
+    "title": "Jugador Activo",
+    "description": "Inicia sesión en el juego",
+    "requirement": {
+      "type": "login",
+      "amount": 1
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 100
+      }
+    ],
+    "repeatable": true,
+    "cooldown": 86400
+  }
+]
