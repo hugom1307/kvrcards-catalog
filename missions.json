@@ -145,6 +145,6 @@
       }
     ],
     "repeatable": true,
-    "cooldown": 604800
+    "cooldown": 86400
   }
 ]
