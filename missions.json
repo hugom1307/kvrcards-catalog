@@ -129,5 +129,22 @@
     ],
     "repeatable": true,
     "cooldown": 86400
+  },
+  {
+    "id": "daily_login",
+    "title": "Jugador MUY Activo",
+    "description": "Inicia sesión en el juego durante 7 días",
+    "requirement": {
+      "type": "login",
+      "amount": 7
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 10000
+      }
+    ],
+    "repeatable": true,
+    "cooldown": 604800
   }
 ]
