@@ -2,99 +2,51 @@
   {
     "id": "novato",
     "name": "Novato",
-    "description": "Título inicial para todos los jugadores",
-    "requirement": {
-      "type": "default"
-    },
-    "unlocked": true
+    "description": "Título inicial para todos los jugadores"
   },
   {
     "id": "coleccionista",
     "name": "Coleccionista",
-    "description": "Consigue 50 cartas diferentes",
-    "requirement": {
-      "type": "unique_cards",
-      "amount": 50
-    }
+    "description": "Consigue 50 cartas diferentes"
   },
   {
     "id": "adinerado",
     "name": "Adinerado",
-    "description": "Acumula 10,000 Coins",
-    "requirement": {
-      "type": "coins",
-      "amount": 10000
-    }
+    "description": "Acumula 10,000 Coins"
   },
   {
     "id": "abridor",
     "name": "Abridor de Sobres",
-    "description": "Abre 100 sobres",
-    "requirement": {
-      "type": "packs_opened",
-      "amount": 100
-    }
+    "description": "Abre 100 sobres"
   },
   {
     "id": "oro_puro",
     "name": "Oro Puro",
-    "description": "Consigue 10 cartas de calidad Oro",
-    "requirement": {
-      "type": "cards_by_quality",
-      "quality": "Oro",
-      "amount": 10
-    }
+    "description": "Consigue 10 cartas de calidad Oro"
   },
   {
     "id": "icono_legendario",
     "name": "Icono Legendario",
-    "description": "Consigue 5 cartas de calidad Icono",
-    "requirement": {
-      "type": "cards_by_quality",
-      "quality": "Icono",
-      "amount": 5
-    }
+    "description": "Consigue 5 cartas de calidad Icono"
   },
   {
     "id": "millonario",
     "name": "Millonario",
-    "description": "Acumula 100,000 Coins",
-    "requirement": {
-      "type": "coins",
-      "amount": 100000
-    }
+    "description": "Acumula 100,000 Coins"
   },
   {
     "id": "maestro_kvr",
     "name": "Maestro KvR",
-    "description": "Acumula 1,000 KvR Coins",
-    "requirement": {
-      "type": "kvr",
-      "amount": 1000
-    }
+    "description": "Acumula 1,000 KvR Coins"
   },
   {
     "id": "comprador",
     "name": "Comprador Compulsivo",
-    "description": "Compra este título por 5,000 Coins",
-    "requirement": {
-      "type": "purchase",
-      "price": {
-        "coins": 5000,
-        "kvr": 0
-      }
-    }
+    "description": "Compra este título por 5,000 Coins"
   },
   {
     "id": "elite",
     "name": "Élite",
-    "description": "Compra este título exclusivo por 500 KvR Coins",
-    "requirement": {
-      "type": "purchase",
-      "price": {
-        "coins": 0,
-        "kvr": 500
-      }
-    }
+    "description": "Compra este título exclusivo por 500 KvR Coins"
   }
 ]
