@@ -1,6 +1,7 @@
 [
   {
     "id": "first_pack",
+    "category": "fundamentals",
     "title": "Primer Sobre",
     "description": "Abre tu primer sobre",
     "requirement": {
@@ -17,6 +18,7 @@
   },
   {
     "id": "collector_bronze",
+    "category": "fundamentals",
     "title": "Coleccionista Principiante",
     "description": "Consigue 10 cartas diferentes",
     "requirement": {
@@ -37,6 +39,7 @@
   },
   {
     "id": "rich_player",
+    "category": "fundamentals",
     "title": "Jugador Adinerado",
     "description": "Acumula 5,000 Coins",
     "requirement": {
@@ -53,6 +56,7 @@
   },
   {
     "id": "gold_hunter",
+    "category": "fundamentals",
     "title": "Cazador de Oro",
     "description": "Consigue 5 cartas de calidad Oro",
     "requirement": {
@@ -74,6 +78,7 @@
   },
   {
     "id": "pack_addict",
+    "category": "fundamentals",
     "title": "Adicto a los Sobres",
     "description": "Abre 50 sobres",
     "requirement": {
@@ -94,6 +99,7 @@
   },
   {
     "id": "icon_collector",
+    "category": "fundamentals",
     "title": "Coleccionista de Iconos",
     "description": "Consigue 3 cartas de calidad Icono",
     "requirement": {
@@ -115,6 +121,7 @@
   },
   {
     "id": "daily_login",
+    "category": "fundamentals",
     "title": "Jugador Activo",
     "description": "Inicia sesión en el juego",
     "requirement": {
@@ -131,20 +138,38 @@
     "cooldown": 86400
   },
   {
-    "id": "daily_login",
-    "title": "Jugador MUY Activo",
-    "description": "Inicia sesión en el juego durante 7 días",
+    "id": "VERYrich_player",
+    "category": "featured",
+    "title": "Jugador Medio Millonario",
+    "description": "Acumula 500000 Coins",
     "requirement": {
-      "type": "login",
-      "amount": 7
+      "type": "coins",
+      "amount": 500000
     },
     "rewards": [
       {
-        "type": "coins",
-        "amount": 10000
+        "type": "kvr",
+        "amount": 50
       }
     ],
-    "repeatable": true,
-    "cooldown": 86400
-  }
+    "repeatable": false
+  },
+  {
+    "id": "ronan_obtained",
+    "category": "limited",
+    "title": "Consigue a Ronan Hatake",
+    "description": "Obtén en tu inventario a Ronan Hatake (85)",
+    "requirement": {
+      "type": "own_card",
+      "cardId": "ronan_hatake",
+      "amount": 1
+    },
+    "rewards": [
+      {
+        "type": "kvr",
+        "amount": 100
+      }
+    ],
+    "repeatable": false
+  },
 ]
