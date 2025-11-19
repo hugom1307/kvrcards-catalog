@@ -48,5 +48,10 @@
     "id": "elite",
     "name": "Élite",
     "description": "Compra este título exclusivo por 500 KvR Coins"
+  },
+  {
+    "id": "esperanza_desesperacion",
+    "name": "Esperanza y Desesperación",
+    "description": "Dos características únicas... ¿la luz de la esperanza, o la oscuridad de la desesperación?"
   }
 ]
