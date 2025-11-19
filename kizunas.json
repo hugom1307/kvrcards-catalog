@@ -1,0 +1,34 @@
+[
+  {
+    "id": "esperanza_desesperacion",
+    "title": "Esperanza y Desesperación",
+    "description": "Dos hermanos unidos por el destino, separados por la luz y la oscuridad.",
+    "cardIds": ["kurai_tenro", "sukui_uzumaki"],
+    "rewards": [
+      {
+        "type": "kvr",
+        "amount": 100
+      },
+      {
+        "type": "title",
+        "titleId": "esperanza_desesperacion"
+      }
+    ]
+  },
+  {
+    "id": "boyfriends",
+    "title": "Los boyfriends",
+    "description": "Los dos novietes.",
+    "cardIds": ["ken_inazuma", "raiden_fuutaro"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 5000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata"
+      }
+    ]
+  }
+]
