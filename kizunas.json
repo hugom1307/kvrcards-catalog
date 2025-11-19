@@ -2,12 +2,16 @@
   {
     "id": "esperanza_desesperacion",
     "title": "Esperanza y Desesperación",
-    "description": "Dos hermanos unidos por el destino, separados por la luz y la oscuridad.",
+    "description": "Dos hermanos unidos por el destino, separados por la luz y la oscuridad de la esperanza y la desesperación.",
     "cardIds": ["kurai_tenro", "sukui_uzumaki"],
     "rewards": [
       {
         "type": "kvr",
         "amount": 100
+      },
+      {
+        "type": "coins",
+        "amount": 10000
       },
       {
         "type": "title",
