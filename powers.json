@@ -1,0 +1,37 @@
+{
+  "powers": [
+    {
+      "id": "reserva",
+      "name": "RESERVA",
+      "description": "Cambia tu carta actual por tu carta de reserva, pudiendo ser usada en cualquier momento y dando la ventaja táctica en el momento decisivo.",
+      "imageUrl": "https://hugom1307.github.io/kvrcards-catalog/assets/powers/reserve_card.svg",
+      "rarity": "common",
+      "default": true,
+      "tradeable": false,
+      "permanent": true,
+      "consumable": false
+    },
+    {
+      "id": "powerup",
+      "name": "POWER UP",
+      "description": "Aumenta todas las estadísticas de tu carta en +3 puntos durante un turno dándole un Power Up a tu personaje.",
+      "imageUrl": "https://hugom1307.github.io/kvrcards-catalog/assets/powers/power_up.svg",
+      "rarity": "common",
+      "default": true,
+      "tradeable": false,
+      "permanent": true,
+      "consumable": false
+    },
+    {
+      "id": "nerf",
+      "name": "NERF",
+      "description": "Reduce la estadística elegida por tu oponente en -5 puntos, saboteando su estrategia. Para utilizarlo debes ir perdiendo la partida.",
+      "imageUrl": "https://hugom1307.github.io/kvrcards-catalog/assets/powers/nerf.svg",
+      "rarity": "common",
+      "default": true,
+      "tradeable": false,
+      "permanent": true,
+      "consumable": false
+    }
+  ]
+}
