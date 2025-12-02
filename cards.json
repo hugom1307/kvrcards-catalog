@@ -70,5 +70,14 @@
     "media": 72,
     "calidad": "Plata",
     "valor": 850
+  },
+  {
+    "id": "ronan_hatake_evo",
+    "name": "Ronan Hatake",
+    "stats": [94, 85, 77, 83, 91, 78],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ronan_evo.png",
+    "media": 88,
+    "calidad": "Evo",
+    "valor": 0
   }
 ]
