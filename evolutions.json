@@ -1,0 +1,34 @@
+{
+  "evolutions": [
+    {
+      "id": "evo_test",
+      "name": "Evolución Test",
+      "cardFrom": "ronan_hatake",
+      "cardTo": "ronan_hatake_evo",
+      "type": "featured",
+      "missions": [
+        {
+          "id": "evo_mission_1",
+          "description": "Gana 5 partidos con esta carta en tu equipo",
+          "type": "win_games",
+          "target": 5,
+          "cardRequired": true
+        },
+        {
+          "id": "evo_mission_2",
+          "description": "Abre 10 sobres",
+          "type": "open_packs",
+          "target": 10,
+          "cardRequired": false
+        },
+        {
+          "id": "evo_mission_3",
+          "description": "Completa 3 misiones diarias",
+          "type": "complete_daily_missions",
+          "target": 3,
+          "cardRequired": false
+        }
+      ]
+    }
+  ]
+}
