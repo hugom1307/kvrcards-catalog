@@ -33,7 +33,7 @@
       {
         "type": "pack",
         "packId": "basic"
-      },
+      }
     ],
     "repeatable": false
   },
@@ -187,7 +187,7 @@
         "amount": 1000
       }
     ],
-    "repeatable": true
+    "repeatable": true,
     "cooldown": 86400
   },
   {
@@ -206,7 +206,7 @@
         "amount": 1000
       }
     ],
-    "repeatable": true
+    "repeatable": true,
     "cooldown": 86400
   }
 ]
