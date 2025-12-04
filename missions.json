@@ -33,7 +33,7 @@
       {
         "type": "pack",
         "packId": "basic"
-      }
+      },
     ],
     "repeatable": false
   },
@@ -121,7 +121,7 @@
   },
   {
     "id": "daily_login",
-    "category": "fundamentals",
+    "category": "daily",
     "title": "Jugador Activo",
     "description": "Inicia sesión en el juego",
     "requirement": {
@@ -171,5 +171,42 @@
       }
     ],
     "repeatable": false
+  },
+  {
+    "id": "daily_packs",
+    "category": "daily",
+    "title": "Abre 3 sobres",
+    "description": "Abre 3 sobres de cualquier tipo",
+    "requirement": {
+      "type": "packs_opened",
+      "amount": 3
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 1000
+      }
+    ],
+    "repeatable": true
+    "cooldown": 86400
+  },
+  {
+    "id": "daily_gold",
+    "category": "daily",
+    "title": "Consigue 3 cartas de oro",
+    "description": "Obtén 3 cartas de oro de cualquier forma.",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Oro",
+      "amount": 3
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 1000
+      }
+    ],
+    "repeatable": true
+    "cooldown": 86400
   }
 ]
