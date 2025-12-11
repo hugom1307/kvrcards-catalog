@@ -16,7 +16,7 @@
       "id": "ninjutsu_master",
       "name": "Maestro del Ninjutsu",
       "description": "Aumenta +5 a la estadística de Ninjutsu",
-      "imageUrl": "https://raw.githubusercontent.com/kvr-cards/catalog/main/traits/ninjutsu_master.png",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-1.png",
       "rarity": "rare",
       "effect": {
         "type": "boost_all",
@@ -28,7 +28,7 @@
       "id": "taijutsu_master",
       "name": "Maestro del Taijutsu",
       "description": "Aumenta +5 a la estadística de Taijutsu",
-      "imageUrl": "https://raw.githubusercontent.com/kvr-cards/catalog/main/traits/taijutsu_master.png",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-1.png",
       "rarity": "rare",
       "effect": {
         "type": "boost_stat",
@@ -40,7 +40,7 @@
       "id": "endurance_master",
       "name": "Resistencia Inquebrantable",
       "description": "Aumenta +5 a la estadística de Resistencia",
-      "imageUrl": "https://raw.githubusercontent.com/kvr-cards/catalog/main/traits/endurance_master.png",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-1.png",
       "rarity": "rare",
       "effect": {
         "type": "boost_stat",
@@ -52,7 +52,7 @@
       "id": "speed_demon",
       "name": "Demonio de Velocidad",
       "description": "Aumenta +5 a la estadística de Velocidad",
-      "imageUrl": "https://raw.githubusercontent.com/kvr-cards/catalog/main/traits/speed_demon.png",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-1.png",
       "rarity": "rare",
       "effect": {
         "type": "boost_stat",
@@ -64,7 +64,7 @@
       "id": "defensive_wall",
       "name": "Muralla Defensiva",
       "description": "Aumenta +5 a la estadística de Defensa",
-      "imageUrl": "https://raw.githubusercontent.com/kvr-cards/catalog/main/traits/defensive_wall.png",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-1.png",
       "rarity": "rare",
       "effect": {
         "type": "boost_stat",
@@ -76,7 +76,7 @@
       "id": "physical_beast",
       "name": "Bestia Física",
       "description": "Aumenta +5 a la estadística de Físico",
-      "imageUrl": "https://raw.githubusercontent.com/kvr-cards/catalog/main/traits/physical_beast.png",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-1.png",
       "rarity": "rare",
       "effect": {
         "type": "boost_stat",
@@ -88,7 +88,7 @@
       "id": "intimidator",
       "name": "Intimidador",
       "description": "Reduce -3 a todas las estadísticas del oponente",
-      "imageUrl": "https://raw.githubusercontent.com/kvr-cards/catalog/main/traits/intimidator.png",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-1.png",
       "rarity": "legendary",
       "effect": {
         "type": "debuff_opponent_all",
@@ -99,7 +99,7 @@
       "id": "ninjutsu_bane",
       "name": "Neutralizador de Ninjutsu",
       "description": "Reduce -5 al Ninjutsu del oponente",
-      "imageUrl": "https://raw.githubusercontent.com/kvr-cards/catalog/main/traits/ninjutsu_bane.png",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-1.png",
       "rarity": "epic",
       "effect": {
         "type": "debuff_opponent_stat",
@@ -111,7 +111,7 @@
       "id": "speed_breaker",
       "name": "Rompevelocidades",
       "description": "Reduce -5 a la Velocidad del oponente",
-      "imageUrl": "https://raw.githubusercontent.com/kvr-cards/catalog/main/traits/speed_breaker.png",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-1.png",
       "rarity": "epic",
       "effect": {
         "type": "debuff_opponent_stat",
@@ -123,7 +123,7 @@
       "id": "clutch_player",
       "name": "Jugador Clutch",
       "description": "En rondas de empate, gana +10 a la estadística comparada",
-      "imageUrl": "https://raw.githubusercontent.com/kvr-cards/catalog/main/traits/clutch_player.png",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-1.png",
       "rarity": "legendary",
       "effect": {
         "type": "custom",
@@ -135,7 +135,7 @@
       "id": "lucky_charm",
       "name": "Amuleto de la Suerte",
       "description": "10% de probabilidad de duplicar el valor de la estadística comparada",
-      "imageUrl": "https://raw.githubusercontent.com/kvr-cards/catalog/main/traits/lucky_charm.png",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-1.png",
       "rarity": "knightverse",
       "effect": {
         "type": "custom",
