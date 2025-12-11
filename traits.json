@@ -5,7 +5,7 @@
       "name": "Taijutsu I",
       "description": "Aumenta +1 a la característica de Taijustu",
       "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-1.png",
-      "rarity": "knightverse",
+      "rarity": "rare",
       "effect": {
         "type": "boost_stat",
         "stat": "taijutsu",
