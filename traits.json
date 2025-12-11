@@ -1,14 +1,15 @@
 {
   "traits": [
     {
-      "id": "power_surge",
-      "name": "Subidón de Poder",
-      "description": "Aumenta +3 a todas las estadísticas de la carta",
-      "imageUrl": "https://raw.githubusercontent.com/kvr-cards/catalog/main/traits/power_surge.png",
+      "id": "taijutsu1",
+      "name": "Taijutsu I",
+      "description": "Aumenta +1 a la característica de Taijustu",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-1.png",
       "rarity": "knightverse",
       "effect": {
-        "type": "boost_all",
-        "value": 3
+        "type": "boost_stat",
+        "stat": "taijutsu",
+        "value": 1
       }
     },
     {
@@ -18,7 +19,7 @@
       "imageUrl": "https://raw.githubusercontent.com/kvr-cards/catalog/main/traits/ninjutsu_master.png",
       "rarity": "rare",
       "effect": {
-        "type": "boost_stat",
+        "type": "boost_all",
         "stat": "ninjutsu",
         "value": 5
       }
