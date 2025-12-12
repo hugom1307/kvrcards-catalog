@@ -35,7 +35,186 @@
         "stat": "taijutsu",
         "value": 3
       }
+    },
+    {
+      "id": "ninjutsu1",
+      "name": "Ninjutsu I",
+      "description": "Aumenta +1 a la característica de Ninjustu",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ninjutsu-1.png",
+      "rarity": "rare",
+      "effect": {
+        "type": "boost_stat",
+        "stat": "ninjutsu",
+        "value": 1
+      }
+    },
+    {
+      "id": "ninjutsu2",
+      "name": "Ninjutsu II",
+      "description": "Aumenta +2 a la característica de Ninjustu",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ninjutsu-2.png",
+      "rarity": "rare",
+      "effect": {
+        "type": "boost_stat",
+        "stat": "ninjutsu",
+        "value": 2
+      }
+    },
+    {
+      "id": "ninjutsu3",
+      "name": "Ninjutsu III",
+      "description": "Aumenta +3 a la característica de Ninjustu",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ninjutsu-3.png",
+      "rarity": "rare",
+      "effect": {
+        "type": "boost_stat",
+        "stat": "ninjutsu",
+        "value": 3
+      }
+    },
+    {
+      "id": "resistencia1",
+      "name": "Resistencia I",
+      "description": "Aumenta +1 a la característica de Resistencia",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/resistencia-1.png",
+      "rarity": "rare",
+      "effect": {
+        "type": "boost_stat",
+        "stat": "resistencia",
+        "value": 1
+      }
+    },
+    {
+      "id": "resistencia2",
+      "name": "Resistencia II",
+      "description": "Aumenta +2 a la característica de Resistencia",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/resistencia-2.png",
+      "rarity": "rare",
+      "effect": {
+        "type": "boost_stat",
+        "stat": "resistencia",
+        "value": 2
+      }
+    },
+    {
+      "id": "resistencia3",
+      "name": "Resistencia III",
+      "description": "Aumenta +3 a la característica de Resistencia",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/resistencia-3.png",
+      "rarity": "rare",
+      "effect": {
+        "type": "boost_stat",
+        "stat": "resistencia",
+        "value": 3
+      }
+    },
+    {
+      "id": "velocidad1",
+      "name": "Velocidad I",
+      "description": "Aumenta +1 a la característica de Velocidad",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/velocidad-1.png",
+      "rarity": "rare",
+      "effect": {
+        "type": "boost_stat",
+        "stat": "velocidad",
+        "value": 1
+      }
+    },
+    {
+      "id": "velocidad2",
+      "name": "Velocidad II",
+      "description": "Aumenta +2 a la característica de Velocidad",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/velocidad-2.png",
+      "rarity": "rare",
+      "effect": {
+        "type": "boost_stat",
+        "stat": "velocidad",
+        "value": 2
+      }
+    },
+    {
+      "id": "velocidad3",
+      "name": "Velocidad III",
+      "description": "Aumenta +3 a la característica de Velocidad",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/velocidad-3.png",
+      "rarity": "rare",
+      "effect": {
+        "type": "boost_stat",
+        "stat": "velocidad",
+        "value": 3
+      }
+    },
+    {
+      "id": "defensa1",
+      "name": "Defensa I",
+      "description": "Aumenta +1 a la característica de Defensa",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/defensa-1.png",
+      "rarity": "rare",
+      "effect": {
+        "type": "boost_stat",
+        "stat": "defensa",
+        "value": 1
+      }
+    },
+    {
+      "id": "defensa2",
+      "name": "Defensa II",
+      "description": "Aumenta +2 a la característica de Defensa",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/defensa-2.png",
+      "rarity": "rare",
+      "effect": {
+        "type": "boost_stat",
+        "stat": "defensa",
+        "value": 2
+      }
+    },
+    {
+      "id": "defensa3",
+      "name": "Defensa III",
+      "description": "Aumenta +3 a la característica de Defensa",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/defensa-3.png",
+      "rarity": "rare",
+      "effect": {
+        "type": "boost_stat",
+        "stat": "defensa",
+        "value": 3
+      }
+    },
+    {
+      "id": "fisico1",
+      "name": "Físico I",
+      "description": "Aumenta +1 a la característica de Físico",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fisico-1.png",
+      "rarity": "rare",
+      "effect": {
+        "type": "boost_stat",
+        "stat": "fisico",
+        "value": 1
+      }
+    },
+    {
+      "id": "fisico2",
+      "name": "Físico II",
+      "description": "Aumenta +2 a la característica de Físico",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fisico-2.png",
+      "rarity": "rare",
+      "effect": {
+        "type": "boost_stat",
+        "stat": "fisico",
+        "value": 2
+      }
+    },
+    {
+      "id": "fisico3",
+      "name": "Físico III",
+      "description": "Aumenta +3 a la característica de Físico",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fisico-3.png",
+      "rarity": "rare",
+      "effect": {
+        "type": "boost_stat",
+        "stat": "fisico",
+        "value": 3
+      }
     }
-    
   ]
 }
