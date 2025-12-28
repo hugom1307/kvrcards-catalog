@@ -101,7 +101,7 @@
   {
     "id": "merlin",
     "name": "Merlín",
-    "stats": 80, 50, 64, 74, 73, 70],
+    "stats": [80, 50, 64, 74, 73, 70],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/merlin.png",
     "media": 69,
     "calidad": "Plata",
