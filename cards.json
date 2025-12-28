@@ -97,5 +97,38 @@
     "valor": 0,
     "procedencia": "Amegakure",
     "owner": "HugoMan1307"
+  },
+  {
+    "id": "merlin",
+    "name": "Merlín",
+    "stats": 80, 50, 64, 74, 73, 70],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/merlin.png",
+    "media": 69,
+    "calidad": "Plata",
+    "valor": 500,
+    "procedencia": "Hispania",
+    "owner": "HugoMan1307"
+  },
+  {
+    "id": "mamoru",
+    "name": "Mamoru",
+    "stats": [76, 88, 90, 80, 77, 88],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/mamoru.png",
+    "media": 83,
+    "calidad": "Oro",
+    "valor": 8000,
+    "procedencia": "Hispania",
+    "owner": "HugoMan1307"
+  },
+  {
+    "id": "sebastian_godoy",
+    "name": "Sebastián Godoy",
+    "stats": [84, 80, 76, 79, 74, 80],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sebastian_godoy.png",
+    "media": 80,
+    "calidad": "Oro",
+    "valor": 5000,
+    "procedencia": "Hispania",
+    "owner": "HugoMan1307"
   }
 ]
