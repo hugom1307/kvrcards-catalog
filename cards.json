@@ -130,5 +130,16 @@
     "valor": 5000,
     "procedencia": "Hispania",
     "owner": "HugoMan1307"
+  },
+  {
+    "id": "zion_hatake",
+    "name": "Zion Hatake",
+    "stats": [71, 78, 74, 79, 75, 73],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/zion.png",
+    "media": 75,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Amegakure",
+    "owner": "HugoMan1307"
   }
 ]
