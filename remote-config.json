@@ -1,0 +1,23 @@
+{
+  "inventory": {
+    "enabled": true,
+    "baseUrl": "https://inventory-43i0.onrender.com"
+  },
+  "catalog": {
+    "enabled": true,
+    "baseUrl": "https://hugom1307.github.io/kvrcards-catalog"
+  },
+  "maintenance": {
+    "enabled": true,
+    "title": "🔧 Mantenimiento en Curso",
+    "message": "Estamos actualizando el juego para mejorar tu experiencia.\n\nVolveremos pronto. ¡Gracias por tu paciencia! 🎮",
+    "estimatedTime": "10 minutos"
+  },
+  "version": {
+    "current": "1.0.0",
+    "minimumRequired": "1.0.0",
+    "downloadUrl": "",
+    "changelog": "",
+    "forceUpdate": false
+  }
+}
