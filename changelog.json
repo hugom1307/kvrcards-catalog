@@ -1,0 +1,93 @@
+{
+  "updates": [
+    {
+      "version": "1.0.2",
+      "title": "Expansión de Contenido",
+      "description": "Gran actualización con nuevas cartas legendarias, poderes especiales y el nuevo sobre 'Leyendas del Reino'. ¡Descúbrelas todas!",
+      "date": "2026-02-15",
+      
+      "cardsAdded": [
+        {
+          "id": "ronan_hatake",
+          "name": "Ronan Hatake",
+          "imageUrl": "./assets/dragon_rey.png"
+        },
+        {
+          "id": "mago_oscuro",
+          "name": "Mago Oscuro",
+          "imageUrl": "./assets/mago_oscuro.png"
+        },
+        {
+          "id": "guerrero_luz",
+          "name": "Guerrero de Luz",
+          "imageUrl": "./assets/guerrero_luz.png"
+        }
+      ],
+      
+      "powersAdded": [
+        {
+          "id": "lluvia_meteoros",
+          "name": "Lluvia de Meteoros",
+          "imageUrl": "./assets/lluvia_meteoros.png"
+        },
+        {
+          "id": "escudo_divino",
+          "name": "Escudo Divino",
+          "imageUrl": "./assets/escudo_divino.png"
+        }
+      ],
+      
+      "traitsAdded": [
+        {
+          "id": "legendario",
+          "name": "Legendario",
+          "imageUrl": "./assets/traits/legendario.png"
+        }
+      ],
+      
+      "packsAdded": [
+        {
+          "id": "pack_leyendas",
+          "name": "Leyendas del Reino",
+          "imageUrl": "./assets/packs/pack_leyendas.png"
+        }
+      ]
+    },
+    
+    {
+      "version": "1.0.1",
+      "title": "Primera Actualización",
+      "description": "Mejoras en el sistema de batalla y corrección de errores menores. Añadidas 5 nuevas cartas al juego.",
+      "date": "2026-01-30",
+      
+      "cardsAdded": [
+        "caballero_negro",
+        "arquera_elfica",
+        "golem_piedra",
+        "hechicera_hielo",
+        "ladron_sombras"
+      ],
+      
+      "powersAdded": [
+        "flecha_multiple",
+        "terremoto"
+      ],
+      
+      "traitsAdded": [],
+      
+      "packsAdded": []
+    },
+    
+    {
+      "version": "1.0.0",
+      "title": "Lanzamiento Inicial",
+      "description": "¡Bienvenido a KVRCards! El juego de cartas definitivo ha llegado. Colecciona cartas, crea mazos y desafía a otros jugadores en emocionantes batallas.",
+      "date": "2026-01-15",
+      
+      "cardsAdded": [],
+      "powersAdded": [],
+      "traitsAdded": [],
+      "packsAdded": []
+    }
+  ]
+}
