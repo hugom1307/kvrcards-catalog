@@ -8,7 +8,7 @@
     "baseUrl": "https://hugom1307.github.io/kvrcards-catalog"
   },
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "title": "🔧 Mantenimiento en Curso",
     "message": "Estamos actualizando el juego para mejorar tu experiencia.\n\nVolveremos pronto. ¡Gracias por tu paciencia! 🎮",
     "estimatedTime": "10 minutos"
@@ -16,8 +16,8 @@
   "version": {
     "current": "1.0.0",
     "minimumRequired": "1.0.0",
-    "downloadUrl": "",
+    "downloadUrl": "https://drive.google.com/file/d/1g9iWp1R-8vOHld_aAeyM2f-McGObUszL/view?usp=sharing",
     "changelog": "",
-    "forceUpdate": false
+    "forceUpdate": true
   }
 }
