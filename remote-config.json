@@ -8,7 +8,7 @@
     "baseUrl": "https://hugom1307.github.io/kvrcards-catalog"
   },
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "title": "🔧 Mantenimiento en Curso",
     "message": "Estamos actualizando el juego para mejorar tu experiencia.\n\nVolveremos pronto. ¡Gracias por tu paciencia! 🎮",
     "estimatedTime": "10 minutos"
