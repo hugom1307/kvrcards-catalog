@@ -142,4 +142,15 @@
     "procedencia": "Amegakure",
     "owner": "HugoMan1307"
   }
+  {
+    "id": "kaoru_noroi",
+    "name": "Kaoru Noroi",
+    "stats": [94, 81, 88, 89, 94, 70],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kaoru.png",
+    "media": 91,
+    "calidad": "Oro",
+    "valor": 25000,
+    "procedencia": "Kizoku",
+    "owner": "TaiyoDL"
+  }
 ]
