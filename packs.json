@@ -48,6 +48,7 @@
   {
   "id": "sobre_kaoru",
   "name": "Sobre de Kaoru",
+  "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/oro.png",
   "cardsPerPack": 1,
   "strategy": "qualityMedia",
   "qualityWeights": {
