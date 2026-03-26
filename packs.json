@@ -44,4 +44,19 @@
     "stock": 5,
     "price": { "coins": 2500, "kvr": 10 }
   }
+
+  {
+  "id": "sobre_kaoru",
+  "name": "Sobre de Kaoru",
+  "cardsPerPack": 1,
+  "strategy": "qualityMedia",
+  "qualityWeights": {
+    "Bronce": 0,
+    "Plata": 0,
+    "Oro": 0,
+    "Icono": 0
+  },
+  "allowedCardIds": ["kaoru_noroi"],
+  "price": { "coins": 0, "kvr": 0 }
+}
 ]
