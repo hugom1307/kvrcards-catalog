@@ -64,19 +64,73 @@
     {
       "id": "torneo_multiversal",
       "name": "Torneo Multiversal",
-      "arcImage": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/arcs/celestial.jpg",
+      "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/torneo_multiversal.png",
       "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
       "levels": [
-        { "number": 1, "name": "Nivel 1", "trainer": { "id": "celestial-l1", "name": "Astra Aurora", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_1.png" } },
-        { "number": 2, "name": "Nivel 2", "trainer": { "id": "celestial-l2", "name": "Helio Prisma", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_2.png" } },
-        { "number": 3, "name": "Nivel 3", "trainer": { "id": "celestial-l3", "name": "Nyx Cometa", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_3.png" } },
-        { "number": 4, "name": "Nivel 4", "trainer": { "id": "celestial-l4", "name": "Ciro Zenith", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_4.png" } },
-        { "number": 5, "name": "Nivel 5", "trainer": { "id": "celestial-l5", "name": "Liora Halo", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_5.png" } },
-        { "number": 6, "name": "Nivel 6", "trainer": { "id": "celestial-l6", "name": "Soren Nexo", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_6.png" } },
-        { "number": 7, "name": "Nivel 7", "trainer": { "id": "celestial-l7", "name": "Vela Orbita", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_7.png" } },
-        { "number": 8, "name": "Nivel 8", "trainer": { "id": "celestial-l8", "name": "Kora Eclipse", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_8.png" } },
-        { "number": 9, "name": "Nivel 9", "trainer": { "id": "celestial-l9", "name": "Izan Supernova", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_9.png" } },
-        { "number": 10, "name": "Nivel 10", "trainer": { "id": "celestial-l10", "name": "Aion Arconte", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_10.png" } }
+        { "number": 1, "name": "Nivel 1", "trainer": { "id": "torneo-l1", "name": "Heracles", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_1.png" } },
+        { "number": 2, "name": "Nivel 2", "trainer": { "id": "torneo-l2", "name": "Yujiro Hanma", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_2.png" } },
+        { "number": 3, "name": "Nivel 3", "trainer": { "id": "torneo-l3", "name": "Shogun Raiden", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_3.png" } },
+        { "number": 4, "name": "Nivel 4", "trainer": { "id": "torneo-l4", "name": "Hawks", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_4.png" } },
+        { "number": 5, "name": "Nivel 5", "trainer": { "id": "torneo-l5", "name": "Satoru Gojo", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_5.png" } },
+        { "number": 6, "name": "Nivel 6", "trainer": { "id": "torneo-l6", "name": "Yami Sukehiro", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_6.png" } },
+        { "number": 7, "name": "Nivel 7", "trainer": { "id": "torneo-l7", "name": "King", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_7.png" } },
+        { "number": 8, "name": "Nivel 8", "trainer": { "id": "torneo-l8", "name": "Kokushibou", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_8.png" } },
+        { "number": 9, "name": "Nivel 9", "trainer": { "id": "torneo-l9", "name": "Metatton Neo", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_9.png" } },
+        { "number": 10, "name": "Nivel 10", "trainer": { "id": "torneo-l10", "name": "Konran", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_10.png" } }
+      ]
+    },
+    {
+      "id": "kumogakure",
+      "name": "Kumogakure",
+      "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/kumogakure.png",
+      "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
+      "levels": [
+        { "number": 1, "name": "Nivel 1", "trainer": { "id": "kumogakure-l1", "name": "Buer", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_1.png" } },
+        { "number": 2, "name": "Nivel 2", "trainer": { "id": "kumogakure-l2", "name": "Akane Ryuga", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_2.png" } },
+        { "number": 3, "name": "Nivel 3", "trainer": { "id": "kumogakure-l3", "name": "Beelzebub", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_3.png" } },
+        { "number": 4, "name": "Nivel 4", "trainer": { "id": "kumogakure-l4", "name": "Osore Rikudo", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_4.png" } },
+        { "number": 5, "name": "Nivel 5", "trainer": { "id": "kumogakure-l5", "name": "Shind Inazuma", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_5.png" } },
+        { "number": 6, "name": "Nivel 6", "trainer": { "id": "kumogakure-l6", "name": "Yuno Gasai", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_6.png" } },
+        { "number": 7, "name": "Nivel 7", "trainer": { "id": "kumogakure-l7", "name": "Mei Uzumaki", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_7.png" } },
+        { "number": 8, "name": "Nivel 8", "trainer": { "id": "kumogakure-l8", "name": "Hoshinori Itto", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_8.png" } },
+        { "number": 9, "name": "Nivel 9", "trainer": { "id": "kumogakure-l9", "name": "Mr. Kenny", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_9.png" } },
+        { "number": 10, "name": "Nivel 10", "trainer": { "id": "kumogakure-l10", "name": "Senrigan", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_10.png" } }
+      ]
+    },
+    {
+      "id": "amegakure_guerra",
+      "name": "Amegakure: Guerra Civil",
+      "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/amegakure_guerra.png",
+      "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
+      "levels": [
+        { "number": 1, "name": "Nivel 1", "trainer": { "id": "amegakureg-l1", "name": "Kai Senju", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_1.png" } },
+        { "number": 2, "name": "Nivel 2", "trainer": { "id": "amegakureg-l2", "name": "Iyari Ryuga", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_2.png" } },
+        { "number": 3, "name": "Nivel 3", "trainer": { "id": "amegakureg-l3", "name": "Ryuki", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_3.png" } },
+        { "number": 4, "name": "Nivel 4", "trainer": { "id": "amegakureg-l4", "name": "Kiri Uzumaki", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_4.png" } },
+        { "number": 5, "name": "Nivel 5", "trainer": { "id": "amegakureg-l5", "name": "Kamitami", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_5.png" } },
+        { "number": 6, "name": "Nivel 6", "trainer": { "id": "amegakureg-l6", "name": "Ayatocs", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_6.png" } },
+        { "number": 7, "name": "Nivel 7", "trainer": { "id": "amegakureg-l7", "name": "Daiki Senju", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_7.png" } },
+        { "number": 8, "name": "Nivel 8", "trainer": { "id": "amegakureg-l8", "name": "Manuel Hyuga", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_8.png" } },
+        { "number": 9, "name": "Nivel 9", "trainer": { "id": "amegakureg-l9", "name": "Kinan Hatake", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_9.png" } },
+        { "number": 10, "name": "Nivel 10", "trainer": { "id": "amegakureg-l10", "name": "Zack Ryuga", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_10.png" } }
+      ]
+    },
+    {
+      "id": "espacio",
+      "name": "Espacio Sideral: Fin del Universo",
+      "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/espacio.png",
+      "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
+      "levels": [
+        { "number": 1, "name": "Nivel 1", "trainer": { "id": "espacio-l1", "name": "Techno", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_1.png" } },
+        { "number": 2, "name": "Nivel 2", "trainer": { "id": "espacio-l2", "name": "Raiden Keitaro", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_2.png" } },
+        { "number": 3, "name": "Nivel 3", "trainer": { "id": "espacio-l3", "name": "Taiyo Uchiha", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_3.png" } },
+        { "number": 4, "name": "Nivel 4", "trainer": { "id": "espacio-l4", "name": "Konran", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_4.png" } },
+        { "number": 5, "name": "Nivel 5", "trainer": { "id": "espacio-l5", "name": "Senrigan", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_5.png" } },
+        { "number": 6, "name": "Nivel 6", "trainer": { "id": "espacio-l6", "name": "Merlín", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_6.png" } },
+        { "number": 7, "name": "Nivel 7", "trainer": { "id": "espacio-l7", "name": "Benkei Uchiha", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_7.png" } },
+        { "number": 8, "name": "Nivel 8", "trainer": { "id": "espacio-l8", "name": "Haseo Otsutsuki", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_8.png" } },
+        { "number": 9, "name": "Nivel 9", "trainer": { "id": "espacio-l9", "name": "Shi", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_9.png" } },
+        { "number": 10, "name": "Nivel 10", "trainer": { "id": "espacio-l10", "name": "Soac", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_10.png" } }
       ]
     }
   ]
