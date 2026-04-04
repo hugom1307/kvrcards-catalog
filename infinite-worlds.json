@@ -26,44 +26,44 @@
       ]
     },
     {
-      "id": "storm-islands",
-      "name": "Arco Islas Tormenta",
-      "arcImage": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/arcs/storm.jpg",
+      "id": "torneo_haseo",
+      "name": "Torneo de Haseo",
+      "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/torneo_haseo.png",
       "fallback": "linear-gradient(135deg, #111827, #0ea5e9)",
       "levels": [
-        { "number": 1, "name": "Nivel 1", "trainer": { "id": "storm-l1", "name": "Nox Marino", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/storm_1.png" } },
-        { "number": 2, "name": "Nivel 2", "trainer": { "id": "storm-l2", "name": "Taro Espuma", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/storm_2.png" } },
-        { "number": 3, "name": "Nivel 3", "trainer": { "id": "storm-l3", "name": "Mira Brisa", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/storm_3.png" } },
-        { "number": 4, "name": "Nivel 4", "trainer": { "id": "storm-l4", "name": "Kron Tempestad", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/storm_4.png" } },
-        { "number": 5, "name": "Nivel 5", "trainer": { "id": "storm-l5", "name": "Eira Oleaje", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/storm_5.png" } },
-        { "number": 6, "name": "Nivel 6", "trainer": { "id": "storm-l6", "name": "Rok Ancla", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/storm_6.png" } },
-        { "number": 7, "name": "Nivel 7", "trainer": { "id": "storm-l7", "name": "Vera Niebla", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/storm_7.png" } },
-        { "number": 8, "name": "Nivel 8", "trainer": { "id": "storm-l8", "name": "Dane Trueno", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/storm_8.png" } },
-        { "number": 9, "name": "Nivel 9", "trainer": { "id": "storm-l9", "name": "Lyra Monzon", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/storm_9.png" } },
-        { "number": 10, "name": "Nivel 10", "trainer": { "id": "storm-l10", "name": "Orion Leviatan", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/storm_10.png" } }
+        { "number": 1, "name": "Nivel 1", "trainer": { "id": "haseo-l1", "name": "Daren Hyuga", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/storm_1.png" } },
+        { "number": 2, "name": "Nivel 2", "trainer": { "id": "haseo-l2", "name": "Saiten Otsutsuki", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/storm_2.png" } },
+        { "number": 3, "name": "Nivel 3", "trainer": { "id": "haseo-l3", "name": "Rinto (2º Administrador)", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/storm_3.png" } },
+        { "number": 4, "name": "Nivel 4", "trainer": { "id": "haseo-l4", "name": "Nyusha Otsutsuki", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/storm_4.png" } },
+        { "number": 5, "name": "Nivel 5", "trainer": { "id": "haseo-l5", "name": "Peyan Uzumaki", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/storm_5.png" } },
+        { "number": 6, "name": "Nivel 6", "trainer": { "id": "haseo-l6", "name": "Joku (4º Administrador)", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/storm_6.png" } },
+        { "number": 7, "name": "Nivel 7", "trainer": { "id": "haseo-l7", "name": "Ayari Hyuga", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/storm_7.png" } },
+        { "number": 8, "name": "Nivel 8", "trainer": { "id": "haseo-l8", "name": "Yuhiro (5º Administrador)", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/storm_8.png" } },
+        { "number": 9, "name": "Nivel 9", "trainer": { "id": "haseo-l9", "name": "Kento Rikudo", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/storm_9.png" } },
+        { "number": 10, "name": "Nivel 10", "trainer": { "id": "haseo-l10", "name": "Haseo Otsutsuki", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/storm_10.png" } }
       ]
     },
     {
-      "id": "crimson-kingdom",
-      "name": "Arco Reino Carmesi",
-      "arcImage": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/arcs/crimson.jpg",
+      "id": "kazegakure",
+      "name": "Kazegakure",
+      "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/kazegakure.png",
       "fallback": "linear-gradient(135deg, #1f2937, #b91c1c)",
       "levels": [
-        { "number": 1, "name": "Nivel 1", "trainer": { "id": "crimson-l1", "name": "Ares Escarlata", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/crimson_1.png" } },
-        { "number": 2, "name": "Nivel 2", "trainer": { "id": "crimson-l2", "name": "Selene Rubi", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/crimson_2.png" } },
-        { "number": 3, "name": "Nivel 3", "trainer": { "id": "crimson-l3", "name": "Boros Furia", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/crimson_3.png" } },
-        { "number": 4, "name": "Nivel 4", "trainer": { "id": "crimson-l4", "name": "Nyla Sangre", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/crimson_4.png" } },
-        { "number": 5, "name": "Nivel 5", "trainer": { "id": "crimson-l5", "name": "Kain Ceniza", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/crimson_5.png" } },
-        { "number": 6, "name": "Nivel 6", "trainer": { "id": "crimson-l6", "name": "Eris Espina", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/crimson_6.png" } },
-        { "number": 7, "name": "Nivel 7", "trainer": { "id": "crimson-l7", "name": "Drako Obsidiana", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/crimson_7.png" } },
-        { "number": 8, "name": "Nivel 8", "trainer": { "id": "crimson-l8", "name": "Iris Velo", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/crimson_8.png" } },
-        { "number": 9, "name": "Nivel 9", "trainer": { "id": "crimson-l9", "name": "Thorn Tempano", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/crimson_9.png" } },
-        { "number": 10, "name": "Nivel 10", "trainer": { "id": "crimson-l10", "name": "Valkor Soberano", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/crimson_10.png" } }
+        { "number": 1, "name": "Nivel 1", "trainer": { "id": "kazegakure-l1", "name": "Raiden Senjuro", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/crimson_1.png" } },
+        { "number": 2, "name": "Nivel 2", "trainer": { "id": "kazegakure-l2", "name": "Daruma Kenjiku", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/crimson_2.png" } },
+        { "number": 3, "name": "Nivel 3", "trainer": { "id": "kazegakure-l3", "name": "Hoshinori Itto", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/crimson_3.png" } },
+        { "number": 4, "name": "Nivel 4", "trainer": { "id": "kazegakure-l4", "name": "Manuel Hyuga", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/crimson_4.png" } },
+        { "number": 5, "name": "Nivel 5", "trainer": { "id": "kazegakure-l5", "name": "Rura", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/crimson_5.png" } },
+        { "number": 6, "name": "Nivel 6", "trainer": { "id": "kazegakure-l6", "name": "Shind Inazuma", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/crimson_6.png" } },
+        { "number": 7, "name": "Nivel 7", "trainer": { "id": "kazegakure-l7", "name": "Zagren Senju", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/crimson_7.png" } },
+        { "number": 8, "name": "Nivel 8", "trainer": { "id": "kazegakure-l8", "name": "Raiden Keitaro", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/crimson_8.png" } },
+        { "number": 9, "name": "Nivel 9", "trainer": { "id": "kazegakure-l9", "name": "Taiyo Uchiha", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/crimson_9.png" } },
+        { "number": 10, "name": "Nivel 10", "trainer": { "id": "crimson-l10", "name": "Iyari Ryuga", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/crimson_10.png" } }
       ]
     },
     {
-      "id": "celestial-temple",
-      "name": "Arco Templo Celestial",
+      "id": "torneo-multiversal",
+      "name": "Torneo Multiversal",
       "arcImage": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/arcs/celestial.jpg",
       "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
       "levels": [
