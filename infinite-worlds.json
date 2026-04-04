@@ -2,9 +2,9 @@
   "version": 3,
   "worldOrder": [
     "konohagakure_academia",
-    "storm-islands",
-    "crimson-kingdom",
-    "celestial-temple"
+    "torneo_haseo",
+    "kazegakure",
+    "torneo_multiversal"
   ],
   "worlds": [
     {
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "id": "torneo-multiversal",
+      "id": "torneo_multiversal",
       "name": "Torneo Multiversal",
       "arcImage": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/arcs/celestial.jpg",
       "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
