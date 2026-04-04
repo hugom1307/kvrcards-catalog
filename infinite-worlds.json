@@ -1,17 +1,17 @@
 {
   "version": 2,
   "worldOrder": [
-    "initial-city",
+    "konohagakure_academia",
     "storm-islands",
     "crimson-kingdom",
     "celestial-temple"
   ],
   "worlds": [
     {
-      "id": "initial-city",
+      "id": "konohagakure_academia",
       "name": "Konohagakure: Academia",
-      "arcImage": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/arcs/city.jpg",
-      "fallback": "linear-gradient(135deg, #0f172a, #1d4ed8)",
+      "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/academia.png",
+      "fallback": "linear-gradient(135deg, #0dff92, #70ff63)",
       "levels": [
         { "number": 1, "name": "Nivel 1", "trainer": { "id": "academia-l1", "name": "Venti Nara", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_1.png" } },
         { "number": 2, "name": "Nivel 2", "trainer": { "id": "academia-l2", "name": "Zagren Senju", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_2.png" } },
