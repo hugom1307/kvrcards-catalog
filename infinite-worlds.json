@@ -9,20 +9,20 @@
   "worlds": [
     {
       "id": "initial-city",
-      "name": "Arco Ciudad Inicial",
+      "name": "Konohagakure: Academia",
       "arcImage": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/arcs/city.jpg",
       "fallback": "linear-gradient(135deg, #0f172a, #1d4ed8)",
       "levels": [
-        { "number": 1, "name": "Nivel 1", "trainer": { "id": "city-l1", "name": "Kai Vigilante", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_1.png" } },
-        { "number": 2, "name": "Nivel 2", "trainer": { "id": "city-l2", "name": "Rin Tactico", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_2.png" } },
-        { "number": 3, "name": "Nivel 3", "trainer": { "id": "city-l3", "name": "Mika Sombra", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_3.png" } },
-        { "number": 4, "name": "Nivel 4", "trainer": { "id": "city-l4", "name": "Zed Relampago", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_4.png" } },
-        { "number": 5, "name": "Nivel 5", "trainer": { "id": "city-l5", "name": "Luna Centella", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_5.png" } },
-        { "number": 6, "name": "Nivel 6", "trainer": { "id": "city-l6", "name": "Bran Acero", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_6.png" } },
-        { "number": 7, "name": "Nivel 7", "trainer": { "id": "city-l7", "name": "Nia Hiedra", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_7.png" } },
-        { "number": 8, "name": "Nivel 8", "trainer": { "id": "city-l8", "name": "Drex Vortice", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_8.png" } },
-        { "number": 9, "name": "Nivel 9", "trainer": { "id": "city-l9", "name": "Yara Eclipse", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_9.png" } },
-        { "number": 10, "name": "Nivel 10", "trainer": { "id": "city-l10", "name": "Atlas Comandante", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_10.png" } }
+        { "number": 1, "name": "Nivel 1", "trainer": { "id": "academia-l1", "name": "Venti Nara", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_1.png" } },
+        { "number": 2, "name": "Nivel 2", "trainer": { "id": "academia-l2", "name": "Zagren Senju", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_2.png" } },
+        { "number": 3, "name": "Nivel 3", "trainer": { "id": "academia-l3", "name": "Kai Senju", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_3.png" } },
+        { "number": 4, "name": "Nivel 4", "trainer": { "id": "academia-l4", "name": "Benkei Uchiha", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_4.png" } },
+        { "number": 5, "name": "Nivel 5", "trainer": { "id": "academia-l5", "name": "Sakura Nara", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_5.png" } },
+        { "number": 6, "name": "Nivel 6", "trainer": { "id": "academia-l6", "name": "Shin Uzumaki", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_6.png" } },
+        { "number": 7, "name": "Nivel 7", "trainer": { "id": "academia-l7", "name": "Peyan Uzumaki", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_7.png" } },
+        { "number": 8, "name": "Nivel 8", "trainer": { "id": "academia-l8", "name": "Joshira Uzumaki", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_8.png" } },
+        { "number": 9, "name": "Nivel 9", "trainer": { "id": "academia-l9", "name": "Inui Uzumaki", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_9.png" } },
+        { "number": 10, "name": "Nivel 10", "trainer": { "id": "academia-l10", "name": "Haji Senju", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/city_10.png" } }
       ]
     },
     {
