@@ -133,5 +133,23 @@
         { "number": 10, "name": "Nivel 10", "trainer": { "id": "espacio-l10", "name": "Soac", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_10.png" } }
       ]
     }
+    {
+      "id": "techlin",
+      "name": "Konohagakure: Techlin",
+      "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/techlin.png",
+      "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
+      "levels": [
+        { "number": 1, "name": "Nivel 1", "trainer": { "id": "techlin-l1", "name": "Aya", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_1.png" } },
+        { "number": 2, "name": "Nivel 2", "trainer": { "id": "techlin-l2", "name": "Kurai Tenro", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_2.png" } },
+        { "number": 3, "name": "Nivel 3", "trainer": { "id": "techlin-l3", "name": "Miguel Carmona", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_3.png" } },
+        { "number": 4, "name": "Nivel 4", "trainer": { "id": "techlin-l4", "name": "Himitsu", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_4.png" } },
+        { "number": 5, "name": "Nivel 5", "trainer": { "id": "techlin-l5", "name": "Techno", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_5.png" } },
+        { "number": 6, "name": "Nivel 6", "trainer": { "id": "techlin-l6", "name": "Merlín", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_6.png" } },
+        { "number": 7, "name": "Nivel 7", "trainer": { "id": "techlin-l7", "name": "Hangaku", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_7.png" } },
+        { "number": 8, "name": "Nivel 8", "trainer": { "id": "techlin-l8", "name": "Haji Senju", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_8.png" } },
+        { "number": 9, "name": "Nivel 9", "trainer": { "id": "techlin-l9", "name": "Sukui Uzumaki", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_9.png" } },
+        { "number": 10, "name": "Nivel 10", "trainer": { "id": "techlin-l10", "name": "Merlín", "image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/infinite/trainers/celestial_10.png" } }
+      ]
+    }
   ]
 }
