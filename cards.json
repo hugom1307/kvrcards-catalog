@@ -339,5 +339,137 @@
     "valor": 500,
     "procedencia": "Mundo Subterráneo",
     "owner": "TaiyoDL"
+  },
+  {
+    "id": "0011",
+    "name": "0011 (Yumeno Watanabe)",
+    "stats": [82, 70, 71, 83, 77, 70],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/0011.png",
+    "media": 76,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Desconocido",
+    "owner": "TaiyoDL"
+  },
+  {
+    "id": "eolo_uzumaki",
+    "name": "Eolo Uzumaki",
+    "stats": [92, 88, 84, 85, 88, 90],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/eolo.png",
+    "media": 88,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Desconocido",
+    "owner": "Juanjovc_20"
+  },
+  {
+    "id": "kirio_tsume",
+    "name": "Kirio Tsume",
+    "stats": [60, 65, 64, 69, 60, 61],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kirio.png",
+    "media": 64,
+    "calidad": "Bronce",
+    "valor": 100,
+    "procedencia": "Desconocido",
+    "owner": "HugoMan1307"
+  },
+  {
+    "id": "suko_tsume",
+    "name": "Suko Tsume",
+    "stats": [87, 77, 80, 82, 84, 79],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/suko.png",
+    "media": 83,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Utrera",
+    "owner": "TaiyoDL"
+  },
+  {
+    "id": "koro_tsume",
+    "name": "Koro Tsume",
+    "stats": [72, 89, 82, 85, 81, 83],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/koro.png",
+    "media": 83,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Utrera",
+    "owner": "HugoMan1307"
+  },
+  {
+    "id": "seikatsu",
+    "name": "Seikatsu",
+    "stats": [74, 72, 60, 73, 64, 80],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/seikatsu.png",
+    "media": 70,
+    "calidad": "Plata",
+    "valor": 500,
+    "procedencia": "Gokei",
+    "owner": "HugoMan1307"
+  },
+  {
+    "id": "aya",
+    "name": "Aya",
+    "stats": [77, 78, 83, 74, 80, 79],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/aya.png",
+    "media": 79,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Iwagakure",
+    "owner": "Wailant"
+  },
+  {
+    "id": "hono_seizon",
+    "name": "Hono Seizon",
+    "stats": [88, 79, 75, 85, 80, 80],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/hono.png",
+    "media": 83,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Jinushi",
+    "owner": "HugoMan1307"
+  },
+  {
+    "id": "neo_baria",
+    "name": "Neo Baria",
+    "stats": [85, 76, 85, 79, 90, 76],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/neo.png",
+    "media": 84,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Jinushi",
+    "owner": "TaiyoDL"
+  },
+  {
+    "id": "terepo_noso",
+    "name": "Terepo Noso",
+    "stats": [85, 75, 80, 83, 76, 79],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/terepo.png",
+    "media": 82,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Jinushi",
+    "owner": "HugoMan1307"
+  },
+  {
+    "id": "hanta_kosori",
+    "name": "Hanta Kosori",
+    "stats": [71, 66, 70, 64, 67, 72],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/hanta.png",
+    "media": 67,
+    "calidad": "Plata",
+    "valor": 500,
+    "procedencia": "Kizoku",
+    "owner": "HugoMan1307"
+  },
+  {
+    "id": "leonardo_martinez",
+    "name": "Leonardo Martínez",
+    "stats": [50, 61, 55, 62, 58, 55],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/leonardo.png",
+    "media": 59,
+    "calidad": "Bronce",
+    "valor": 100,
+    "procedencia": "Hispalis",
+    "owner": "HugoMan1307"
   }
 ]
