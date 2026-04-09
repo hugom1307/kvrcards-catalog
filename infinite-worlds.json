@@ -38,16 +38,16 @@
       "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/torneo_haseo.png",
       "fallback": "linear-gradient(135deg, #111827, #0ea5e9)",
       "levels": [
-        { "number": 1, "name": "Nivel 1", "trainer": { "id": "haseo-l1", "name": "Daren Hyuga", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 2, "name": "Nivel 2", "trainer": { "id": "haseo-l2", "name": "Saiten Otsutsuki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 3, "name": "Nivel 3", "trainer": { "id": "haseo-l3", "name": "Rinto (2º Administrador)", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 4, "name": "Nivel 4", "trainer": { "id": "haseo-l4", "name": "Nyusha Otsutsuki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
+        { "number": 1, "name": "Nivel 1", "trainer": { "id": "haseo-l1", "name": "Daren Hyuga", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/daren.png" } },
+        { "number": 2, "name": "Nivel 2", "trainer": { "id": "haseo-l2", "name": "Saiten Otsutsuki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/saiten.png" } },
+        { "number": 3, "name": "Nivel 3", "trainer": { "id": "haseo-l3", "name": "Rinto (2º Administrador)", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/rinto.png" } },
+        { "number": 4, "name": "Nivel 4", "trainer": { "id": "haseo-l4", "name": "Nyusha Otsutsuki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/nyusha.png" } },
         { "number": 5, "name": "Nivel 5", "trainer": { "id": "haseo-l5", "name": "Peyan Uzumaki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 6, "name": "Nivel 6", "trainer": { "id": "haseo-l6", "name": "Joku (4º Administrador)", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
+        { "number": 6, "name": "Nivel 6", "trainer": { "id": "haseo-l6", "name": "Joku (4º Administrador)", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/joku.png" } },
         { "number": 7, "name": "Nivel 7", "trainer": { "id": "haseo-l7", "name": "Ayari Hyuga", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 8, "name": "Nivel 8", "trainer": { "id": "haseo-l8", "name": "Yuhiro (5º Administrador)", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 9, "name": "Nivel 9", "trainer": { "id": "haseo-l9", "name": "Kento Rikudo", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 10, "name": "Nivel 10", "trainer": { "id": "haseo-l10", "name": "Haseo Otsutsuki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } }
+        { "number": 8, "name": "Nivel 8", "trainer": { "id": "haseo-l8", "name": "Yuhiro (5º Administrador)", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/yuhiro.png" } },
+        { "number": 9, "name": "Nivel 9", "trainer": { "id": "haseo-l9", "name": "Kento Rikudo", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/kentoniño.png" } },
+        { "number": 10, "name": "Nivel 10", "trainer": { "id": "haseo-l10", "name": "Haseo Otsutsuki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/haseo.png" } }
       ]
     },
     {
@@ -56,15 +56,15 @@
       "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/kazegakure.png",
       "fallback": "linear-gradient(135deg, #1f2937, #b91c1c)",
       "levels": [
-        { "number": 1, "name": "Nivel 1", "trainer": { "id": "kazegakure-l1", "name": "Raiden Senjuro", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 2, "name": "Nivel 2", "trainer": { "id": "kazegakure-l2", "name": "Daruma Kenjiku", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 3, "name": "Nivel 3", "trainer": { "id": "kazegakure-l3", "name": "Hoshinori Itto", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
+        { "number": 1, "name": "Nivel 1", "trainer": { "id": "kazegakure-l1", "name": "Raiden Senjuro", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/senjuro.png" } },
+        { "number": 2, "name": "Nivel 2", "trainer": { "id": "kazegakure-l2", "name": "Daruma Kenjiku", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/daruma.png" } },
+        { "number": 3, "name": "Nivel 3", "trainer": { "id": "kazegakure-l3", "name": "Hoshinori Itto", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/itto.png" } },
         { "number": 4, "name": "Nivel 4", "trainer": { "id": "kazegakure-l4", "name": "Manuel Hyuga", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 5, "name": "Nivel 5", "trainer": { "id": "kazegakure-l5", "name": "Rura", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 6, "name": "Nivel 6", "trainer": { "id": "kazegakure-l6", "name": "Shind Inazuma", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
+        { "number": 5, "name": "Nivel 5", "trainer": { "id": "kazegakure-l5", "name": "Rura", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/rura.png" } },
+        { "number": 6, "name": "Nivel 6", "trainer": { "id": "kazegakure-l6", "name": "Shind Inazuma", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/shind.png" } },
         { "number": 7, "name": "Nivel 7", "trainer": { "id": "kazegakure-l7", "name": "Zagren Senju", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 8, "name": "Nivel 8", "trainer": { "id": "kazegakure-l8", "name": "Raiden Keitaro", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 9, "name": "Nivel 9", "trainer": { "id": "kazegakure-l9", "name": "Taiyo Uchiha", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
+        { "number": 8, "name": "Nivel 8", "trainer": { "id": "kazegakure-l8", "name": "Raiden Keitaro", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/keitaro.png" } },
+        { "number": 9, "name": "Nivel 9", "trainer": { "id": "kazegakure-l9", "name": "Taiyo Uchiha", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/taiyo.png" } },
         { "number": 10, "name": "Nivel 10", "trainer": { "id": "crimson-l10", "name": "Iyari Ryuga", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } }
       ]
     },
@@ -74,16 +74,16 @@
       "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/torneo_multiversal.png",
       "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
       "levels": [
-        { "number": 1, "name": "Nivel 1", "trainer": { "id": "torneo-l1", "name": "Heracles", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 2, "name": "Nivel 2", "trainer": { "id": "torneo-l2", "name": "Yujiro Hanma", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 3, "name": "Nivel 3", "trainer": { "id": "torneo-l3", "name": "Shogun Raiden", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 4, "name": "Nivel 4", "trainer": { "id": "torneo-l4", "name": "Hawks", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 5, "name": "Nivel 5", "trainer": { "id": "torneo-l5", "name": "Satoru Gojo", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 6, "name": "Nivel 6", "trainer": { "id": "torneo-l6", "name": "Yami Sukehiro", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 7, "name": "Nivel 7", "trainer": { "id": "torneo-l7", "name": "King", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 8, "name": "Nivel 8", "trainer": { "id": "torneo-l8", "name": "Kokushibou", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 9, "name": "Nivel 9", "trainer": { "id": "torneo-l9", "name": "Metatton Neo", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 10, "name": "Nivel 10", "trainer": { "id": "torneo-l10", "name": "Konran", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } }
+        { "number": 1, "name": "Nivel 1", "trainer": { "id": "torneo-l1", "name": "Heracles", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/heracles.png" } },
+        { "number": 2, "name": "Nivel 2", "trainer": { "id": "torneo-l2", "name": "Yujiro Hanma", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/yujiro.png" } },
+        { "number": 3, "name": "Nivel 3", "trainer": { "id": "torneo-l3", "name": "Shogun Raiden", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/shogun.png" } },
+        { "number": 4, "name": "Nivel 4", "trainer": { "id": "torneo-l4", "name": "Hawks", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/hawks.png" } },
+        { "number": 5, "name": "Nivel 5", "trainer": { "id": "torneo-l5", "name": "Satoru Gojo", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/gojo.png" } },
+        { "number": 6, "name": "Nivel 6", "trainer": { "id": "torneo-l6", "name": "Yami Sukehiro", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/yami.png" } },
+        { "number": 7, "name": "Nivel 7", "trainer": { "id": "torneo-l7", "name": "Harlequin", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/harlequin.png" } },
+        { "number": 8, "name": "Nivel 8", "trainer": { "id": "torneo-l8", "name": "Kokushibou", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/kokushibo.png" } },
+        { "number": 9, "name": "Nivel 9", "trainer": { "id": "torneo-l9", "name": "Metatton Neo", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/mettaton.png" } },
+        { "number": 10, "name": "Nivel 10", "trainer": { "id": "torneo-l10", "name": "Konran", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/konran.png" } }
       ]
     },
     {
@@ -92,16 +92,16 @@
       "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/kumogakure.png",
       "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
       "levels": [
-        { "number": 1, "name": "Nivel 1", "trainer": { "id": "kumogakure-l1", "name": "Buer", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 2, "name": "Nivel 2", "trainer": { "id": "kumogakure-l2", "name": "Akane Ryuga", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 3, "name": "Nivel 3", "trainer": { "id": "kumogakure-l3", "name": "Beelzebub", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 4, "name": "Nivel 4", "trainer": { "id": "kumogakure-l4", "name": "Osore Rikudo", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 5, "name": "Nivel 5", "trainer": { "id": "kumogakure-l5", "name": "Shind Inazuma", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
+        { "number": 1, "name": "Nivel 1", "trainer": { "id": "kumogakure-l1", "name": "Buer", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/buer.png" } },
+        { "number": 2, "name": "Nivel 2", "trainer": { "id": "kumogakure-l2", "name": "Akane Ryuga", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/akane.png" } },
+        { "number": 3, "name": "Nivel 3", "trainer": { "id": "kumogakure-l3", "name": "Beelzebub", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/beelzebub.png" } },
+        { "number": 4, "name": "Nivel 4", "trainer": { "id": "kumogakure-l4", "name": "Osore Rikudo", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/osore.png" } },
+        { "number": 5, "name": "Nivel 5", "trainer": { "id": "kumogakure-l5", "name": "Shind Inazuma", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/shind.png" } },
         { "number": 6, "name": "Nivel 6", "trainer": { "id": "kumogakure-l6", "name": "Yuno Gasai", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 7, "name": "Nivel 7", "trainer": { "id": "kumogakure-l7", "name": "Mei Uzumaki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 8, "name": "Nivel 8", "trainer": { "id": "kumogakure-l8", "name": "Hoshinori Itto", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 9, "name": "Nivel 9", "trainer": { "id": "kumogakure-l9", "name": "Mr. Kenny", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 10, "name": "Nivel 10", "trainer": { "id": "kumogakure-l10", "name": "Senrigan", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } }
+        { "number": 7, "name": "Nivel 7", "trainer": { "id": "kumogakure-l7", "name": "Mei Uzumaki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/mei.png" } },
+        { "number": 8, "name": "Nivel 8", "trainer": { "id": "kumogakure-l8", "name": "Hoshinori Itto", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/itto.png" } },
+        { "number": 9, "name": "Nivel 9", "trainer": { "id": "kumogakure-l9", "name": "Mr. Kenny", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/mrkenny.png" } },
+        { "number": 10, "name": "Nivel 10", "trainer": { "id": "kumogakure-l10", "name": "Senrigan", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/senrigan.png" } }
       ]
     },
     {
@@ -110,16 +110,16 @@
       "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/amegakure_guerra.png",
       "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
       "levels": [
-        { "number": 1, "name": "Nivel 1", "trainer": { "id": "amegakureg-l1", "name": "Kai Senju", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
+        { "number": 1, "name": "Nivel 1", "trainer": { "id": "amegakureg-l1", "name": "Kai Senju", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/kai.png" } },
         { "number": 2, "name": "Nivel 2", "trainer": { "id": "amegakureg-l2", "name": "Iyari Ryuga", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 3, "name": "Nivel 3", "trainer": { "id": "amegakureg-l3", "name": "Ryuki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
+        { "number": 3, "name": "Nivel 3", "trainer": { "id": "amegakureg-l3", "name": "Ryuki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/ryuki.png" } },
         { "number": 4, "name": "Nivel 4", "trainer": { "id": "amegakureg-l4", "name": "Kiri Uzumaki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 5, "name": "Nivel 5", "trainer": { "id": "amegakureg-l5", "name": "Kamitami", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 6, "name": "Nivel 6", "trainer": { "id": "amegakureg-l6", "name": "Ayatocs", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
+        { "number": 5, "name": "Nivel 5", "trainer": { "id": "amegakureg-l5", "name": "Kamitami", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/kamitami.png" } },
+        { "number": 6, "name": "Nivel 6", "trainer": { "id": "amegakureg-l6", "name": "Ayatocs", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/ayatocs.png" } },
         { "number": 7, "name": "Nivel 7", "trainer": { "id": "amegakureg-l7", "name": "Daiki Senju", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
         { "number": 8, "name": "Nivel 8", "trainer": { "id": "amegakureg-l8", "name": "Manuel Hyuga", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
         { "number": 9, "name": "Nivel 9", "trainer": { "id": "amegakureg-l9", "name": "Kinan Hatake", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 10, "name": "Nivel 10", "trainer": { "id": "amegakureg-l10", "name": "Zack Ryuga", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } }
+        { "number": 10, "name": "Nivel 10", "trainer": { "id": "amegakureg-l10", "name": "Zack Ryuga", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/zack.png" } }
       ]
     },
     {
@@ -129,13 +129,13 @@
       "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
       "levels": [
         { "number": 1, "name": "Nivel 1", "trainer": { "id": "espacio-l1", "name": "Techno", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 2, "name": "Nivel 2", "trainer": { "id": "espacio-l2", "name": "Raiden Keitaro", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 3, "name": "Nivel 3", "trainer": { "id": "espacio-l3", "name": "Taiyo Uchiha", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 4, "name": "Nivel 4", "trainer": { "id": "espacio-l4", "name": "Konran", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 5, "name": "Nivel 5", "trainer": { "id": "espacio-l5", "name": "Senrigan", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
+        { "number": 2, "name": "Nivel 2", "trainer": { "id": "espacio-l2", "name": "Raiden Keitaro", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/keitaro.png" } },
+        { "number": 3, "name": "Nivel 3", "trainer": { "id": "espacio-l3", "name": "Taiyo Uchiha", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/taiyo.png" } },
+        { "number": 4, "name": "Nivel 4", "trainer": { "id": "espacio-l4", "name": "Konran", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/konran.png" } },
+        { "number": 5, "name": "Nivel 5", "trainer": { "id": "espacio-l5", "name": "Senrigan", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/senrigan.png" } },
         { "number": 6, "name": "Nivel 6", "trainer": { "id": "espacio-l6", "name": "Merlín", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
         { "number": 7, "name": "Nivel 7", "trainer": { "id": "espacio-l7", "name": "Benkei Uchiha", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 8, "name": "Nivel 8", "trainer": { "id": "espacio-l8", "name": "Haseo Otsutsuki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
+        { "number": 8, "name": "Nivel 8", "trainer": { "id": "espacio-l8", "name": "Haseo Otsutsuki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/haseo.png" } },
         { "number": 9, "name": "Nivel 9", "trainer": { "id": "espacio-l9", "name": "Shi", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
         { "number": 10, "name": "Nivel 10", "trainer": { "id": "espacio-l10", "name": "Soac", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } }
       ]
@@ -164,16 +164,16 @@
       "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/laboratorio.png",
       "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
       "levels": [
-        { "number": 1, "name": "Nivel 1", "trainer": { "id": "laboratorio-l1", "name": "Don González", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 2, "name": "Nivel 2", "trainer": { "id": "laboratorio-l2", "name": "Tekina", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 3, "name": "Nivel 3", "trainer": { "id": "laboratorio-l3", "name": "Doriyoku Boku", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 4, "name": "Nivel 4", "trainer": { "id": "laboratorio-l4", "name": "Kento Rikudo", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 5, "name": "Nivel 5", "trainer": { "id": "laboratorio-l5", "name": "José Carmona", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 6, "name": "Nivel 6", "trainer": { "id": "laboratorio-l6", "name": "Roy Ikari", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 7, "name": "Nivel 7", "trainer": { "id": "laboratorio-l7", "name": "Yumeno Watanabe", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 8, "name": "Nivel 8", "trainer": { "id": "laboratorio-l8", "name": "Manuel Carmona", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 9, "name": "Nivel 9", "trainer": { "id": "laboratorio-l9", "name": "Kaoru Noroi", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 10, "name": "Nivel 10", "trainer": { "id": "laboratorio-l10", "name": "Shukoku Noroi", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } }
+        { "number": 1, "name": "Nivel 1", "trainer": { "id": "laboratorio-l1", "name": "Don González", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/dongonzalez.png" } },
+        { "number": 2, "name": "Nivel 2", "trainer": { "id": "laboratorio-l2", "name": "Tekina", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/tekina.png" } },
+        { "number": 3, "name": "Nivel 3", "trainer": { "id": "laboratorio-l3", "name": "Doriyoku Boku", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/doriyoku.png" } },
+        { "number": 4, "name": "Nivel 4", "trainer": { "id": "laboratorio-l4", "name": "Kento Rikudo", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/kento.png" } },
+        { "number": 5, "name": "Nivel 5", "trainer": { "id": "laboratorio-l5", "name": "José Carmona", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/jose.png" } },
+        { "number": 6, "name": "Nivel 6", "trainer": { "id": "laboratorio-l6", "name": "Roy Ikari", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/roy.png" } },
+        { "number": 7, "name": "Nivel 7", "trainer": { "id": "laboratorio-l7", "name": "0011", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/0011.png" } },
+        { "number": 8, "name": "Nivel 8", "trainer": { "id": "laboratorio-l8", "name": "Manuel Carmona", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/manuelcarmona.png" } },
+        { "number": 9, "name": "Nivel 9", "trainer": { "id": "laboratorio-l9", "name": "Kaoru Noroi", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/kaoru.png" } },
+        { "number": 10, "name": "Nivel 10", "trainer": { "id": "laboratorio-l10", "name": "Shukoku Noroi", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/shukoku.png" } }
       ]
     },
     {
@@ -208,8 +208,8 @@
         { "number": 6, "name": "Nivel 6", "trainer": { "id": "guerradanzas-l6", "name": "Betocs Hatake", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
         { "number": 7, "name": "Nivel 7", "trainer": { "id": "guerradanzas-l7", "name": "Hikaru Uzumaki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
         { "number": 8, "name": "Nivel 8", "trainer": { "id": "guerradanzas-l8", "name": "Yokubo", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 9, "name": "Nivel 9", "trainer": { "id": "guerradanzas-l9", "name": "Ryuki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 10, "name": "Nivel 10", "trainer": { "id": "guerradanzas-l10", "name": "Rura", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } }
+        { "number": 9, "name": "Nivel 9", "trainer": { "id": "guerradanzas-l9", "name": "Ryuki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/ryuki.png" } },
+        { "number": 10, "name": "Nivel 10", "trainer": { "id": "guerradanzas-l10", "name": "Rura", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/rura.png" } }
       ]
     }
   ]
