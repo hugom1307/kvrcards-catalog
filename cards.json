@@ -471,5 +471,181 @@
     "valor": 100,
     "procedencia": "Hispalis",
     "owner": "HugoMan1307"
+  },
+  {
+    "id": "josefina_de_la_rosa",
+    "name": "Josefina De La Rosa",
+    "stats": [40, 50, 46, 50, 49, 48],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/josefina.png",
+    "media": 48,
+    "calidad": "Bronce",
+    "valor": 100,
+    "procedencia": "Hispalis",
+    "owner": "HugoMan1307"
+  },
+  {
+    "id": "abdul_al-nassr",
+    "name": "Abdul Al-Nassr",
+    "stats": [60, 74, 70, 68, 73, 74],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/abdul.png",
+    "media": 70,
+    "calidad": "Plata",
+    "valor": 500,
+    "procedencia": "Hispalis",
+    "owner": "HugoMan1307"
+  },
+  {
+    "id": "ali_hassan",
+    "name": "Ali Hassan",
+    "stats": [70, 76, 70, 71, 69, 75],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ali.png",
+    "media": 73,
+    "calidad": "Plata",
+    "valor": 500,
+    "procedencia": "Hispalis",
+    "owner": "HugoMan1307"
+  },
+  {
+    "id": "shinko",
+    "name": "Shinko",
+    "stats": [87, 83, 76, 80, 80, 73],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/shinko.png",
+    "media": 82,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Jinushi",
+    "owner": "HugoMan1307"
+  },
+  {
+    "id": "horacio_cuellar",
+    "name": "Horacio Cuéllar",
+    "stats": [70, 81, 75, 73, 74, 82],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/horacio.png",
+    "media": 77,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Hispania",
+    "owner": "HugoMan1307"
+  },
+  {
+    "id": "maria_pineda",
+    "name": "María Pineda",
+    "stats": [73, 65, 70, 75, 67, 76],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/maria.png",
+    "media": 69,
+    "calidad": "Plata",
+    "valor": 500,
+    "procedencia": "Hispania",
+    "owner": "HugoMan1307"
+  },
+  {
+    "id": "fernando_caballero",
+    "name": "Fernando Caballero",
+    "stats": [81, 74, 78, 74, 70, 80],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fernando.png",
+    "media": 76,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Hispania",
+    "owner": "Adrianpepo"
+  },
+  {
+    "id": "paco_hyuga",
+    "name": "Paco Hyuga",
+    "stats": [79, 66, 70, 75, 72, 68],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/paco.png",
+    "media": 73,
+    "calidad": "Plata",
+    "valor": 500,
+    "procedencia": "Hispania",
+    "owner": "Grejino02"
+  },
+  {
+    "id": "amira_omeya",
+    "name": "Amira Omeya",
+    "stats": [74, 70, 68, 75, 72, 70],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/amira.png",
+    "media": 71,
+    "calidad": "Plata",
+    "valor": 500,
+    "procedencia": "Hispalis",
+    "owner": "HugoMan1307"
+  },
+  {
+    "id": "abderraman_omeyaIV",
+    "name": "Abderramán Omeya IV",
+    "stats": [84, 86, 85, 82, 83, 79],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/abderraman.png",
+    "media": 85,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Hispalis",
+    "owner": "HugoMan1307"
+  },
+  {
+    "id": "alberto_maya",
+    "name": "Alberto Maya",
+    "stats": [88, 82, 81, 84, 80, 77],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/alberto.png",
+    "media": 84,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Hispania",
+    "owner": "HugoMan1307"
+  },
+  {
+    "id": "morwen",
+    "name": "Morwen",
+    "stats": [75, 66, 68, 73, 70, 73],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/morwen.png",
+    "media": 70,
+    "calidad": "Plata",
+    "valor": 500,
+    "procedencia": "Mundo Subterráneo",
+    "owner": "Grejino02"
+  },
+  {
+    "id": "aranion",
+    "name": "Aranion",
+    "stats": [73, 70, 64, 75, 69, 74],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/aranion.png",
+    "media": 71,
+    "calidad": "Plata",
+    "valor": 500,
+    "procedencia": "Mundo Subterráneo",
+    "owner": "Grejino02"
+  },
+  {
+    "id": "fearna",
+    "name": "Fearna",
+    "stats": [68, 60, 66, 69, 66, 68],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fearna.png",
+    "media": 66,
+    "calidad": "Plata",
+    "valor": 500,
+    "procedencia": "Mundo Subterráneo",
+    "owner": "Grejino02"
+  },
+  {
+    "id": "liriel",
+    "name": "Liriel",
+    "stats": [70, 63, 65, 71, 66, 70],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/liriel.png",
+    "media": 67,
+    "calidad": "Plata",
+    "valor": 500,
+    "procedencia": "Mundo Subterráneo",
+    "owner": "Grejino02"
+  },
+  {
+    "id": "elrond",
+    "name": "Elrond",
+    "stats": [66, 66, 63, 69, 68, 68],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/elrond.png",
+    "media": 66,
+    "calidad": "Plata",
+    "valor": 500,
+    "procedencia": "Mundo Subterráneo",
+    "owner": "Grejino02"
   }
 ]
