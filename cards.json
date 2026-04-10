@@ -647,5 +647,161 @@
     "valor": 500,
     "procedencia": "Mundo Subterráneo",
     "owner": "Grejino02"
+  },
+  {
+    "id": "donmaya",
+    "name": "Don Maya",
+    "stats": [50,70,62,70,66,72],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/donmaya.png",
+    "media":66 ,
+    "calidad": "Plata",
+    "valor":500 ,
+    "procedencia": "Hispania",
+    "owner": "HugoMan1307"
+  },
+{
+
+   "id": "ongombo",
+    "name": "Ongombo",
+    "stats": [60,68,65,71,67,69],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ongombo.png",
+    "media":67 ,
+    "calidad": "Plata",
+    "valor":500 ,
+    "procedencia": "Hispania",
+    "owner": "Grejino02"
+  },
+{
+
+   "id": "ritsu_gushiken",
+    "name": "Ritsu Gushiken",
+    "stats": [80,76,73,75,75,65],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ritsu.png",
+    "media":75 ,
+    "calidad": "Oro",
+    "valor":2500 ,
+    "procedencia": "Amegakure",
+    "owner": "Grejino02"
+  },
+
+{
+
+   "id": "einar_rideryon",
+    "name": "Einar Rideryon",
+    "stats": [86,80,83,78,80,86],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/einar.png",
+    "media":83 ,
+    "calidad": "Oro",
+    "valor":2500 ,
+    "procedencia": "Utrera",
+    "owner": "Grejino02"
+  },
+
+{
+    "id": "tobymaru",
+    "name": "Tobymaru",
+    "stats": [45,55,56,60,54,52],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/tobymaru.png",
+    "media":54 ,
+    "calidad": "Bronce",
+    "valor":100 ,
+    "procedencia": "Hispania",
+    "owner": "Grejino02"
+  },
+
+{
+    "id": "gunji",
+    "name": "Gunji",
+    "stats": [83,85,75,86,80,81],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/gunji.png",
+    "media": 81,
+    "calidad": "Oro",
+    "valor":2500 ,
+    "procedencia": "Jinushi",
+    "owner": "HugoMan1307"
+  },
+
+{
+    "id": "zanb",
+    "name": "Zanb",
+    "stats": [80,90,86,87,81,85],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/zanb.png",
+    "media":85 ,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Hispalis",
+    "owner": "HugoMan1307"
+  },
+
+{
+    "id": "mor_kuzashi",
+    "name": "Mor Kuzashi",
+    "stats": [74,68,70,73,69,70],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/mor.png",
+    "media":71 ,
+    "calidad": "Plata",
+    "valor":500 ,
+    "procedencia": "Jinushi",
+    "owner": "Alecrackman"
+  },
+
+{
+    "id": "psuche_noroi",
+    "name": "Psuche Noroi",
+    "stats": [84,76,80,81,80,80],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/psuche.png",
+    "media":80 ,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Amegakure",
+    "owner": "Grejino02"
+  },
+
+{
+    "id": "ritsu_noroi",
+    "name": "Ritsu Noroi",
+    "stats": [82,79,78,72,76,83],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ritsunoroi.png",
+    "media":78 ,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Amegakure",
+    "owner": "Grejino02"
+  },
+
+{
+    "id": "noroi_beast",
+    "name": "Noroi Beast",
+    "stats": [85,74,77,79,78,86],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ritsubeast.png",
+    "media":80 ,
+    "calidad": "Oro",
+    "valor":2500 ,
+    "procedencia": "Amegakure",
+    "owner": "Grejino02"
+  },
+
+{
+    "id": "zack_ryuga_icono",
+    "name": "Zack Ryuga",
+    "stats": [91,85,84,88,86,80],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/zack_icono.png",
+    "media": 86,
+    "calidad": "Icono",
+    "valor": 10000,
+    "procedencia": "Atsuigakure",
+    "owner": "Grejino02"
+  },
+
+{
+    "id": "iyari_ryuga_icono",
+    "name": "Iyari Ryuga",
+    "stats": [95,87,90,90,88,87],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/iyari_icono.png",
+    "media":89 ,
+    "calidad": "Icono",
+    "valor": 10000,
+    "procedencia": "Konohagakure",
+    "owner": "Grejino02"
   }
 ]
