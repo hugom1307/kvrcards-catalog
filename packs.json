@@ -59,5 +59,20 @@
   },
   "allowedCardIds": ["ronan_hatake", "ken_inazuma", "kurai_tenro", "sukui_uzumaki", "mikori_fukasa", "taka_uzumaki", "sekitan", "kenji_ikari", "raiden_fuutaro", "aya"],
   "price": { "coins": 10000, "kvr": 0 }
+},
+{
+  "id": "sobre_caminante",
+  "name": "Sobre de Caminante Asegurado",
+  "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_oc.png",
+  "cardsPerPack": 1,
+  "strategy": "qualityMedia",
+  "qualityWeights": {
+    "Bronce": 0,
+    "Plata": 0,
+    "Oro": 0,
+    "Icono": 0
+  },
+  "allowedCardIds": ["asahi_raiden", "dekiru_mizu", "kento_rikudo", "kaoru_noroi", "tou_ikari", "ryo_ikari", "tamiko_ozoku", "touma_ozoku", "shukoku_noroi"],
+  "price": { "coins": 100000, "kvr": 1000 }
 }
 ]
