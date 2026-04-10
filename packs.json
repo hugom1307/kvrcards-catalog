@@ -1,54 +1,54 @@
 [
   { "id": "sobre_bronce",
     
-    "name": "Sobre Bronce", "cardsPerPack": 3, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/bronce.png", "strategy": "qualityMedia",
+    "name": "Sobre Bronce", "cardsPerPack": 1, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_bronce.png", "strategy": "qualityMedia",
     "qualityWeights": {
-    "Bronce": 60,
-    "Plata": 30,
-    "Oro": 9,
-    "Icono": 1
+    "Bronce": 100,
+    "Plata": 0,
+    "Oro": 0,
+    "Icono": 0
     },
     "price": { "coins": 300, "kvr": 0 }
   },
   { "id": "sobre_plata",
     
-    "name": "Sobre Plata", "cardsPerPack": 3, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plata.png", "strategy": "qualityMedia",
+    "name": "Sobre Plata", "cardsPerPack": 1, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_plata.png", "strategy": "qualityMedia",
     "qualityWeights": {
-    "Bronce": 5,
-    "Plata": 5,
-    "Oro": 70,
-    "Icono": 20
+    "Bronce": 10,
+    "Plata": 90,
+    "Oro": 0,
+    "Icono": 0
     },
     "price": { "coins": 2500, "kvr": 0 }
   },
   { "id": "sobre_oro",
     
-    "name": "Sobre Oro maximo", "cardsPerPack": 3, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/oro.png", "strategy": "qualityMedia",
+    "name": "Sobre Oro", "cardsPerPack": 1, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_oro.png", "strategy": "qualityMedia",
     "qualityWeights": {
-    "Bronce": 5,
-    "Plata": 5,
-    "Oro": 10,
-    "Icono": 80
+    "Bronce": 0,
+    "Plata": 10,
+    "Oro": 90,
+    "Icono": 0
     },
-    "price": { "coins": 2500, "kvr": 10 }
+    "price": { "coins": 7500, "kvr": 10 }
   },
-  { "id": "sobre_oro_limitado",
+  { "id": "sobre_mix_limitado",
     
-    "name": "Sobre Oro limitado", "cardsPerPack": 3, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/oro.png", "strategy": "qualityMedia",
+    "name": "Sobre Mix limitado", "cardsPerPack": 1, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_oro.png", "strategy": "qualityMedia",
     "qualityWeights": {
-    "Bronce": 5,
-    "Plata": 5,
-    "Oro": 10,
-    "Icono": 80
+    "Bronce": 30,
+    "Plata": 30,
+    "Oro": 30,
+    "Icono": 10
     },
     "stock": 5,
-    "price": { "coins": 2500, "kvr": 10 }
+    "price": { "coins": 5000, "kvr": 10 }
   },
 
   {
-  "id": "sobre_kaoru",
-  "name": "Sobre de Kaoru",
-  "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/oro.png",
+  "id": "sobre_oc",
+  "name": "Sobre de Ocs",
+  "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_oc.png",
   "cardsPerPack": 1,
   "strategy": "qualityMedia",
   "qualityWeights": {
@@ -57,7 +57,7 @@
     "Oro": 0,
     "Icono": 0
   },
-  "allowedCardIds": ["kaoru_noroi"],
-  "price": { "coins": 0, "kvr": 0 }
+  "allowedCardIds": ["ronan_hatake", "ken_inazuma", "kurai_tenro", "sukui_uzumaki", "mikori_fukasa", "taka_uzumaki", "sekitan", "kenji_ikari", "raiden_fuutaro", "aya"],
+  "price": { "coins": 10000, "kvr": 0 }
 }
 ]
