@@ -8,6 +8,7 @@
     "Oro": 0,
     "Icono": 0
     },
+    "openingGradient": ["#CD7F32", "#B87333", "#8C5A2B"],
     "price": { "coins": 300, "kvr": 0 }
   },
   { "id": "sobre_plata",
@@ -19,6 +20,7 @@
     "Oro": 0,
     "Icono": 0
     },
+    "openingGradient": ["#F3F4F6", "#D1D5DB", "#9CA3AF"],
     "price": { "coins": 2500, "kvr": 0 }
   },
   { "id": "sobre_oro",
@@ -30,6 +32,7 @@
     "Oro": 90,
     "Icono": 0
     },
+    "openingGradient": ["#FFF4B5", "#FDE68A", "#FACC15"],
     "price": { "coins": 7500, "kvr": 10 }
   },
   { "id": "sobre_mix_limitado",
@@ -42,6 +45,7 @@
     "Icono": 10
     },
     "stock": 5,
+    "openingGradient": ["#FFF4B5", "#FDE68A", "#FACC15"],
     "price": { "coins": 5000, "kvr": 10 }
   },
 
@@ -58,6 +62,7 @@
     "Icono": 0
   },
   "allowedCardIds": ["ronan_hatake", "ken_inazuma", "kurai_tenro", "sukui_uzumaki", "mikori_fukasa", "taka_uzumaki", "sekitan", "kenji_ikari", "raiden_fuutaro", "aya"],
+    "openingGradient": ["#FDE68A", "#60A5FA", "#1D4ED8"],
   "price": { "coins": 10000, "kvr": 0 }
 },
 {
@@ -73,6 +78,7 @@
     "Icono": 0
   },
   "allowedCardIds": ["asahi_raiden", "dekiru_mizu", "kento_rikudo", "kaoru_noroi", "tou_ikari", "ryo_ikari", "tamiko_ozoku", "touma_ozoku", "shukoku_noroi"],
+  "openingGradient": ["#FDE68A", "#60A5FA", "#1D4ED8"],
   "price": { "coins": 100000, "kvr": 1000 }
 }
 ]
