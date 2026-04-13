@@ -1,0 +1,87 @@
+{
+  "default": {
+    "xpRules": {
+      "battlePlayed": 20,
+      "battleWinBonus": 10,
+      "duplicateFromPackOrTrade": 500
+    },
+    "levels": [
+      {
+        "prestige": 1,
+        "xpRequired": 100,
+        "missions": [
+          { "id": "d_p1_m1", "name": "Jugar 3 batallas con esta carta", "xp": 100 },
+          { "id": "d_p1_m2", "name": "Ganar 1 batalla con esta carta", "xp": 120 }
+        ],
+        "rewards": [
+          { "id": "d_p1_r1", "name": "Recompensa de prestigio 1" }
+        ]
+      },
+      {
+        "prestige": 2,
+        "xpRequired": 500,
+        "missions": [
+          { "id": "d_p2_m1", "name": "Jugar 10 batallas con esta carta", "xp": 240 },
+          { "id": "d_p2_m2", "name": "Ganar 4 batallas con esta carta", "xp": 260 }
+        ],
+        "rewards": [
+          { "id": "d_p2_r1", "name": "Recompensa de prestigio 2" }
+        ]
+      },
+      {
+        "prestige": 3,
+        "xpRequired": 2000,
+        "missions": [
+          { "id": "d_p3_m1", "name": "Jugar 20 batallas con esta carta", "xp": 600 },
+          { "id": "d_p3_m2", "name": "Ganar 10 batallas con esta carta", "xp": 700 }
+        ],
+        "rewards": [
+          { "id": "d_p3_r1", "name": "Recompensa de prestigio 3" }
+        ]
+      },
+      {
+        "prestige": 4,
+        "xpRequired": 5000,
+        "missions": [
+          { "id": "d_p4_m1", "name": "Jugar 40 batallas con esta carta", "xp": 1200 },
+          { "id": "d_p4_m2", "name": "Ganar 20 batallas con esta carta", "xp": 1500 }
+        ],
+        "rewards": [
+          { "id": "d_p4_r1", "name": "Recompensa de prestigio 4" }
+        ]
+      },
+      {
+        "prestige": 5,
+        "xpRequired": 10000,
+        "missions": [
+          { "id": "d_p5_m1", "name": "Jugar 75 batallas con esta carta", "xp": 2200 },
+          { "id": "d_p5_m2", "name": "Ganar 40 batallas con esta carta", "xp": 2600 }
+        ],
+        "rewards": [
+          { "id": "d_p5_r1", "name": "Recompensa de prestigio 5" }
+        ]
+      }
+    ]
+  },
+  "cards": {
+    "ronan_hatake": {
+      "xpRules": {
+        "battlePlayed": 20,
+        "battleWinBonus": 10,
+        "duplicateFromPackOrTrade": 500
+      },
+      "levels": [
+        {
+          "prestige": 1,
+          "xpRequired": 100,
+          "missions": [
+            { "id": "c_p1_m1", "name": "Mision personalizada de ejemplo", "xp": 100 }
+          ],
+          "rewards": [
+            { "id": "c_p1_r1", "name": "Recompensa personalizada de ejemplo" }
+          ]
+        }
+      ]
+    }
+  }
+}
