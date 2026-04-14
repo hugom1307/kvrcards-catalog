@@ -1,7 +1,7 @@
 {
   "version": 6,
   "worldOrder": [
-    "konohagakure_academia",
+    "konohagakure_antigua",
     "techlin",
     "kumogakure",
     "torneo_multiversal",
@@ -14,22 +14,22 @@
     "espacio"
   ],
   "worlds": [
-    {
-      "id": "konohagakure_academia",
-      "name": "Konohagakure: Academia",
+    {H
+      "id": "konohagakure_antigua",
+      "name": "Konohagakure Antigua",
       "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/academia.png",
       "fallback": "linear-gradient(135deg, #0dff92, #70ff63)",
       "levels": [
-        { "number": 1, "name": "Nivel 1", "trainer": { "id": "academia-l1", "name": "Venti Nara", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 2, "name": "Nivel 2", "trainer": { "id": "academia-l2", "name": "Zagren Senju", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 3, "name": "Nivel 3", "trainer": { "id": "academia-l3", "name": "Kai Senju", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 4, "name": "Nivel 4", "trainer": { "id": "academia-l4", "name": "Benkei Uchiha", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 5, "name": "Nivel 5", "trainer": { "id": "academia-l5", "name": "Sakura Nara", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 6, "name": "Nivel 6", "trainer": { "id": "academia-l6", "name": "Shin Uzumaki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 7, "name": "Nivel 7", "trainer": { "id": "academia-l7", "name": "Peyan Uzumaki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 8, "name": "Nivel 8", "trainer": { "id": "academia-l8", "name": "Joshira Uzumaki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 9, "name": "Nivel 9", "trainer": { "id": "academia-l9", "name": "Inui Uzumaki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
-        { "number": 10, "name": "Nivel 10", "trainer": { "id": "academia-l10", "name": "Haji Senju", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } }
+        { "number": 1, "name": "Nivel 1", "trainer": { "id": "konohaantigua-l1", "name": "Sakura Nara", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
+        { "number": 2, "name": "Nivel 2", "trainer": { "id": "konohaantigua-l2", "name": "Zagren Senju", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
+        { "number": 3, "name": "Nivel 3", "trainer": { "id": "konohaantigua-l3", "name": "Kai Senju", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
+        { "number": 4, "name": "Nivel 4", "trainer": { "id": "konohaantigua-l4", "name": "Benkei Uchiha", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
+        { "number": 5, "name": "Nivel 5", "trainer": { "id": "konohaantigua-l5", "name": "Kizuna Otsutsuki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
+        { "number": 6, "name": "Nivel 6", "trainer": { "id": "konohaantigua-l6", "name": "Shin Uzumaki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
+        { "number": 7, "name": "Nivel 7", "trainer": { "id": "konohaantigua-l7", "name": "Peyan Uzumaki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
+        { "number": 8, "name": "Nivel 8", "trainer": { "id": "konohaantigua-l8", "name": "Joshira Uzumaki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
+        { "number": 9, "name": "Nivel 9", "trainer": { "id": "konohaantigua-l9", "name": "Inui Uzumaki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } },
+        { "number": 10, "name": "Nivel 10", "trainer": { "id": "konohaantigua-l10", "name": "Hashin Otsutsuki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/touma.png" } }
       ]
     },
     {
