@@ -23,7 +23,7 @@
         { "number": 1, "name": "Nivel 1", "trainer": { "id": "konohaantigua-l1", "name": "Sakura Nara", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/sakura.png" } },
         { "number": 2, "name": "Nivel 2", "trainer": { "id": "konohaantigua-l2", "name": "Zagren Senju", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/zagren.jpg" } },
         { "number": 3, "name": "Nivel 3", "trainer": { "id": "konohaantigua-l3", "name": "Kai Senju", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/kaiantiguo.png" } },
-        { "number": 4, "name": "Nivel 4", "trainer": { "id": "konohaantigua-l4", "name": "Benkei Uchiha", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/benkeiantiguo.png" } },
+        { "number": 4, "name": "Nivel 4", "trainer": { "id": "konohaantigua-l4", "name": "Benkei Uchiha", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/benkeiantiguo.jpg" } },
         { "number": 5, "name": "Nivel 5", "trainer": { "id": "konohaantigua-l5", "name": "Kizuna Otsutsuki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/kizuna.png" } },
         { "number": 6, "name": "Nivel 6", "trainer": { "id": "konohaantigua-l6", "name": "Shin Uzumaki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/shin.png" } },
         { "number": 7, "name": "Nivel 7", "trainer": { "id": "konohaantigua-l7", "name": "Peyan Uzumaki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/peyanantiguo.png" } },
