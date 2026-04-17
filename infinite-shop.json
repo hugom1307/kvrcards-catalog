@@ -1,6 +1,34 @@
 {
   "version": 1,
   "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
+  "shopkeepers": [
+    {
+      "id": "shopkeeper_001",
+      "name": "Mercader del Inicio",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
+      "availableAt": ["konohagakure_antigua"],
+      "dialogues": [
+        "¡Bienvenido, viajero! Tengo lo que necesitas.",
+        "Estos objetos te harán más fuerte... si tienes las monedas.",
+        "¿Algo interesante? Todo está en venta.",
+        "He reunido lo mejor de la región para ti.",
+        "Mira bien, no vuelvo por aquí en un tiempo."
+      ]
+    },
+    {
+      "id": "shopkeeper_002",
+      "name": "Traidor de las Tormentas",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
+      "availableAt": ["techlin"],
+      "dialogues": [
+        "Las tormentas me traen los mejores objetos.",
+        "Pssst... tengo cosas raras de estas islas.",
+        "¿Quieres sobrevivir? Compra mis artículos.",
+        "Los comerciantes normales no llegan hasta aquí.",
+        "He visto cosas en las tormentas... todas aquí."
+      ]
+    }
+  ],
   "items": [
     {
       "id": "item_001",
@@ -9,7 +37,8 @@
       "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
       "price": 50,
       "type": "consumable",
-      "rarity": "common"
+      "rarity": "common",
+      "minLevel": 1
     },
     {
       "id": "item_002",
@@ -18,7 +47,18 @@
       "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
       "price": 100,
       "type": "buff",
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "minLevel": 1
+    },
+    {
+      "id": "item_003",
+      "name": "Objeto Raro",
+      "description": "Este objeto solo aparece en niveles más altos.",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
+      "price": 200,
+      "type": "buff",
+      "rarity": "rare",
+      "minLevel": 9
     }
   ]
 }
