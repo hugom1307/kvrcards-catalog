@@ -35,7 +35,10 @@
       "name": "Objeto de Ejemplo",
       "description": "Este es un objeto de ejemplo para la estructura de la tienda.",
       "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
-      "price": 50,
+      "price": {
+      "amount": 100,
+      "currency": "infinite-coins"
+      }
       "type": "consumable",
       "rarity": "common",
       "minLevel": 1,
@@ -46,7 +49,10 @@
       "name": "Otro Objeto",
       "description": "Otro objeto de demostración con propiedades personalizables.",
       "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
-      "price": 100,
+      "price": {
+      "amount": 200,
+      "currency": "coins"
+      }
       "type": "buff",
       "rarity": "epic",
       "minLevel": 1,
@@ -57,7 +63,10 @@
       "name": "Objeto Raro",
       "description": "Este objeto solo aparece en niveles más altos.",
       "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
-      "price": 200,
+      "price": {
+      "amount": 500,
+      "currency": "coins"
+      }
       "type": "buff",
       "rarity": "legendary",
       "minLevel": 9,
