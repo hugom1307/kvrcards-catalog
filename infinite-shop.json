@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
+  "items": [
+    {
+      "id": "item_001",
+      "name": "Objeto de Ejemplo",
+      "description": "Este es un objeto de ejemplo para la estructura de la tienda.",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
+      "price": 50,
+      "type": "consumable",
+      "rarity": "common"
+    },
+    {
+      "id": "item_002",
+      "name": "Otro Objeto",
+      "description": "Otro objeto de demostración con propiedades personalizables.",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
+      "price": 100,
+      "type": "buff",
+      "rarity": "uncommon"
+    }
+  ]
+}
