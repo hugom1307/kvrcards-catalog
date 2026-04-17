@@ -3,16 +3,16 @@
   "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
   "shopkeepers": [
     {
-      "id": "shopkeeper_001",
-      "name": "Mercader del Inicio",
-      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
+      "id": "taiyotienda",
+      "name": "Mercader Taiyo",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/taiyotienda.png",
       "availableAt": ["konohagakure_antigua"],
       "dialogues": [
-        "¡Bienvenido, viajero! Tengo lo que necesitas.",
-        "Estos objetos te harán más fuerte... si tienes las monedas.",
-        "¿Algo interesante? Todo está en venta.",
-        "He reunido lo mejor de la región para ti.",
-        "Mira bien, no vuelvo por aquí en un tiempo."
+        "¡Bienvenido, viajero! Olvida esta tienda, ¿Has visto mi enorme culo?",
+        "Estos objetos te harán más fuerte... pero sigo sin ver a tu papá",
+        "Todo está en venta, incluidos mis tacones",
+        "He reunido lo mejor de Konoha para ti, pero no preguntes donde lo he conseguido"
+       
       ]
     },
     {
