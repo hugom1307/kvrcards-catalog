@@ -38,7 +38,8 @@
       "price": 50,
       "type": "consumable",
       "rarity": "common",
-      "minLevel": 1
+      "minLevel": 1,
+      "quantity": 5
     },
     {
       "id": "item_002",
@@ -47,8 +48,9 @@
       "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
       "price": 100,
       "type": "buff",
-      "rarity": "uncommon",
-      "minLevel": 1
+      "rarity": "epic",
+      "minLevel": 1,
+      "quantity": 2
     },
     {
       "id": "item_003",
@@ -57,8 +59,9 @@
       "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
       "price": 200,
       "type": "buff",
-      "rarity": "rare",
-      "minLevel": 9
+      "rarity": "legendary",
+      "minLevel": 9,
+      "quantity": 1
     }
   ]
 }
