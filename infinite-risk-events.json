@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "events": [
+    {
+      "id": "shadow-altar",
+      "title": "Altar de Sombras",
+      "worldIds": ["konohagakure_antigua", "kazegakure"],
+      "minFloor": 1,
+      "maxFloor": 9999,
+      "startNodeId": "intro",
+      "nodes": [
+        {
+          "id": "intro",
+          "title": "Altar de Sombras",
+          "text": "Una grieta se abre en el suelo y un altar antiguo te ofrece poder a cambio de arriesgar tu run.",
+          "choices": [
+            {
+              "id": "safe",
+              "label": "Ritual estable",
+              "description": "80% de éxito. Si sale bien: +3% Ninjutsu en una carta aleatoria. Si sale mal: -3%.",
+              "successChance": 0.8,
+              "successResult": {
+                "text": "La energía se estabiliza y el sello responde a tu favor.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "ninjutsu",
+                    "percent": 3
+                  }
+                ]
+              },
+              "failureResult": {
+                "text": "La energía se rompe y drena fuerza de tu equipo.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "ninjutsu",
+                    "percent": 3,
+                    "mode": "nerf"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "greedy",
+              "label": "Ritual agresivo",
+              "description": "50% de éxito. Si sale bien: +6% Ninjutsu. Si sale mal: -6%.",
+              "successChance": 0.5,
+              "successResult": {
+                "text": "La sombra te reconoce y libera una mejora brutal.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "ninjutsu",
+                    "percent": 6
+                  }
+                ]
+              },
+              "failureResult": {
+                "text": "El altar se vuelve contra ti y castiga la arrogancia.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "ninjutsu",
+                    "percent": 6,
+                    "mode": "nerf"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "celestial-oath",
+      "title": "Juramento Celestial",
+      "worldId": "celestial-temple",
+      "minFloor": 1,
+      "maxFloor": 9999,
+      "startNodeId": "intro",
+      "nodes": [
+        {
+          "id": "intro",
+          "title": "Juramento Celestial",
+          "text": "En el templo una figura luminosa te ofrece un juramento: gran poder, gran coste.",
+          "choices": [
+            {
+              "id": "accept",
+              "label": "Aceptar juramento",
+              "description": "65% de éxito. +4% Taijutsu si ganas, -4% si pierdes.",
+              "successChance": 0.65,
+              "successResult": {
+                "text": "La luz te bendice y tu mazo gana impulso.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "taijutsu",
+                    "percent": 4
+                  }
+                ]
+              },
+              "failureResult": {
+                "text": "El juramento no te reconoce y drena tu fuerza.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "taijutsu",
+                    "percent": 4,
+                    "mode": "nerf"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
