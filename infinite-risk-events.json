@@ -71,6 +71,127 @@
                   }
                 ]
               }
+            },
+            {
+              "id": "investigate",
+              "label": "Inspeccionar el altar",
+              "description": "Opción narrativa: no decide todavía. Te da más información antes de elegir riesgo real.",
+              "result": {
+                "text": "Te acercas y descubres runas: el altar premia el control y castiga la avaricia. Ahora decides con más contexto.",
+                "nextNodeId": "deeper-lore"
+              }
+            }
+          ]
+        },
+        {
+          "id": "deeper-lore",
+          "title": "Runas del Altar",
+          "text": "Las runas muestran dos caminos: un pacto disciplinado con mayor consistencia o un pacto brutal con alto castigo.",
+          "choices": [
+            {
+              "id": "disciplined-path",
+              "label": "Pacto disciplinado",
+              "description": "90% de avanzar a una bendición menor, 10% de perder de inmediato esta prueba.",
+              "outcomes": [
+                {
+                  "chance": 0.9,
+                  "status": "success",
+                  "result": {
+                    "text": "Superas la prueba inicial. El altar te permite una bendición final.",
+                    "nextNodeId": "final-blessing"
+                  }
+                },
+                {
+                  "chance": 0.1,
+                  "status": "failure",
+                  "result": {
+                    "text": "El altar detecta duda y te rechaza con violencia.",
+                    "effects": [
+                      {
+                        "type": "cardStatPercent",
+                        "target": "random-run-card",
+                        "stat": "ninjutsu",
+                        "percent": 4,
+                        "mode": "nerf"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "id": "brutal-path",
+              "label": "Pacto brutal",
+              "description": "Ruta directa: 35% de gran premio, 65% de gran castigo.",
+              "outcomes": [
+                {
+                  "chance": 0.35,
+                  "status": "success",
+                  "result": {
+                    "text": "El altar acepta tu osadía.",
+                    "effects": [
+                      {
+                        "type": "cardStatPercent",
+                        "target": "random-run-card",
+                        "stat": "ninjutsu",
+                        "percent": 8
+                      }
+                    ]
+                  }
+                },
+                {
+                  "chance": 0.65,
+                  "status": "failure",
+                  "result": {
+                    "text": "La osadía se convierte en deuda de sangre.",
+                    "effects": [
+                      {
+                        "type": "cardStatPercent",
+                        "target": "random-run-card",
+                        "stat": "ninjutsu",
+                        "percent": 8,
+                        "mode": "nerf"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "final-blessing",
+          "title": "Bendición Final",
+          "text": "Tras superar la primera prueba, eliges cómo sellar el pacto.",
+          "choices": [
+            {
+              "id": "stable-seal",
+              "label": "Sello estable",
+              "description": "75% éxito. Mejora pequeña y segura.",
+              "successChance": 0.75,
+              "successResult": {
+                "text": "La runa se ilumina en verde y estabiliza tu poder.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "ninjutsu",
+                    "percent": 3
+                  }
+                ]
+              },
+              "failureResult": {
+                "text": "El sello colapsa al final del ritual.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "ninjutsu",
+                    "percent": 3,
+                    "mode": "nerf"
+                  }
+                ]
+              }
             }
           ]
         }
