@@ -86,7 +86,7 @@
         {
           "id": "deeper-lore",
           "title": "Runas del Altar",
-          "text": "Las runas muestran dos caminos: un pacto disciplinado con mayor consistencia o un pacto brutal con alto castigo.",
+          "text": "Las runas muestran dos caminos: \n un pacto disciplinado con mayor consistencia o un pacto brutal con alto castigo.",
           "choices": [
             {
               "id": "disciplined-path",
