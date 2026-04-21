@@ -12,7 +12,7 @@
         {
           "id": "intro",
           "title": "Altar de Sombras",
-          "text": "Una grieta se abre en el suelo y un altar antiguo te ofrece poder a cambio de arriesgar tu run.",
+          "text": "Una grieta se abre en el suelo y un altar antiguo te ofrece poder a cambio de arriesgar tu runmoiurdxnhvoiuhetoijhodixhobidfhcivhyoihjifjhvtgdoicjfhodifghvoihgfdivfhgoihdoifgjhovdihdifjhodifjhogdifhvoi.",
           "choices": [
             {
               "id": "safe",
@@ -75,7 +75,7 @@
             {
               "id": "investigate",
               "label": "Inspeccionar el altar",
-              "description": "Opción narrativa: no decide todavía. Te da más información antes de elegir riesgo real.",
+              "description": "Opción narrativa: no decide todavía. \n Te da más información antes de elegir riesgo real.",
               "result": {
                 "text": "Te acercas y descubres runas: el altar premia el control y castiga la avaricia. Ahora decides con más contexto.",
                 "nextNodeId": "deeper-lore"
