@@ -242,6 +242,201 @@
           ]
         }
       ]
+    },
+    {
+      "id": "konohaevent1",
+      "title": "Desafio a la procastinación",
+      "worldIds": ["konohagakure_antigua", "kazegakure"],
+      "minFloor": 1,
+      "maxFloor": 9999,
+      "startNodeId": "intro",
+      "nodes": [
+        {
+          "id": "intro",
+          "title": "Desafio a la procastinación",
+          "text": "Quedan menos de 5 dias para que los examenes chunin empiecen y estas indeciso sobre tus habilidades como ninja pero al mismo tiempo sientes como llevas trabajando duro demasiado tiempo y te gustaria descansar.",
+          "choices": [
+            {
+              "id": "safe",
+              "label": "Entrenas con normalidad",
+              "description": "Decides no comerte la cabeza y seguir estudiando y entrenando como lo haces normalmente",
+              "successChance": 0.1,
+              "successResult": {
+                "text": "Tuviste suerte y tu rival cometió un error muy estupido permitiendote aprobar.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "all-stats",
+                    "percent": 1.5
+                  }
+                ]
+              },
+              "failureResult": {
+                "text": "Tus conocimientos fueron insuficientes y fracasas, desmotivandote por el resultado.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "taijutsu",
+                    "percent": 3,
+                    "mode": "nerf"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "greedy",
+              "label": "Haces un ultimo esfuerzo",
+              "description": "Decides esforzarte con más intensidad que de costumbre.",
+              "successChance": 0.3,
+              "successResult": {
+                "text": "Tus esfuerzos dan resultado y consigues la victoria. Te sientes orgulloso por tu mejoria",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "all-stats",
+                    "percent": 3
+                  }
+                ]
+              },
+              "failureResult": {
+                "text": "No has conseguido ganar, pero estas tranquilo al saber que diste todo de ti mismo.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "random",
+                    "percent": 0.5
+                  }
+                ]
+              }
+            },
+            {
+              "id": "surrender",
+              "label": "Te rindes ante la pereza",
+              "description": "Decides darte un descanso ya que despues de todo, ya has trabajado muy duro.",
+              "result": {
+                "text": "Al descansar, tras un rato miras el calendario por un sentimiento culpable, dandote cuenta de que la fecha estaba mal y queda más tiempo del que creias para los examenes chunin, suspiras aliviado pero ahora debes reorganizarte.",
+                "nextNodeId": "sloth-sin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "sloth-sin",
+          "title": "Inundación de calma",
+          "text": "La revelación de la verdadera fecha de los examenes te hace sentir una pereza aún mayor que antes debido a el exceso de calma, entonces decides...",
+          "choices": [
+            {
+              "id": "disciplined-path",
+              "label": "Camino a la disciplina",
+              "description": "Luchas contra tu pereza, buscando seguir la disciplina incluso sin la presión que antes te aplastaba.",
+              "outcomes": [
+                {
+                  "chance": 0.5,
+                  "status": "success",
+                  "result": {
+                    "text": "Tras mucho esfuerzo y sesiones extremas de autoreflexión, consigues levantarte.",
+                    "nextNodeId": "final-day"
+                  }
+                },
+                {
+                  "chance": 0.5,
+                  "status": "failure",
+                  "result": {
+                    "text": "La pereza es demasiada, y pierdes la consistencia de tu entrenamiento durante 5 dias, lo que desemboca en un fracaso en la hora de la verdad",
+                    "effects": [
+                      {
+                        "type": "cardStatPercent",
+                        "target": "random-run-card",
+                        "stat": "all-stats",
+                        "percent": 0.5,
+                        "mode": "nerf"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "id": "needed-resting",
+              "label": "Descansar es necesario",
+              "description": "Te autoconvences de que necesitas descansar lo que queda del dia para poder ejercer bien al dia siguiente",
+              "outcomes": [
+                {
+                  "chance": 0.6,
+                  "status": "success",
+                  "result": {
+                    "text": "Gracias a haber descansado el dia anterior, te sientes preparado para el examen.",
+                    "effects": [
+                      {
+                        "type": "cardStatPercent",
+                        "target": "random-run-card",
+                        "stat": "taijutsu",
+                        "percent": 3.5
+                      }
+                    ]
+                  }
+                },
+                {
+                  "chance": 0.4,
+                  "status": "failure",
+                  "result": {
+                    "text": "Al relajarte, dormiste en una posición que te hizo daño en la espalda y impedirá tu entrenamiento durante un dia.",
+                    "effects": [
+                      {
+                        "type": "cardStatPercent",
+                        "target": "random-run-card",
+                        "stat": "taijutsu",
+                        "percent": 3.5,
+                        "mode": "nerf"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "final-day",
+          "title": "Dia de la verdad",
+          "text": "El examen chunin es mañana y por ultima vez, sientes una necesidad de darte un debido descanso.",
+          "choices": [
+            {
+              "id": "effort-price",
+              "label": "El premio del esfuerzo",
+              "description": "Ya has sido un ninja disciplinado y modelico asi que piensas que te mereces este descanso.",
+              "successChance": 0.75,
+              "successResult": {
+                "text": "El descanso te sienta fenomenal y te presentas al examen en plenas condiciones.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "ninjutsu",
+                    "percent": 4
+                  }
+                ]
+              },
+              "failureResult": {
+                "text": "Al ceder, tu cuerpo pide más y más descanso, lo que hace te presentes a el examen cansado.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "ninjutsu",
+                    "percent": 4,
+                    "mode": "nerf"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
     }
   ]
 }
