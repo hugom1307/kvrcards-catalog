@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "season": {
+    "id": "s1-2026",
+    "name": "Temporada 1 - Ascenso"
+  },
+  "rewards": [
+    {
+      "level": 10,
+      "rewards": [
+        { "type": "currency", "currency": "infinite-cardpoints", "amount": 100 },
+        { "type": "currency", "currency": "infinite-coins", "amount": 50 }
+      ]
+    },
+    {
+      "level": 20,
+      "rewards": [
+        { "type": "currency", "currency": "infinite-cardpoints", "amount": 200 },
+        { "type": "pack", "packId": "pack-oro", "amount": 1 }
+      ]
+    },
+    {
+      "level": 30,
+      "rewards": [
+        { "type": "currency", "currency": "infinite-cardpoints", "amount": 300 },
+        { "type": "card", "cardId": "naruto_base", "amount": 1 }
+      ]
+    },
+    {
+      "level": 40,
+      "rewards": [
+        { "type": "currency", "currency": "infinite-cardpoints", "amount": 400 },
+        { "type": "title", "titleId": "infinite-conqueror" }
+      ]
+    },
+    {
+      "level": 50,
+      "rewards": [
+        { "type": "currency", "currency": "infinite-cardpoints", "amount": 500 },
+        { "type": "currency", "currency": "infinite-coins", "amount": 250 }
+      ]
+    },
+    {
+      "level": 60,
+      "rewards": [
+        { "type": "currency", "currency": "infinite-cardpoints", "amount": 600 },
+        { "type": "pack", "packId": "pack-icono", "amount": 1 }
+      ]
+    },
+    {
+      "level": 70,
+      "rewards": [
+        { "type": "currency", "currency": "infinite-cardpoints", "amount": 700 },
+        { "type": "card", "cardId": "sasuke_base", "amount": 1 }
+      ]
+    },
+    {
+      "level": 80,
+      "rewards": [
+        { "type": "currency", "currency": "infinite-cardpoints", "amount": 800 },
+        { "type": "title", "titleId": "infinite-elite" }
+      ]
+    },
+    {
+      "level": 90,
+      "rewards": [
+        { "type": "currency", "currency": "infinite-cardpoints", "amount": 900 },
+        { "type": "pack", "packId": "pack-leyenda", "amount": 1 }
+      ]
+    },
+    {
+      "level": 100,
+      "rewards": [
+        { "type": "currency", "currency": "infinite-cardpoints", "amount": 1000 },
+        { "type": "currency", "currency": "infinite-coins", "amount": 500 },
+        { "type": "title", "titleId": "infinite-grandmaster" }
+      ]
+    }
+  ]
+}
