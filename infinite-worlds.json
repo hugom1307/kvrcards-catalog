@@ -111,7 +111,7 @@
       "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
       "levels": [
         { "number": 1, "name": "Nivel 1", "trainer": { "id": "amegakureg-l1", "name": "Kai Senju", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/kai.png" } },
-        { "number": 2, "name": "Nivel 2", "trainer": { "id": "amegakureg-l2", "name": "Iyari Ryuga", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/iyari.png" } },
+        { "number": 2, "name": "Nivel 2", "trainer": { "id": "amegakureg-l2", "name": "Iyari Ryuga", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/iyari.jpg" } },
         { "number": 3, "name": "Nivel 3", "trainer": { "id": "amegakureg-l3", "name": "Ryuki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/ryuki.png" } },
         { "number": 4, "name": "Nivel 4", "trainer": { "id": "amegakureg-l4", "name": "Kiri Uzumaki", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/kiri.png" } },
         { "number": 5, "name": "Nivel 5", "trainer": { "id": "amegakureg-l5", "name": "Kamitami", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/kamitami.png" } },
