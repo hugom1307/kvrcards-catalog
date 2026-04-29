@@ -437,6 +437,565 @@
           ]
         }
       ]
+    },
+    {
+      "id": "interlude-training",
+      "title": "Entrenamiento de Interludio",
+      "worldIds": ["torneo_haseo"],
+      "minFloor": 1,
+      "maxFloor": 9999,
+      "startNodeId": "intro",
+      "nodes": [
+        {
+          "id": "intro",
+          "title": "Entrenamiento de interludio",
+          "text": "Las primeras peleas han finalizado, has visto morir a mucha gente y aunque has ganado previamente, al ver cuales son tus siguientes rivales sientes cierta preocupación, por lo que una vez más te diriges al campo donde decides entrenar al igual que has hecho todo el tiempo que has estado aquí. Indeciso, no sabes por donde empezar, por lo que echas un vistazo a tus alrededores por pura inercia.",
+          "choices": [
+            {
+              "id": "chakra",
+              "label": "Empiezas por entrenar chakra",
+              "description": "Decides concentrarte en tu entrenamiento y empiezas buscando aumentar tus reservas de chakra.",
+              "successChance": 1,
+              "successResult": {
+                "text": "Tu entrenamiento es efectivo y notas como tus reservas de chakra crecen lentamente (100%).",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "ninjutsu",
+                    "percent": 2
+                  }
+                ]
+              },
+              "failureResult": {
+                "text": "No consigues concentrarte y gastas chakra innecesariamente.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "ninjutsu",
+                    "percent": 0.5,
+                    "mode": "nerf"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "strength",
+              "label": "Empiezas por entrenamientos físicos",
+              "description": "Despejas tu mente y te decides por entrenar tu cuerpo (60% pero mayor recompensa)",
+              "successChance": 0.6,
+              "successResult": {
+                "text": "Sientes fortaleza tras una buena sesión de entrenamiento.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": ["velocidad","resistencia","defensa","fisico"],
+                    "percent": 3
+                  }
+                ]
+              },
+              "failureResult": {
+                "text": "Ejecutas un mal movimiento durante tu entrenamiento y te lesionas.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "fisico",
+                    "percent": 3,
+                    "mode": "nerf"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "people",
+              "label": "Ves a personas en la distancia",
+              "description": "Ves a otros participantes, no te queda claro que están haciendo pero te entra curiosidad.",
+              "result": {
+                "text": "Decides acercarte a ellos, y poco a poco identificas quienes son.",
+                "nextNodeId": "dance"
+              }
+            }
+          ]
+        },
+        {
+          "id": "dance",
+          "title": "¿Danzas?",
+          "text": "Al acercarte te das cuenta de quienes son...Son Taiyo Uchiha, Ayari Hyuga y Kai Senju, los viste de lejos hace tiempo cuando entraste a este lugar, pero no habías entablado conversación con ellos antes, así que te presentas antes de preguntar, te explican que están entrenando un tipo de técnica conocido como danza, reaccionas...",
+          "choices": [
+            {
+              "id": "crazy",
+              "label": "¿Estáis locos?",
+              "description": "No entiendes de que están hablando, y crees que es imposible de creer algo así.",
+              "outcomes": [
+                {
+                  "chance": 1,
+                  "status": "success",
+                  "result": {
+                    "text": "Taiyo te mira, se indigna y te muestra una técnica de la danza del sol, demostrándote que es real lo que te están contando.",
+                    "nextNodeId": "finding-master"
+                  }
+                },
+                {
+                  "chance": 0.1,
+                  "status": "failure",
+                  "result": {
+                    "text": "Taiyo insulta a tu padre por dudar de las danzas y te piden que te vayas a lo que te niegas, por lo que te echan a la fuerza.",
+                    "effects": [
+                      {
+                        "type": "cardStatPercent",
+                        "target": "random-run-card",
+                        "stat": "fisico",
+                        "percent": 5,
+                        "mode": "nerf"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "id": "nah_id_win",
+              "label": "Nah, i'd win",
+              "description": "Los retas a todos a un combate. (Gran riesgo, gran recompensa)",
+              "outcomes": [
+                {
+                  "chance": 0.25,
+                  "status": "success",
+                  "result": {
+                    "text": "Los derrotas a los tres de manera milagrosa.",
+                    "effects": [
+                      {
+                        "type": "cardStatPercent",
+                        "target": "random-run-card",
+                        "stat": "all-stats",
+                        "percent": 6
+                      }
+                    ]
+                  }
+                },
+                {
+                  "chance": 0.75,
+                  "status": "failure",
+                  "result": {
+                    "text": "Te meten una paliza histórica.",
+                    "effects": [
+                      {
+                        "type": "cardStatPercent",
+                        "target": "random-run-card",
+                        "stat": "all-stats",
+                        "percent": 6,
+                        "mode": "nerf"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "finding-master",
+          "title": "Encontrando un maestro",
+          "text": "Al observar el poder de las danzas, quedas alucinado y te postras de rodillas...-Por favor, dejarme entrenar con vosotros- dices, a lo cual no parecen muy convencidos ya que no te conocen, entonces...",
+          "choices": [
+            {
+              "id": "power",
+              "label": "Demostración de poder.",
+              "description": "Le intentas demostrar tu valía con una demostración de poder, mostrando tus conocimientos, y técnicas, buscando que te reconozcan.",
+              "successChance": 0.75,
+              "successResult": {
+                "text": "Ayari sonríe y asiente con lentitud, Kai esta inseguro todavía, pero Taiyo te acepta y te unes a su entrenamiento.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "ninjutsu",
+                    "percent": 5
+                  }
+                ]
+              },
+              "failureResult": {
+                "text": "Ninguno te aprueba, y hasta Kai se ríe de ti.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "ninjutsu",
+                    "percent": 1,
+                    "mode": "nerf"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wish-choices",
+      "title": "Elección de deseo",
+      "worldIds": ["torneo_haseo"],
+      "minFloor": 1,
+      "maxFloor": 9999,
+      "startNodeId": "intro",
+      "nodes": [
+        {
+          "id": "intro",
+          "title": "Elección de deseo",
+          "text": "Te encuentras confundido, hace unos segundos estabas gravemente herido, pero resultaste victorioso de tu encuentro con uno de los participantes del torneo, esperabas caer inconsciente y hasta dudaste por un segundo si realmente ese otsutsuki te curaría de verdad pero te encuentras bien, no tienes ninguna herida y ni siquiera has caído al suelo. -Muy bien, tienes un deseo- Dice Haseo, entonces te preguntas: ¿En que deberías de gastarlo? Ha habido muchas perdidas, hay errores del pasado que quieres corregir, pero también quieres ayudar a los tuyos, así que, tras pensarlo, decides...",
+          "choices": [
+            {
+              "id": "safe",
+              "label": "Deseas más poder",
+              "description": "Deseas incrementar tu fuerza, ya que al reflexionar en el esfuerzo que has dedicado en ganar esta batalla, dudas si podrás con la siguiente ",
+              "successChance": 0.75,
+              "successResult": {
+                "text": "-Está bien- Dice Haseo, y tras un breve momento, notas tu fuerza crecer, pero tu cuerpo se hace pesado.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": ["fisico","velocidad"],
+                    "percent1": 3,
+		    "percent2": 2,
+
+                    "mode": "nerfandbuff",
+                    "nerf": "velocidad",
+                    "buff": "fisico"
+                  }
+                ]
+              },
+              "failureResult": {
+                "text": "-Está bien- Dice Haseo, y tras un breve momento, notas como tu deseo al ser algo vago, reduce tu fuerza como resultado.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "ninjutsu",
+                    "percent": 3,
+                    "mode": "nerf"
+                  }
+                ]
+              }
+            },
+            {
+               "id": "death-wish",
+              "label": "Deseas revivir a los que has perdido",
+              "description": "Eres incapaz de aguantar tus pensamientos, deseas tanto volver a ver a tus seres queridos que sucumbes a tus pensamientos y deseas que vuelvan a la vida.",
+              "result": {
+                "text": "Haseo te mira con algo de decepción, y antes de cumplir tu deseo suspira, y entonces tu corazón comienza a doler. -Ya esta hecho, puedes irte tranquilo- Es cierto, los deseos de Haseo siempre tienen un costo, y revivir a aquellos que tanto amabas, te ha costado tu propia vida. Inevitablemente notas como todo se apaga, y simplemente caes al suelo abandonando a aquellos que te necesitan en el torneo por tu deseo egoísta.",
+              }
+            },
+            {
+              "id": "back-in-time",
+              "label": "Deseas volver atrás",
+              "description": "Crees firmemente que con tu conocimiento actual, serias capaz de hacer las cosas de forma diferente y aspirar a por un mejor futuro.",
+              "result": {
+                "text": "Haseo te mira con disgusto -¿En serio eres incapaz de vivir con tus errores pasados?- dice con un tono de asco, y tras un rato, acepta y cumple tu deseo haciendo que vuelvas atrás en el tiempo.",
+                "nextNodeId": "new-horizon"
+              }
+            }
+          ]
+        },
+        {
+          "id": "new-horizon",
+          "title": "Segunda oportunidad",
+          "text": "Tras un gran destello de luz, miras a tu alrededor, y lo confirmas, has vuelto al pasado y sigues recordando lo que has vivido anteriormente, pero notas como tu fuerza es menor que la que deberías de tener en ese entonces y como tu cuerpo es más débil que la ultima vez. Entonces lo recuerdas, los recuerdos de Haseo son deseos que tienen un precio dependiendo de en que consista, pero eso no importa, consideras este precio como algo barato y entonces, empiezas a aclarar tu mente para que hacer con esta nueva oportunidad.",
+          "choices": [
+            {
+              "id": "changes",
+              "label": "Decides arreglar tus errores del pasado.",
+              "description": "Recuerdas a la perfección de las decisiones que te arrepientes, así que esta vez, cambiarás las cosas.",
+              "outcomes": [
+                {
+                  "chance": 0.5,
+                  "status": "success",
+                  "result": {
+                    "text": "Cuando llegan los momentos que recordabas, tomaste una decisión diferente, cambiando tu futuro, y arreglando la deuda que creías tener.",
+                    "nextNodeId": "consequences"
+                  }
+                },
+                {
+                  "chance": 0.5,
+                  "status": "failure",
+                  "result": {
+                    "text": "Tu destino siempre será el mismo, da igual lo que hagas, nunca dejarás de sufrir.",
+                    "effects": [
+                      {
+                        "type": "cardStatPercent",
+                        "target": "random-run-card",
+                        "stat": "all-stats",
+                        "percent": 2,
+                        "mode": "nerf"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "id": "prepare",
+              "label": "Te preparas para el futuro",
+              "description": "Sabes que volviste para arreglar tus errores, pero tu consciencia solo puede pensar en aquellos que te necesitarán el día de mañana, y te preparas para ello.",
+              "outcomes": [
+                {
+                  "chance": 0.55,
+                  "status": "success",
+                  "result": {
+                    "text": "Permites que las cosas pasen como fueron originalmente, pero secretamente te vuelves cada vez más y más fuerte, llegando al torneo de Haseo con una fuerza mucho mayor a la del primer intento.",
+                    "effects": [
+                      {
+                        "type": "cardStatPercent",
+                        "target": "random-run-card",
+                        "stat": "ninjutsu",
+                        "percent": 8
+                      }
+                    ]
+                  }
+                },
+                {
+                  "chance": 0.45,
+                  "status": "failure",
+                  "result": {
+                    "text": "Al tener tu cuerpo debilitado y tener una mala gestión del tiempo, no solo sigues viviendo con arrepentimiento si no que llegas con una fuerza tan mediocre que deseas haber seguido luchando en tu primer intento.",
+                    "effects": [
+                      {
+                        "type": "cardStatPercent",
+                        "target": "random-run-card",
+                        "stat": "ninjutsu",
+                        "percent": 8,
+                        "mode": "nerf"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "consequences",
+          "title": "Las consecuencias",
+          "text": "Al haber cambiado el pasado, nuevas vías se abren, las cuales en su mayoría cambian el futuro a peor, ahora, necesitas tomar una decisión.",
+          "choices": [
+            {
+              "id": "egoist",
+              "label": "Te quedas con tu moribunda familia",
+              "description": "Están en sus últimos momentos, esta vez, estarás con ellos hasta el final, aunque eso signifique no presentarte al torneo de Haseo.",
+              "successChance": 1,
+              "successResult": {
+                "text": "Estás con ellos hasta el final, ves como su vida se apaga en frente de tus ojos, pero al sentir semejante dolor, encuentras una nueva fuerza interior, una determinación para luchar por que nadie sufra lo mismo que tú.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "ninjutsu",
+                    "percent": 3
+                  }
+                ]
+              },
+              "failureResult": {
+                "text": "No llegas a tiempo, en cuanto entras a casa, tu familia ya esta muerta. No puedes vivir con la culpa de saber que otra vez, tu familia ha muerto sola, asustada y sufriendo.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "ninjutsu",
+                    "percent": 3,
+                    "mode": "nerf"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+  "id": "edo-tensei",
+  "title": "Edo Tensei",
+  "worldIds": ["torneo_haseo"],
+  "minFloor": 1,
+  "maxFloor": 9999,
+  "startNodeId": "intro",
+  "nodes": [
+    {
+      "id": "intro",
+      "title": "Edo tensei",
+      "text": "Abres los ojos, estás extrañado, recuerdas como hace poco estabas en otro lugar completamente diferente, pero ahora te encuentras rodeado de desconocidos y entonces te llega una presencia extremadamente poderosa que te pone en alerta casi que de manera instintiva. -Bienvenidos- dice la imponente voz. -Mi nombre es Otsutsuki Haseo, y os he revivido a vosotros luchadores sobresalientes de este planeta para participar en mi torneo- ¿Revivido? piensas. Miras tus manos y ves unas marcas familiares. Entonces todo te cuadra por fin, eres un edo tensei. -¿Participar en un torneo?- piensas confuso, y al poco rato Haseo explica su funcionamiento y los premios de los vencedores, entonces tu mente establece un objetivo.",
+      "choices": [
+        {
+          "id": "test",
+          "label": "Decides probar a la nueva generación",
+          "description": "Eres consciente de que tu tiempo se acabó, viviste tu vida y no te arrepientes de tus decisiones, pero te preocupa que la siguiente generación esté preparada para lo que se avecina.",
+          "result": {
+            "text": "Aceptas el trabajo impuesto por Haseo, entonces analizas cada batalla y tras un tiempo, te encuentras frente a frente con tus contrincantes.",
+            "nextNodeId": "decision"
+          }
+        },
+        {
+          "id": "ambition",
+          "label": "Decides luchar por tus propios beneficios",
+          "description": "Ves todo esto como una oportunidad de oro, si logras ganar lo suficiente, serías capaz de obtener un deseo para ti mismo.",
+          "result": {
+            "text": "Emocionado, aceptas el trabajo de Haseo, y esperas ansioso el momento en el que conseguirás tu deseo.",
+            "nextNodeId": "fight"
+          }
+        }
+      ]
+    },
+    {
+      "id": "decision",
+      "title": "Decepcion generacional",
+      "text": "Aunque habíais estado analizando en las batallas previas la fuerza de aquellos que podrían ser tus descendientes, cuando por fin llega el momento de enfrentarte a ellos personalmente la derrota de tus enemigos es abrumadora dejando incluso insatisfecho.",
+      "choices": [
+        {
+          "id": "disgust",
+          "label": "Sientes asco",
+          "description": "No sabes ni cómo es que acabaron en este torneo, así que decides acabar con sus vidas.",
+          "outcomes": [
+            {
+              "chance": 0.9,
+              "status": "success",
+              "result": {
+                "text": "Acabas con las vidas de tus enemigos, y pierdes la motivación al pensar que esta generación es un desperdicio, por lo que descartas tu deseo para rendirte en tu siguiente batalla y volver a la muerte."
+              }
+            },
+            {
+              "chance": 0.1,
+              "status": "failure",
+              "result": {
+                "text": "Aunque ibas a rematar a tus enemigos, en el último momento consiguen derrotarte, lo que te sorprende y hace que vuelvas a la muerte con una sonrisa en el rostro.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "all-stats",
+                    "percent": 5
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": "pity",
+          "label": "Sientes piedad",
+          "description": "Pese a que te han decepcionado, la piedad que siente tu corazón impide que acabes con ellos.",
+          "outcomes": [
+            {
+              "chance": 0.35,
+              "status": "success",
+              "result": {
+                "text": "Les transmites tu conocimiento, les explicas donde cometieron errores y donde deben de fortalecerse y entonces te rindes, descalificándote y te deshacen el edo tensei, pero te vas sabiendo que hiciste lo correcto.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "velocidad",
+                    "percent": 5
+                  }
+                ]
+              }
+            },
+            {
+              "chance": 0.65,
+              "status": "failure",
+              "result": {
+                "text": "Ellos aprovechan que estás hablando y te atacan, por lo que reaccionas y acabas con ellos, matándolos, haciendo que todo esto sea inútil.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "all-stats",
+                    "percent": 3,
+                    "mode": "nerf"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fight",
+      "title": "Contra la espada y la pared",
+      "text": "Para tu sorpresa tus rivales te dan una batalla como las que tenías en tus días de gloria, y finalmente te ves ante la espada y la pared y todo apunta a que vas a perder.",
+      "choices": [
+        {
+          "id": "forfeit",
+          "label": "Te rindes",
+          "description": "Reconoces la fuerza de tus rivales y aceptas tu derrota.",
+          "outcomes": [
+            {
+              "chance": 0.7,
+              "status": "success",
+              "result": {
+                "text": "Eres eliminado con un corte limpio, la batalla ha terminado."
+              }
+            },
+            {
+              "chance": 0.3,
+              "status": "failure",
+              "result": {
+                "text": "Ellos valoran como acabaste respetándoles, y por lo tanto te dan una muerte gloriosa, lo que te llena de orgullo.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "all-stats",
+                    "percent": 4
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": "rat's-moves",
+          "label": "Juegas sucio",
+          "description": "Finges quedarte sin fuerzas, buscando que bajen la guardia acercándose a ti para contraatacar.",
+          "outcomes": [
+            {
+              "chance": 0.35,
+              "status": "success",
+              "result": {
+                "text": "Una vez te ven caer, tus enemigos se acercan para atravesarte, y aprovechas la corta distancia para cortarlos a ambos en dos, resultando victorioso de esta forma.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "all-stats",
+                    "percent": 2
+                  }
+                ]
+              }
+            },
+            {
+              "chance": 0.65,
+              "status": "failure",
+              "result": {
+                "text": "Tus rivales tienen más experiencia de la que pensabas, por lo que deciden acabarte con un ataque a distancia que, al haber estado fingiendo, no consigues esquivar a tiempo y vuelves a la muerte.",
+                "effects": [
+                  {
+                    "type": "cardStatPercent",
+                    "target": "random-run-card",
+                    "stat": "all-stats",
+                    "percent": 5,
+                    "mode": "nerf"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
     }
+  ]
+}
   ]
 }
