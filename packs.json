@@ -1,4 +1,5 @@
-[
+{
+  "packs": [
   { "id": "sobre_bronce",
     
     "name": "Sobre Bronce", "cardsPerPack": 1, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_bronce.png", "strategy": "qualityMedia",
@@ -44,7 +45,6 @@
     "Oro": 30,
     "Icono": 10
     },
-    "stock": 5,
     "openingGradient": ["#FFF4B5", "#FDE68A", "#FACC15"],
     "price": { "coins": 5000, "kvr": 10 }
   },
@@ -81,4 +81,13 @@
   "openingGradient": ["#FDE68A", "#60A5FA", "#1D4ED8"],
   "price": { "coins": 100000, "kvr": 1000 }
 }
-]
+],
+"shop": [
+    { "id": "sobre_bronce", "order": 1 },   
+    { "id": "sobre_plata" },
+    { "id": "sobre_oro" },
+    { "id": "sobre_mix_limitado", "stock": 10 },
+    { "id": "sobre_oc" },
+    { "id": "sobre_caminante", "stock": 5 }
+  ]
+}
