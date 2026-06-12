@@ -32,6 +32,28 @@
       "tradeable": false,
       "permanent": true,
       "consumable": false
+    },
+    {
+      "id": "anulo",
+      "name": "ANULO",
+      "description": "Obliga a tu rival a cambiar de stat, sin dejarle usar la que él quiere para este turno.",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/powers/anulo.png",
+      "rarity": "common",
+      "default": true,
+      "tradeable": false,
+      "permanent": true,
+      "consumable": false
+    },
+    {
+      "id": "intercambio",
+      "name": "INTERCAMBIO",
+      "description": "Haz que tu carta actual se intercambie aleatoriamente, convirtiéndose en una carta de tu rival aleatoria.",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/powers/intercambio.png",
+      "rarity": "common",
+      "default": true,
+      "tradeable": false,
+      "permanent": true,
+      "consumable": false
     }
   ]
 }
