@@ -1,0 +1,165 @@
+{
+  "entregables": [
+    {
+      "id": "starter_pack",
+      "nombre": "Primer Intercambio",
+      "tipo": "permanente",
+      "descripcion": "Entrega 3 cartas con media mínima de 75.",
+      "imagenes": [
+        "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_oro.png",
+        "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_plata.png"
+      ],
+      "limites": {
+        "minCartas": 3,
+        "maxCartas": 3
+      },
+      "requisitos": {
+        "mediaMinima": 75,
+        "mediaMaxima": null,
+        "cartasEspecificas": [],
+        "calidades": ["Oro"],
+        "stats": {
+          "ninjutsuMin": null,
+          "ninjutsuMax": null,
+          "taijutsuMin": null,
+          "taijutsuMax": null,
+          "velocidadMin": null,
+          "velocidadMax": null,
+          "defensaMin": null,
+          "defensaMax": null,
+          "resistenciaMin": null,
+          "resistenciaMax": null,
+          "fisicoMin": null,
+          "fisicoMax": null
+        },
+        "procedencias": {
+          "minimo": {},
+          "maximo": {}
+        },
+        "owners": {
+          "minimo": {},
+          "maximo": {}
+        }
+      },
+      "recompensas": {
+        "coins": 1000
+        "packs": [
+          {
+            "id": "sobre_oro",
+            "cantidad": 1
+          },
+          {
+            "id": "sobre_plata",
+            "cantidad": 1
+          }
+        ]
+      },
+      "repetible": false
+    },
+    {
+      "id": "ninjutsu_challenge",
+      "nombre": "Reto del Ninjutsu",
+      "tipo": "evento",
+      "descripcion": "Entrega 2 cartas con Ninjutsu mínimo de 80 y calidad Oro o Icono.",
+      "imagenes": [
+        "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_oc.png"
+      ],
+      "limites": {
+        "minCartas": 2,
+        "maxCartas": 2
+      },
+      "requisitos": {
+        "mediaMinima": null,
+        "mediaMaxima": null,
+        "cartasEspecificas": [],
+        "calidades": ["Oro", "Icono"],
+        "stats": {
+          "ninjutsuMin": 80,
+          "ninjutsuMax": null,
+          "taijutsuMin": null,
+          "taijutsuMax": null,
+          "velocidadMin": null,
+          "velocidadMax": null,
+          "defensaMin": null,
+          "defensaMax": null,
+          "resistenciaMin": null,
+          "resistenciaMax": null,
+          "fisicoMin": null,
+          "fisicoMax": null
+        },
+        "procedencias": {
+          "minimo": {},
+          "maximo": {}
+        },
+        "owners": {
+          "minimo": {},
+          "maximo": {}
+        }
+      },
+      "recompensas": {
+        "packs": [
+          {
+            "id": "sobre_oc",
+            "cantidad": 2
+          }
+        ]
+      },
+      "repetible": true
+    },
+    {
+      "id": "hispania_glory",
+      "nombre": "Gloria de Hispania",
+      "tipo": "evento",
+      "descripcion": "Entrega 1 carta que pertenezca a Hispania y cuyo owner original sea HugoMan1307.",
+      "imagenes": [
+        "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_oro.png"
+      ],
+      "limites": {
+        "minCartas": 1,
+        "maxCartas": 1
+      },
+      "requisitos": {
+        "mediaMinima": null,
+        "mediaMaxima": null,
+        "cartasEspecificas": [],
+        "calidades": [],
+        "stats": {
+          "ninjutsuMin": null,
+          "ninjutsuMax": null,
+          "taijutsuMin": null,
+          "taijutsuMax": null,
+          "velocidadMin": null,
+          "velocidadMax": null,
+          "defensaMin": null,
+          "defensaMax": null,
+          "resistenciaMin": null,
+          "resistenciaMax": null,
+          "fisicoMin": null,
+          "fisicoMax": null
+        },
+        "procedencias": {
+          "minimo": {
+            "Hispania": 1
+          },
+          "maximo": {}
+        },
+        "owners": {
+          "minimo": {
+            "HugoMan1307": 1
+          },
+          "maximo": {}
+        }
+      },
+      "recompensas": {
+        "coins": 2000,
+        "packs": [
+          {
+            "id": "sobre_mix_limitado",
+            "cantidad": 1
+          }
+        ]
+      },
+      "repetible": false
+    }
+  ]
+}
