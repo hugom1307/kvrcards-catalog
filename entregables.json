@@ -42,7 +42,7 @@
         }
       },
       "recompensas": {
-        "coins": 1000
+        "coins": 1000,
         "packs": [
           {
             "id": "sobre_oro",
