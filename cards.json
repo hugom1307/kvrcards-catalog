@@ -1472,7 +1472,7 @@
     "id": "kiri_uzumaki",
     "name": "Kiri Uzumaki",
     "stats": [92,65,70,88,88,70],
-    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kiri.png",
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kiri_icono.png",
     "media":82 ,
     "calidad": "Icono",
     "valor":10000 ,
@@ -1484,7 +1484,7 @@
     "id": "kinan_hatake",
     "name": "Kinan Hatake",
     "stats": [60,92,86,91,85,87],
-    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kinan.png",
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kinan_icono.png",
     "media":84 ,
     "calidad": "Icono",
     "valor":10000 ,
@@ -1496,7 +1496,7 @@
     "id": "zagren_senju",
     "name": "Zagren Senju",
     "stats": [91,80,83,87,82,79],
-    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/zagren.png",
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/zagren_heroe.png",
     "media":85 ,
     "calidad": "Heroe",
     "valor":10000 ,
@@ -1605,5 +1605,16 @@
     "valor": 2500,
     "procedencia": "Desconocido",
     "owner": "HugoMan1307"
+  },
+  {
+    "id": "suzaku",
+    "name": "Suzaku",
+    "stats": [83,60,80,83,80,81],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/suzaku.png",
+    "media": 78,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Gokei",
+    "owner": "Adrianpepo"
   }
 ]
