@@ -1239,5 +1239,371 @@
     "valor": 2500,
     "procedencia": "El Otro Mundo",
     "owner": "HugoMan1307"
+  },
+  {
+    "id": "lai",
+    "name": "Lai",
+    "stats": [66,59,65,68,60,70],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/lai.png",
+    "media":64 ,
+    "calidad": "Bronce",
+    "valor":100 ,
+    "procedencia": "Desconocido",
+    "owner": "HugoMan1307"
+  },
+
+{
+    "id": "dragon_dorado",
+    "name": "Dragón Dorado",
+    "stats": [87,70,84,83,76,80],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/dragon.png",
+    "media":82 ,
+    "calidad": "Oro",
+    "valor":2500 ,
+    "procedencia": "Desconocido",
+    "owner": "Wailant"
+  },
+
+{
+    "id": "akarui_noroi",
+    "name": "Akarui Noroi",
+    "stats": [85,77,78,82,81,83],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/akarui.png",
+    "media": 81,
+    "calidad": "Oro",
+    "valor":2500 ,
+    "procedencia": "Kizoku",
+    "owner": "Wailant"
+  },
+
+{
+    "id": "luck_raizen",
+    "name": "Luck Raizen",
+    "stats": [89,86,81,88,85,71],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/luck.png",
+    "media": 85,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Kumogakure",
+    "owner": "HugoMan1307"
+  },
+
+{
+    "id": "yasumi_noroi",
+    "name": "Yasumi Noroi",
+    "stats": [82,78,80,77,73,75],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/yasumi.png",
+    "media": 78,
+    "calidad": "Oro",
+    "valor":2500 ,
+    "procedencia": "Kizoku",
+    "owner": "Alecrackman"
+  },
+
+{
+    "id": "buer",
+    "name": "Buer",
+    "stats": [92,86,88,81,80,80],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/buer.png",
+    "media":86 ,
+    "calidad": "Oro",
+    "valor":2500 ,
+    "procedencia": "El Otro Mundo",
+    "owner": "HugoMan1307"
+  },
+
+{
+    "id": "sora_inazuma",
+    "name": "Sora Inazuma",
+    "stats": [65,62,59,68,55,70],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sora.png",
+    "media":62 ,
+    "calidad": "Bronce",
+    "valor":100 ,
+    "procedencia": "Kumogakure",
+    "owner": "Alecrackman"
+  },
+
+{
+    "id": "raiden_senjuro",
+    "name": "Raiden Senjuro",
+    "stats": [87,77,83,85,77,75],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/senjuro.png",
+    "media": 82,
+    "calidad": "Oro",
+    "valor":2500 ,
+    "procedencia": "Konohagakure",
+    "owner": "Grejino02"
+  },
+
+{
+    "id": "hashin_otsutsuki",
+    "name": "Hashin Otsutsuki",
+    "stats": [89,85,82,80,81,80],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/hashin.png",
+    "media":83 ,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Desconocido",
+    "owner": "HugoMan1307"
+  },
+
+{
+    "id": "kontono_shisai",
+    "name": "Kontono Shisai",
+    "stats": [75,58,70,65,66,74],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kontono.png",
+    "media":66 ,
+    "calidad": "Plata",
+    "valor":500 ,
+    "procedencia": "Mundo Subterráneo",
+    "owner": "Grejino02"
+  },
+
+{
+    "id": "dakukaosu",
+    "name": "Dakukaosu",
+    "stats": [78,78,75,81,81,75],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/dakukaosu.png",
+    "media":78 ,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Desconocido",
+    "owner": "TaiyoDL"
+  },
+
+{
+    "id": "tenge_inoue",
+    "name": "Tenge Inoue",
+    "stats": [78,70,65,74,72,74],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/tenge.png",
+    "media": 72,
+    "calidad": "Plata",
+    "valor":500 ,
+    "procedencia": "Desconocido",
+    "owner": "HugoMan1307"
+  },
+
+{
+    "id": "zanin_kiba",
+    "name": "Zan'in Kiba",
+    "stats": [83,93,88,85,78,85],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kiba.png",
+    "media":86 ,
+    "calidad": "Oro",
+    "valor":2500 ,
+    "procedencia": "Mundo Subterráneo",
+    "owner": "HugoMan1307"
+  },
+
+{
+    "id": "senso_hyuga",
+    "name": "Sensō Hyuga",
+    "stats": [70,85,80,70,70,75],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/senso.png",
+    "media":75 ,
+    "calidad": "Oro",
+    "valor":2500 ,
+    "procedencia": "Amegakure",
+    "owner": "TaiyoDL"
+  },
+
+{
+    "id": "maria_jose",
+    "name": "María José",
+    "stats": [61,70,60,62,59,73],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/maria.png",
+    "media":64 ,
+    "calidad": "Bronce",
+    "valor":100 ,
+    "procedencia": "Amegakure",
+    "owner": "HugoMan1307"
+  },
+
+{
+    "id": "yuichi_jin",
+    "name": "Yuichi Jin",
+    "stats": [69,70,55,60,55,70],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/yuichi.png",
+    "media":64 ,
+    "calidad": "Bronce",
+    "valor":100 ,
+    "procedencia": "Desconocido",
+    "owner": "Alecrackman"
+  },
+
+{
+    "id": "sora_sato",
+    "name": "Sora Sato",
+    "stats": [63,74,69,70,66,75],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sorasato.png",
+    "media":69 ,
+    "calidad": "Plata",
+    "valor":500 ,
+    "procedencia": "Jinushi",
+    "owner": "Adrianpepo"
+  },
+
+{
+    "id": "rio_sato",
+    "name": "Rio Sato",
+    "stats": [65,65,62,68,67,70],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/rio.png",
+    "media":65 ,
+    "calidad": "Plata",
+    "valor":500 ,
+    "procedencia": "Jinushi",
+    "owner": "TaiyoDL"
+  },
+
+{
+    "id": "shinpi",
+    "name": "Shinpi",
+    "stats": [68,62,59,62,60,70],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/shinpi.png",
+    "media":64 ,
+    "calidad": "Bronce",
+    "valor":100 ,
+    "procedencia": "Desconocido",
+    "owner": "HugoMan1307"
+  },
+
+{
+    "id": "kiri_uzumaki",
+    "name": "Kiri Uzumaki",
+    "stats": [92,65,70,88,88,70],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kiri.png",
+    "media":82 ,
+    "calidad": "Icono",
+    "valor":10000 ,
+    "procedencia": "Atsuigakure",
+    "owner": "TaiyoDL"
+  },
+
+{
+    "id": "kinan_hatake",
+    "name": "Kinan Hatake",
+    "stats": [60,92,86,91,85,87],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kinan.png",
+    "media":84 ,
+    "calidad": "Icono",
+    "valor":10000 ,
+    "procedencia": "Amegakure",
+    "owner": "HugoMan1307"
+  },
+
+{
+    "id": "zagren_senju",
+    "name": "Zagren Senju",
+    "stats": [91,80,83,87,82,79],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/zagren.png",
+    "media":85 ,
+    "calidad": "Heroe",
+    "valor":10000 ,
+    "procedencia": "Amegakure",
+    "owner": "Preput777"
+  },
+
+{
+    "id": "raiden_senjuro_au",
+    "name": "Raiden Senjuro(AU)",
+    "stats": [84,76,80,79,76,77],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/senjuroau.png",
+    "media":79 ,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Desconocido",
+    "owner": "HugoMan1307"
+  },
+
+{
+    "id": "kyo",
+    "name": "Kyō",
+    "stats": [70,50,60,65,55,50],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kyo.png",
+    "media":60 ,
+    "calidad": "Bronce",
+    "valor":100 ,
+    "procedencia": "Gokei",
+    "owner": "Adrianpepo"
+  },
+{
+    "id": "sentei",
+    "name": "Sentei",
+    "stats": [79,75,71,70,72,76],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sentei.png",
+    "media":74 ,
+    "calidad": "Plata",
+    "valor":500 ,
+    "procedencia": "Desconocido",
+    "owner": "Adrianpepo"
+  },
+{
+    "id": "alpha",
+    "name": "Alpha",
+    "stats": [88,84,80,85,78,81],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/alpha.png",
+    "media":82 ,
+    "calidad": "Oro",
+    "valor":2500 ,
+    "procedencia": "Desconocido",
+    "owner": "HugoMan1307"
+  },
+{
+    "id": "gaara_zombie",
+    "name": "Gaara Zombie",
+    "stats": [90,70,82,80,85,70],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/gaarazombie.png",
+    "media":80 ,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Sunagakure",
+    "owner": "HugoMan1307"
+  },
+{
+    "id": "dracule_feisan",
+    "name": "Dracule Feisan",
+    "stats": [64,70,66,70,62,72],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/dracule.png",
+    "media": 67,
+    "calidad": "Plata",
+    "valor":500 ,
+    "procedencia": "Sunagakure",
+    "owner": "Preput777"
+  },
+
+{
+    "id": "iyara_rikudo",
+    "name": "Iyara Rikudo",
+    "stats": [93,88,85,87,82,79],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/iyara.png",
+    "media": 86,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Desconocido",
+    "owner": "Grejino02"
+  },
+{
+    "id": "tv",
+    "name": "TV",
+    "stats": [86,70,79,81,75,74],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/tv.png",
+    "media":79 ,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Desconocido",
+    "owner": "Wailant"
+  },
+
+{
+    "id": "araunoto",
+    "name": "Araunoto",
+    "stats": [86,77,84,80,78,79],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/araunoto.png",
+    "media": 81,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Desconocido",
+    "owner": "HugoMan1307"
   }
 ]
