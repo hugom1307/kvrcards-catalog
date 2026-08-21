@@ -32,45 +32,242 @@
   "items": [
     {
       "id": "item_001",
-      "name": "Objeto de Ejemplo",
-      "description": "Este es un objeto de ejemplo para la estructura de la tienda.",
-      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
+      "name": "Sillón místico ¿con hélices?",
+      "description": "Aumenta la defensa y la velocidad de una carta aleatoria en un 5%.",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item001.png",
       "price": {
-      "amount": 100,
+      "amount": 30,
+      "currency": "infinite-coins"
+      },
+      "type": "buff",
+      "rarity": "legendary",
+      "minLevel": 18,
+      "quantity": 2
+    },
+
+{
+      "id": "item_002",
+      "name": "Corona de la conquista",
+      "description": "Aumenta 2pts todas las stats de las tropas de Jinushi y baja 1pt todas las stats de las tropas de kizoku.",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item002.png",
+      "price": {
+      "amount": 15,
+      "currency": "infinite-coins"
+      },
+      "type": "buff",
+      "rarity": "epic",
+      "minLevel": 5,
+      "quantity": 5
+    },
+
+{
+      "id": "item_003",
+      "name": "Espadas del espadachín maldito",
+      "description": "Aumenta 7 pts de taijutsu a una carta a elección pero baja 5 pts de ninjutsu.",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item003.png",
+      "price": {
+      "amount": 25,
+      "currency": "infinite-coins"
+      },
+      "type": "buff",
+      "rarity": "legendary",
+      "minLevel": 24,
+      "quantity": 2
+    },
+
+{
+      "id": "item_004",
+      "name": "Pergamino M",
+      "description": "Aumenta 1pt a una stat a elección de una carta a elección.",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item004.png",
+      "price": {
+      "amount": 2,
+      "currency": "infinite-coins"
+      },
+      "type": "buff",
+      "rarity": "common",
+      "minLevel": 1,
+      "quantity": 10
+    },
+
+{
+      "id": "item_005",
+      "name": "Pergamino L",
+      "description": "Aumenta 2pts a una stat a elección de una carta a elección.",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item005.png",
+      "price": {
+      "amount": 5,
+      "currency": "infinite-coins"
+      },
+      "type": "buff",
+      "rarity": "rare",
+      "minLevel": 5,
+      "quantity": 8
+    },
+
+{
+      "id": "item_006",
+      "name": "Pergamino S",
+      "description": "Aumenta 3pts a una stat a elección de una carta a elección.",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item006.png",
+      "price": {
+      "amount": 8,
+      "currency": "infinite-coins"
+      },
+      "type": "buff",
+      "rarity": "epic",
+      "minLevel": 10,
+      "quantity": 6
+    },
+
+{
+      "id": "item_007",
+      "name": "Pergamino SS",
+      "description": "Aumenta 4pts a una stat a elección de una carta a elección.",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item007.png",
+      "price": {
+      "amount": 12,
+      "currency": "infinite-coins"
+      },
+      "type": "buff",
+      "rarity": "legendary",
+      "minLevel": 15,
+      "quantity": 4
+    },
+
+{
+      "id": "item_008",
+      "name": "Pergamino SSS",
+      "description": "Aumenta 5pts a una stat a elección de una carta a elección.",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item008.png",
+      "price": {
+      "amount": 15,
+      "currency": "infinite-coins"
+      },
+      "type": "buff",
+      "rarity": "knight",
+      "minLevel": 25,
+      "quantity": 2
+    },
+
+{
+      "id": "item_009",
+      "name": "Chapa de ciudadano",
+      "description": "Recibes una carta de calidad bronce, dicha carta puede ser añadida a tu mazo como reemplazo de otra carta o venderla y recibir su precio del modo normal en coins (Estas cartas no se quedaran en tu mazo cuando acabe la rom).",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item009.png",
+      "price": {
+      "amount": 5,
       "currency": "infinite-coins"
       },
       "type": "consumable",
       "rarity": "common",
-      "minLevel": 1,
+      "minLevel": 5,
+      "quantity": 20
+    },
+
+{
+      "id": "item_010",
+      "name": "Chapa de shinobi",
+      "description": "Recibes una carta con media (60-72), dicha carta puede ser añadida a tu mazo como reemplazo de otra carta o venderla y recibir su precio del modo normal en coins (Estas cartas no se quedaran en tu mazo cuando acabe la rom).",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item010.png",
+      "price": {
+      "amount": 7,
+      "currency": "infinite-coins"
+      },
+      "type": "consumable",
+      "rarity": "rare",
+      "minLevel": 8,
+      "quantity": 15
+    },
+
+{
+      "id": "item_011",
+      "name": "Chapa de gran guerrero",
+      "description": "Recibes una carta de calidad plata o de oro si tienes suerte, dicha carta puede ser añadida a tu mazo como reemplazo de otra carta o venderla y recibir su precio del modo normal en coins (Estas cartas no se quedaran en tu mazo cuando acabe la rom).",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item011.png",
+      "price": {
+      "amount": 10,
+      "currency": "infinite-coins"
+      },
+      "type": "consumable",
+      "rarity": "rare",
+      "minLevel": 15,
+      "quantity": 12
+    },
+
+{
+      "id": "item_012",
+      "name": "Chapa de prodigio",
+      "description": "Recibes una carta de calidad oro o superior si tienes suerte, dicha carta puede ser añadida a tu mazo como reemplazo de otra carta o venderla y recibir su precio del modo normal en coins (Estas cartas no se quedaran en tu mazo cuando acabe la rom).",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item012.png",
+      "price": {
+      "amount": 15,
+      "currency": "infinite-coins"
+      },
+      "type": "consumable",
+      "rarity": "epic",
+      "minLevel": 20,
+      "quantity": 8
+    },
+
+{
+      "id": "item_013",
+      "name": "Chapa de leyenda",
+      "description": "Recibes una carta con media (85-92), dicha carta puede ser añadida a tu mazo como reemplazo de otra carta o venderla y recibir su precio del modo normal en coins (Estas cartas no se quedaran en tu mazo cuando acabe la rom).",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item013.png",
+      "price": {
+      "amount": 20,
+      "currency": "infinite-coins"
+      },
+      "type": "consumable",
+      "rarity": "legendary",
+      "minLevel": 30,
       "quantity": 5
     },
-    {
-      "id": "item_002",
-      "name": "Otro Objeto",
-      "description": "Otro objeto de demostración con propiedades personalizables.",
-      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
+
+{
+      "id": "item_014",
+      "name": "Chapa de Deidad",
+      "description": "Recibes una carta con media 90+, dicha carta puede ser añadida a tu mazo como reemplazo de otra carta o venderla y recibir su precio del modo normal en coins (Estas cartas no se quedaran en tu mazo cuando acabe la rom).",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item014.png",
       "price": {
-      "amount": 200,
-      "currency": "coins"
+      "amount": 30,
+      "currency": "infinite-coins"
       },
-      "type": "buff",
-      "rarity": "epic",
-      "minLevel": 1,
+      "type": "consumable",
+      "rarity": "knight",
+      "minLevel": 40,
       "quantity": 2
     },
-    {
-      "id": "item_003",
-      "name": "Objeto Raro",
-      "description": "Este objeto solo aparece en niveles más altos.",
-      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
+
+{
+      "id": "item_015",
+      "name": "Bastón del monstruo de Atsuigakure",
+      "description": "Aumenta 8 pts de ninjutsu y 5pts de defensa a una carta a elección pero baja 6 pts de taijutsu, si la carta pertenece a Atsuigakure tanto los puntos de nerfeo y bufeo suben en 2.",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item015.png",
       "price": {
-      "amount": 500,
-      "currency": "coins"
+      "amount": 35,
+      "currency": "infinite-coins"
       },
       "type": "buff",
-      "rarity": "legendary",
-      "minLevel": 9,
+      "rarity": "knight",
+      "minLevel": 42,
       "quantity": 1
+    },
+
+{
+      "id": "item_016",
+      "name": "Acompañante de la luna",
+      "description": "Permite en el turno actual usar una stat ya usada anteriormente en el combate.",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item016.png",
+      "price": {
+      "amount": 15,
+      "currency": "infinite-coins"
+      },
+      "type": "consumable",
+      "rarity": "epic",
+      "minLevel": 22,
+      "quantity": 5
     }
   ]
 }
