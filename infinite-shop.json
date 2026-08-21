@@ -165,20 +165,7 @@
       "quantity": 20
     },
 
-{
-      "id": "item_010",
-      "name": "Chapa de shinobi",
-      "description": "Recibes una carta con media (60-72), dicha carta puede ser añadida a tu mazo como reemplazo de otra carta o venderla y recibir su precio del modo normal en coins (Estas cartas no se quedaran en tu mazo cuando acabe la rom).",
-      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item010.png",
-      "price": {
-      "amount": 7,
-      "currency": "infinite-coins"
-      },
-      "type": "consumable",
-      "rarity": "rare",
-      "minLevel": 8,
-      "quantity": 15
-    },
+
 
 {
       "id": "item_011",
