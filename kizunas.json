@@ -118,7 +118,7 @@
     "id": "fundadores_ani",
     "title": "Fundadores de la A.N,I",
     "description": "Los miembros originales.",
-    "cardIds": ["kento_rikudo", "kaoru_noroi","raiden_asahi","jose_carmona"],
+    "cardIds": ["kento_rikudo", "kaoru_noroi","asahi_raiden","jose_carmona"],
     "rewards": [
       {
         "type": "coins",
