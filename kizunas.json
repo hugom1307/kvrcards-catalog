@@ -19,7 +19,7 @@
       }
     ]
   },
-  {
+ {
     "id": "boyfriends",
     "title": "Los boyfriends",
     "description": "Los dos novietes.",
@@ -33,6 +33,58 @@
         "type": "pack",
         "packId": "sobre_plata"
       }
+    ]
+  },
+  {
+    "id": "poderes_kizoku",
+    "title": "Los 4 poderes de Kizoku",
+    "description": "Junta al grupo más poderoso e importante del reino de Kizoku.",
+    "cardIds": ["hiro_yuki", "touma_ozoku","dekiru_mizu","meili_harada"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 45000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":5
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oc",
+        "amount":2
+      },
+      {
+        "type":"title",
+        "titleId":"poderes_kizoku"
+    }
+    ]
+  },
+  {
+    "id": "elementales",
+    "title": "Los elementales",
+    "description": "Junta al grupo más poderoso e importante del reino de Kizoku.",
+    "cardIds": ["taka_uzumaki", "sekitan","dekiru_mizu","sukui_uzumaki","kurai_tenro"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 30000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oc",
+        "amount":1
+      },
+      {
+        "type":"title",
+        "titleId":"elemental"
+    }
     ]
   }
 ]
