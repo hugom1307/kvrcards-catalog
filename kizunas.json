@@ -61,10 +61,10 @@
     }
     ]
   },
-  {
+   {
     "id": "elementales",
     "title": "Los elementales",
-    "description": "Junta al grupo más poderoso e importante del reino de Kizoku.",
+    "description": "Aquellos unidos para derrotar al rey elemental.",
     "cardIds": ["taka_uzumaki", "sekitan","dekiru_mizu","sukui_uzumaki","kurai_tenro"],
     "rewards": [
       {
@@ -85,6 +85,133 @@
         "type":"title",
         "titleId":"elemental"
     }
+  ]
+},
+    {
+    "id": "heroes",
+    "title": "Héroes de Kizoku",
+    "description": "La cara pública para el pueblo de Kizoku, aquellos que cargan con sus esperanzas.",
+    "cardIds": ["licht_krieger", "hikaru_uzumaki","yaban_hito"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 12000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount":2
+      },
+      {
+        "type":"title",
+        "titleId":"heroe"
+    }
+    ]
+  },
+
+   {
+    "id": "fundadores_ani",
+    "title": "Fundadores de la A.N,I",
+    "description": "Los miembros originales.",
+    "cardIds": ["kento_rikudo", "kaoru_noroi","raiden_asahi","jose_carmona"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 32000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":3
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount":5
+      },
+      {
+        "type":"title",
+        "titleId":"fundador_ani"
+    }
+    ]
+  },
+    {
+    "id": "fundadores_dam",
+    "title": "Fundadores de la D.A.M",
+    "description": "Los miembros originales.",
+    "cardIds": ["sebastian_godoy", "merlin","isabel_maya","tamiko_ozoku"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 10000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_bronce",
+        "amount":2
+      },
+      {
+        "type":"title",
+        "titleId":"fundador_dam"
+    }
+    ]
+  },
+   {
+    "id": "parejita",
+    "title": "Amor incompleto",
+    "description": "Separados antes de que surgiera el amor.",
+    "cardIds": ["kenji_ikari", "yuri_ivanov"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 2000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount":1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_bronce",
+        "amount":1
+      }
+    ]
+  },
+  {
+    "id": "hermanos_problematicos",
+    "title": "Hermanos problemáticos",
+    "description": "En el fondo se quieren, ¿creo?.",
+    "cardIds": ["ryo_ikari","kenji_ikari", "mikori_fukasa","nagare_fukasa"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 12000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount":2
+      },
+      {
+        "type":"title",
+        "titleId":"hermano_problematico"
+      }
     ]
   }
 ]
