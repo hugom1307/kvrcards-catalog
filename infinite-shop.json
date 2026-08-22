@@ -256,66 +256,7 @@
       "quantity": 1
     },
 
-{
-      "id": "item_016",
-      "name": "Acompañante de la luna",
-      "description": "Permite en el turno actual usar una stat ya usada anteriormente en el combate.",
-      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item016.png",
-      "price": {
-      "amount": 15,
-      "currency": "infinite-coins"
-      },
-      "type": "consumable",
-      "rarity": "epic",
-      "minLevel": 22,
-      "quantity": 5
-    },
-    {
-      "id": "item_017",
-      "name": "Ojos del salvador",
-      "description": "Usando los ojos del salvador predices la stat que usará el enemigo en el siguiente turno.",
-      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item017.png",
-      "price": {
-      "amount": 8,
-      "currency": "infinite-coins"
-      },
-      "type": "consumable",
-      "rarity": "knight",
-      "minLevel": 25,
-      "quantity": 10,
-      "probability":0.25
-    },
 
-{
-      "id": "item_018",
-      "name": "Dagas hermanas de nigromancia",
-      "description": "Durante el siguiente turno, si el rival usa la stat NIN,DEF o FÍS, las dagas actuaran e inutilizaran al enemigo, haciendo que este pierda la ronda sin importar la cantidad de pts que tenga la stat elegida.",
-      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item018.png",
-      "price": {
-      "amount": 20,
-      "currency": "infinite-coins"
-      },
-      "type": "consumable",
-      "rarity": "epic",
-      "minLevel": 15,
-      "quantity": 3,
-      "probability":0.15
-    },
-{
-      "id": "item_019",
-      "name": "Guadaña del nigromante",
-      "description": "Si usas la stat NIN o TAI en el siguiente turno, golpearás el alma de tu oponente, potenciando la stat elegida en un 30%.",
-      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item019.png",
-      "price": {
-      "amount": 30,
-      "currency": "infinite-coins"
-      },
-      "type": "consumable",
-      "rarity": "legendary",
-      "minLevel": 27,
-      "quantity": 3,
-      "probability":0.15
-    },
 
     {
       "id": "item_020",
