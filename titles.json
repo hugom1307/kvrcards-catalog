@@ -53,5 +53,15 @@
     "id": "esperanza_desesperacion",
     "name": "Esperanza y Desesperación",
     "description": "Dos características únicas... ¿la luz de la esperanza, o la oscuridad de la desesperación?"
+  },
+  {
+    "id": "poderes_kizoku",
+    "name": "Poder de Kizoku",
+    "description": "La máxima autoridad y poder del reino de Kizoku, encargados de papeles fundamentales y de hacer prosperar al reino de Kizoku"
+  },
+    {
+    "id": "elemental",
+    "name": "Maestro elemental",
+    "description": "El máximo exponente de cada elemento básico"
   }
 ]
