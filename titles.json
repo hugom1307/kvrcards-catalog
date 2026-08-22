@@ -63,5 +63,30 @@
     "id": "elemental",
     "name": "Maestro elemental",
     "description": "El máximo exponente de cada elemento básico"
+  },
+   {
+    "id": "elemental",
+    "name": "Maestro elemental",
+    "description": "El máximo exponente de cada elemento básico"
+  },
+  {
+    "id": "heroe",
+    "name": "Héroe de Kizoku",
+    "description": "Orgulloso de mantener la seguridad en el reino de kizoku"
+  },
+   {
+    "id": "fundador_ani",
+    "name": "Fundador de la A.N.I",
+    "description": "Perteneciente al grupo que cambiará la historia para siempre"
+  },
+  {
+    "id": "fundador_dam",
+    "name": "Fundador de la D.A.M",
+    "description": "Perteneciente al grupo que detendrá los planes de la A.N.I"
+  },
+    {
+    "id": "hermano_problematico",
+    "name": "Hermano problemático",
+    "description": "Familia disfuncional"
   }
 ]
