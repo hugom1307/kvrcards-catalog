@@ -59,11 +59,6 @@
     "name": "Poder de Kizoku",
     "description": "La máxima autoridad y poder del reino de Kizoku, encargados de papeles fundamentales y de hacer prosperar al reino de Kizoku"
   },
-    {
-    "id": "elemental",
-    "name": "Maestro elemental",
-    "description": "El máximo exponente de cada elemento básico"
-  },
    {
     "id": "elemental",
     "name": "Maestro elemental",
