@@ -365,6 +365,60 @@
         "amount":2
       }
     ]
+  },
+  {
+    "id": "rivalidad",
+    "title": "Rivalidad eterna",
+    "description": "Al comienzo se enfrentaron y al final también, pero nunca perdieron el respeto al otro.",
+    "cardIds": ["kinan_hatake","kiri_uzumaki"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 20000
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":3
+      },
+      {
+        "type": "title",
+        "titleId": "rival"
+        
+      },
+      {
+        "type": "title",
+        "titleId": "rival2"
+        
+      }
+    ]
+  },
+  {
+    "id": "ciencia",
+    "title": "Amantes de la ciencia",
+    "description": "Aquellos que dedicaron su vida o gran parte de ella a la ciencia.",
+    "cardIds": ["meili_harada","isabel_maya","merlin","techno","kaoru_noroi"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 18000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":1
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount":2
+      },
+      {
+        "type": "title",
+        "titleId": "cientifico"
+        
+      }
+    ]
   }
 
 ]
