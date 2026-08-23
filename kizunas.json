@@ -236,7 +236,7 @@
     "id": "familia_maya",
     "title": "Familia Maya",
     "description": "Se dice que el original rompe sofás con su 1%.",
-    "cardIds": ["alberto_maya","pedro_maya","isabel_maya","dario_maya","elena_maya","don_maya"],
+    "cardIds": ["alberto_maya","pedro_maya","isabel_maya","dario_maya","elena_maya","donmaya"],
     "rewards": [
       {
         "type": "coins",
@@ -299,7 +299,7 @@
     "id": "dinero",
     "title": "Plata 🤑",
     "description": "Todo sea por el dinero.",
-    "cardIds": ["zhen_uzumaki","don_gonzales"],
+    "cardIds": ["zhen_uzumaki","dongonzales"],
     "rewards": [
       {
         "type": "coins",
