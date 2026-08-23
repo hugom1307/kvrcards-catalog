@@ -299,7 +299,7 @@
     "id": "dinero",
     "title": "Plata 🤑",
     "description": "Todo sea por el dinero.",
-    "cardIds": ["zhen_uzumaki","dongonzales"],
+    "cardIds": ["zhen_uzumaki","dongonzalez"],
     "rewards": [
       {
         "type": "coins",
