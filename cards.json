@@ -381,7 +381,7 @@
     "media": 83,
     "calidad": "Oro",
     "valor": 2500,
-    "procedencia": "Utrera",
+    "procedencia": "Desconocido",
     "owner": "TaiyoDL"
   },
   {
@@ -392,7 +392,7 @@
     "media": 83,
     "calidad": "Oro",
     "valor": 2500,
-    "procedencia": "Utrera",
+    "procedencia": "Desconocido",
     "owner": "HugoMan1307"
   },
   {
@@ -693,7 +693,7 @@
     "media":83 ,
     "calidad": "Oro",
     "valor":2500 ,
-    "procedencia": "Utrera",
+    "procedencia": "Mundo Subterráneo",
     "owner": "Grejino02"
   },
 
@@ -2111,5 +2111,40 @@
     "valor": 500,
     "procedencia": "Jinushi",
     "owner": "Adrianpepo"
+  },
+  {
+    "id": "jenue_bogai",
+    "name": "Jenue Bogai",
+    "stats": [90, 77, 72, 88, 80, 65],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/jenue.png",
+    "media": 80,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Iri",
+    "owner": "TaiyoDL"
+  },
+
+{
+    "id": "licht_krieger",
+    "name": "Licht Krieger",
+    "stats": [78, 88, 86, 76, 79, 90],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/licht.png",
+    "media": 84,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Kizoku",
+    "owner": "Grejino02"
+  },
+
+{
+    "id": "isabel_maya",
+    "name": "Isabel Maya",
+    "stats": [75, 50, 68, 68, 79, 67],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/isabel.png",
+    "media": 68,
+    "calidad": "Oro",
+    "valor": 2500,
+    "procedencia": "Hispania",
+    "owner": "TaiyoDL"
   }
 ]
