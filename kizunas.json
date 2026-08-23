@@ -5,10 +5,7 @@
     "description": "Dos hermanos unidos por el destino, separados por la luz y la oscuridad de la esperanza y la desesperación.",
     "cardIds": ["kurai_tenro", "sukui_uzumaki"],
     "rewards": [
-      {
-        "type": "kvr",
-        "amount": 100
-      },
+      
       {
         "type": "coins",
         "amount": 10000
@@ -27,11 +24,11 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 5000
+        "amount": 7500
       },
       {
         "type": "pack",
-        "packId": "sobre_plata"
+        "packId": "sobre_bronce"
       }
     ]
   },
@@ -95,7 +92,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 12000
+        "amount": 15000
       },
       {
         "type": "pack",
@@ -118,11 +115,11 @@
     "id": "fundadores_ani",
     "title": "Fundadores de la A.N,I",
     "description": "Los miembros originales.",
-    "cardIds": ["kento_rikudo", "kaoru_noroi","raiden_asahi","jose_carmona"],
+    "cardIds": ["kento_rikudo", "kaoru_noroi","asahi_raiden","jose_carmona"],
     "rewards": [
       {
         "type": "coins",
-        "amount": 32000
+        "amount": 48000
       },
       {
         "type": "pack",
