@@ -83,5 +83,20 @@
     "id": "hermano_problematico",
     "name": "Hermano problemático",
     "description": "Familia disfuncional"
+  },
+  {
+    "id": "maya",
+    "name": "Maya Mancha",
+    "description": "Él único e inigualable"
+  },
+   {
+    "id": "soldado",
+    "name": "Soldado de Kizoku",
+    "description": "Aquellos que se manchan las manos de sangre por el reino de Kizoku"
+  },
+    {
+    "id": "plata",
+    "name": "Quiero plata 🤑",
+    "description": "Todo sea por el dinero"
   }
 ]
