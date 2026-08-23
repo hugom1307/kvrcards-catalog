@@ -122,7 +122,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 32000
+        "amount": 40000
       },
       {
         "type": "pack",
@@ -212,6 +212,101 @@
         "type":"title",
         "titleId":"hermano_problematico"
       }
+    ]
+  },
+  {
+    "id": "duo_diabolico",
+    "title": "Duo Diabólico",
+    "description": "Cuando este duo se junta, el caos y la diversión están asegurados.",
+    "cardIds": ["jenue_bogai","mamoru"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 8000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount":2
+      }
+    ]
+  },
+
+  {
+    "id": "familia_maya",
+    "title": "Familia Maya",
+    "description": "Se dice que el original rompe sofás con su 1%.",
+    "cardIds": ["alberto_maya","pedro_maya","isabel_maya","dario_maya","elena_maya","don_maya"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 8000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":1
+      },
+      {"type":"title",
+    "titleId":"maya"}
+    ]
+  },
+
+   {
+    "id": "familia_feliz",
+    "title": "Familia Feliz",
+    "description": "Cuando todo estaba bien y se podía vivir tranquilo.",
+    "cardIds": ["sekitan","seikatsu","jimmy","miguel_carmona"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 5000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount":1
+      }
+    ]
+  },
+
+   {
+    "id": "soldado_kizoku",
+    "title": "Soldados de Kizoku",
+    "description": "El líder de los soldados de Kizoku junto a su irremplazable mano derecha.",
+    "cardIds": ["zhen_uzumaki","hiro_yuki"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 10000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount":1
+      },
+      {"type":"title",
+    "titleId":"soldado"}
+    ]
+  },
+
+  {
+    "id": "dinero",
+    "title": "Plata 🤑",
+    "description": "Todo sea por el dinero.",
+    "cardIds": ["zhen_uzumaki","don_gonzales"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 15000
+      },
+      {"type":"title",
+    "titleId":"plata"}
     ]
   }
 ]
