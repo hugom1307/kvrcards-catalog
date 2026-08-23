@@ -330,7 +330,7 @@
   {
     "id": "amigos",
     "title": "Amigos del alma",
-    "description": "Los enemigos naturales de Kizoku, cuya sed de expansión no sacia.",
+    "description": "Cada uno era una parte esencial en la vida del otro, mejores amigos separados por la muerte.",
     "cardIds": ["akarui_hoshi","touma_ozoku"],
     "rewards": [
       {
@@ -346,6 +346,23 @@
         "type": "pack",
         "packId": "sobre_plata",
         "amount":1
+      }
+    ]
+  },
+  {
+    "id": "familia_extrania",
+    "title": "Familia extraña",
+    "description": "2 grandes amigos y un niño que cuidar, pero la pobreza y otros factores terminaron desmoronando la unión.",
+    "cardIds": ["einar_rideryon","tobymaru","dongonzalez"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 12000
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount":2
       }
     ]
   }
