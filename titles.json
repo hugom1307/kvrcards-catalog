@@ -103,5 +103,20 @@
     "id": "ikari",
     "name": "Ikari",
     "description": "El clan con más ambición"
+  },
+  {
+    "id": "rival",
+    "name": "⚪ Rival eterno ⚪",
+    "description": "Todo por mis amigos"
+  },
+  {
+    "id": "rival2",
+    "name": "⚫ Rival eterno ⚫",
+    "description": "Todo por mi hijo"
+  },
+  {
+    "id": "cientifico",
+    "name": "Científico",
+    "description": "<<La ciencia es hermosa>>"
   }
 ]
