@@ -19,7 +19,7 @@
       }
     ]
   },
- {
+  {
     "id": "boyfriends",
     "title": "Los boyfriends",
     "description": "Los dos novietes.",
@@ -61,7 +61,7 @@
     }
     ]
   },
-   {
+  {
     "id": "elementales",
     "title": "Los elementales",
     "description": "Aquellos unidos para derrotar al rey elemental.",
@@ -118,11 +118,11 @@
     "id": "fundadores_ani",
     "title": "Fundadores de la A.N,I",
     "description": "Los miembros originales.",
-    "cardIds": ["kento_rikudo", "kaoru_noroi","asahi_raiden","jose_carmona"],
+    "cardIds": ["kento_rikudo", "kaoru_noroi","raiden_asahi","jose_carmona"],
     "rewards": [
       {
         "type": "coins",
-        "amount": 40000
+        "amount": 32000
       },
       {
         "type": "pack",
@@ -214,7 +214,8 @@
       }
     ]
   },
-  {
+
+   {
     "id": "duo_diabolico",
     "title": "Duo Diabólico",
     "description": "Cuando este duo se junta, el caos y la diversión están asegurados.",
@@ -235,7 +236,7 @@
   {
     "id": "familia_maya",
     "title": "Familia Maya",
-    "description": "Se dice que el original rompe sofás con su 1%.",
+    "description": "Se dice que el patriarca rompe sofás con su 1%.",
     "cardIds": ["alberto_maya","pedro_maya","isabel_maya","dario_maya","elena_maya","donmaya"],
     "rewards": [
       {
@@ -303,10 +304,53 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 15000
+        "amount": 20000
       },
       {"type":"title",
     "titleId":"plata"}
     ]
+  },
+
+   {
+    "id": "clan_ikari",
+    "title": "Clan Ikari",
+    "description": "Los enemigos naturales de Kizoku, cuya sed de expansión no sacia.",
+    "cardIds": ["kenji_ikari","ryo_ikari","roy_ikari","tou_ikari"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 30000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":2
+      },
+      {"type":"title",
+    "titleId":"ikari"}
+    ]
+  },
+  {
+    "id": "amigos",
+    "title": "Amigos del alma",
+    "description": "Los enemigos naturales de Kizoku, cuya sed de expansión no sacia.",
+    "cardIds": ["akarui_hoshi","touma_ozoku"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 25000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":1
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount":1
+      }
+    ]
   }
+
 ]
