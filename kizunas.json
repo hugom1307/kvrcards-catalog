@@ -196,12 +196,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 12000
+        "amount": 25000
       },
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":2
+        "amount":1
       },
       {
         "type": "pack",
