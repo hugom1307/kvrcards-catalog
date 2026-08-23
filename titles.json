@@ -98,5 +98,10 @@
     "id": "plata",
     "name": "Quiero plata 🤑",
     "description": "Todo sea por el dinero"
+  },
+  {
+    "id": "ikari",
+    "name": "Ikari",
+    "description": "El clan con más ambición"
   }
 ]
