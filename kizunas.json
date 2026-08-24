@@ -498,6 +498,76 @@
         "amount":1
       }
     ]
+  },
+  {
+    "id": "pecados",
+    "title": "Pecados y padre",
+    "description": "Los pecados invocados por la danza de apocalipsis junto a su segundo portador y padre.",
+    "cardIds": ["iku_tsumori","netami","hokori","donyoku","yokubo","taida","okui","shiroku_kowai"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 20000
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":1
+      }
+    ]
+  },
+  {
+    "id": "kowais",
+    "title": "Familia Kowai",
+    "description": "Una familia común hasta que nacieron sus 3 hijos especiales, lástima que 2 de ellos no llegaron lejos sin la 'ayuda' de su hermano mayor.",
+    "cardIds": ["jin_kowai","azumi_kowai","kenta_kowai","shiroku_kowai","kosuke_kowai"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 10000
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount":2
+      }
+    ]
+  },
+  {
+    "id": "nigromantes",
+    "title": "Nigromantes",
+    "description": "Peligrosos para la vida y el alma de la gente.",
+    "cardIds": ["kenji_nara","shiroku_kowai"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 10000
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":1
+      },
+      {"type":"title",
+    "titleId":"nigromante"}
+    ]
+  },
+ {
+    "id": "animales_misticos",
+    "title": "Animales Místicos",
+    "description": "No se saben que son exactamente, pero definitivamente no son normales y vienen de dioses antiguos.",
+    "cardIds": ["kyo","jimmy","suta"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 5000
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount":1
+      }
+    ]
   }
 
 
