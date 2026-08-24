@@ -171,16 +171,11 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 2000
+        "amount": 2500
       },
       {
         "type": "pack",
         "packId": "sobre_plata",
-        "amount":1
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_bronce",
         "amount":1
       }
     ]
@@ -224,8 +219,8 @@
       },
       {
         "type": "pack",
-        "packId": "sobre_plata",
-        "amount":2
+        "packId": "sobre_oro",
+        "amount":1
       }
     ]
   },
@@ -242,7 +237,7 @@
       },
       {
         "type": "pack",
-        "packId": "sobre_oro",
+        "packId": "sobre_plata",
         "amount":1
       },
       {"type":"title",
@@ -258,7 +253,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 5000
+        "amount": 6000
       },
       {
         "type": "pack",
@@ -366,6 +361,7 @@
       }
     ]
   },
+
   {
     "id": "rivalidad",
     "title": "Rivalidad eterna",
@@ -397,16 +393,16 @@
     "id": "ciencia",
     "title": "Amantes de la ciencia",
     "description": "Aquellos que dedicaron su vida o gran parte de ella a la ciencia.",
-    "cardIds": ["meili_harada","isabel_maya","merlin","techno","kaoru_noroi"],
+    "cardIds": ["meili_harada","isabel_maya","merlin","techno","kiri_uzumaki","kaoru_noroi"],
     "rewards": [
       {
         "type": "coins",
-        "amount": 18000
+        "amount": 22000
       },
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":1
+        "amount":2
       },
        {
         "type": "pack",
@@ -419,6 +415,90 @@
         
       }
     ]
+  },
+  {
+    "id": "elfos",
+    "title": "Aldea Teleri",
+    "description": "ERAN seres mágicos y amigables, una lástima que no quede ni uno vivo.",
+    "cardIds": ["elrond","fearna","morwen","aranion","liriel"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 5000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_bronce",
+        "amount":1
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount":1
+      },
+      {
+        "type": "title",
+        "titleId": "elfo"
+        
+      }
+    ]
+  },
+  {
+    "id": "realeza_kizoku",
+    "title": "Realeza de Kizoku",
+    "description": "La familia real de la monarquía de Kizoku.",
+    "cardIds": ["tamiko_ozoku","touma_ozoku"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 20000
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":1
+      }
+    ]
+  },
+  {
+    "id": "kazekages",
+    "title": "Kazekages",
+    "description": "Son pocos, pero importantes.",
+    "cardIds": ["kurai_tenro","kai_senju"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 15000
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":1
+      },
+       {
+        "type": "title",
+        "titleId": "kazekage"
+        
+      }
+    ]
+  },
+   {
+    "id": "orfanato_dario",
+    "title": "Orfanato Dario",
+    "description": "Nadie es más importante que nadie, por eso cuidaré a estos pobres niños.",
+    "cardIds": ["maria","pablo","isabel_maya","dario_maya","zeku"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 6000
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_bronce",
+        "amount":1
+      }
+    ]
   }
+
 
 ]
