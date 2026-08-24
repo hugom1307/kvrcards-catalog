@@ -117,6 +117,16 @@
   {
     "id": "cientifico",
     "name": "Científico",
-    "description": "<<La ciencia es hermosa>>"
+    "description": "<<En verdad...La ciencia es hermosa>>"
+  },
+  {
+    "id": "elfo",
+    "name": "Elfo",
+    "description": "Regalito para el Adán 🥰"
+  },
+    {
+    "id": "kazegake",
+    "name": "Kazekage",
+    "description": "El rey del desierto"
   }
 ]
