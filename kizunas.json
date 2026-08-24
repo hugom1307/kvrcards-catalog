@@ -365,7 +365,7 @@
   {
     "id": "rivalidad",
     "title": "Rivalidad eterna",
-    "description": "Al comienzo se enfrentaron y al final también, pero nunca perdieron el respeto al otro.",
+    "description": "Al comienzo se enfrentaron y al final también, pero nunca perdieron el respeto por el otro.",
     "cardIds": ["kinan_hatake","kiri_uzumaki"],
     "rewards": [
       {
@@ -464,7 +464,7 @@
     "id": "kazekages",
     "title": "Kazekages",
     "description": "Son pocos, pero importantes.",
-    "cardIds": ["kurai_tenro","kai_senju"],
+    "cardIds": ["kurai_tenro","kai_senju_icono"],
     "rewards": [
       {
         "type": "coins",
@@ -486,7 +486,7 @@
     "id": "orfanato_dario",
     "title": "Orfanato Dario",
     "description": "Nadie es más importante que nadie, por eso cuidaré a estos pobres niños.",
-    "cardIds": ["maria","pablo","isabel_maya","dario_maya","zeku"],
+    "cardIds": ["maria","pablo","zeku","dario_maya","isabel_maya"],
     "rewards": [
       {
         "type": "coins",
