@@ -128,5 +128,10 @@
     "id": "kazegake",
     "name": "Kazekage",
     "description": "El rey del desierto"
+  },
+  {
+    "id": "nigromante",
+    "name": "Nigromante",
+    "description": "Domina las artes del alma"
   }
 ]
