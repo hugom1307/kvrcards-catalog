@@ -520,7 +520,7 @@
     "id": "kowais",
     "title": "Familia Kowai",
     "description": "Una familia común hasta que nacieron sus 3 hijos especiales, lástima que 2 de ellos no llegaron lejos sin la 'ayuda' de su hermano mayor.",
-    "cardIds": ["jin_kowai","azumi_kowai","kenta_kowai","shiroku_kowai","kosuke_kowai"],
+    "cardIds": ["jin_kowai","azumi_kowai","kenta_kowai","kosuke_kowai","shiroku_kowai"],
     "rewards": [
       {
         "type": "coins",
