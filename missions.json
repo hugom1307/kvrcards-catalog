@@ -208,5 +208,240 @@
     ],
     "repeatable": true,
     "cooldown": 86400
+  },
+
+
+
+  [
+  {
+    "id": "bronze_foundation",
+    "category": "fundamentals",
+    "title": "Base de Bronce",
+    "description": "Consigue 20 cartas de calidad Bronce",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Bronce",
+      "amount": 20
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 1500
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata"
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "silver_collector",
+    "category": "fundamentals",
+    "title": "Colección Plateada",
+    "description": "Consigue 15 cartas de calidad Plata",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Plata",
+      "amount": 15
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 2000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro"
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "advanced_collector",
+    "category": "fundamentals",
+    "title": "Coleccionista Avanzado",
+    "description": "Consigue 50 cartas diferentes",
+    "requirement": {
+      "type": "unique_cards",
+      "amount": 50
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 5000
+      },
+      {
+        "type": "kvr",
+        "amount": 50
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro"
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "balanced_deck",
+    "category": "featured",
+    "title": "Equilibrio Elemental",
+    "description": "Consigue 10 cartas de Plata y 5 cartas de Oro",
+    "requirement": [
+      {
+        "type": "cards_by_quality",
+        "quality": "Plata",
+        "amount": 10
+      },
+      {
+        "type": "cards_by_quality",
+        "quality": "Oro",
+        "amount": 5
+      }
+    ],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 4000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro"
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "icon_hunter_elite",
+    "category": "featured",
+    "title": "Dúo Legendario",
+    "description": "Consigue 2 cartas de calidad Icono",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Icono",
+      "amount": 2
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 5000
+      },
+      {
+        "type": "kvr",
+        "amount": 80
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oc"
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "pack_master",
+    "category": "featured",
+    "title": "Gran Desembalaje",
+    "description": "Abre 100 sobres",
+    "requirement": {
+      "type": "packs_opened",
+      "amount": 100
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 10000
+      },
+      {
+        "type": "kvr",
+        "amount": 150
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oc"
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "daily_complete_routine",
+    "category": "daily",
+    "title": "Doble Tarea Diaria",
+    "description": "Abre 2 sobres y consigue 2 cartas de calidad Plata",
+    "requirement": [
+      {
+        "type": "packs_opened",
+        "amount": 2
+      },
+      {
+        "type": "cards_by_quality",
+        "quality": "Plata",
+        "amount": 2
+      }
+    ],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 1200
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_bronce"
+      }
+    ],
+    "repeatable": true,
+    "cooldown": 86400
+  },
+  {
+    "id": "daily_bronze_grind",
+    "category": "daily",
+    "title": "Recolección Diaria de Bronce",
+    "description": "Consigue 5 cartas de calidad Bronce",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Bronce",
+      "amount": 5
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 800
+      }
+    ],
+    "repeatable": true,
+    "cooldown": 86400
+  },
+  {
+    "id": "ronan_support_squad",
+    "category": "limited",
+    "title": "Compañeros de Ronan",
+    "description": "Ten a Ronan Hatake y 3 cartas de calidad Oro en tu inventario",
+    "requirement": [
+      {
+        "type": "own_card",
+        "cardId": "ronan_hatake",
+        "amount": 1
+      },
+      {
+        "type": "cards_by_quality",
+        "quality": "Oro",
+        "amount": 3
+      }
+    ],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 5000
+      },
+      {
+        "type": "kvr",
+        "amount": 120
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro"
+      }
+    ],
+    "repeatable": false
   }
+]
 ]
