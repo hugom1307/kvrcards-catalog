@@ -212,7 +212,7 @@
 
 
 
-  [
+  
   {
     "id": "bronze_foundation",
     "category": "fundamentals",
@@ -443,5 +443,5 @@
     ],
     "repeatable": false
   }
-]
+
 ]
