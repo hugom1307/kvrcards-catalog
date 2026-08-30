@@ -3024,7 +3024,7 @@
 {
     "id": "vivar",
     "name": "Vivar",
-    "stats": 70,72,67,73,68,75[],
+    "stats": [70,72,67,73,68,75],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/vivar.png",
     "media":70 ,
     "calidad": "Plata",
