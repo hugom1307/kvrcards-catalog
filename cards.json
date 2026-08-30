@@ -1988,7 +1988,7 @@
     "media": 77,
     "calidad": "Oro",
     "valor": 2500,
-  "procedencia": "Konohagakure",
+    "procedencia": "Konohagakure",
     "owner": "TaiyoDL"
   },
   {
@@ -2158,7 +2158,7 @@
     "procedencia": "Hispania",
     "owner": "HugoMan1307"
   },
-[
+
   {
     "id": "mizuki_hyuga",
     "name": "Mizuki Hyuga",
@@ -2289,7 +2289,7 @@
     "calidad": "Bronce",
     "valor": 100,
     "procedencia": "Mundo Subterráneo",
-    "owner": "HugoMan1307
+    "owner": "HugoMan1307"
   },
   {
     "id": "tenken_uzumaki",
@@ -2741,5 +2741,16 @@
     "valor": 2500,
     "procedencia": "Yukon",
     "owner": "Wailant"
+  },
+   {
+    "id": "techno",
+    "name": "Techno",
+    "stats": [75, 60, 68, 72, 68, 70],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/techno.png",
+    "media": 69,
+    "calidad": "Plata",
+    "valor": 500,
+    "procedencia": "Konohagakure",
+    "owner": "TaiyoDL"
   }
 ]
