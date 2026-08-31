@@ -2,7 +2,8 @@
   {
     "id": "novato",
     "name": "Novato",
-    "description": "Título inicial para todos los jugadores"
+    "description": "Título inicial para todos los jugadores",
+    "gradient": "linear-gradient(135deg, #9b9b9b 0%, #191919 100%)"
   },
   {
     "id": "coleccionista",
