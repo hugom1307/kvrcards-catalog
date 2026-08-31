@@ -2,6 +2,7 @@
   {
     "id": "esperanza_desesperacion",
     "title": "Esperanza y Desesperación",
+    "group": "Esperanza y Desesperación",
     "description": "Dos hermanos unidos por el destino, separados por la luz y la oscuridad de la esperanza y la desesperación.",
     "cardIds": ["kurai_tenro", "sukui_uzumaki"],
     "rewards": [
@@ -35,6 +36,7 @@
   {
     "id": "poderes_kizoku",
     "title": "Los 4 poderes de Kizoku",
+    "group": "Kizoku",
     "description": "Junta al grupo más poderoso e importante del reino de Kizoku.",
     "cardIds": ["hiro_yuki", "touma_ozoku","dekiru_mizu","meili_harada"],
     "rewards": [
@@ -87,6 +89,7 @@
     {
     "id": "heroes",
     "title": "Héroes de Kizoku",
+    "group": "Kizoku",
     "description": "La cara pública para el pueblo de Kizoku, aquellos que cargan con sus esperanzas.",
     "cardIds": ["licht_krieger", "hikaru_uzumaki","yaban_hito"],
     "rewards": [
