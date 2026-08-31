@@ -1,0 +1,82 @@
+[
+  {
+    "id": "bronce",
+    "name": "Bronce",
+    "special": false,
+    "maskImage": "./assets/qualities/bronce.png",
+    "sparkColor": "#d97706",
+    "tradeable": true,
+    "valor": 100,
+    "order": 1
+  },
+  {
+    "id": "plata",
+    "name": "Plata",
+    "special": false,
+    "maskImage": "./assets/qualities/plata.png",
+    "sparkColor": "#cbd5e1",
+    "tradeable": true,
+    "valor": 1000,
+    "order": 2
+  },
+  {
+    "id": "oro",
+    "name": "Oro",
+    "special": false,
+    "maskImage": "./assets/qualities/oro.png",
+    "sparkColor": "#fbbf24",
+    "tradeable": true,
+    "valor": 2500,
+    "order": 3
+  },
+  {
+    "id": "icono",
+    "name": "Icono",
+    "special": true,
+    "maskImage": "./assets/qualities/icono.png",
+    "sparkColor": "#f8fafc",
+    "tradeable": true,
+    "valor": 10000,
+    "order": 5
+  },
+  {
+    "id": "heroe",
+    "name": "Heroe",
+    "special": true,
+    "maskImage": "./assets/qualities/heroe.png",
+    "sparkColor": "#ff007a",
+    "tradeable": true,
+    "valor": 10000,
+    "order": 4
+  },
+  {
+    "id": "icono_prime",
+    "name": "Icono Prime",
+    "special": true,
+    "maskImage": "./assets/qualities/icono.png",
+    "sparkColor": "#f8fafc",
+    "tradeable": true,
+    "valor": 10000,
+    "order": 6
+  },
+  {
+    "id": "icono_super_prime",
+    "name": "Icono Super Prime",
+    "special": true,
+    "maskImage": "./assets/qualities/icono.png",
+    "sparkColor": "#f8fafc",
+    "tradeable": true,
+    "valor": 10000,
+    "order": 7
+  },
+  {
+    "id": "evo",
+    "name": "Evo",
+    "special": true,
+    "maskImage": "./assets/qualities/icono.png",
+    "sparkColor": "#c084fc",
+    "tradeable": false,
+    "valor": 0,
+    "order": 8
+  }
+]
