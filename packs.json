@@ -77,7 +77,7 @@
     "Oro": 0,
     "Icono": 0
   },
-  "allowedCardIds": ["asahi_raiden", "dekiru_mizu", "kento_rikudo", "kaoru_noroi", "tou_ikari", "ryo_ikari", "tamiko_ozoku", "touma_ozoku", "shukoku_noroi"],
+  "allowedCardIds": ["kinan_hatake_iconosuperprime", "dekiru_mizu", "shind_inazuma_iconoprime"],
   "openingGradient": ["#FDE68A", "#60A5FA", "#1D4ED8"],
   "price": { "coins": 100000, "kvr": 1000 }
 }
