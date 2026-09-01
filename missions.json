@@ -31,8 +31,8 @@
         "amount": 1000
       },
       {
-        "type": "pack",
-        "packId": "basic"
+        "type": "bakcground",
+        "packId": "fondo_ciberpunk"
       }
     ],
     "repeatable": false
