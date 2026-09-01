@@ -80,7 +80,19 @@
   "allowedCardIds": ["kinan_hatake_iconosuperprime", "dekiru_mizu", "shind_inazuma_iconoprime"],
   "openingGradient": ["#FDE68A", "#60A5FA", "#1D4ED8"],
   "price": { "coins": 100000, "kvr": 1000 }
-}
+},
+{ "id": "sobre_supporter",
+    
+    "name": "Sobre Supporter", "cardsPerPack": 1, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_supporter.png", "strategy": "qualityMedia",
+    "qualityWeights": {
+    "bronce": 0,
+    "plata": 0,
+    "oro": 80,
+    "special": 20
+    },
+    "openingGradient": ["#FFF4B5", "#FDE68A", "#FACC15"],
+    "price": { "coins": 0}
+  },
 ],
 "shop": [
     { "id": "sobre_bronce", "order": 1 },   
