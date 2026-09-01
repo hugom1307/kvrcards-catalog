@@ -59,7 +59,8 @@
   {
     "id": "esperanza_desesperacion",
     "name": "Esperanza y Desesperación",
-    "description": "Dos características únicas... ¿la luz de la esperanza, o la oscuridad de la desesperación?"
+    "description": "Dos características únicas... ¿la luz de la esperanza, o la oscuridad de la desesperación?",
+    "gradient":"linear-gradient(to left, #40B43A 0%, #FC9145 100%)"
   },
   {
     "id": "poderes_kizoku",
