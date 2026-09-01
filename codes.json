@@ -46,15 +46,15 @@
       "description": "Prueba 2 - 5000 Coins, 100 KvR, 3 sobres bronce y 1 kenji ikari"
     },
     {
-  "code": "SUPPORTER1",
-  "active": true,
-  "singleUse": true,
-  "subscription": true,
-  "rewardsType": "kvr",
-  "rewards": {
-    "kvr": 300
-  },
-  "description": "¡Gracias por la compra! Bendición del Supporter - 300 KvR instantáneos y 30 KvR diarios durante 30 días"
-}
+    "code": "SUPPORTER1",
+    "active": true,
+    "singleUse": true,
+    "subscription": true,
+    "rewardsType": "kvr",
+    "rewards": {
+      "kvr": 300
+    },
+    "description": "¡Gracias por la compra! Bendición del Supporter - 300 KvR instantáneos y 30 KvR diarios durante 30 días"
+    }
   ]
 }
