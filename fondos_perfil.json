@@ -1,0 +1,32 @@
+[
+  {
+    "id": "default",
+    "nombre": "Predeterminado KVR",
+    "imagen": "./assets/backgrounds/bg_default.svg",
+    "descripcion": "El fondo clásico oficial de KVRCards."
+  },
+  {
+    "id": "fondo_galaxia",
+    "nombre": "Galaxia Cósmica",
+    "imagen": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?w=1200",
+    "descripcion": "Fondo estelar obtenido en misiones y eventos."
+  },
+  {
+    "id": "fondo_dorado",
+    "nombre": "Oro Legendario",
+    "imagen": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200",
+    "descripcion": "Fondo exclusivo para maestros del prestigio."
+  },
+  {
+    "id": "fondo_ciberpunk",
+    "nombre": "Neón Ciberpunk",
+    "imagen": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200",
+    "descripcion": "Fondo futurista de alta tecnología."
+  },
+  {
+    "id": "fondo_estadio",
+    "nombre": "Templo del Fútbol",
+    "imagen": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1200",
+    "descripcion": "La atmósfera del gran estadio bajo los focos."
+  }
+]
