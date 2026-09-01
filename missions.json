@@ -32,7 +32,7 @@
       },
       {
         "type": "bakcground",
-        "packId": "fondo_ciberpunk"
+        "backgroundId": "fondo_ciberpunk"
       }
     ],
     "repeatable": false
