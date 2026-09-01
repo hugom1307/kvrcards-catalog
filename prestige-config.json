@@ -1,5 +1,7 @@
-{
-  "default": {
+[
+  {
+    "cardId": "default",
+    "name": "Configuración General (Para todas las cartas estándar)",
     "xpRules": {
       "battlePlayed": 20,
       "battleWinBonus": 10,
@@ -10,66 +12,66 @@
         "prestige": 1,
         "xpRequired": 100,
         "missions": [
-          { "id": "d_p1_m1", "name": "Jugar 3 batallas con esta carta", "xp": 100 },
-          { "id": "d_p1_m2", "name": "Ganar 1 batalla con esta carta", "xp": 120 }
+          { "name": "Jugar 3 batallas con esta carta", "type": "played", "target": 3, "xp": 100 },
+          { "name": "Ganar 1 batalla con esta carta", "type": "wins", "target": 1, "xp": 120 }
         ],
         "rewards": [
-          { "id": "d_p1_r1", "name": "Recompensa de prestigio 1" }
+          { "type": "coins", "amount": 250 }
         ]
       },
       {
         "prestige": 2,
         "xpRequired": 500,
         "missions": [
-          { "id": "d_p2_m1", "name": "Jugar 10 batallas con esta carta", "xp": 240 },
-          { "id": "d_p2_m2", "name": "Ganar 4 batallas con esta carta", "xp": 260 }
+          { "name": "Jugar 10 batallas con esta carta", "type": "played", "target": 10, "xp": 250 },
+          { "name": "Ganar 5 batallas con esta carta", "type": "wins", "target": 5, "xp": 300 }
         ],
         "rewards": [
-          { "id": "d_p2_r1", "name": "Recompensa de prestigio 2" }
+          { "type": "pack", "packId": "sobre_oro", "amount": 1 },
+          { "type": "coins", "amount": 500 }
         ]
       },
       {
         "prestige": 3,
         "xpRequired": 2000,
         "missions": [
-          { "id": "d_p3_m1", "name": "Jugar 20 batallas con esta carta", "xp": 600 },
-          { "id": "d_p3_m2", "name": "Ganar 10 batallas con esta carta", "xp": 700 }
+          { "name": "Jugar 25 batallas con esta carta", "type": "played", "target": 25, "xp": 600 },
+          { "name": "Ganar 15 batallas con esta carta", "type": "wins", "target": 15, "xp": 800 }
         ],
         "rewards": [
-          { "id": "d_p3_r1", "name": "Recompensa de prestigio 3" }
+          { "type": "kvr", "amount": 50 },
+          { "type": "pack", "packId": "sobre_heroe", "amount": 1 }
         ]
       },
       {
         "prestige": 4,
         "xpRequired": 5000,
         "missions": [
-          { "id": "d_p4_m1", "name": "Jugar 40 batallas con esta carta", "xp": 1200 },
-          { "id": "d_p4_m2", "name": "Ganar 20 batallas con esta carta", "xp": 1500 }
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 50, "xp": 1200 },
+          { "name": "Ganar 30 batallas con esta carta", "type": "wins", "target": 30, "xp": 1500 }
         ],
         "rewards": [
-          { "id": "d_p4_r1", "name": "Recompensa de prestigio 4" }
+          { "type": "pack", "packId": "sobre_icono", "amount": 1 },
+          { "type": "coins", "amount": 2000 }
         ]
       },
       {
         "prestige": 5,
         "xpRequired": 10000,
         "missions": [
-          { "id": "d_p5_m1", "name": "Jugar 75 batallas con esta carta", "xp": 2200 },
-          { "id": "d_p5_m2", "name": "Ganar 40 batallas con esta carta", "xp": 2600 }
+          { "name": "Jugar 100 batallas con esta carta", "type": "played", "target": 100, "xp": 2500 },
+          { "name": "Ganar 60 batallas con esta carta", "type": "wins", "target": 60, "xp": 3000 }
         ],
         "rewards": [
-          { "id": "d_p5_r1", "name": "Recompensa de prestigio 5" }
+          { "type": "title", "titleId": "maestro_supremo", "name": "Maestro Supremo" },
+          { "type": "kvr", "amount": 150 },
+          { "type": "coins", "amount": 5000 }
         ]
       }
     ]
   },
-  "cards": {
-    "ronan_hatake": {
-      "xpRules": {
-        "battlePlayed": 20,
-        "battleWinBonus": 10,
-        "duplicateFromPackOrTrade": 500
-      },
+  {
+    "cardId": "ronan_hatake",
       "levels": [
         {
           "prestige": 1,
