@@ -6,6 +6,12 @@
     "gradient": "linear-gradient(135deg, #9b9b9b 0%, #191919 100%)"
   },
   {
+    "id": "knight_supporter",
+    "name": "KNIGHT SUPPORTER",
+    "description": "Eres un grande, título por apoyar a los creadores del juego.",
+    "gradient": "linear-gradient(135deg, #FFB300 0%, #CC9D1C 20%, #998738 40%, #667255 60%, #335C71 80%, #00468D 100%)"
+  },
+  {
     "id": "coleccionista",
     "name": "Coleccionista",
     "description": "Consigue 50 cartas diferentes"
