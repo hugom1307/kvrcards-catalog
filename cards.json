@@ -3158,5 +3158,15 @@
     "calidad": "icono_super_prime",
     "procedencia": "Konohagakure",
     "owner": "Grejino02"
+  },
+  {
+    "id": "alex_petrov",
+    "name": "Alex Petrov",
+    "stats": [76, 50, 70, 79, 76, 62],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/AlexP.png",
+    "media": 73,
+    "calidad": "plata",
+    "procedencia": "Kachi",
+    "owner": "Alecrackman"
   }
 ]
