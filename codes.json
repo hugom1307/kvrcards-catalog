@@ -55,6 +55,17 @@
       "kvr": 300
     },
     "description": "¡Gracias por la compra! Bendición del Supporter - 300 KvR instantáneos y 30 KvR diarios durante 30 días"
+    },
+    {
+    "code": "SUPPORTER2",
+    "active": true,
+    "singleUse": true,
+    "subscription": true,
+    "rewardsType": "kvr",
+    "rewards": {
+      "kvr": 300
+    },
+    "description": "¡Gracias por la compra! Bendición del Supporter - 300 KvR instantáneos y 30 KvR diarios durante 30 días"
     }
   ]
 }
