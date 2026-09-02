@@ -72,18 +72,72 @@
   },
   {
     "cardId": "ronan_hatake",
-      "levels": [
-        {
-          "prestige": 1,
-          "xpRequired": 100,
-          "missions": [
-            { "id": "c_p1_m1", "name": "Mision personalizada de ejemplo", "xp": 100 }
-          ],
-          "rewards": [
-            { "id": "c_p1_r1", "name": "Recompensa personalizada de ejemplo" }
-          ]
-        }
-      ]
+    "name": "Ronan Hatake",
+    "levels": [
+      {
+        "prestige": 1,
+        "xpRequired": 100,
+        "missions": [
+          { "name": "Jugar 3 batallas con esta carta", "type": "played", "target": 3, "xp": 100 },
+          { "name": "Ganar 3 batallas con esta carta", "type": "wins", "target": 3, "xp": 150 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 2500 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 1}
+        ]
+      },
+      {
+        "prestige": 2,
+        "xpRequired": 500,
+        "missions": [
+          { "name": "Gana 10 batallas con esta carta", "type": "wins", "target": 10, "xp": 200 },
+          { "name": "Ganar 5 rondas con esta carta", "type": "winsRounds", "target": 5, "xp": 300 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_oc", "amount": 1 },
+          { "type": "coins", "amount": 5000 }
+        ]
+      },
+      {
+        "prestige": 3,
+        "xpRequired": 2000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 25, "xp": 1000 },
+          { "name": "Ganar 15 batallas con esta carta", "type": "wins", "target": 15, "xp": 800 },
+          { "name": "Gana 50 rondas con cartas de Amegakure", "type": "winsRounds", "procedencia": "Amegakure", "target": 50, "xp": 600 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 25000 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 5 }
+        ]
+      },
+      {
+        "prestige": 4,
+        "xpRequired": 5000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 50, "xp": 1000 },
+          { "name": "Ganar 30 batallas con esta carta", "type": "wins", "target": 30, "xp": 1500 },
+          { "name": "Gana 200 rondas con cartas de HugoMan1307", "type": "winsRounds", "owner": "HugoMan1307", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_premium", "amount": 2 },
+          { "type": "card", "cardId": "kinan_hatake_icono", "amount": 1 }
+        ]
+      },
+      {
+        "prestige": 5,
+        "xpRequired": 10000,
+        "missions": [
+          { "name": "Gana 100 batallas con esta carta", "type": "wins", "target": 100, "xp": 2500 },
+          { "name": "Ganar 200 rondas con cartas de Amegakure de HugoMan1307", "type": "winsRounds", "procedencia": "Amegakure", "owner": "HugoMan1307", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "title", "titleId": "dueño_electrones"},
+          { "type": "coins", "amount": 50000 },
+          { "type": "background", "backgroundId": "fondo_ronan_hatake" }
+        ]
+      }
+    ]
   }
   
 ]
