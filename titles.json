@@ -52,7 +52,7 @@
     "id": "millonario",
     "name": "Millonario",
     "description": "Parezco el banco de España",
-    "gradient":"linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%)",
+    "gradient":"linear-gradient(to bottom right, #CB9902 0%, #FBCE04 50%, #EAEAEA 51%, #DBB613 100%)",
     "unlockDescription":"Acumula 100,000 Coins"
   },
   {
@@ -87,7 +87,7 @@
     "id": "elemental",
     "name": "Maestro elemental",
     "description": "El máximo exponente de cada elemento básico",
-    "gradient":"linear-gradient(to left, #FC9145 11%, #00FF00 21%, #663535 26%, #0084FF 74%, #7454FF 100%)",
+    "gradient":"linear-gradient(to left, #FC9145 11%, #0084FF 21%, #663535 26%, #00FF00 74%, #7454FF 100%)",
     "unlockDescription":"Completa el Kizuna 'Los elementales'"
   },
   {
