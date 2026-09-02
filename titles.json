@@ -1,5 +1,5 @@
 [
-  {
+ {
     "id": "novato",
     "name": "Novato",
     "description": "Título inicial para todos los jugadores",
@@ -14,47 +14,56 @@
   {
     "id": "coleccionista",
     "name": "Coleccionista",
-    "description": "Consigue 50 cartas diferentes"
+    "description": "Consigue 50 cartas diferentes",
+    "gradient":"linear-gradient(to left, #008080 0%, #FFFFFF 25%, #05C1FF 50%, #FFFFFF 75%, #005757 100%)"
   },
   {
     "id": "adinerado",
     "name": "Adinerado",
-    "description": "Acumula 10,000 Coins"
+    "description": "Acumula 10,000 Coins",
+    "gradient":"linear-gradient(to right, #B7DEED 0%, #E9EFB9 25%, #0EE266 75%, #F3FF0C 100%)"
   },
   {
     "id": "abridor",
     "name": "Abridor de Sobres",
-    "description": "Abre 100 sobres"
+    "description": "Abre 100 sobres",
+    "gradient":"linear-gradient(to right, #E4EFC0 0%, #ABBD73 100%)"
   },
   {
     "id": "oro_puro",
     "name": "Oro Puro",
-    "description": "Consigue 10 cartas de calidad Oro"
+    "description": "Consigue 10 cartas de calidad Oro",
+    "gradient":"linear-gradient(to right, #FCEABB 0%, #F9FC52 50%, #F87408 51%, #FBDF93 100%)"
   },
   {
     "id": "icono_legendario",
     "name": "Icono Legendario",
-    "description": "Consigue 5 cartas de calidad Icono"
+    "description": "Consigue 5 cartas de calidad Icono",
+    "gradient":"linear-gradient(to right, #CB60B3 0%, #C146A1 50%, #A80077 51%, #DB36A4 100%)"
   },
   {
     "id": "millonario",
     "name": "Millonario",
-    "description": "Acumula 100,000 Coins"
+    "description": "Acumula 100,000 Coins",
+    "gradient":"linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%)"
   },
   {
     "id": "maestro_kvr",
     "name": "Maestro KvR",
-    "description": "Acumula 1,000 KvR Coins"
+    "description": "Acumula 1,000 KvR Coins",
+    "gradient":"linear-gradient(to right, #A7CFDF 0%, #23538A 100%)"
   },
   {
     "id": "comprador",
     "name": "Comprador Compulsivo",
-    "description": "Compra este título por 5,000 Coins"
+    "description": "Compra este título por 5,000 Coins",
+    "gradient":"linear-gradient(to right, #F8FFE8 0%, #E3F5AB 33%, #B7DF2D 100%)"
   },
   {
     "id": "elite",
     "name": "Élite",
-    "description": "Compra este título exclusivo por 500 KvR Coins"
+    "description": "Compra este título exclusivo por 500 KvR Coins",
+    "gradient":"linear-gradient(to left, #00FF00 0%, #00FFFF 100%)"
   },
   {
     "id": "esperanza_desesperacion",
@@ -65,82 +74,98 @@
   {
     "id": "poderes_kizoku",
     "name": "Poder de Kizoku",
-    "description": "La máxima autoridad y poder del reino de Kizoku, encargados de papeles fundamentales y de hacer prosperar al reino de Kizoku"
+    "description": "La máxima autoridad y poder del reino de Kizoku, encargados de papeles fundamentales y de hacer prosperar al reino de Kizoku",
+    "gradient":"linear-gradient(to left, #000000 13%, #0084FF 53%, #362224 59%, #F9D892 86%)"
   },
    {
     "id": "elemental",
     "name": "Maestro elemental",
-    "description": "El máximo exponente de cada elemento básico"
+    "description": "El máximo exponente de cada elemento básico",
+    "gradient":"linear-gradient(to left, #FC9145 11%, #00FF00 21%, #663535 26%, #0084FF 74%, #7454FF 100%)"
   },
   {
     "id": "heroe",
     "name": "Héroe de Kizoku",
-    "description": "Orgulloso de mantener la seguridad en el reino de kizoku"
+    "description": "Orgulloso de mantener la seguridad en el reino de kizoku",
+    "gradient":"radial-gradient(circle farthest-corner at center center, #FC0000 0%, #F7FF56 100%)"
   },
    {
     "id": "fundador_ani",
     "name": "Fundador de la A.N.I",
-    "description": "Perteneciente al grupo que cambiará la historia para siempre"
+    "description": "Perteneciente al grupo que cambiará la historia para siempre",
+    "gradient":"radial-gradient(circle farthest-corner at center center, #EBF6FF 0%, #000000 100%)"
   },
   {
     "id": "fundador_dam",
     "name": "Fundador de la D.A.M",
-    "description": "Perteneciente al grupo que detendrá los planes de la A.N.I"
+    "description": "Perteneciente al grupo que detendrá los planes de la A.N.I",
+    "gradient":"radial-gradient(circle farthest-corner at bottom center, #C121CF 0%, #CF94C6 100%)"
   },
     {
     "id": "hermano_problematico",
     "name": "Hermano problemático",
-    "description": "Familia disfuncional"
+    "description": "Familia disfuncional",
+    "gradient":"linear-gradient(to top left, #DEE591 0%, #DCE1E5 100%)"
   },
   {
     "id": "maya",
     "name": "Maya Mancha",
-    "description": "Él único e inigualable"
+    "description": "Él único e inigualable",
+    "gradient":"linear-gradient(to top left, #E5B8B8 0%, #E57F7F 100%)"
   },
    {
     "id": "soldado",
     "name": "Soldado de Kizoku",
-    "description": "Aquellos que se manchan las manos de sangre por el reino de Kizoku"
+    "description": "Aquellos que se manchan las manos de sangre por el reino de Kizoku",
+    "gradient":"radial-gradient(circle farthest-corner at center center, #8A9196 0%, #C40000 53%, #362224 100%)"
   },
     {
     "id": "plata",
     "name": "Quiero plata 🤑",
-    "description": "Todo sea por el dinero"
+    "description": "Todo sea por el dinero",
+    "gradient":"linear-gradient(to right, #FCCD4D 0%, #F8B500 51%, #FBDF93 100%)"
   },
   {
     "id": "ikari",
     "name": "Ikari",
-    "description": "El clan con más ambición"
+    "description": "El clan con más ambición",
+    "gradient":" linear-gradient(to top, #FFFB05 0%, #0CFFFB 100%)"
   },
   {
     "id": "rival",
     "name": "⚪ Rival eterno ⚪",
-    "description": "Todo por mis amigos"
+    "description": "Todo por mis amigos",
+    "gradient":" linear-gradient(to bottom right, #FEFEFE 10%, #0374FF 100%)"
   },
   {
     "id": "rival2",
     "name": "⚫ Rival eterno ⚫",
-    "description": "Todo por mi hijo"
+    "description": "Todo por mi hijo",
+    "gradient":"linear-gradient(to bottom right, #D60000 10%, #000000 100%)"
   },
   {
     "id": "cientifico",
     "name": "Científico",
-    "description": "<<En verdad...La ciencia es hermosa>>"
+    "description": "<<En verdad...La ciencia es hermosa>>",
+    "gradient":"linear-gradient(to bottom left, #A6695B 20%, #D5D96C 100%)"
   },
   {
     "id": "elfo",
     "name": "Elfo",
-    "description": "Regalito para el Adán 🥰"
+    "description": "Regalito para el Adán 🥰",
+    "gradient":"linear-gradient(to right, #CFE7fA 0%, #6393C1 100%)"
   },
     {
     "id": "kazegake",
     "name": "Kazekage",
-    "description": "El rey del desierto"
+    "description": "El rey del desierto",
+    "gradient":"linear-gradient(to bottom right, #FFE09C 0%, #FF8400 100%)"
   },
   {
     "id": "nigromante",
     "name": "Nigromante",
-    "description": "Domina las artes del alma"
+    "description": "Domina las artes del alma",
+    "gradient":"radial-gradient(circle farthest-side at bottom left, #FF0000 0%, #000000 50%, #0D41FF 100%)"
   },
   {
     "id": "dueño_electrones",
