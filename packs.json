@@ -65,22 +65,7 @@
     "openingGradient": ["#FDE68A", "#60A5FA", "#1D4ED8"],
   "price": { "coins": 10000, "kvr": 0 }
 },
-{
-  "id": "sobre_caminante",
-  "name": "Sobre de Caminante Asegurado",
-  "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_oc.png",
-  "cardsPerPack": 1,
-  "strategy": "qualityMedia",
-  "qualityWeights": {
-    "Bronce": 0,
-    "Plata": 0,
-    "Oro": 0,
-    "Icono": 0
-  },
-  "allowedCardIds": ["kinan_hatake_iconosuperprime", "dekiru_mizu", "shind_inazuma_iconoprime"],
-  "openingGradient": ["#FDE68A", "#60A5FA", "#1D4ED8"],
-  "price": { "coins": 100000, "kvr": 1000 }
-},
+
 { "id": "sobre_supporter",
     
     "name": "Sobre Supporter", "cardsPerPack": 1, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_supporter.png", "strategy": "qualityMedia",
@@ -93,6 +78,45 @@
     "openingGradient": ["#FFF4B5", "#FDE68A", "#FACC15"],
     "price": { "coins": 0}
   },
+    {
+  "id": "sobre_83_plus",
+  "name": "Sobre Élite +83",
+  "cardsPerPack": 1,
+  "minMedia": 83,
+  "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_83_plus.png",
+  "openingGradient": ["#2563EB", "#F59E0B", "#FEF08A"],
+  "price": { "coins": 25000, "kvr": 50 }
+},
+{
+  "id": "sobre_85_plus",
+  "name": "Sobre Élite Oscuro +85",
+  "cardsPerPack": 1,
+  "minMedia": 85,
+  "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_85_plus.png",
+  "openingGradient": ["#312E81", "#7C3AED", "#DC2626"],
+  "price": { "coins": 50000, "kvr": 80 }
+},
+{
+  "id": "sobre_legendario",
+  "name": "Sobre Legendario (3x +86)",
+  "cardsPerPack": 3,
+  "minMedia": 86,
+  "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_legendario.png",
+  "openingGradient": ["#FFFBEB", "#F59E0B", "#D97706"],
+  "price": { "coins": 100000, "kvr": 190 }
+},
+{
+  "id": "sobre_especial",
+  "name": "Sobre Especial Ninja",
+  "cardsPerPack": 1,
+  "strategy": "qualityMedia",
+  "qualityWeights": {
+   "special": 100
+  },
+  "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_especial.png",
+  "openingGradient": ["#18181B", "#F59E0B", "#FDE047"],
+  "price": { "coins": 75000, "kvr": 150 }
+}
 ],
 "shop": [
     { "id": "sobre_bronce", "order": 1 },   
@@ -100,6 +124,9 @@
     { "id": "sobre_oro" },
     { "id": "sobre_mix_limitado", "stock": 10 },
     { "id": "sobre_oc" },
-    { "id": "sobre_caminante", "stock": 5 }
+    { "id": "sobre_83_plus"},
+    { "id": "sobre_85_plus"},
+    { "id": "sobre_legendario", "stock": 5}
+    { "id": "sobre_especial", "stock": 1}
   ]
 }
