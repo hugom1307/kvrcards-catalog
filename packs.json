@@ -126,7 +126,7 @@
     { "id": "sobre_oc" },
     { "id": "sobre_83_plus"},
     { "id": "sobre_85_plus"},
-    { "id": "sobre_legendario", "stock": 5}
+    { "id": "sobre_legendario", "stock": 5},
     { "id": "sobre_especial", "stock": 1}
   ]
 }
