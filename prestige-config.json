@@ -16,7 +16,7 @@
           { "name": "Ganar 1 batalla con esta carta", "type": "wins", "target": 1, "xp": 120 }
         ],
         "rewards": [
-          { "type": "coins", "amount": 250 }
+          { "type": "coins", "amount": 1000 }
         ]
       },
       {
@@ -28,7 +28,7 @@
         ],
         "rewards": [
           { "type": "pack", "packId": "sobre_oro", "amount": 1 },
-          { "type": "coins", "amount": 500 }
+          { "type": "coins", "amount": 5000 }
         ]
       },
       {
@@ -39,8 +39,8 @@
           { "name": "Ganar 15 batallas con esta carta", "type": "wins", "target": 15, "xp": 800 }
         ],
         "rewards": [
-          { "type": "kvr", "amount": 50 },
-          { "type": "pack", "packId": "sobre_heroe", "amount": 1 }
+         { "type": "coins", "amount": 10000 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 5 }
         ]
       },
       {
@@ -51,8 +51,8 @@
           { "name": "Ganar 30 batallas con esta carta", "type": "wins", "target": 30, "xp": 1500 }
         ],
         "rewards": [
-          { "type": "pack", "packId": "sobre_icono", "amount": 1 },
-          { "type": "coins", "amount": 2000 }
+         { "type": "pack", "packId": "sobre_83_plus", "amount": 1 },
+          { "type": "coins", "amount": 15000 }
         ]
       },
       {
@@ -63,9 +63,8 @@
           { "name": "Ganar 60 batallas con esta carta", "type": "wins", "target": 60, "xp": 3000 }
         ],
         "rewards": [
-          { "type": "title", "titleId": "maestro_supremo", "name": "Maestro Supremo" },
-          { "type": "kvr", "amount": 150 },
-          { "type": "coins", "amount": 5000 }
+          { "type": "coins", "amount": 50000 },
+          { "typw": "pack", "packId": "sobre_85_plus", "amount":1}
         ]
       }
     ]
