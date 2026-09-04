@@ -21,8 +21,8 @@
     "id": "boyfriends",
     "title": "Los boyfriends",
     "group": "DAM",
-    "description": "Los dos novietes.",
-    "cardIds": ["ken_inazuma", "raiden_fuutaro"],
+    "description": "Los dos novietes y sus hijos adoptados.",
+    "cardIds": ["ken_inazuma","lilia_inazuma","mikhail_hoot", "raiden_fuutaro"],
     "rewards": [
       {
         "type": "coins",
@@ -586,7 +586,7 @@
     "id": "animales_misticos",
     "title": "Animales Místicos",
     "group":"Otros",
-    "description": "No se saben que son exactamente, pero definitivamente no son normales y vienen de dioses antiguos.",
+    "description": "No se saben que son exactamente, pero definitivamente no son normales y provienen de dioses antiguos.",
     "cardIds": ["kyo","jimmy","suta"],
     "rewards": [
       {
@@ -599,7 +599,296 @@
         "amount":1
       }
     ]
+  },
+   {
+    "id": "amegakes",
+    "title": "Amekages",
+    "group":"Kages",
+    "description": "Un cargo heredado durante generaciones.",
+    "cardIds": ["peyan_uzumaki_icono","joshira_uzumaki_icono","kinan_hatake","ayato_uzumaki_icono","betocs_hatake_icono"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 50000
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":1
+      },
+      {
+        "type":"title",
+        "titleId":"amekage"
+      }
+    ]
+  },
+    {
+    "id": "hokages",
+    "title": "Hokages",
+    "group":"Kages",
+    "description": "Los que siguieron el legado del legendario Uzumaki Naruto.",
+    "cardIds": ["haji_senju","shin_uzumaki","ayari_hyuga_heroe","taiyo_uchiha_icono","kuroo_sarutobi","sukui_uzumaki","merlin"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 30000
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":3
+      },
+      {
+        "type":"title",
+        "titleId":"hokage"
+      }
+    ]
+  },
+  {
+    "id": "kages",
+    "title": "Kages",
+    "group":"Kages",
+    "description": "Aquellos que gobiernan todo el continente elemental.",
+    "cardIds": ["haji_senju","shin_uzumaki","ayari_hyuga_heroe","taiyo_uchiha_icono","kuroo_sarutobi","sukui_uzumaki","merlin","peyan_uzumaki_icono","joshira_uzumaki_icono","kinan_hatake","ayato_uzumaki_icono","betocs_hatake_icono","kai_senju_icono","kurai_tenro","manuel_hyuga_icono","shind_inazuma_icono","kiri_uzumaki"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 100000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":10
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_legendario",
+        "amount":1
+      },
+      {
+        "type":"title",
+        "titleId":"kage"
+      }
+    ]
+  },
+  {
+    "id": "raidens",
+    "title": "Clan Raiden",
+    "group":"Familias",
+    "description": "Uno de los clanes más antiguos y misteriosos.",
+    "cardIds": ["raiden_fuutaro","asahi_raiden","raiden_gaia","raiden_sitri","raiden_senjuro","raiden_senjuro_au"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 20000
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":2
+      },
+      {
+        "type":"title",
+        "titleId":"raiden"
+      }
+    ]
+  },
+  
+{
+    "id": "trio_calavera",
+    "title": "Trio Calavera",
+    "group":"Familias",
+    "description": "Un equipo fuerte y unido, pero también disuelto por la muerte.",
+    "cardIds": ["ken_inazuma","ransu_hatake_icono","ronan_hatake"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 17500
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":1
+      }
+    ]
+  },
+  {
+    "id": "clan_ryuga",
+    "title": "Clan Ryuga",
+    "group":"Familias",
+    "description": "La familia más problemática de la actualidad.",
+    "cardIds": ["iyari_ryuga_icono","zack_ryuga_icono","akane_ryuga","ransu_hatake_icono","ronan_hatake","betoks_hatake","ayane_hatake"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 25000
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":4
+      },
+      {
+        "type":"title",
+        "titleId":"ryuga"
+      }
+    ]
+  },
+  {
+    "id": "sectarios",
+    "title": "Sectarios",
+    "group":"Otros",
+    "description": "Aquellos entregados a su creencia hasta llegar a la locura.",
+    "cardIds": ["kyokai","lazuli","junketsu","kenji_nara"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 10000
+      },
+       
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":2
+      },
+      {
+        "type":"title",
+        "titleId":"sectario"
+      }
+    ]
+  },
+  {
+    "id": "tsumes",
+    "title": "Familia Tsume",
+    "group":"Familias",
+    "description": "Otra familia separada por la muerte (para variar).",
+    "cardIds": ["koro_tsume","kirio_tsume","suko_tsume"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 10000
+      },
+       
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":2
+      }
+      
+    ]
+  },
+   {
+    "id": "familia_noroi",
+    "title": "Familia Noroi",
+    "group":"Familias",
+    "description": "Una familia maldita y enlazada al destino.",
+    "cardIds": ["ritsu_noroi","noroi_beast","psuche_noroi","yasumi_noroi","kaoru_noroi","amai_noroi","shukoku_noroi","akarui_noroi","aranion_noroi","morwen_noroi"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 35000
+      },
+       
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":5
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":1
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":1
+      },
+      {
+        "type":"title",
+        "titleId":"noroi"
+      }
+      
+    ]
+  },
+  {
+    "id": "carmonas",
+    "title": "Carmonas",
+    "group":"Familias",
+    "description": "Una de las pocas famililas españolas.",
+    "cardIds": ["miguel_carmona","manuel_carmona","jose_carmona"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 8000
+      },
+       
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":2
+      }
+      
+    ]
+  },
+   {
+    "id": "utrera",
+    "title": "Utrera",
+    "group":"Familias",
+    "description": "Grupo de coalición de varias razas y lugares, pero también una familia unida y extrovertida.",
+    "cardIds": ["einar_rideryon","tobymaru","alex_petrov","jenue_bogai","isabel_maya","dankha_sagi","suko_tsume","koro_tsume","kirio_tsume","kalya_siam"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 28000
+      },
+       
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":3
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":2
+      },
+      {
+        "type":"title",
+        "titleId":"utrerano"
+      }
+      
+    ]
   }
-
 
 ]
