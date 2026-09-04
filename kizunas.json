@@ -20,6 +20,7 @@
   {
     "id": "boyfriends",
     "title": "Los boyfriends",
+    "group": "DAM",
     "description": "Los dos novietes.",
     "cardIds": ["ken_inazuma", "raiden_fuutaro"],
     "rewards": [
