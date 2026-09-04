@@ -173,7 +173,7 @@
    {
     "id": "parejita",
     "title": "Amor incompleto",
-    "group":"Familias",
+    "group":"Jinushi",
     "description": "Separados antes de que surgiera el amor.",
     "cardIds": ["kenji_ikari", "yuri_ivanov"],
     "rewards": [
@@ -324,7 +324,7 @@
    {
     "id": "clan_ikari",
     "title": "Clan Ikari",
-    "group":"Familias",
+    "group":"Jinushi",
     "description": "Los enemigos naturales de Kizoku, cuya sed de expansión no sacia.",
     "cardIds": ["kenji_ikari","ryo_ikari","roy_ikari","tou_ikari"],
     "rewards": [
