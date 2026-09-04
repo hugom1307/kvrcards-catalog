@@ -3168,5 +3168,75 @@
     "calidad": "plata",
     "procedencia": "Kachi",
     "owner": "Alecrackman"
+  },
+  {
+    "id": "ayari_hyuga_heroe",
+    "name": "Ayari Hyuga",
+    "stats": [92,86,88,90,89,78],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ayari.png",
+    "media": 88,
+    "calidad": "heroe",
+    "procedencia": "Konohagakure",
+    "owner": "Grejino02"
+  },
+   {
+    "id": "mikhail_hoot",
+    "name": "Mikhail 'Hoot'",
+    "stats": [53,62,60,60,52,54],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/mikhail.png",
+    "media": 57,
+    "calidad": "bronce",
+    "procedencia": "Desconocido",
+    "owner": "Grejino02"
+  },
+  {
+    "id": "betoks_hatake",
+    "name": "Betoks Hatake",
+    "stats": [40,44,44,48,45,42],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/betoks.png",
+    "media": 45,
+    "calidad": "bronce",
+    "procedencia": "Amegakure",
+    "owner": "Nataliaa15"
+  },
+  {
+    "id": "ayane_hatake",
+    "name": "Ayane Hatake",
+    "stats": [40,40,45,50,44,40],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ayane.png",
+    "media": 45,
+    "calidad": "bronce",
+    "procedencia": "Amegakure",
+    "owner": "Nataliaa15"
+  },
+  {
+    "id": "akane_ryuga",
+    "name": "Akane Ryuga",
+    "stats": [88,80,65,60,71,75],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/akane.png",
+    "media": 74,
+    "calidad": "bronce",
+    "procedencia": "Amegakure",
+    "owner": "Grejino02"
+  },
+  {
+    "id": "aranion_noroi",
+    "name": "Aranion Noroi",
+    "stats": [83,75,77,79,75,79],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/aranionN.png",
+    "media": 78,
+    "calidad": "oro",
+    "procedencia": "Mundo Subterráneo",
+    "owner": "Grejino02"
+  },
+  {
+    "id": "morwen_noroi",
+    "name": "Morwen Noroi",
+    "stats": [76,84,79,78,77,75],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/morwenN.png",
+    "media": 78,
+    "calidad": "oro",
+    "procedencia": "Mundo Subterráneo",
+    "owner": "Grejino02"
   }
 ]
