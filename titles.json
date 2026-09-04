@@ -185,7 +185,7 @@
     "id": "nigromante",
     "name": "Nigromante",
     "description": "Domina las artes del alma",
-    "gradient":"radial-gradient(circle farthest-side at bottom left, #FF0000 0%, #000000 50%, #0D41FF 100%)",
+    "gradient":"linear-gradient(to bottom, #1F4037 0%, #80E1C2 100%)",
     "unlockDescription":"Completa el Kizuna 'Nigromantes'"
   },
   {
@@ -194,5 +194,62 @@
     "description": "Tu prestigio con Ronan Hatake es el máximo. Sus mangekyos te dan poder",
     "gradient": "linear-gradient(to right, #121FCF 0%, #006AFF 20%, #CF1512 50%, #7B0D0B 80%)",
     "unlockDescription":"Completa el prestigio de Ronan Hatake"
+  },
+  {
+    "id": "amekage",
+    "name": "Amekage",
+    "description": "El hijo de la lluvia",
+    "gradient":"linear-gradient(to bottom right, #0D10CF 0%, #ADB8CF 100%)",
+    "unlockDescription":"Completa el Kizuna 'Amekages'"
+  },
+  {
+    "id": "hokage",
+    "name": "Hokage",
+    "description": "El protector de la hoja",
+    "gradient":"linear-gradient(to bottom left, #1AA008 53%, #FF3243 100%)",
+    "unlockDescription":"Completa el Kizuna 'Hokages'"
+  },
+   {
+    "id": "kage",
+    "name": "Kage absoluto",
+    "description": "Gobernador de todo el continente elemental",
+    "gradient":"linear-gradient(to right, #FF0000 0%, #FFFF00 25%, #05C1FF 50%, #FFFF00 75%, #FF0000 100%)",
+    "unlockDescription":"Completa el Kizuna 'Kages'"
+  },
+  {
+    "id": "raiden",
+    "name": "Raiden",
+    "description": "Hagamos todo geométrico",
+    "gradient":"linear-gradient(to left, #358DA0 0%, #8CFF72 100%)",
+    "unlockDescription":"Completa el Kizuna 'Clan Raiden'"
+  },
+  {
+    "id": "ryuga",
+    "name": "Ryuga",
+    "description": "Parte del linaje maldito",
+    "gradient":"linear-gradient(to top left, #B993D6 0%, #8CA6DB 100%)",
+    "unlockDescription":"Completa el Kizuna 'Familia Ryuga'"
+  },
+   {
+    "id": "sectario",
+    "name": "Sectario",
+    "description": "Alabado sea el culto",
+    "gradient":"linear-gradient(to bottom, #F9F586 0%, #A1FFCE 100%)",
+    "unlockDescription":"Completa el Kizuna 'Sectarios'"
+  },
+  {
+    "id": "noroi",
+    "name": "Noroi",
+    "description": "Solamente poseyendo este apellido, saben que representas un peligro alertante",
+    "gradient":"linear-gradient(to bottom, #FF0099 0%, #493240 100%)",
+    "unlockDescription":"Completa el Kizuna 'Familia Noroi'"
+  },
+    {
+    "id": "utrerano",
+    "name": "Utrerano",
+    "description": "¡Extrovertio y andalu!",
+    "gradient":"linear-gradient(to bottom, #C6FFDD 0%, #FBD786 50%, #F7797D 100%)",
+    "unlockDescription":"Completa el Kizuna 'Utrera'"
   }
+
 ]
