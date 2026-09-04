@@ -2,7 +2,7 @@
   {
     "id": "esperanza_desesperacion",
     "title": "Esperanza y Desesperación",
-    "group": "Esperanza y Desesperación",
+    "group": "DAM",
     "description": "Dos hermanos unidos por el destino, separados por la luz y la oscuridad de la esperanza y la desesperación.",
     "cardIds": ["kurai_tenro", "sukui_uzumaki"],
     "rewards": [
@@ -63,6 +63,7 @@
   {
     "id": "elementales",
     "title": "Los elementales",
+    "group":"DAM",
     "description": "Aquellos unidos para derrotar al rey elemental.",
     "cardIds": ["taka_uzumaki", "sekitan","dekiru_mizu","sukui_uzumaki","kurai_tenro"],
     "rewards": [
@@ -117,6 +118,7 @@
    {
     "id": "fundadores_ani",
     "title": "Fundadores de la A.N.I",
+    "group":"ANI",
     "description": "Los miembros originales.",
     "cardIds": ["kento_rikudo", "kaoru_noroi","asahi_raiden","jose_carmona"],
     "rewards": [
@@ -143,6 +145,7 @@
     {
     "id": "fundadores_dam",
     "title": "Fundadores de la D.A.M",
+    "group":"DAM",
     "description": "Los miembros originales.",
     "cardIds": ["sebastian_godoy", "merlin","isabel_maya","tamiko_ozoku"],
     "rewards": [
@@ -169,6 +172,7 @@
    {
     "id": "parejita",
     "title": "Amor incompleto",
+    "group":"Familias",
     "description": "Separados antes de que surgiera el amor.",
     "cardIds": ["kenji_ikari", "yuri_ivanov"],
     "rewards": [
@@ -186,6 +190,7 @@
   {
     "id": "hermanos_problematicos",
     "title": "Hermanos problemáticos",
+    "group":"Familias",
     "description": "En el fondo se quieren, ¿creo?.",
     "cardIds": ["ryo_ikari","kenji_ikari", "mikori_fukasa","nagare_fukasa"],
     "rewards": [
@@ -213,6 +218,7 @@
    {
     "id": "duo_diabolico",
     "title": "Duo Diabólico",
+    "group":"DAM",
     "description": "Cuando este duo se junta, el caos y la diversión están asegurados.",
     "cardIds": ["jenue_bogai","mamoru"],
     "rewards": [
@@ -231,6 +237,7 @@
   {
     "id": "familia_maya",
     "title": "Familia Maya",
+    "group":"Familias",
     "description": "Se dice que el patriarca rompe sofás con su 1%.",
     "cardIds": ["alberto_maya","pedro_maya","isabel_maya","dario_maya","elena_maya","donmaya"],
     "rewards": [
@@ -255,6 +262,7 @@
    {
     "id": "familia_feliz",
     "title": "Familia Feliz",
+    "group":"Familias",
     "description": "Cuando todo estaba bien y se podía vivir tranquilo.",
     "cardIds": ["sekitan","seikatsu","jimmy","miguel_carmona"],
     "rewards": [
@@ -273,6 +281,7 @@
    {
     "id": "soldado_kizoku",
     "title": "Soldados de Kizoku",
+    "group": "Kizoku",
     "description": "El líder de los soldados de Kizoku junto a su irremplazable mano derecha.",
     "cardIds": ["zhen_uzumaki","hiro_yuki"],
     "rewards": [
@@ -298,6 +307,7 @@
   {
     "id": "dinero",
     "title": "Plata 🤑",
+    "group":"Otros",
     "description": "Todo sea por el dinero.",
     "cardIds": ["zhen_uzumaki","dongonzalez"],
     "rewards": [
@@ -313,6 +323,7 @@
    {
     "id": "clan_ikari",
     "title": "Clan Ikari",
+    "group":"Familias",
     "description": "Los enemigos naturales de Kizoku, cuya sed de expansión no sacia.",
     "cardIds": ["kenji_ikari","ryo_ikari","roy_ikari","tou_ikari"],
     "rewards": [
@@ -332,6 +343,7 @@
   {
     "id": "amigos",
     "title": "Amigos del alma",
+    "group":"Kizoku",
     "description": "Cada uno era una parte esencial en la vida del otro, mejores amigos separados por la muerte.",
     "cardIds": ["akarui_hoshi","touma_ozoku"],
     "rewards": [
@@ -354,6 +366,7 @@
   {
     "id": "familia_extrania",
     "title": "Familia extraña",
+    "group":"Familias",
     "description": "2 grandes amigos y un niño que cuidar, pero la pobreza y otros factores terminaron desmoronando la unión.",
     "cardIds": ["einar_rideryon","tobymaru","dongonzalez"],
     "rewards": [
@@ -372,6 +385,7 @@
   {
     "id": "rivalidad",
     "title": "Rivalidad eterna",
+    "group":"Otros",
     "description": "Al comienzo se enfrentaron y al final también, pero nunca perdieron el respeto por el otro.",
     "cardIds": ["kinan_hatake","kiri_uzumaki"],
     "rewards": [
@@ -399,6 +413,7 @@
   {
     "id": "ciencia",
     "title": "Amantes de la ciencia",
+    "group":"Otros",
     "description": "Aquellos que dedicaron su vida o gran parte de ella a la ciencia.",
     "cardIds": ["meili_harada","isabel_maya","merlin","techno","kiri_uzumaki","kaoru_noroi"],
     "rewards": [
@@ -426,6 +441,7 @@
   {
     "id": "elfos",
     "title": "Aldea Teleri",
+    "group":"Familias",
     "description": "ERAN seres mágicos y amigables, una lástima que no quede ni uno vivo.",
     "cardIds": ["elrond","fearna","morwen","aranion","liriel"],
     "rewards": [
@@ -453,6 +469,7 @@
   {
     "id": "realeza_kizoku",
     "title": "Realeza de Kizoku",
+    "group":"Kizoku",
     "description": "La familia real de la monarquía de Kizoku.",
     "cardIds": ["tamiko_ozoku","touma_ozoku"],
     "rewards": [
@@ -470,6 +487,7 @@
   {
     "id": "kazekages",
     "title": "Kazekages",
+    "group":"Kages",
     "description": "Son pocos, pero importantes.",
     "cardIds": ["kurai_tenro","kai_senju_icono"],
     "rewards": [
@@ -492,6 +510,7 @@
    {
     "id": "orfanato_dario",
     "title": "Orfanato Dario",
+    "group":"Familias",
     "description": "Nadie es más importante que nadie, por eso cuidaré a estos pobres niños.",
     "cardIds": ["maria","pablo","zeku","dario_maya","isabel_maya"],
     "rewards": [
@@ -509,6 +528,7 @@
   {
     "id": "pecados",
     "title": "Pecados y padre",
+    "group":"Familias",
     "description": "Los pecados invocados por la danza de apocalipsis junto a su segundo portador y padre.",
     "cardIds": ["iku_tsumori","netami","hokori","donyoku","yokubo","taida","okui","shiroku_kowai"],
     "rewards": [
@@ -526,6 +546,7 @@
   {
     "id": "kowais",
     "title": "Familia Kowai",
+    "group":"Familias",
     "description": "Una familia común hasta que nacieron sus 3 hijos especiales, lástima que 2 de ellos no llegaron lejos sin la 'ayuda' de su hermano mayor.",
     "cardIds": ["jin_kowai","azumi_kowai","kenta_kowai","kosuke_kowai","shiroku_kowai"],
     "rewards": [
@@ -543,6 +564,7 @@
   {
     "id": "nigromantes",
     "title": "Nigromantes",
+    "group":"Otros",
     "description": "Peligrosos para la vida y el alma de la gente.",
     "cardIds": ["kenji_nara","shiroku_kowai"],
     "rewards": [
@@ -562,6 +584,7 @@
  {
     "id": "animales_misticos",
     "title": "Animales Místicos",
+    "group":"Otros",
     "description": "No se saben que son exactamente, pero definitivamente no son normales y vienen de dioses antiguos.",
     "cardIds": ["kyo","jimmy","suta"],
     "rewards": [
