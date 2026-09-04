@@ -9,7 +9,7 @@
     "id": "fondo_ronan_hatake",
     "nombre": "Mangekyo Watching-Time",
     "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_ronan_hatake.png",
-    "boxColor": "linear-gradient(to right, #870000 0%, #CF0000 100%)",
+    "boxColor": "linear-gradient(to right, #8A0000 0%, #BE0000 100%)",
     "borderColor": "#FFB833",
     "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Ronan Hatake."
   }
