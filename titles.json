@@ -250,6 +250,13 @@
     "description": "¡Extrovertio y andalu!",
     "gradient":"linear-gradient(to bottom, #C6FFDD 0%, #FBD786 50%, #F7797D 100%)",
     "unlockDescription":"Completa el Kizuna 'Utrera'"
+  },
+ {
+    "id": "beta",
+    "name": "Beta-Tester",
+    "description": "Chambeando por el pago de 0€",
+    "gradient":"linear-gradient(to bottom right, #AA4B6B 0%, #3B8D99 100%)",
+    "unlockDescription":"Haber chambeado y beta testear el juego o añadir ideas y contenido"
   }
 
 ]
