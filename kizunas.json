@@ -78,17 +78,6 @@
       {
         "type":"title",
         "titleId":"poderes_kizoku"
-    },
-    {
-      "type": "buff",
-      "name": "Autoridad de Kizoku",
-      "description": "Aumenta un 6% Ninjutsu , 5% Defensa y 5% de Velocidad a los miembros del Kizuna",
-      "stats": {
-        "ninjutsu": 6,
-        "defensa": 5,
-        "velocidad":5
-      },
-      "allTeam": false
     }
     ]
   },
@@ -195,9 +184,9 @@
     {
       "type": "buff",
       "name": "Bendición de Apostol",
-      "description": "Aumenta un 3% Ninjutsu, 3% Taijutsu, 3% Velocidad y 3% Resistencia a los miembros del Kizuna",
+      "description": "Aumenta un 2% Ninjutsu, 3% Taijutsu, 3% Velocidad y 3% Resistencia a los miembros del Kizuna",
       "stats": {
-        "ninjutsu": 3,
+        "ninjutsu": 2,
         "taijutsu": 3,
         "velocidad":3,
         "resistencia":3
@@ -467,10 +456,10 @@
     {
       "type": "buff",
       "name": "Poderio Ikari",
-      "description": "Aumenta un 3% Ninjutsu, 4% Fisico y 3% defensa a los miembros del Kizuna",
+      "description": "Aumenta un 2% Ninjutsu, 3% Fisico y 3% defensa a los miembros del Kizuna",
       "stats": {
-        "ninjutsu": 3,
-        "fisico": 4,
+        "ninjutsu": 2,
+        "fisico": 3,
         "defensa":3
       },
       "allTeam": false
@@ -497,17 +486,7 @@
         "type": "pack",
         "packId": "sobre_plata",
         "amount":1
-      },
-      {
-      "type": "buff",
-      "name": "Poder de la Amistad",
-      "description": "Aumenta un 3% Ninjutsu y 3% Velocidad a los miembros del Kizuna",
-      "stats": {
-        "ninjutsu": 3,
-        "velocidad": 4
-      },
-      "allTeam": false
-    }
+      }
     ]
   },
   {
@@ -669,18 +648,7 @@
         "type": "pack",
         "packId": "sobre_oro",
         "amount":1
-      },
-      {
-      "type": "buff",
-      "name": "Autoridad Ozoku",
-      "description": "Aumenta un 4% Ninjutsu, 3% Defensa y 2% Resistencia a los miembros del equipo",
-      "stats": {
-        "ninjutsu": 4,
-        "defensa": 3,
-        "resistencia":2
-      },
-      "allTeam": true
-    }
+      }
     ]
   },
   {
@@ -791,12 +759,12 @@
     {
       "type": "buff",
       "name": "Pureza del Alma",
-      "description": "Aumenta un 5% Ninjutsu y 3% Taijutsu a los miembros del equipo",
+      "description": "Aumenta un 5% Ninjutsu y 3% Taijutsu a los miembros del kizuna",
       "stats": {
         "ninjutsu": 5,
         "taijutsu": 3
       },
-      "allTeam": true
+      "allTeam": false
     }
     ]
   },
