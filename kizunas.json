@@ -14,13 +14,23 @@
       {
         "type": "title",
         "titleId": "esperanza_desesperacion"
-      }
+      },
+      {
+      "type": "buff",
+      "name": "Luz y oscuridad",
+      "description": "Aumenta un 3% Ninjutsu y 4% Taijutsu a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 3,
+        "taijutsu": 4
+      },
+      "allTeam": false
+    }
     ]
   },
   {
     "id": "boyfriends",
     "title": "Los boyfriends",
-    "group": "DAM",
+    "group": "Familias",
     "description": "Los dos novietes y sus hijos adoptados.",
     "cardIds": ["ken_inazuma","lilia_inazuma","mikhail_hoot", "raiden_fuutaro"],
     "rewards": [
@@ -31,7 +41,17 @@
       {
         "type": "pack",
         "packId": "sobre_bronce"
-      }
+      },
+      {
+      "type": "buff",
+      "name": "Día del orgullo",
+      "description": "Aumenta un 3% Ninjutsu y 5% Defensa a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 3,
+        "defensa": 5
+      },
+      "allTeam": false
+    }
     ]
   },
   {
@@ -58,6 +78,17 @@
       {
         "type":"title",
         "titleId":"poderes_kizoku"
+    },
+    {
+      "type": "buff",
+      "name": "Autoridad de Kizoku",
+      "description": "Aumenta un 6% Ninjutsu , 5% Defensa y 5% de Velocidad a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 6,
+        "defensa": 5,
+        "velocidad":5
+      },
+      "allTeam": false
     }
     ]
   },
@@ -85,6 +116,16 @@
       {
         "type":"title",
         "titleId":"elemental"
+    },
+    {
+      "type": "buff",
+      "name": "Poder Elemental",
+      "description": "Aumenta un 4% Ninjutsu y 3% Defensa a los miembros del equipo",
+      "stats": {
+        "ninjutsu": 4,
+        "defensa": 3
+      },
+      "allTeam": true
     }
   ]
 },
@@ -112,6 +153,16 @@
       {
         "type":"title",
         "titleId":"heroe"
+    },
+    {
+      "type": "buff",
+      "name": "Protección heróica",
+      "description": "Aumenta un 6% Defensa a los miembros del equipo",
+      "stats": {
+        "defensa": 6
+        
+      },
+      "allTeam": true
     }
     ]
   },
@@ -140,6 +191,18 @@
       {
         "type":"title",
         "titleId":"fundador_ani"
+    },
+    {
+      "type": "buff",
+      "name": "Bendición de Apostol",
+      "description": "Aumenta un 3% Ninjutsu, 3% Taijutsu, 3% Velocidad y 3% Resistencia a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 3,
+        "taijutsu": 3,
+        "velocidad":3,
+        "resistencia":3
+      },
+      "allTeam": false
     }
     ]
   },
@@ -167,6 +230,16 @@
       {
         "type":"title",
         "titleId":"fundador_dam"
+    },
+    {
+      "type": "buff",
+      "name": "Bendición de Descendiente",
+      "description": "Aumenta un 4% Resistencia y 5% Fisico a los miembros del equipo",
+      "stats": {
+        "resistencia": 4,
+        "fisico": 5
+      },
+      "allTeam": true
     }
     ]
   },
@@ -185,7 +258,17 @@
         "type": "pack",
         "packId": "sobre_plata",
         "amount":1
-      }
+      },
+      {
+      "type": "buff",
+      "name": "Poder del Amor",
+      "description": "Aumenta un 3% Ninjutsu y 2% Resistencia a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 3,
+        "resistencia": 2
+      },
+      "allTeam": false
+    }
     ]
   },
   {
@@ -212,7 +295,18 @@
       {
         "type":"title",
         "titleId":"hermano_problematico"
-      }
+      },
+      {
+      "type": "buff",
+      "name": "Hermandad problemática",
+      "description": "Aumenta un 5% Ninjutsu, 2% Taijutsu y 5% Resistencia a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 5,
+        "taijutsu": 2,
+        "resistencia":5
+      },
+      "allTeam": false
+    }
     ]
   },
 
@@ -231,7 +325,18 @@
         "type": "pack",
         "packId": "sobre_oro",
         "amount":1
-      }
+      },
+      {
+      "type": "buff",
+      "name": "Pacto del Travieso",
+      "description": "Aumenta un 6% Taijutsu, 6% Resistencia y 6% Fisico a los miembros del Kizuna",
+      "stats": {
+        "taijutsu": 6,
+        "fisico":6,
+        "resistencia":6
+      },
+      "allTeam": false
+    }
     ]
   },
 
@@ -301,7 +406,17 @@
         "amount":1
       },
       {"type":"title",
-    "titleId":"soldado"}
+    "titleId":"soldado"},
+    {
+      "type": "buff",
+      "name": "Reconocimiento de Guerra",
+      "description": "Aumenta un 4% Ninjutsu y 5% Fisico a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 4,
+        "fisico": 5
+      },
+      "allTeam": false
+    }
     ]
   },
 
@@ -317,7 +432,17 @@
         "amount": 20000
       },
       {"type":"title",
-    "titleId":"plata"}
+    "titleId":"plata"},
+    {
+      "type": "buff",
+      "name": "Lluvia de Oro",
+      "description": "Aumenta un 3% Ninjutsu y 4% Resistencia a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 3,
+        "resistencia": 4
+      },
+      "allTeam": false
+    }
     ]
   },
 
@@ -338,7 +463,18 @@
         "amount":2
       },
       {"type":"title",
-    "titleId":"ikari"}
+    "titleId":"ikari"},
+    {
+      "type": "buff",
+      "name": "Poderio Ikari",
+      "description": "Aumenta un 3% Ninjutsu, 4% Fisico y 3% defensa a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 3,
+        "fisico": 4,
+        "defensa":3
+      },
+      "allTeam": false
+    }
     ]
   },
   {
@@ -361,7 +497,17 @@
         "type": "pack",
         "packId": "sobre_plata",
         "amount":1
-      }
+      },
+      {
+      "type": "buff",
+      "name": "Poder de la Amistad",
+      "description": "Aumenta un 3% Ninjutsu y 3% Velocidad a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 3,
+        "velocidad": 4
+      },
+      "allTeam": false
+    }
     ]
   },
   {
@@ -379,7 +525,18 @@
         "type": "pack",
         "packId": "sobre_plata",
         "amount":2
-      }
+      },
+      {
+      "type": "buff",
+      "name": "Regeneración carnosa",
+      "description": "Aumenta un 3% Resistencia, 3% Fisico y 4% Taijutsu a los miembros del Kizuna",
+      "stats": {
+        "resistencia": 3,
+        "taijutsu": 4,
+        "fisico":3
+      },
+      "allTeam": false
+    }
     ]
   },
 
@@ -408,7 +565,17 @@
         "type": "title",
         "titleId": "rival2"
         
-      }
+      },
+      {
+      "type": "buff",
+      "name": "Adredalina de Rival",
+      "description": "Aumenta un 5% Ninjutsu y 5% Taijutsu a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 5,
+        "taijutsu": 5
+      },
+      "allTeam": false
+    }
     ]
   },
   {
@@ -436,7 +603,17 @@
         "type": "title",
         "titleId": "cientifico"
         
-      }
+      },
+      {
+      "type": "buff",
+      "name": "Impulso Científico",
+      "description": "Aumenta un 4% Ninjutsu y 4% Defensa a los miembros del equipo",
+      "stats": {
+        "ninjutsu": 4,
+        "defensa": 4
+      },
+      "allTeam": true
+    }
     ]
   },
   {
@@ -464,7 +641,17 @@
         "type": "title",
         "titleId": "elfo"
         
-      }
+      },
+      {
+      "type": "buff",
+      "name": "Maná Elfico",
+      "description": "Aumenta un 6% Ninjutsu a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 6
+        
+      },
+      "allTeam": false
+    }
     ]
   },
   {
@@ -482,7 +669,18 @@
         "type": "pack",
         "packId": "sobre_oro",
         "amount":1
-      }
+      },
+      {
+      "type": "buff",
+      "name": "Autoridad Ozoku",
+      "description": "Aumenta un 4% Ninjutsu, 3% Defensa y 2% Resistencia a los miembros del equipo",
+      "stats": {
+        "ninjutsu": 4,
+        "defensa": 3,
+        "resistencia":2
+      },
+      "allTeam": true
+    }
     ]
   },
   {
@@ -505,7 +703,17 @@
         "type": "title",
         "titleId": "kazekage"
         
-      }
+      },
+      {
+      "type": "buff",
+      "name": "Danza del Desierto",
+      "description": "Aumenta un 5% Ninjutsu y 5% Resistencia a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 5,
+        "resistencia": 5
+      },
+      "allTeam": false
+    }
     ]
   },
    {
@@ -579,7 +787,17 @@
         "amount":1
       },
       {"type":"title",
-    "titleId":"nigromante"}
+    "titleId":"nigromante"},
+    {
+      "type": "buff",
+      "name": "Pureza del Alma",
+      "description": "Aumenta un 5% Ninjutsu y 3% Taijutsu a los miembros del equipo",
+      "stats": {
+        "ninjutsu": 5,
+        "taijutsu": 3
+      },
+      "allTeam": true
+    }
     ]
   },
  {
@@ -605,7 +823,7 @@
     "title": "Amekages",
     "group":"Kages",
     "description": "Un cargo heredado durante generaciones.",
-    "cardIds": ["peyan_uzumaki_icono","joshira_uzumaki_icono","kinan_hatake","ayato_hyuga_icono","betocs_hatake_icono"],
+    "cardIds": ["peyan_uzumaki_icono","joshira_uzumaki_icono","kinan_hatake","ayato_uzumaki_icono","betocs_hatake_icono"],
     "rewards": [
       {
         "type": "coins",
@@ -624,7 +842,17 @@
       {
         "type":"title",
         "titleId":"amekage"
-      }
+      },
+      {
+      "type": "buff",
+      "name": "LLuvia Vital",
+      "description": "Aumenta un 5% Taijutsu y 5% Velocidad a los miembros del Kizuna",
+      "stats": {
+        "taijutsu": 5,
+        "velocidad": 5
+      },
+      "allTeam": false
+    }
     ]
   },
     {
@@ -651,7 +879,17 @@
       {
         "type":"title",
         "titleId":"hokage"
-      }
+      },
+      {
+      "type": "buff",
+      "name": "Poder de la Hoja",
+      "description": "Aumenta un 5% Fisico y 5% Defensa a los miembros del Kizuna",
+      "stats": {
+        "fisico": 5,
+        "defensa": 5
+      },
+      "allTeam": false
+    }
     ]
   },
   {
@@ -659,7 +897,7 @@
     "title": "Kages",
     "group":"Kages",
     "description": "Aquellos que gobiernan todo el continente elemental.",
-    "cardIds": ["haji_senju","shin_uzumaki","ayari_hyuga_heroe","taiyo_uchiha_icono","kuroo_sarutobi","sukui_uzumaki","merlin","peyan_uzumaki_icono","joshira_uzumaki_icono","kinan_hatake","ayato_hyuga_icono","betocs_hatake_icono","kai_senju_icono","kurai_tenro","manuel_hyuga_icono","shind_inazuma_icono","kiri_uzumaki"],
+    "cardIds": ["haji_senju","shin_uzumaki","ayari_hyuga_heroe","taiyo_uchiha_icono","kuroo_sarutobi","sukui_uzumaki","merlin","peyan_uzumaki_icono","joshira_uzumaki_icono","kinan_hatake","ayato_uzumaki_icono","betocs_hatake_icono","kai_senju_icono","kurai_tenro","manuel_hyuga_icono","shind_inazuma_icono","kiri_uzumaki"],
     "rewards": [
       {
         "type": "coins",
@@ -710,7 +948,17 @@
       {
         "type":"title",
         "titleId":"raiden"
-      }
+      },
+      {
+      "type": "buff",
+      "name": "Mastería Raiden",
+      "description": "Aumenta un 4% Ninjutsu y 3% Velocidad a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 4,
+        "velocidad": 3
+      },
+      "allTeam": false
+    }
     ]
   },
   
@@ -734,7 +982,18 @@
         "type": "pack",
         "packId": "sobre_oro",
         "amount":1
-      }
+      },
+      {
+      "type": "buff",
+      "name": "Lazos Sanguíneos",
+      "description": "Aumenta un 3% Ninjutsu, 3% Velocidad y 3% Taijutsu a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 3,
+        "taijutsu": 3,
+        "velocidad":3
+      },
+      "allTeam": false
+    }
     ]
   },
   {
@@ -761,7 +1020,17 @@
       {
         "type":"title",
         "titleId":"ryuga"
-      }
+      },
+      {
+      "type": "buff",
+      "name": "Destino Ryuga",
+      "description": "Aumenta un 5% Ninjutsu y 6% Taijutsu a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 5,
+        "taijutsu": 6
+      },
+      "allTeam": false
+    }
     ]
   },
   {
