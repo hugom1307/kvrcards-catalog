@@ -823,7 +823,7 @@
     "title": "Amekages",
     "group":"Kages",
     "description": "Un cargo heredado durante generaciones.",
-    "cardIds": ["peyan_uzumaki_icono","joshira_uzumaki_icono","kinan_hatake","ayato_uzumaki_icono","betocs_hatake_icono"],
+    "cardIds": ["peyan_uzumaki_icono","joshira_uzumaki_icono","kinan_hatake","ayato_hyuga_icono","betocs_hatake_icono"],
     "rewards": [
       {
         "type": "coins",
@@ -897,7 +897,7 @@
     "title": "Kages",
     "group":"Kages",
     "description": "Aquellos que gobiernan todo el continente elemental.",
-    "cardIds": ["haji_senju","shin_uzumaki","ayari_hyuga_heroe","taiyo_uchiha_icono","kuroo_sarutobi","sukui_uzumaki","merlin","peyan_uzumaki_icono","joshira_uzumaki_icono","kinan_hatake","ayato_uzumaki_icono","betocs_hatake_icono","kai_senju_icono","kurai_tenro","manuel_hyuga_icono","shind_inazuma_icono","kiri_uzumaki"],
+    "cardIds": ["haji_senju","shin_uzumaki","ayari_hyuga_heroe","taiyo_uchiha_icono","kuroo_sarutobi","sukui_uzumaki","merlin","peyan_uzumaki_icono","joshira_uzumaki_icono","kinan_hatake","ayato_hyuga_icono","betocs_hatake_icono","kai_senju_icono","kurai_tenro","manuel_hyuga_icono","shind_inazuma_icono","kiri_uzumaki"],
     "rewards": [
       {
         "type": "coins",
