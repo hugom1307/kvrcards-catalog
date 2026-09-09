@@ -1,42 +1,6 @@
 {
   "traits": [
     {
-      "id": "taijutsu1",
-      "name": "Taijutsu I",
-      "description": "Aumenta +1 a la característica de Taijustu",
-      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-1.png",
-      "rarity": "rare",
-      "effect": {
-        "type": "boost_stat",
-        "stat": "taijutsu",
-        "value": 1
-      }
-    },
-    {
-      "id": "taijutsu2",
-      "name": "Taijutsu II",
-      "description": "Aumenta +2 a la característica de Taijustu",
-      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-2.png",
-      "rarity": "rare",
-      "effect": {
-        "type": "boost_stat",
-        "stat": "taijutsu",
-        "value": 2
-      }
-    },
-    {
-      "id": "taijutsu3",
-      "name": "Taijutsu III",
-      "description": "Aumenta +3 a la característica de Taijustu",
-      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-3.png",
-      "rarity": "rare",
-      "effect": {
-        "type": "boost_stat",
-        "stat": "taijutsu",
-        "value": 3
-      }
-    },
-    {
       "id": "ninjutsu1",
       "name": "Ninjutsu I",
       "description": "Aumenta +1 a la característica de Ninjustu",
@@ -69,6 +33,42 @@
       "effect": {
         "type": "boost_stat",
         "stat": "ninjutsu",
+        "value": 3
+      }
+    },
+    {
+      "id": "taijutsu1",
+      "name": "Taijutsu I",
+      "description": "Aumenta +1 a la característica de Taijustu",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-1.png",
+      "rarity": "rare",
+      "effect": {
+        "type": "boost_stat",
+        "stat": "taijutsu",
+        "value": 1
+      }
+    },
+    {
+      "id": "taijutsu2",
+      "name": "Taijutsu II",
+      "description": "Aumenta +2 a la característica de Taijustu",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-2.png",
+      "rarity": "rare",
+      "effect": {
+        "type": "boost_stat",
+        "stat": "taijutsu",
+        "value": 2
+      }
+    },
+    {
+      "id": "taijutsu3",
+      "name": "Taijutsu III",
+      "description": "Aumenta +3 a la característica de Taijustu",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-3.png",
+      "rarity": "rare",
+      "effect": {
+        "type": "boost_stat",
+        "stat": "taijutsu",
         "value": 3
       }
     },
