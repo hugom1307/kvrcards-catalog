@@ -1,0 +1,63 @@
+[
+  {
+    "id": "doman_kurimonzoso",
+    "nombre": "Doman Kurimonzoso",
+    "titulo": "Estratega de la Niebla",
+    "imagen": "./bots/doman.png",
+    "dificultades": ["principiante", "amateur"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_ronan_hatake.png",
+    "intervaloMedias": [76, 85],
+    "cartasObligatorias": [
+      "doman_kurimonzoso",
+      "kai_senju_icono"
+    ],
+    "cartasProhibidas": [
+      "kiri_uzumaki_icono",
+      
+    ]
+  },
+  {
+    "id": "zion_hatake",
+    "nombre": "Zion Hatake",
+    "titulo": "Maestro del Rayo",
+    "imagen": "./bots/zion.png",
+    "dificultades": ["amateur", "experimentado"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_ronan_hatake.png",
+    "intervaloMedias": [79, 84],
+    "cartasObligatorias": [
+      "zion_hatake",
+      "kinan_hatake_icono",
+      "betocs_hatake_icono"
+    ],
+    "cartasProhibidas": []
+  },
+  {
+    "id": "tan_uzumaki",
+    "nombre": "Tan Uzumaki",
+    "titulo": "Heredero Carmesí",
+    "imagen": "./bots/tan.png",
+    "dificultades": ["profesional"],
+    "fondo": null,
+    "intervaloMedias": [73, 87],
+    "cartasObligatorias": [
+      "tan_uzumaki",
+      "manuel_hyuga_icono"
+    ],
+    "cartasProhibidas": [
+      "kiri_uzumaki_icono"
+    ]
+  },
+  {
+    "id": "shinobi_inmortal",
+    "nombre": "Inmortal Shinobi",
+    "titulo": "Deidad de las Sombras",
+    "imagen": "https://api.dicebear.com/7.x/avataaars/svg?seed=inmo-legend",
+    "dificultades": ["dios-antiguo", "inmo"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/assets/backgrounds/inmo_arena.jpg",
+    "intervaloMedias": [90, 99],
+    "cartasObligatorias": [
+      "kaguya_otsutsuki"
+    ],
+    "cartasProhibidas": []
+  }
+]
