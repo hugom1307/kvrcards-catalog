@@ -1,14 +1,14 @@
 [
   {
-    "id": "doman_kurimonzoso",
-    "nombre": "Doman Kurimonzoso",
+    "id": "doman_kurimunzoso",
+    "nombre": "Doman Kurimunzoso",
     "titulo": "Estratega de la Niebla",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/doman.png",
     "dificultades": ["principiante", "amateur"],
     "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_ronan_hatake.png",
     "intervaloMedias": [76, 85],
     "cartasObligatorias": [
-      "doman_kurimonzoso",
+      "doman_kurimunzoso",
       "kai_senju_icono"
     ],
     "cartasProhibidas": [
