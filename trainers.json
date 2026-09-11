@@ -159,16 +159,54 @@
     ]
   },
   {
-    "id": "shinobi_inmortal",
-    "nombre": "Inmortal Shinobi",
-    "titulo": "Deidad de las Sombras",
-    "imagen": "https://api.dicebear.com/7.x/avataaars/svg?seed=inmo-legend",
-    "dificultades": ["dios-antiguo", "inmo"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/assets/backgrounds/inmo_arena.jpg",
-    "intervaloMedias": [90, 99],
+    "id": "tenshi",
+      "nombre": "Tenshi",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/tenshi.png",
+    "dificultades": ["dios-antiguo"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_diosantiguo.png",
+    "intervaloMedias": [88, 93]
+  },
+  {
+    "id": "seikatsu",
+      "nombre": "Seikatsu",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/seikatsu.png",
+    "dificultades": ["dios-antiguo"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_diosantiguo.png",
+    "intervaloMedias": [89, 95],
     "cartasObligatorias": [
-      "kaguya_otsutsuki"
-    ],
-    "cartasProhibidas": []
+      "shind_inazuma_iconosuperprime"
+    ]
+  },
+  {
+    "id": "jimmy",
+      "nombre": "Jimmy",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/jimmy.png",
+    "dificultades": ["dios-antiguo"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_diosantiguo.png",
+    "intervaloMedias": [87, 92]
+  },
+  {
+    "id": "haseo_otsutsuki",
+    "nombre": "Haseo Otsutsuki",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/haseo.png",
+    "dificultades": ["inmo"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/assets/backgrounds/fondo_inmo.jpg",
+    "intervaloMedias": [90]
+  },
+  {
+    "id": "senrigan",
+    "nombre": "Senrigan",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/senrigan.png",
+    "dificultades": ["inmo"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/assets/backgrounds/fondo_inmo.jpg",
+    "intervaloMedias": [91]
+  },
+  {
+    "id": "konran",
+    "nombre": "Konran",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/konran.png",
+    "dificultades": ["inmo"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/assets/backgrounds/fondo_inmo.jpg",
+    "intervaloMedias": [91]
   }
 ]
