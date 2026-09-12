@@ -33,8 +33,8 @@
     "id": "fondo_raiden_fuutaro",
     "nombre": "Geometría",
     "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_raiden_fuutaro.png",
-    "boxColor": "linear-gradient(to right, #73fa58 0%, #3cfab4 100%)",
-    "borderColor": "#5eb3c1",
+    "boxColor": "linear-gradient(to right, #4cbf35 0%, #23c288 100%)",
+    "borderColor": "#197583",
     "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Raiden Fuutaro."
   },
     {
