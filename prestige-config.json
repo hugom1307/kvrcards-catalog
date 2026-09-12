@@ -188,7 +188,7 @@
           { "name": "Gana 200 rondas con cartas de TaiyoDL", "type": "winsRounds", "owner": "TaiyoDL", "target": 200, "xp": 2000 }
         ],
         "rewards": [
-          { "type": "pack", "packId": "sobre_premium", "amount": 1 },
+          { "type": "pack", "packId": "sobre_83_plus", "amount": 1 },
           { "type": "card", "cardId": "nagare_fukasa", "amount": 1 }
         ]
       },
@@ -257,7 +257,7 @@
           { "name": "Gana 200 rondas con cartas de Alecrackman", "type": "winsRounds", "owner": "Alecrackman", "target": 200, "xp": 2000 }
         ],
         "rewards": [
-          { "type": "pack", "packId": "sobre_premium", "amount": 2 },
+          { "type": "pack", "packId": "sobre_83_plus", "amount": 2 },
           { "type": "card", "cardId": "ransu_hatake_icono", "amount": 1 }
         ]
       },
@@ -326,7 +326,7 @@
           { "name": "Gana 200 rondas con cartas de Grejino02", "type": "winsRounds", "owner": "Grejino02", "target": 200, "xp": 2000 }
         ],
         "rewards": [
-          { "type": "pack", "packId": "sobre_premium", "amount": 2 },
+          { "type": "pack", "packId": "sobre_83_plus", "amount": 2 },
           { "type": "pack", "packId": "sobre_oro", "amount": 2 },
           { "type": "card", "cardId": "liriel", "amount": 1 }
         ]
@@ -396,7 +396,7 @@
           { "name": "Gana 200 rondas con cartas de MrVetoxx", "type": "winsRounds", "owner": "MrVetoxx", "target": 200, "xp": 2000 }
         ],
         "rewards": [
-          { "type": "pack", "packId": "sobre_premium", "amount": 2 },
+          { "type": "pack", "packId": "sobre_83_plus", "amount": 2 },
           { "type": "card", "cardId": "betocs_hatake_icono", "amount": 1 }
         ]
       },
@@ -465,7 +465,7 @@
           { "name": "Gana 200 rondas con cartas de Adrianpepo", "type": "winsRounds", "owner": "Adrianpepo", "target": 200, "xp": 2000 }
         ],
         "rewards": [
-          { "type": "pack", "packId": "sobre_premium", "amount": 2 },
+          { "type": "pack", "packId": "sobre_83_plus", "amount": 2 },
           { "type": "pack", "packId": "sobre_oro", "amount": 2 },
           { "type": "card", "cardId": "yuri_ivanov", "amount": 1 }
         ]
@@ -535,7 +535,7 @@
           { "name": "Gana 200 rondas con cartas de Manuel16", "type": "winsRounds", "owner": "Manuel16", "target": 200, "xp": 2000 }
         ],
         "rewards": [
-          { "type": "pack", "packId": "sobre_premium", "amount": 1 },
+          { "type": "pack", "packId": "sobre_83_plus", "amount": 1 },
           { "type": "card", "cardId": "dankha_sagi", "amount": 1 }
         ]
       },
@@ -604,7 +604,7 @@
           { "name": "Gana 200 rondas con cartas de Nataliaa15", "type": "winsRounds", "owner": "Nataliaa15", "target": 200, "xp": 2000 }
         ],
         "rewards": [
-          { "type": "pack", "packId": "sobre_premium", "amount": 2 },
+          { "type": "pack", "packId": "sobre_83_plus", "amount": 2 },
           { "type": "pack", "packId": "sobre_oro", "amount": 2 },
           { "type": "card", "cardId": "seikatsu", "amount": 1 }
         ]
@@ -674,7 +674,7 @@
           { "name": "Gana 200 rondas con cartas de Juanjovc_20", "type": "winsRounds", "owner": "Juanjovc_20", "target": 200, "xp": 2000 }
         ],
         "rewards": [
-          { "type": "pack", "packId": "sobre_premium", "amount":1  },
+          { "type": "pack", "packId": "sobre_83_plus", "amount":1  },
           { "type": "card", "cardId": "eolo_uzumaki", "amount": 1 }
         ]
       },
@@ -743,7 +743,7 @@
           { "name": "Gana 200 rondas con cartas de Wailant", "type": "winsRounds", "owner": "Wailant", "target": 200, "xp": 2000 }
         ],
         "rewards": [
-          { "type": "pack", "packId": "sobre_premium", "amount":1  },
+          { "type": "pack", "packId": "sobre_83_plus", "amount":1  },
           { "type": "card", "cardId": "ryuki_icono", "amount": 1 }
         ]
       },
@@ -813,7 +813,7 @@
           { "name": "Gana 200 rondas con cartas de Manuel2767", "type": "winsRounds", "owner": "Manuel2767", "target": 200, "xp": 2000 }
         ],
         "rewards": [
-          { "type": "pack", "packId": "sobre_premium", "amount":2  },
+          { "type": "pack", "packId": "sobre_83_plus", "amount":2  },
            { "type": "pack", "packId": "sobre_oro", "amount":2  },
           { "type": "card", "cardId": "toshiro_nami", "amount": 1 }
         ]
