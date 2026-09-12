@@ -257,6 +257,77 @@
     "description": "Chambeando por el pago de 0€",
     "gradient":"linear-gradient(to bottom right, #AA4B6B 0%, #3B8D99 100%)",
     "unlockDescription":"Haber chambeado y beta testear el juego o añadir ideas y contenido"
+  },
+ {
+    "id": "error_salvaje",
+    "name": "Error Salvaje",
+    "description": "Su nacimiento fue un error, pero demostrará que su vida no lo será",
+    "gradient":"linear-gradient(to bottom, #B993D6 0%, #72D5E7 100%)",
+    "unlockDescription":"Completa el prestigio de Mikori Fukasa"
+  },
+  {
+    "id": "corrupto",
+    "name": "Corrupto",
+    "description": "Tras la unión y el nacimiento de su verdadero ser, todos conocerán su verdadero potencial",
+    "gradient":"linear-gradient(to bottom, #1E0004 0%, #BE82A6 100%)",
+    "unlockDescription":"Completa el prestigio de Ken Inazuma"
+  },
+    {
+    "id": "tormenta_creciente",
+    "name": "Tormenta Creciente",
+    "description": "No permitirá que nadie más muera, ya sea curando o haciendo que los enemigos sufran su ira como si fuera una tormenta feroz",
+    "gradient":"linear-gradient(to bottom, #8823BF 0%, #3E4DF3 100%)",
+    "unlockDescription":"Completa el prestigio de Sekitan"
+  },
+   {
+    "id": "sol_de_la_esperanza",
+    "name": "Sol de la Esperanza",
+    "description": "Se un Sol que guíe a tu pueblo",
+    "gradient":"linear-gradient(to bottom, #FF6A00 0%, #FFEA01 100%)",
+    "unlockDescription":"Completa el prestigio de Kurai Tenro"
+  },
+  {
+    "id": "brisa_de_desesperacion",
+    "name": "Brisa de Desesperación",
+    "description": "Aquel que vive cada batalla como si fuera la última",
+    "gradient":"linear-gradient(to bottom, #82E874 0%, #3C3700 100%)",
+    "unlockDescription":"Completa el prestigio de Sukui Uzumaki"
+  },
+  {
+    "id": "emocion_enmascarada",
+    "name": "Emoción Enmascarada",
+    "description": "Transforma tu más fuerte emociones en máscaras de poder 'Por Lore'",
+    "gradient":"linear-gradient(to bottom, #FBFF03 20%, #128EF3 50%, #F30000 78%)",
+    "unlockDescription":"Completa el prestigio de Taka Uzumaki"
+  },
+  {
+    "id": "espada_hispanica",
+    "name": "Espada Hispánica",
+    "description": "Demuestra tu amor por Hispania",
+    "gradient":"linear-gradient(to bottom, #FCFCFC 0%, #A4A4A4 100%)",
+    "unlockDescription":"Completa el prestigio de Vivar"
+  },
+   {
+    "id": "geometrico",
+    "name": "Geométrico",
+    "description": "¡Que todo sea Geométrico!",
+    "gradient":"linear-gradient(to bottom, #4DFF56 0%, #DCDCDC 100%)",
+    "unlockDescription":"Completa el prestigio de Raiden Fuutaro"
+  },
+   {
+    "id": "desertor",
+    "name": "Desertor",
+    "description": "Deja todo lo que amabas y odiabas atrás para un nuevo comienzo",
+    "gradient":"linear-gradient(to bottom, #FCCD4D 0%, #91DBF8 100%)",
+    "unlockDescription":"Completa el prestigio de Kenji Ikari"
+  },
+  
+{
+    "id": "mujer_de_acero",
+    "name": "Mujer de Acero",
+    "description": "Forjada y criada por un gigante legendario",
+    "gradient":"linear-gradient(to bottom, #DFEDFA 0%, #ADC4DA 100%)",
+    "unlockDescription":"Completa el prestigio de Aya"
   }
 
 ]
