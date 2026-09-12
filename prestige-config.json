@@ -137,6 +137,701 @@
         ]
       }
     ]
+  },
+  {
+    "cardId": "mikori_fukasa",
+    "name": "Mikori Fukasa",
+    "levels": [
+      {
+        "prestige": 1,
+        "xpRequired": 100,
+        "missions": [
+          { "name": "Jugar 3 batallas con esta carta", "type": "played", "target": 3, "xp": 100 },
+          { "name": "Ganar 3 batallas con esta carta", "type": "wins", "target": 3, "xp": 150 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 2500 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 1}
+        ]
+      },
+      {
+        "prestige": 2,
+        "xpRequired": 500,
+        "missions": [
+          { "name": "Gana 10 batallas con esta carta", "type": "wins", "target": 10, "xp": 200 },
+          { "name": "Ganar 5 rondas con esta carta", "type": "winsRounds", "target": 5, "xp": 300 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_oc", "amount": 1 },
+          { "type": "coins", "amount": 5000 }
+        ]
+      },
+      {
+        "prestige": 3,
+        "xpRequired": 2000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 25, "xp": 1000 },
+          { "name": "Ganar 15 batallas con esta carta", "type": "wins", "target": 15, "xp": 800 },
+          { "name": "Gana 50 rondas con cartas del Mundo Subterráneo", "type": "winsRounds", "procedencia": "Mundo Subterráneo", "target": 50, "xp": 600 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 25000 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 5 }
+        ]
+      },
+      {
+        "prestige": 4,
+        "xpRequired": 5000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 50, "xp": 1000 },
+          { "name": "Ganar 30 batallas con esta carta", "type": "wins", "target": 30, "xp": 1500 },
+          { "name": "Gana 200 rondas con cartas de TaiyoDL", "type": "winsRounds", "owner": "TaiyoDL", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_premium", "amount": 1 },
+          { "type": "card", "cardId": "nagare_fukasa", "amount": 1 }
+        ]
+      },
+      {
+        "prestige": 5,
+        "xpRequired": 10000,
+        "missions": [
+          { "name": "Gana 100 batallas con esta carta", "type": "wins", "target": 100, "xp": 2500 },
+          { "name": "Ganar 200 rondas con cartas del Mundo Subterráneo de TaiyoDL", "type": "winsRounds", "procedencia": "Mundo Subterráneo", "owner": "TaiyoDL", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "title", "titleId": "error_salvaje"},
+          { "type": "coins", "amount": 50000 },
+          { "type": "background", "backgroundId": "fondo_mikori_fukasa" }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "ken_inazuma",
+    "name": "Ken Inazuma",
+    "levels": [
+      {
+        "prestige": 1,
+        "xpRequired": 100,
+        "missions": [
+          { "name": "Jugar 3 batallas con esta carta", "type": "played", "target": 3, "xp": 100 },
+          { "name": "Ganar 3 batallas con esta carta", "type": "wins", "target": 3, "xp": 150 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 2500 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 1}
+        ]
+      },
+      {
+        "prestige": 2,
+        "xpRequired": 500,
+        "missions": [
+          { "name": "Gana 10 batallas con esta carta", "type": "wins", "target": 10, "xp": 200 },
+          { "name": "Ganar 5 rondas con esta carta", "type": "winsRounds", "target": 5, "xp": 300 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_oc", "amount": 1 },
+          { "type": "coins", "amount": 5000 }
+        ]
+      },
+      {
+        "prestige": 3,
+        "xpRequired": 2000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 25, "xp": 1000 },
+          { "name": "Ganar 15 batallas con esta carta", "type": "wins", "target": 15, "xp": 800 },
+          { "name": "Gana 50 rondas con cartas de Amegakure", "type": "winsRounds", "procedencia": "Amegakure", "target": 50, "xp": 600 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 25000 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 5 }
+        ]
+      },
+      {
+        "prestige": 4,
+        "xpRequired": 5000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 50, "xp": 1000 },
+          { "name": "Ganar 30 batallas con esta carta", "type": "wins", "target": 30, "xp": 1500 },
+          { "name": "Gana 200 rondas con cartas de Alecrackman", "type": "winsRounds", "owner": "Alecrackman", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_premium", "amount": 2 },
+          { "type": "card", "cardId": "ransu_hatake_icono", "amount": 1 }
+        ]
+      },
+      {
+        "prestige": 5,
+        "xpRequired": 10000,
+        "missions": [
+          { "name": "Gana 100 batallas con esta carta", "type": "wins", "target": 100, "xp": 2500 },
+          { "name": "Ganar 200 rondas con cartas de Amegakure de Alecrackman", "type": "winsRounds", "procedencia": "Amegakure", "owner": "Alecrackman", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "title", "titleId": "corrupto"},
+          { "type": "coins", "amount": 50000 },
+          { "type": "background", "backgroundId": "fondo_ken_inazuma" }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "raiden_fuutaro",
+    "name": "Raiden Fuutaro",
+    "levels": [
+      {
+        "prestige": 1,
+        "xpRequired": 100,
+        "missions": [
+          { "name": "Jugar 3 batallas con esta carta", "type": "played", "target": 3, "xp": 100 },
+          { "name": "Ganar 3 batallas con esta carta", "type": "wins", "target": 3, "xp": 150 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 2500 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 1}
+        ]
+      },
+      {
+        "prestige": 2,
+        "xpRequired": 500,
+        "missions": [
+          { "name": "Gana 10 batallas con esta carta", "type": "wins", "target": 10, "xp": 200 },
+          { "name": "Ganar 5 rondas con esta carta", "type": "winsRounds", "target": 5, "xp": 300 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_oc", "amount": 1 },
+          { "type": "coins", "amount": 5000 }
+        ]
+      },
+      {
+        "prestige": 3,
+        "xpRequired": 2000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 25, "xp": 1000 },
+          { "name": "Ganar 15 batallas con esta carta", "type": "wins", "target": 15, "xp": 800 },
+          { "name": "Gana 50 rondas con cartas de Jinushi", "type": "winsRounds", "procedencia": "Jinushi", "target": 50, "xp": 600 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 25000 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 5 }
+        ]
+      },
+      {
+        "prestige": 4,
+        "xpRequired": 5000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 50, "xp": 1000 },
+          { "name": "Ganar 30 batallas con esta carta", "type": "wins", "target": 30, "xp": 1500 },
+          { "name": "Gana 200 rondas con cartas de Grejino02", "type": "winsRounds", "owner": "Grejino02", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_premium", "amount": 2 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 2 },
+          { "type": "card", "cardId": "liriel", "amount": 1 }
+        ]
+      },
+      {
+        "prestige": 5,
+        "xpRequired": 10000,
+        "missions": [
+          { "name": "Gana 100 batallas con esta carta", "type": "wins", "target": 100, "xp": 2500 },
+          { "name": "Ganar 200 rondas con cartas de Jinushi de Grejino02", "type": "winsRounds", "procedencia": "Jinushi", "owner": "Grejino02", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "title", "titleId": "geometrico"},
+          { "type": "coins", "amount": 50000 },
+          { "type": "background", "backgroundId": "fondo_raiden_fuutaro" }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "taka_uzumaki",
+    "name": "Taka Uzumaki",
+    "levels": [
+      {
+        "prestige": 1,
+        "xpRequired": 100,
+        "missions": [
+          { "name": "Jugar 3 batallas con esta carta", "type": "played", "target": 3, "xp": 100 },
+          { "name": "Ganar 3 batallas con esta carta", "type": "wins", "target": 3, "xp": 150 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 2500 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 1}
+        ]
+      },
+      {
+        "prestige": 2,
+        "xpRequired": 500,
+        "missions": [
+          { "name": "Gana 10 batallas con esta carta", "type": "wins", "target": 10, "xp": 200 },
+          { "name": "Ganar 5 rondas con esta carta", "type": "winsRounds", "target": 5, "xp": 300 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_oc", "amount": 1 },
+          { "type": "coins", "amount": 5000 }
+        ]
+      },
+      {
+        "prestige": 3,
+        "xpRequired": 2000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 25, "xp": 1000 },
+          { "name": "Ganar 15 batallas con esta carta", "type": "wins", "target": 15, "xp": 800 },
+          { "name": "Gana 50 rondas con cartas de Hispania", "type": "winsRounds", "procedencia": "Hispania", "target": 50, "xp": 600 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 25000 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 5 }
+        ]
+      },
+      {
+        "prestige": 4,
+        "xpRequired": 5000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 50, "xp": 1000 },
+          { "name": "Ganar 30 batallas con esta carta", "type": "wins", "target": 30, "xp": 1500 },
+          { "name": "Gana 200 rondas con cartas de MrVetoxx", "type": "winsRounds", "owner": "MrVetoxx", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_premium", "amount": 2 },
+          { "type": "card", "cardId": "betocs_hatake_icono", "amount": 1 }
+        ]
+      },
+      {
+        "prestige": 5,
+        "xpRequired": 10000,
+        "missions": [
+          { "name": "Gana 100 batallas con esta carta", "type": "wins", "target": 100, "xp": 2500 },
+          { "name": "Ganar 200 rondas con cartas de Hispania de MrVetoxx", "type": "winsRounds", "procedencia": "Hispania", "owner": "MrVetoxx", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "title", "titleId": "emocion_enmascarada"},
+          { "type": "coins", "amount": 50000 },
+          { "type": "background", "backgroundId": "fondo_taka_uzumaki" }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "kenji_ikari",
+    "name": "Kenji Ikari",
+    "levels": [
+      {
+        "prestige": 1,
+        "xpRequired": 100,
+        "missions": [
+          { "name": "Jugar 3 batallas con esta carta", "type": "played", "target": 3, "xp": 100 },
+          { "name": "Ganar 3 batallas con esta carta", "type": "wins", "target": 3, "xp": 150 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 2500 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 1}
+        ]
+      },
+      {
+        "prestige": 2,
+        "xpRequired": 500,
+        "missions": [
+          { "name": "Gana 10 batallas con esta carta", "type": "wins", "target": 10, "xp": 200 },
+          { "name": "Ganar 5 rondas con esta carta", "type": "winsRounds", "target": 5, "xp": 300 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_oc", "amount": 1 },
+          { "type": "coins", "amount": 5000 }
+        ]
+      },
+      {
+        "prestige": 3,
+        "xpRequired": 2000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 25, "xp": 1000 },
+          { "name": "Ganar 15 batallas con esta carta", "type": "wins", "target": 15, "xp": 800 },
+          { "name": "Gana 50 rondas con cartas de Jinushi", "type": "winsRounds", "procedencia": "Jinushi", "target": 50, "xp": 600 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 25000 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 5 }
+        ]
+      },
+      {
+        "prestige": 4,
+        "xpRequired": 5000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 50, "xp": 1000 },
+          { "name": "Ganar 30 batallas con esta carta", "type": "wins", "target": 30, "xp": 1500 },
+          { "name": "Gana 200 rondas con cartas de Adrianpepo", "type": "winsRounds", "owner": "Adrianpepo", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_premium", "amount": 2 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 2 },
+          { "type": "card", "cardId": "yuri_ivanov", "amount": 1 }
+        ]
+      },
+      {
+        "prestige": 5,
+        "xpRequired": 10000,
+        "missions": [
+          { "name": "Gana 100 batallas con esta carta", "type": "wins", "target": 100, "xp": 2500 },
+          { "name": "Ganar 200 rondas con cartas de Jinushi de Adrianpepo", "type": "winsRounds", "procedencia": "Jinushi", "owner": "Adrianpepo", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "title", "titleId": "desertor"},
+          { "type": "coins", "amount": 50000 },
+          { "type": "background", "backgroundId": "fondo_kenji_ikari" }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "kurai_tenro",
+    "name": "Kurai Tenro",
+    "levels": [
+      {
+        "prestige": 1,
+        "xpRequired": 100,
+        "missions": [
+          { "name": "Jugar 3 batallas con esta carta", "type": "played", "target": 3, "xp": 100 },
+          { "name": "Ganar 3 batallas con esta carta", "type": "wins", "target": 3, "xp": 150 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 2500 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 1}
+        ]
+      },
+      {
+        "prestige": 2,
+        "xpRequired": 500,
+        "missions": [
+          { "name": "Gana 10 batallas con esta carta", "type": "wins", "target": 10, "xp": 200 },
+          { "name": "Ganar 5 rondas con esta carta", "type": "winsRounds", "target": 5, "xp": 300 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_oc", "amount": 1 },
+          { "type": "coins", "amount": 5000 }
+        ]
+      },
+      {
+        "prestige": 3,
+        "xpRequired": 2000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 25, "xp": 1000 },
+          { "name": "Ganar 15 batallas con esta carta", "type": "wins", "target": 15, "xp": 800 },
+          { "name": "Gana 50 rondas con cartas de Sunagakure", "type": "winsRounds", "procedencia": "Sunagakure", "target": 50, "xp": 600 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 25000 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 5 }
+        ]
+      },
+      {
+        "prestige": 4,
+        "xpRequired": 5000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 50, "xp": 1000 },
+          { "name": "Ganar 30 batallas con esta carta", "type": "wins", "target": 30, "xp": 1500 },
+          { "name": "Gana 200 rondas con cartas de Manuel16", "type": "winsRounds", "owner": "Manuel16", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_premium", "amount": 1 },
+          { "type": "card", "cardId": "dankha_sagi", "amount": 1 }
+        ]
+      },
+      {
+        "prestige": 5,
+        "xpRequired": 10000,
+        "missions": [
+          { "name": "Gana 100 batallas con esta carta", "type": "wins", "target": 100, "xp": 2500 },
+          { "name": "Ganar 200 rondas con cartas de Sunagakure de Manuel16", "type": "winsRounds", "procedencia": "Sunagakure", "owner": "Manuel16", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "title", "titleId": "sol_de_la_esperanza"},
+          { "type": "coins", "amount": 50000 },
+          { "type": "background", "backgroundId": "fondo_kurai_tenro" }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "sekitan",
+    "name": "Sekitan",
+    "levels": [
+      {
+        "prestige": 1,
+        "xpRequired": 100,
+        "missions": [
+          { "name": "Jugar 3 batallas con esta carta", "type": "played", "target": 3, "xp": 100 },
+          { "name": "Ganar 3 batallas con esta carta", "type": "wins", "target": 3, "xp": 150 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 2500 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 1}
+        ]
+      },
+      {
+        "prestige": 2,
+        "xpRequired": 500,
+        "missions": [
+          { "name": "Gana 10 batallas con esta carta", "type": "wins", "target": 10, "xp": 200 },
+          { "name": "Ganar 5 rondas con esta carta", "type": "winsRounds", "target": 5, "xp": 300 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_oc", "amount": 1 },
+          { "type": "coins", "amount": 5000 }
+        ]
+      },
+      {
+        "prestige": 3,
+        "xpRequired": 2000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 25, "xp": 1000 },
+          { "name": "Ganar 15 batallas con esta carta", "type": "wins", "target": 15, "xp": 800 },
+          { "name": "Gana 50 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 50, "xp": 600 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 25000 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 5 }
+        ]
+      },
+      {
+        "prestige": 4,
+        "xpRequired": 5000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 50, "xp": 1000 },
+          { "name": "Ganar 30 batallas con esta carta", "type": "wins", "target": 30, "xp": 1500 },
+          { "name": "Gana 200 rondas con cartas de Nataliaa15", "type": "winsRounds", "owner": "Nataliaa15", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_premium", "amount": 2 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 2 },
+          { "type": "card", "cardId": "seikatsu", "amount": 1 }
+        ]
+      },
+      {
+        "prestige": 5,
+        "xpRequired": 10000,
+        "missions": [
+          { "name": "Gana 100 batallas con esta carta", "type": "wins", "target": 100, "xp": 2500 },
+          { "name": "Ganar 200 rondas con cartas de Konohagakure de Nataliaa15", "type": "winsRounds", "procedencia": "Konohagakure", "owner": "Nataliaa15", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "title", "titleId": "tormenta_creciente"},
+          { "type": "coins", "amount": 50000 },
+          { "type": "background", "backgroundId": "fondo_sekitan" }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "sukui_uzumaki",
+    "name": "Sukui Uzumaki",
+    "levels": [
+      {
+        "prestige": 1,
+        "xpRequired": 100,
+        "missions": [
+          { "name": "Jugar 3 batallas con esta carta", "type": "played", "target": 3, "xp": 100 },
+          { "name": "Ganar 3 batallas con esta carta", "type": "wins", "target": 3, "xp": 150 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 2500 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 1}
+        ]
+      },
+      {
+        "prestige": 2,
+        "xpRequired": 500,
+        "missions": [
+          { "name": "Gana 10 batallas con esta carta", "type": "wins", "target": 10, "xp": 200 },
+          { "name": "Ganar 5 rondas con esta carta", "type": "winsRounds", "target": 5, "xp": 300 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_oc", "amount": 1 },
+          { "type": "coins", "amount": 5000 }
+        ]
+      },
+      {
+        "prestige": 3,
+        "xpRequired": 2000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 25, "xp": 1000 },
+          { "name": "Ganar 15 batallas con esta carta", "type": "wins", "target": 15, "xp": 800 },
+          { "name": "Gana 50 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 50, "xp": 600 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 25000 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 5 }
+        ]
+      },
+      {
+        "prestige": 4,
+        "xpRequired": 5000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 50, "xp": 1000 },
+          { "name": "Ganar 30 batallas con esta carta", "type": "wins", "target": 30, "xp": 1500 },
+          { "name": "Gana 200 rondas con cartas de Juanjovc_20", "type": "winsRounds", "owner": "Juanjovc_20", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_premium", "amount":1  },
+          { "type": "card", "cardId": "eolo_uzumaki", "amount": 1 }
+        ]
+      },
+      {
+        "prestige": 5,
+        "xpRequired": 10000,
+        "missions": [
+          { "name": "Gana 100 batallas con esta carta", "type": "wins", "target": 100, "xp": 2500 },
+          { "name": "Ganar 200 rondas con cartas de Konohagakure de Juanjovc_20", "type": "winsRounds", "procedencia": "Konohagakure", "owner": "Juanjovc_20", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "title", "titleId": "brisa_de_desesperacion"},
+          { "type": "coins", "amount": 50000 },
+          { "type": "background", "backgroundId": "fondo_sukui_uzumaki" }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "aya",
+    "name": "Aya",
+    "levels": [
+      {
+        "prestige": 1,
+        "xpRequired": 100,
+        "missions": [
+          { "name": "Jugar 3 batallas con esta carta", "type": "played", "target": 3, "xp": 100 },
+          { "name": "Ganar 3 batallas con esta carta", "type": "wins", "target": 3, "xp": 150 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 2500 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 1}
+        ]
+      },
+      {
+        "prestige": 2,
+        "xpRequired": 500,
+        "missions": [
+          { "name": "Gana 10 batallas con esta carta", "type": "wins", "target": 10, "xp": 200 },
+          { "name": "Ganar 5 rondas con esta carta", "type": "winsRounds", "target": 5, "xp": 300 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_oc", "amount": 1 },
+          { "type": "coins", "amount": 5000 }
+        ]
+      },
+      {
+        "prestige": 3,
+        "xpRequired": 2000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 25, "xp": 1000 },
+          { "name": "Ganar 15 batallas con esta carta", "type": "wins", "target": 15, "xp": 800 },
+          { "name": "Gana 50 rondas con cartas de Iwagakure", "type": "winsRounds", "procedencia": "Iwagakure", "target": 50, "xp": 600 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 25000 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 5 }
+        ]
+      },
+      {
+        "prestige": 4,
+        "xpRequired": 5000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 50, "xp": 1000 },
+          { "name": "Ganar 30 batallas con esta carta", "type": "wins", "target": 30, "xp": 1500 },
+          { "name": "Gana 200 rondas con cartas de Wailant", "type": "winsRounds", "owner": "Wailant", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_premium", "amount":1  },
+          { "type": "card", "cardId": "ryuki_icono", "amount": 1 }
+        ]
+      },
+      {
+        "prestige": 5,
+        "xpRequired": 10000,
+        "missions": [
+          { "name": "Gana 100 batallas con esta carta", "type": "wins", "target": 100, "xp": 2500 },
+          { "name": "Ganar 200 rondas con cartas de Iwagakure de Wailant", "type": "winsRounds", "procedencia": "Iwagakure", "owner": "Wailant", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "title", "titleId": "mujer_de_acero"},
+          { "type": "coins", "amount": 50000 },
+          { "type": "background", "backgroundId": "fondo_aya" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "cardId": "vivar",
+    "name": "Vivar",
+    "levels": [
+      {
+        "prestige": 1,
+        "xpRequired": 100,
+        "missions": [
+          { "name": "Jugar 3 batallas con esta carta", "type": "played", "target": 3, "xp": 100 },
+          { "name": "Ganar 3 batallas con esta carta", "type": "wins", "target": 3, "xp": 150 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 2500 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 1}
+        ]
+      },
+      {
+        "prestige": 2,
+        "xpRequired": 500,
+        "missions": [
+          { "name": "Gana 10 batallas con esta carta", "type": "wins", "target": 10, "xp": 200 },
+          { "name": "Ganar 5 rondas con esta carta", "type": "winsRounds", "target": 5, "xp": 300 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_oc", "amount": 1 },
+          { "type": "coins", "amount": 5000 }
+        ]
+      },
+      {
+        "prestige": 3,
+        "xpRequired": 2000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 25, "xp": 1000 },
+          { "name": "Ganar 15 batallas con esta carta", "type": "wins", "target": 15, "xp": 800 },
+          { "name": "Gana 50 rondas con cartas de Sunagakure", "type": "winsRounds", "procedencia": "Sunagakure", "target": 50, "xp": 600 }
+        ],
+        "rewards": [
+          { "type": "coins", "amount": 25000 },
+          { "type": "pack", "packId": "sobre_oro", "amount": 5 }
+        ]
+      },
+      {
+        "prestige": 4,
+        "xpRequired": 5000,
+        "missions": [
+          { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 50, "xp": 1000 },
+          { "name": "Ganar 30 batallas con esta carta", "type": "wins", "target": 30, "xp": 1500 },
+          { "name": "Gana 200 rondas con cartas de Manuel2767", "type": "winsRounds", "owner": "Manuel2767", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "pack", "packId": "sobre_premium", "amount":2  },
+           { "type": "pack", "packId": "sobre_oro", "amount":2  },
+          { "type": "card", "cardId": "toshiro_nami", "amount": 1 }
+        ]
+      },
+      {
+        "prestige": 5,
+        "xpRequired": 10000,
+        "missions": [
+          { "name": "Gana 100 batallas con esta carta", "type": "wins", "target": 100, "xp": 2500 },
+          { "name": "Ganar 200 rondas con cartas de Sunagakure de Manuel2767", "type": "winsRounds", "procedencia": "Sunagakure", "owner": "Manuel2767", "target": 200, "xp": 2000 }
+        ],
+        "rewards": [
+          { "type": "title", "titleId": "espada_hispanica"},
+          { "type": "coins", "amount": 50000 },
+          { "type": "background", "backgroundId": "fondo_vivar" }
+        ]
+      }
+    ]
   }
   
 ]
