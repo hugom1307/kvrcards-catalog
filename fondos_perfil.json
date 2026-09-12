@@ -12,5 +12,85 @@
     "boxColor": "linear-gradient(to right, #8A0000 0%, #BE0000 100%)",
     "borderColor": "#FFB833",
     "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Ronan Hatake."
+  },
+  {
+    "id": "fondo_mikori_fukasa",
+    "nombre": "Vibraciones Rotas",
+    "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_mikori_fukasa.png",
+    "boxColor": "linear-gradient(to right, #c135c1 0%, #e898fc 100%)",
+    "borderColor": "#b6e8f9",
+    "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Mikori Fukasa."
+  },
+  {
+    "id": "fondo_ken_inazuma",
+    "nombre": "Unión Del Ser",
+    "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_ken_inazuma.png",
+    "boxColor": "linear-gradient(to right, #202120 0%, #464847 100%)",
+    "borderColor": "#cfcfcf",
+    "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Ken Inazuma."
+  },
+    {
+    "id": "fondo_raiden_fuutaro",
+    "nombre": "Geometría",
+    "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_raiden_fuutaro.png",
+    "boxColor": "linear-gradient(to right, #73fa58 0%, #3cfab4 100%)",
+    "borderColor": "#5eb3c1",
+    "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Raiden Fuutaro."
+  },
+    {
+    "id": "fondo_sukui_uzumaki",
+    "nombre": "Recuerdos Del Viento",
+    "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_sukui_uzumaki.png",
+    "boxColor": "linear-gradient(to right, #fa5858 0%, #fa3c3c 100%)",
+    "borderColor": "#ffffff",
+    "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Sukui Uzumaki."
+  },
+    {
+    "id": "fondo_kurai_tenro",
+    "nombre": "Desierto Soleado",
+    "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_kurai_tenro.png",
+    "boxColor": "linear-gradient(to right, #fa9358 0%, #fa4c3c 100%)",
+    "borderColor": "#c5b433",
+    "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Kurai Tenro."
+  },
+    {
+    "id": "fondo_sekitan",
+    "nombre": "Tormenta De Conejos Rosados",
+    "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_sekitan.png",
+    "boxColor": "linear-gradient(to right, #ff91e0 0%, #f95ae6 100%)",
+    "borderColor": "#f3b2ff",
+    "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Sekitan."
+  },
+    {
+    "id": "fondo_aya",
+    "nombre": "Forja Ardiente",
+    "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_aya.png",
+    "boxColor": "linear-gradient(to right, #ec920a 0%, #e30c0c 100%)",
+    "borderColor": "#454545",
+    "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Aya."
+  },
+    {
+    "id": "fondo_taka_uzumaki",
+    "nombre": "Máscaras De Identidad",
+    "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_taka_uzumaki.png",
+    "boxColor": "linear-gradient(to right, #972020 0%, #cf4343 100%)",
+    "borderColor": "#c2ba30",
+    "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Taka Uzumaki."
+  },
+    {
+    "id": "fondo_kenji_ikari",
+    "nombre": "Prado Nostálgico",
+    "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_kenji_ikari.png",
+    "boxColor": "linear-gradient(to right, #706e6e 0%, #b1b1b1 100%)",
+    "borderColor": "#63bae5",
+    "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con ."
+  },
+    {
+    "id": "fondo_vivar",
+    "nombre": "Pasión Hispánica",
+    "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_vivar.png",
+    "boxColor": "linear-gradient(to right, #ce922b 0%, #e1a82c 100%",
+    "borderColor": "#cc4141",
+    "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Vivar."
   }
 ]
