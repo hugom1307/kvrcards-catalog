@@ -39,7 +39,7 @@
           { "name": "Ganar 15 batallas con esta carta", "type": "wins", "target": 15, "xp": 800 }
         ],
         "rewards": [
-         { "type": "coins", "amount": 10000 },
+         { "type": "coins", "amount": 7500 },
           { "type": "pack", "packId": "sobre_oro", "amount": 5 }
         ]
       },
@@ -51,8 +51,8 @@
           { "name": "Ganar 30 batallas con esta carta", "type": "wins", "target": 30, "xp": 1500 }
         ],
         "rewards": [
-         { "type": "pack", "packId": "sobre_83_plus", "amount": 1 },
-          { "type": "coins", "amount": 15000 }
+         { "type": "pack", "packId": "sobre_83_plus", "amount": 1 }
+         
         ]
       },
       {
@@ -63,7 +63,7 @@
           { "name": "Ganar 60 batallas con esta carta", "type": "wins", "target": 60, "xp": 3000 }
         ],
         "rewards": [
-          { "type": "coins", "amount": 50000 },
+          { "type": "coins", "amount": 20000 },
           { "typw": "pack", "packId": "sobre_85_plus", "amount":1}
         ]
       }
