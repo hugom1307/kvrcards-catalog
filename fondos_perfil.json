@@ -90,7 +90,7 @@
     "nombre": "Pasión Hispánica",
     "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_vivar.png",
     "boxColor": "linear-gradient(to right, #b96e1e 0%, #c06f0b 100%)",
-    "borderColor": "#ac1f1f",
+    "borderColor": "#e4e2e2",
     "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Vivar."
   }
 ]
