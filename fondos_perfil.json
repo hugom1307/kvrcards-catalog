@@ -41,16 +41,16 @@
     "id": "fondo_sukui_uzumaki",
     "nombre": "Recuerdos Del Viento",
     "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_sukui_uzumaki.png",
-    "boxColor": "linear-gradient(to right, #fa5858 0%, #fa3c3c 100%)",
-    "borderColor": "#ffffff",
+    "boxColor": "linear-gradient(to right, #c72a2a 0%, #990c0c 100%)",
+    "borderColor": "#e4e2e2",
     "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Sukui Uzumaki."
   },
     {
     "id": "fondo_kurai_tenro",
     "nombre": "Desierto Soleado",
     "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_kurai_tenro.png",
-    "boxColor": "linear-gradient(to right, #fa9358 0%, #fa4c3c 100%)",
-    "borderColor": "#c5b433",
+    "boxColor": "linear-gradient(to right, #ce6f38 0%, #e22413 100%)",
+    "borderColor": "#ffe627",
     "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Kurai Tenro."
   },
     {
@@ -83,14 +83,14 @@
     "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_kenji_ikari.png",
     "boxColor": "linear-gradient(to right, #706e6e 0%, #b1b1b1 100%)",
     "borderColor": "#63bae5",
-    "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con ."
+    "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Kenji Ikari."
   },
     {
     "id": "fondo_vivar",
     "nombre": "Pasión Hispánica",
     "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_vivar.png",
-    "boxColor": "linear-gradient(to right, #ce922b 0%, #e1a82c 100%",
-    "borderColor": "#cc4141",
+    "boxColor": "linear-gradient(to right, #b96e1e 0%, #c06f0b 100%)",
+    "borderColor": "#ac1f1f",
     "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Vivar."
   }
 ]
