@@ -86,7 +86,7 @@
   {
     "id": "kaoru_noroi",
     "nombre": "Kaoru Noroi",
-    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/kaoru.png",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/kaoru.png",
     "dificultades": ["experimentado"],
     "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_experimentado.png",
     "intervaloMedias": [78, 88],
@@ -110,7 +110,7 @@
   {
     "id": "merlin",
     "nombre": "Merlín",
-    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/merlin.png",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/merlin.png",
     "dificultades": ["experimentado"],
     "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_experimentado.png",
     "intervaloMedias": [80, 86],
@@ -122,7 +122,7 @@
   {
     "id": "shiroku_kowai",
     "nombre": "Shiroku Kowai",
-    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/shiroku.png",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/shiroku.png",
     "dificultades": ["profesional"],
     "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_profesional.png",
     "intervaloMedias": [83, 89],
@@ -135,7 +135,7 @@
   {
     "id": "kento_rikudo",
     "nombre": "Kento Rikudo",
-    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/kento.png",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/kento.png",
     "dificultades": ["profesional"],
     "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_profesional.png",
     "intervaloMedias": [82, 90],
@@ -148,7 +148,7 @@
   {
     "id": "iyari_ryuga",
     "nombre": "Iyari Ryuga",
-    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/iyari.png",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/iyari.png",
     "dificultades": ["profesional"],
     "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_profesional.png",
     "intervaloMedias": [85, 88],
@@ -188,7 +188,7 @@
   {
     "id": "haseo_otsutsuki",
     "nombre": "Haseo Otsutsuki",
-    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/haseo.png",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/haseo.png",
     "dificultades": ["inmo"],
     "fondo": "https://hugom1307.github.io/kvrcards-catalog/assets/backgrounds/fondo_inmo.jpg",
     "intervaloMedias": [90]
@@ -196,7 +196,7 @@
   {
     "id": "senrigan",
     "nombre": "Senrigan",
-    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/senrigan.png",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/senrigan.png",
     "dificultades": ["inmo"],
     "fondo": "https://hugom1307.github.io/kvrcards-catalog/assets/backgrounds/fondo_inmo.jpg",
     "intervaloMedias": [91]
@@ -204,7 +204,7 @@
   {
     "id": "konran",
     "nombre": "Konran",
-    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/konran.png",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/konran.png",
     "dificultades": ["inmo"],
     "fondo": "https://hugom1307.github.io/kvrcards-catalog/assets/backgrounds/fondo_inmo.jpg",
     "intervaloMedias": [91]
