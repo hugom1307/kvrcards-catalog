@@ -18,6 +18,7 @@
       "id": "konohagakure_antigua",
       "name": "Konohagakure Antigua",
       "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/academia.png",
+      "battleMusic": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/music/infinito/konohaantigua.mp3",
       "fallback": "linear-gradient(135deg, #0dff92, #70ff63)",
       "levels": [
         { "number": 1, "name": "Nivel 1", "trainer": { "id": "konohaantigua-l1", "name": "Sakura Nara", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/sakura.png" } },
@@ -36,6 +37,7 @@
       "id": "torneo_haseo",
       "name": "Torneo de Haseo",
       "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/torneo_haseo.png",
+      "battleMusic": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/music/infinito/torneohaseo.mp3",
       "fallback": "linear-gradient(135deg, #111827, #0ea5e9)",
       "levels": [
         { "number": 1, "name": "Nivel 1", "trainer": { "id": "haseo-l1", "name": "Daren Hyuga", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/daren.png" } },
@@ -54,6 +56,7 @@
       "id": "kazegakure",
       "name": "Kazegakure",
       "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/kazegakure.png",
+      "battleMusic": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/music/infinito/kazegakure.mp3",
       "fallback": "linear-gradient(135deg, #1f2937, #b91c1c)",
       "levels": [
         { "number": 1, "name": "Nivel 1", "trainer": { "id": "kazegakure-l1", "name": "Raiden Senjuro", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/senjuro.png" } },
@@ -72,6 +75,7 @@
       "id": "torneo_multiversal",
       "name": "Torneo Multiversal",
       "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/torneo_multiversal.png",
+      "battleMusic": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/music/infinito/torneomultiversal.mp3",
       "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
       "levels": [
         { "number": 1, "name": "Nivel 1", "trainer": { "id": "torneo-l1", "name": "Heracles", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/heracles.png" } },
@@ -90,6 +94,7 @@
       "id": "kumogakure",
       "name": "Kumogakure",
       "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/kumogakure.png",
+      "battleMusic": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/music/infinito/kumogakure.mp3",
       "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
       "levels": [
         { "number": 1, "name": "Nivel 1", "trainer": { "id": "kumogakure-l1", "name": "Buer", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/buer.png" } },
@@ -108,6 +113,7 @@
       "id": "amegakure_guerra",
       "name": "Amegakure: Guerra Civil",
       "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/amegakure_guerra.png",
+      "battleMusic": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/music/infinito/amegakureguerra.mp3",
       "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
       "levels": [
         { "number": 1, "name": "Nivel 1", "trainer": { "id": "amegakureg-l1", "name": "Kai Senju", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/kai.png" } },
@@ -126,6 +132,7 @@
       "id": "espacio",
       "name": "Espacio Sideral: Fin del Universo",
       "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/espacio.png",
+      "battleMusic": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/music/infinito/espacio.mp3",
       "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
       "levels": [
         { "number": 1, "name": "Nivel 1", "trainer": { "id": "espacio-l1", "name": "Techno", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/techno.png" } },
@@ -144,6 +151,7 @@
       "id": "techlin",
       "name": "Konohagakure: Techlin",
       "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/techlin.png",
+      "battleMusic": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/music/infinito/techlin.mp3",
       "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
       "levels": [
         { "number": 1, "name": "Nivel 1", "trainer": { "id": "techlin-l1", "name": "Aya", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/aya.png" } },
@@ -162,6 +170,7 @@
       "id": "laboratorio",
       "name": "Mundo Subterráneo: Laboratorio A.N.I",
       "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/laboratorio.png",
+      "battleMusic": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/music/infinito/laboratorio.mp3",
       "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
       "levels": [
         { "number": 1, "name": "Nivel 1", "trainer": { "id": "laboratorio-l1", "name": "Don González", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/dongonzalez.png" } },
@@ -180,6 +189,7 @@
       "id": "basedam",
       "name": "Base de la D.A.M",
       "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/basedam.png",
+      "battleMusic": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/music/infinito/basedam.mp3",
       "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
       "levels": [
         { "number": 1, "name": "Nivel 1", "trainer": { "id": "basedam-l1", "name": "Sebastián Godoy", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/sebastian.png" } },
@@ -198,6 +208,7 @@
       "id": "guerradanzas",
       "name": "Campo de batalla: Gran Guerra de las Danzas",
       "arcImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/infinito/guerradanzas.png",
+      "battleMusic": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/music/infinito/guerradanzas.mp3",
       "fallback": "linear-gradient(135deg, #1e293b, #7c3aed)",
       "levels": [
         { "number": 1, "name": "Nivel 1", "trainer": { "id": "guerradanzas-l1", "name": "Junketsu", "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/entrenadores/junketsu.png" } },
