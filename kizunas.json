@@ -68,7 +68,7 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":5
+        "amount":7
       },
       {
         "type": "pack",
@@ -95,12 +95,12 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":2
+        "amount":4
       },
       {
         "type": "pack",
         "packId": "sobre_oc",
-        "amount":1
+        "amount":2
       },
       {
         "type":"title",
@@ -127,17 +127,17 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 15000
+        "amount": 17500
       },
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":1
+        "amount":3
       },
       {
         "type": "pack",
         "packId": "sobre_plata",
-        "amount":2
+        "amount":4
       },
       {
         "type":"title",
@@ -536,6 +536,11 @@
         "amount":3
       },
       {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":2
+      },
+      {
         "type": "title",
         "titleId": "rival"
         
@@ -802,6 +807,11 @@
         "packId": "sobre_83_plus",
         "amount":2
       },
+       {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":2
+      },
       {
         "type": "pack",
         "packId": "sobre_85_plus",
@@ -837,7 +847,7 @@
        {
         "type": "pack",
         "packId": "sobre_83_plus",
-        "amount":2
+        "amount":3
       },
       {
         "type": "pack",
