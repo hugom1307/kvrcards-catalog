@@ -328,6 +328,13 @@
     "description": "Forjada y criada por un gigante legendario",
     "gradient":"linear-gradient(to bottom, #DFEDFA 0%, #ADC4DA 100%)",
     "unlockDescription":"Completa el prestigio de Aya"
+  },
+  {
+    "id": "hermano_de_todos",
+    "name": "Hermano de todos",
+    "description": "Has unido a todos los hermanos importantes del rol",
+    "gradient":"linear-gradient(to left, #381DCF 0%, #05C1FF 50%, #CF2219 100%)",
+    "unlockDescription":"Completa el Kizuna 'Hermandad absoluta'"
   }
 
 ]
