@@ -1,80 +1,85 @@
 {
   "version": 1,
   "season": {
-    "id": "s1-2026",
-    "name": "Temporada 1 - Ascenso"
+    "id": "season-1",
+    "name": "Temporada 1 - Comienzo"
   },
   "rewards": [
     {
       "level": 10,
       "rewards": [
-        { "type": "currency", "currency": "infinite-cardpoints", "amount": 100 },
-        { "type": "currency", "currency": "infinite-coins", "amount": 50 }
+        { "type": "coins", "amount": 5000 },
+        { "type": "traits", "amount": 3 }
       ]
     },
     {
       "level": 20,
       "rewards": [
-        { "type": "currency", "currency": "infinite-cardpoints", "amount": 200 },
-        { "type": "pack", "packId": "pack-oro", "amount": 1 }
+        { "type": "coins", "amount": 10000 },
+        { "type": "packs", "packId": "sobre_oro", "amount": 3 },
+        { "type": "traits", "amount": 2 }
       ]
     },
     {
       "level": 30,
       "rewards": [
-        { "type": "currency", "currency": "infinite-cardpoints", "amount": 300 },
-        { "type": "card", "cardId": "naruto_base", "amount": 1 }
+        { "type": "packs", "packId": "sobre_83_plus", "amount": 1 },
+        { "type": "traits", "amount": 5 }
       ]
     },
     {
       "level": 40,
       "rewards": [
-        { "type": "currency", "currency": "infinite-cardpoints", "amount": 400 },
-        { "type": "title", "titleId": "infinite-conqueror" }
+        { "type": "coins", "amount": 30000 },
+        { "type": "packs", "packId": "sobre_83_plus", "amount": 2 }
       ]
     },
     {
       "level": 50,
       "rewards": [
-        { "type": "currency", "currency": "infinite-cardpoints", "amount": 500 },
-        { "type": "currency", "currency": "infinite-coins", "amount": 250 }
+        { "type": "title", "titleId": "conquistador_del_infinito", "name": "Conquistador del Infinito" },
+        { "type": "card", "cardId": "carta_exclusiva_infinito", "name": "Carta Exclusiva Infinito" },
+        { "type": "traits", "amount": 10 }
       ]
     },
     {
       "level": 60,
       "rewards": [
-        { "type": "currency", "currency": "infinite-cardpoints", "amount": 600 },
-        { "type": "pack", "packId": "pack-icono", "amount": 1 }
+        { "type": "traits", "amount": 15 }
       ]
     },
     {
       "level": 70,
       "rewards": [
-        { "type": "currency", "currency": "infinite-cardpoints", "amount": 700 },
-        { "type": "card", "cardId": "sasuke_base", "amount": 1 }
+        { "type": "traits", "amount": 20 }
       ]
     },
     {
       "level": 80,
       "rewards": [
-        { "type": "currency", "currency": "infinite-cardpoints", "amount": 800 },
-        { "type": "title", "titleId": "infinite-elite" }
+        { "type": "packs", "packId": "sobre_85_plus", "amount": 1 },
+        { "type": "coins", "amount": 25000 }
       ]
     },
     {
       "level": 90,
       "rewards": [
-        { "type": "currency", "currency": "infinite-cardpoints", "amount": 900 },
-        { "type": "pack", "packId": "pack-leyenda", "amount": 1 }
+        { "type": "traits", "amount": 25 }
       ]
     },
     {
       "level": 100,
       "rewards": [
-        { "type": "currency", "currency": "infinite-cardpoints", "amount": 1000 },
-        { "type": "currency", "currency": "infinite-coins", "amount": 500 },
-        { "type": "title", "titleId": "infinite-grandmaster" }
+        { "type": "coins", "amount": 100000 },
+        { "type": "packs", "packId": "sobre_especial", "amount": 1 }
       ]
     }
-  ]
+  ],
+  "beyondLevel100": {
+    "enabled": true,
+    "startLevel": 101,
+    "perLevelRewards": [
+      { "type": "traits", "amount": 1 }
+    ]
+  }
 }
