@@ -14,9 +14,9 @@
     "estimatedTime": "10 minutos"
   },
   "version": {
-    "current": "1.0.7",
-    "minimumRequired": "1.0.7",
-    "downloadUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.7.zip",
+    "current": "1.0.8",
+    "minimumRequired": "1.0.8",
+    "downloadUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.8.zip",
     "changelog": "",
     "forceUpdate": true
   }
