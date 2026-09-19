@@ -901,12 +901,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 20000
+        "amount": 25000
       },
        {
         "type": "pack",
         "packId": "sobre_83_plus",
-        "amount":1
+        "amount":3
       },
       {
         "type": "pack",
