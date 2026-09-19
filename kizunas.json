@@ -1059,17 +1059,17 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":5
+        "amount":6
       },
        {
         "type": "pack",
         "packId": "sobre_85_plus",
-        "amount":1
+        "amount":2
       },
        {
         "type": "pack",
         "packId": "sobre_83_plus",
-        "amount":1
+        "amount":2
       },
       {
         "type":"title",
