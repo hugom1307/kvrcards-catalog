@@ -1140,7 +1140,7 @@
    {
     "id": "hermanos_de_otra_madre",
     "title": "Hermanos de otra madre",
-    "group":"Familias",
+    "group":"Medio Hermanos",
     "description": "Un duo de hermanos curioso, pero al final cada uno mostró su cariño hacia el otro.",
     "cardIds": ["kiri_uzumaki","taiyo_uchiha_icono"],
     "rewards": [
@@ -1270,9 +1270,9 @@
     ]
   },
   {
-     "id": "hermanos_de_otra_madre_2",
-    "title": "Hermanos de otra madre 2",
-    "group":"Familias",
+     "id": "hermanos_con_distancia",
+    "title": "Hermanos con Distancia",
+    "group":"Medio Hermanos",
     "description": "Si sus caminos se hubieran cruzado hubieran estado unidos aún sin saber que eran hermanos.",
     "cardIds": ["betocs_hatake_icono","taka_uzumaki"],
     "rewards": [
