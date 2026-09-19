@@ -88,14 +88,13 @@
       ]
     },
     {
-      "id": "tamikotienda",
-      "name": "Mercader Tamiko",
-      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/tamikotienda.png",
-      "availableAt": ["basedam"],
+      "id": "lucktienda",
+      "name": "Mercader Luck",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/lucktienda.png",
+      "availableAt": ["kumogakure"],
       "dialogues": [
-      "H-Hola viajero, veo que estás cansado y te vendría bien un poco de ayuda", 
-      "No te preocupes, para eso están los amigos y la familia, aquí en la DAM y en todos lugares, tengo algunos objetos aquí, dime si te puedo ayudar y enseñarte alguno que te pueda ser útil en tu aventura", 
-      "Tómate tu tiempo tranquilo, sin prisas estoy aquí para ayudarte"
+      "¡Hola viajero! Me llamo Mr.ke- digo digo... Luck Raizen, si te soy sincero estoy ocupado y ya sabes como va la cosa aquí, así que mira si quieres algo para comprarlo",
+      "Compra ya, que estoy nervioso... ¿has visto a Shind?"
       ]
     },
     {
