@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
   "shopkeepers": [
     {
@@ -16,16 +16,117 @@
       ]
     },
     {
-      "id": "shopkeeper_002",
-      "name": "Traidor de las Tormentas",
-      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
+      "id": "kizunatienda",
+      "name": "Mercader Kizuna",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/kizunatienda.png",
+      "availableAt": ["torneo_haseo"],
+      "dialogues": [
+        "¿Qué tal simple humano?", 
+        "¿Requieres de alguno de mis poderosos objetos para subir tu insignificante nivel? Bien, pero pagarás un precio, mira lo que te otorgo",
+        "Peyan Uzu- qué? No vuelvas a mencionar ese nombre"
+      ]
+    },
+    {
+      "id": "kiritienda",
+      "name": "Mercader Kiri",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/kiritienda.png",
+      "availableAt": ["kazegakure"],
+      "dialogues": [
+       "Taiyo me dijo que le cubriera el puesto mientras iba al baño y ya lleva 2 horas, sinceramente me esperaba un trabajo más digno y me puse elegante, pero bueno, mira lo que hay y paga si quieres algo",
+        "No me hagas perder el tiempo, este no debería ser mi trabajo"
+      ]
+    },
+    {
+      "id": "heimdalltienda",
+      "name": "Mercader Heimdall",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/heimdalltienda.png",
+      "availableAt": ["torneo_multiversal"],
+      "dialogues": [
+       "¡¿Qué tal luchador?! ¡Bienvenido a mi segundo empleo a tiempo parcial, mira y compra todo lo que quieras para tu feroz combate en el ragnarok! ¿Son para eso no?",
+        "¿No sabes lo que es el Ragnarok? Y qué coño haces aquí, vete"
+      ]
+    },
+    {
+      "id": "kentienda",
+      "name": "Mercader Ken",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/kentienda.png",
+      "availableAt": ["amegakure_guerra"],
+      "dialogues": [
+      "O-Ola senior, ¿le gutaria algo de aki? nesecito dinero para mi chocolate y ayayo y beto estan tiesos despue de pelear contra el tito kiri", 
+        "¡¿ quiere algo de aki o tambien quiere chocolate?!"
+      ]
+    },
+    {
+      "id": "kentienda",
+      "name": "Mercader Ken",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/kentienda.png",
+      "availableAt": ["amegakure_guerra"],
+      "dialogues": [
+      "O-Ola senior, ¿le gutaria algo de aki? nesecito dinero para mi chocolate y ayayo y beto estan tiesos despue de pelear contra el tito kiri", 
+        "¡¿ quiere algo de aki o tambien quiere chocolate?!"
+      ]
+    },
+    {
+      "id": "inmotienda",
+      "name": "Mercader Inmo",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/inmotienda.png",
+      "availableAt": ["espacio"],
+      "dialogues": [
+      "¿Joder eres tan malo que necesitas objetos poderosos para seguir pasando de nivel? Bueno ya que has entrado aquí espero que compres algo",
+        "¿Te echas un Clash Royale? Me aburro aquí solo, pero no me tires al minero eh..."
+      ]
+    },
+    {
+      "id": "vivartienda",
+      "name": "Mercader Vivar",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/vivartienda.png",
       "availableAt": ["techlin"],
       "dialogues": [
-        "Las tormentas me traen los mejores objetos.",
-        "Pssst... tengo cosas raras de estas islas.",
-        "¿Quieres sobrevivir? Compra mis artículos.",
-        "Los comerciantes normales no llegan hasta aquí.",
-        "He visto cosas en las tormentas... todas aquí."
+      "¿Qué tal camarada?",
+      "Que vuestros ojos se iluminen ante el brillo del alma de estos prodigiosos objetos, ¿alguno que su virtud anhele?"
+      ]
+    },
+    {
+      "id": "tamikotienda",
+      "name": "Mercader Tamiko",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/tamikotienda.png",
+      "availableAt": ["basedam"],
+      "dialogues": [
+      "H-Hola viajero, veo que estás cansado y te vendría bien un poco de ayuda", 
+      "No te preocupes, para eso están los amigos y la familia, aquí en la DAM y en todos lugares, tengo algunos objetos aquí, dime si te puedo ayudar y enseñarte alguno que te pueda ser útil en tu aventura", 
+      "Tómate tu tiempo tranquilo, sin prisas estoy aquí para ayudarte"
+      ]
+    },
+    {
+      "id": "tamikotienda",
+      "name": "Mercader Tamiko",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/tamikotienda.png",
+      "availableAt": ["basedam"],
+      "dialogues": [
+      "H-Hola viajero, veo que estás cansado y te vendría bien un poco de ayuda", 
+      "No te preocupes, para eso están los amigos y la familia, aquí en la DAM y en todos lugares, tengo algunos objetos aquí, dime si te puedo ayudar y enseñarte alguno que te pueda ser útil en tu aventura", 
+      "Tómate tu tiempo tranquilo, sin prisas estoy aquí para ayudarte"
+      ]
+    },
+    {
+      "id": "asahitienda",
+      "name": "Mercader Asahi",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/asahitienda.png",
+      "availableAt": ["laboratorio"],
+      "dialogues": [
+      "Tú... compra ya, total esto no te servirá a fin de cuentas... mi plan es infalible",
+      "¿Sabes? Con mi geometría puedo ver... que te hacen falta objetos, compralos cuanto antes humano"
+      ]
+    },
+    {
+      "id": "ronantienda",
+      "name": "Mercader Ronan",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/ronantienda.png",
+      "availableAt": ["guerradanzas"],
+      "dialogues": [
+      "Hola... compra objetos y ayudanos a ganar la guerra antes de que la cosa se ponga peor",
+      "Creo que Ransu, Ken y yo hacemos un buen equipo, aunque no me gusta el nombre que le ha puesto Ken",
+      "¿Generales de la guerra? Yo no podría soportar la responsabilidad de Ayato, Betocs y Kai, menos mal que no lo soy"
       ]
     }
   ],
