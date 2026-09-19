@@ -1149,10 +1149,6 @@
         "amount":2
       },
       {
-        "type":"title",
-        "titleId":"ryuga"
-      },
-      {
       "type": "buff",
       "name": "Raíces de Atsuigakure",
       "description": "Aumenta un 5% Ninjutsu y 6% Defensa a los miembros del Kizuna",
