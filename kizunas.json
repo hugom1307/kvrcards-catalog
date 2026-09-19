@@ -919,7 +919,7 @@
       },
       {
       "type": "buff",
-      "name": "Mastería Raiden",
+      "name": "Maestría Raiden",
       "description": "Aumenta un 4% Ninjutsu y 3% Velocidad a los miembros del Kizuna",
       "stats": {
         "ninjutsu": 4,
@@ -1125,6 +1125,263 @@
         "titleId":"utrerano"
       }
       
+    ]
+  },
+   {
+    "id": "hermanos_de_otra_madre",
+    "title": "Hermanos de otra madre",
+    "group":"Familias",
+    "description": "Un duo de hermanos curioso, pero al final cada uno mostró su cariño hacia el otro.",
+    "cardIds": ["kiri_uzumaki","taiyo_uchiha_icono"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 20000
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":2
+      },
+      {
+        "type":"title",
+        "titleId":"ryuga"
+      },
+      {
+      "type": "buff",
+      "name": "Raíces de Atsuigakure",
+      "description": "Aumenta un 5% Ninjutsu y 6% Defensa a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 5,
+        "defensa": 6
+      },
+      "allTeam": false
+    }
+    ]
+  },
+  {
+    "id": "mejores_amigos",
+    "title": "Mejores amigos",
+    "group":"Otros",
+    "description": "Se apreciaban mutuamente tanto como amigos como rivales desafiantes, pero ambos sentimientos acabaron por la muerte, sin embargo el vivo siempre recordará y llevará consigo al fallecido.",
+    "cardIds": ["sukui_uzumaki","ransu_hatake_icono"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 12000
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":2
+      },
+      {
+      "type": "buff",
+      "name": "Amistad de hierro",
+      "description": "Aumenta un 5% Taijutsu y 3% Velocidad a los miembros del Kizuna",
+      "stats": {
+        "taijutsu": 5,
+        "velocidad": 3
+      },
+      "allTeam": false
+    }
+    ]
+  },
+   {
+    "id": "hermanos_de_la_lluvia",
+    "title": "Hermanos de la lluvia",
+    "group":"Familias",
+    "description": "Juntos bajo la lluvia en los buenos y en los malos momentos, tantas experiencias que vivieron como hermanos sin sangre y las que les quedaron por experimentar.",
+    "cardIds": ["betocs_hatake_icono","ayato_hyuga_icono"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 17500
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":2
+      },
+      {
+      "type": "buff",
+      "name": "Lluvia hermana",
+      "description": "Aumenta un 5% Taijutsu y 4% Velocidad a los miembros del Kizuna",
+      "stats": {
+        "taijutsu": 5,
+        "velocidad": 4
+      },
+      "allTeam": false
+    }
+    ]
+  },
+  {
+    "id": "hermanos_lazos_sanguineos",
+    "title": "Hermanos sin lazos sanguíneos",
+    "group":"Familias",
+    "description": "Unidos por el sentimiento y no por la sangre, rebosando amor de hermanos aún sin compartir nada de sangre.",
+    "cardIds": ["betocs_hatake_icono","ayato_hyuga_icono","dankha_sagi","suru_sagi"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 22000
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":1
+      },
+      {
+      "type": "buff",
+      "name": "Lazos sin sangre",
+      "description": "Aumenta un 5% Ninjutsu y 5% Velocidad a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 5,
+        "velocidad": 5
+      },
+      "allTeam": false
+    }
+    ]
+  },
+  {
+     "id": "hermanos_de_otra_madre_2",
+    "title": "Hermanos de otra madre 2",
+    "group":"Familias",
+    "description": "Si sus caminos se hubieran cruzado hubieran estado unidos aún sin saber que eran hermanos.",
+    "cardIds": ["betocs_hatake_icono","taka_uzumaki"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 10000
+      },
+       
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":1
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount":2
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_bronce",
+        "amount":3
+      }
+      
+    ]
+  },
+   {
+     "id": "cenizas_de_familia_feliz",
+    "title": "Cenizas de Familia Feliz",
+    "group":"Familias",
+    "description": "Aún con todos los problemas y las pérdidas, la vida sigue, por eso hay que formar nuevos lazos y familias.",
+    "cardIds": ["sekitan","betoks_hatake","darwin","ayane_hatake","ronan_hatake"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 11000
+      },
+       
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":2
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount":2
+      }
+      
+    ]
+  },
+   {
+    "id": "hermandad_absoluta",
+    "title": "Hermandad absoluta",
+    "group":"Familias",
+    "description": "No hay familia más cercana que un hermano.",
+    "cardIds": ["taiyo_uchiha_icono","kiri_uzumaki","dankha_sagi","suru_sagi","taka_uzumaki","betocs_hatake_icono","ayato_hyuga_icono","tamiko_ozoku","touma_ozoku","zack_ryuga_icono","akane_ryuga","ransu_hatake_icono","ronan_hatake","betoks_hatake","ayane_hatake","suko_tsume","kirio_tsume","koro_tsume","nagare_fukasa","mikori_fukasa","kenji_ikari","ryo_ikari","kenta_kowai","shiroku_kowai","kosuke_kowai","miguel_carmona","jose_carmona","lilia_inazuma","mikhail_hoot","yaban_hito","zuko","kalya_siam","ezio_siam","isabel_maya","dario_maya","kinan_hatake","zion_hatake","ritsu_noroi","psuche_noroi","raiden_gaia","raiden_sitri","chikyu_tochi","atarashi_tochi"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 150000
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_legendario",
+        "amount":1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":5
+      },
+      {
+        "type":"title",
+        "titleId":"hermano_de_todos"
+      }
+    ]
+  },
+  {
+    "id": "atsuigakure",
+    "title": "Atsuigakure",
+    "group":"Otros",
+    "description": "Una aldea que al final fue poco poblada, pero los pocos habitantes que quedaban además de ser poderosos, estaban unidos y siempre hubo ayuda mutua.",
+    "cardIds": ["taiyo_uchiha_icono","kiri_uzumaki","zack_ryuga_icono","daiki_senju_heroe"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 25000
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":2
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":3
+      },
+      {
+      "type": "buff",
+      "name": "Determinación de Atsuigakure",
+      "description": "Aumenta un 5% Ninjutsu, 4% Defensa  y 3% Velocidad a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 5,
+        "defensa":4,
+        "velocidad": 3
+      },
+      "allTeam": false
+    }
     ]
   }
 
