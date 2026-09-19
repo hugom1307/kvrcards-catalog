@@ -30,50 +30,7 @@
     }
   ],
   "items": [
-    {
-      "id": "item_001",
-      "name": "Sillón místico ¿con hélices?",
-      "description": "Aumenta la defensa y la velocidad de una carta aleatoria en un 5%.",
-      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item001.png",
-      "price": {
-      "amount": 30,
-      "currency": "infinite-coins"
-      },
-      "type": "buff",
-      "rarity": "legendary",
-      "minLevel": 18,
-      "quantity": 2
-    },
-
-{
-      "id": "item_002",
-      "name": "Corona de la conquista",
-      "description": "Aumenta 2pts todas las stats de las tropas de Jinushi y baja 1pt todas las stats de las tropas de kizoku.",
-      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item002.png",
-      "price": {
-      "amount": 15,
-      "currency": "infinite-coins"
-      },
-      "type": "buff",
-      "rarity": "epic",
-      "minLevel": 5,
-      "quantity": 5
-    },
-
-{
-      "id": "item_003",
-      "name": "Espadas del espadachín maldito",
-      "description": "Aumenta 7 pts de taijutsu a una carta a elección pero baja 5 pts de ninjutsu.",
-      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item003.png",
-      "price": {
-      "amount": 25,
-      "currency": "infinite-coins"
-      },
-      "type": "buff",
-      "rarity": "legendary",
-      "minLevel": 24,
-      "quantity": 2
-    },
+    
 
 {
       "id": "item_004",
@@ -238,6 +195,50 @@
       "type": "consumable",
       "rarity": "knight",
       "minLevel": 40,
+      "quantity": 2
+    },
+    {
+      "id": "item_001",
+      "name": "Sillón místico ¿con hélices?",
+      "description": "Aumenta la defensa y la velocidad de una carta aleatoria en un 5%.",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item001.png",
+      "price": {
+      "amount": 30,
+      "currency": "infinite-coins"
+      },
+      "type": "buff",
+      "rarity": "legendary",
+      "minLevel": 18,
+      "quantity": 2
+    },
+
+{
+      "id": "item_002",
+      "name": "Corona de la conquista",
+      "description": "Aumenta 2pts todas las stats de las tropas de Jinushi y baja 1pt todas las stats de las tropas de kizoku.",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item002.png",
+      "price": {
+      "amount": 15,
+      "currency": "infinite-coins"
+      },
+      "type": "buff",
+      "rarity": "epic",
+      "minLevel": 5,
+      "quantity": 5
+    },
+
+{
+      "id": "item_003",
+      "name": "Espadas del espadachín maldito",
+      "description": "Aumenta 7 pts de taijutsu a una carta a elección pero baja 5 pts de ninjutsu.",
+      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/item003.png",
+      "price": {
+      "amount": 25,
+      "currency": "infinite-coins"
+      },
+      "type": "buff",
+      "rarity": "legendary",
+      "minLevel": 24,
       "quantity": 2
     },
 
