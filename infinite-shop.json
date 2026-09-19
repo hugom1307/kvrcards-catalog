@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/shop.png",
   "shopkeepers": [
     {
@@ -44,16 +44,6 @@
       "dialogues": [
        "¡¿Qué tal luchador?! ¡Bienvenido a mi segundo empleo a tiempo parcial, mira y compra todo lo que quieras para tu feroz combate en el ragnarok! ¿Son para eso no?",
         "¿No sabes lo que es el Ragnarok? Y qué coño haces aquí, vete"
-      ]
-    },
-    {
-      "id": "kentienda",
-      "name": "Mercader Ken",
-      "image": "https://hugom1307.github.io/kvrcards-catalog/image/tienda/kentienda.png",
-      "availableAt": ["amegakure_guerra"],
-      "dialogues": [
-      "O-Ola senior, ¿le gutaria algo de aki? nesecito dinero para mi chocolate y ayayo y beto estan tiesos despue de pelear contra el tito kiri", 
-        "¡¿ quiere algo de aki o tambien quiere chocolate?!"
       ]
     },
     {
