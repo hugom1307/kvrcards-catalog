@@ -1,24 +1,24 @@
-{
-  "inventory": {
-    "enabled": true,
-    "baseUrl": "https://kvrcards-server.onrender.com"
-  },
-  "catalog": {
-    "enabled": true,
-    "baseUrl": "https://hugom1307.github.io/kvrcards-catalog"
-  },
-  "maintenance": {
-    "enabled": false,
-    "title": "🔧 Mantenimiento en Curso",
-    "message": "Estamos actualizando el juego para mejorar tu experiencia.\n\nVolveremos pronto. ¡Gracias por tu paciencia! 🎮",
-    "estimatedTime": "10 minutos"
-  },
-  "version": {
-    "current": "1.1.1",
-    "minimumRequired": "1.1.1",
-    "downloadUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.1.zip",
-    "patchUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.1.zip",
-    "changelog": "Optimizacion masiva de ancho de banda y nuevo sistema de rankings",
-    "forceUpdate": true
-  }
+﻿{
+    "inventory":  {
+                      "enabled":  true,
+                      "baseUrl":  "https://kvrcards-server.onrender.com"
+                  },
+    "catalog":  {
+                    "enabled":  true,
+                    "baseUrl":  "https://hugom1307.github.io/kvrcards-catalog"
+                },
+    "maintenance":  {
+                        "enabled":  false,
+                        "title":  "Mantenimiento en Curso",
+                        "message":  "Estamos actualizando el juego para mejorar tu experiencia.\n\nVolveremos pronto. Gracias por tu paciencia!",
+                        "estimatedTime":  "10 minutos"
+                    },
+    "version":  {
+                    "current":  "1.1.2",
+                    "minimumRequired":  "1.1.2",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.2.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.2.zip",
+                    "changelog":  "Modo debug de traits y soporte completo para nuevos rasgos",
+                    "forceUpdate":  true
+                }
 }

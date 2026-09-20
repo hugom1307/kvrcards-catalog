@@ -10,8 +10,7 @@
         "type": "boost_stat",
         "stat": "ninjutsu",
         "value": 1
-      },
-      "probability": 8.5
+      }
     },
     {
       "id": "taijutsu1",
@@ -23,8 +22,7 @@
         "type": "boost_stat",
         "stat": "taijutsu",
         "value": 1
-      },
-      "probability": 8.5
+      }
     },
     {
       "id": "resistencia1",
@@ -36,8 +34,7 @@
         "type": "boost_stat",
         "stat": "resistencia",
         "value": 1
-      },
-      "probability": 8.5
+      }
     },
     {
       "id": "velocidad1",
@@ -49,8 +46,7 @@
         "type": "boost_stat",
         "stat": "velocidad",
         "value": 1
-      },
-      "probability": 8.5
+      }
     },
     {
       "id": "defensa1",
@@ -62,8 +58,7 @@
         "type": "boost_stat",
         "stat": "defensa",
         "value": 1
-      },
-      "probability": 8.5
+      }
     },
     {
       "id": "fisico1",
@@ -75,8 +70,7 @@
         "type": "boost_stat",
         "stat": "fisico",
         "value": 1
-      },
-      "probability": 8.5
+      }
     },
     {
       "id": "ninjutsu2",
@@ -88,8 +82,7 @@
         "type": "boost_stat",
         "stat": "ninjutsu",
         "value": 2
-      },
-      "probability": 5.83
+      }
     },
     {
       "id": "taijutsu2",
@@ -101,8 +94,7 @@
         "type": "boost_stat",
         "stat": "taijutsu",
         "value": 2
-      },
-      "probability": 5.83
+      }
     },
     {
       "id": "resistencia2",
@@ -114,8 +106,7 @@
         "type": "boost_stat",
         "stat": "resistencia",
         "value": 2
-      },
-      "probability": 5.83
+      }
     },
     {
       "id": "velocidad2",
@@ -127,8 +118,7 @@
         "type": "boost_stat",
         "stat": "velocidad",
         "value": 2
-      },
-      "probability": 5.83
+      }
     },
     {
       "id": "defensa2",
@@ -140,8 +130,7 @@
         "type": "boost_stat",
         "stat": "defensa",
         "value": 2
-      },
-      "probability": 5.83
+      }
     },
     {
       "id": "fisico2",
@@ -153,8 +142,7 @@
         "type": "boost_stat",
         "stat": "fisico",
         "value": 2
-      },
-      "probability": 5.83
+      }
     },
     {
       "id": "ninjutsu3",
@@ -166,8 +154,7 @@
         "type": "boost_stat",
         "stat": "ninjutsu",
         "value": 3
-      },
-      "probability": 1.66
+      }
     },
     {
       "id": "taijutsu3",
@@ -179,8 +166,7 @@
         "type": "boost_stat",
         "stat": "taijutsu",
         "value": 3
-      },
-      "probability": 1.66
+      }
     },
     {
       "id": "resistencia3",
@@ -192,8 +178,7 @@
         "type": "boost_stat",
         "stat": "resistencia",
         "value": 3
-      },
-      "probability": 1.66
+      }
     },
     {
       "id": "velocidad3",
@@ -205,8 +190,7 @@
         "type": "boost_stat",
         "stat": "velocidad",
         "value": 3
-      },
-      "probability": 1.66
+      }
     },
     {
       "id": "defensa3",
@@ -218,8 +202,7 @@
         "type": "boost_stat",
         "stat": "defensa",
         "value": 3
-      },
-      "probability": 1.66
+      }
     },
     {
       "id": "fisico3",
@@ -231,8 +214,7 @@
         "type": "boost_stat",
         "stat": "fisico",
         "value": 3
-      },
-      "probability": 1.66
+      }
     },
     {
       "id": "mimo",
@@ -242,8 +224,7 @@
       "rarity": "legendary",
       "effect": {
         "type": "special"
-      },
-      "probability": 1
+      }
     },
     {
       "id": "full_support",
@@ -253,8 +234,7 @@
       "rarity": "legendary",
       "effect": {
         "type": "special"
-      },
-      "probability": 1
+      }
     },
     {
       "id": "especialista",
@@ -264,8 +244,7 @@
       "rarity": "legendary",
       "effect": {
         "type": "special"
-      },
-      "probability": 1
+      }
     },
     {
       "id": "support_max",
@@ -275,8 +254,7 @@
       "rarity": "mythic",
       "effect": {
         "type": "special"
-      },
-      "probability": 0.5
+      }
     },
     {
       "id": "impostor",
@@ -286,8 +264,7 @@
       "rarity": "mythic",
       "effect": {
         "type": "special"
-      },
-      "probability": 0.5
+      }
     },
     {
       "id": "monarch",
@@ -297,8 +274,7 @@
       "rarity": "mythic",
       "effect": {
         "type": "special"
-      },
-      "probability": 0.01
+      }
     }
   ]
 }
