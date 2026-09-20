@@ -1351,7 +1351,7 @@
       }
     ]
   },
-  {
+ {
     "id": "atsuigakure",
     "title": "Atsuigakure",
     "group":"Otros",
@@ -1380,9 +1380,9 @@
       {
       "type": "buff",
       "name": "Determinación de Atsuigakure",
-      "description": "Aumenta un 5% Ninjutsu, 4% Defensa  y 3% Velocidad a los miembros del Kizuna",
+      "description": "Aumenta un 4% Taijutsu, 4% Defensa  y 3% Velocidad a los miembros del Kizuna",
       "stats": {
-        "ninjutsu": 5,
+        "taijutsu": 4,
         "defensa":4,
         "velocidad": 3
       },
