@@ -5,7 +5,7 @@
       "name": "Ninjutsu I",
       "description": "Aumenta +1 a la característica de Ninjustu",
       "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ninjutsu-1.png",
-      "rarity": "rare",
+      "rarity": "common",
       "effect": {
         "type": "boost_stat",
         "stat": "ninjutsu",
@@ -17,7 +17,7 @@
       "name": "Taijutsu I",
       "description": "Aumenta +1 a la característica de Taijustu",
       "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-1.png",
-      "rarity": "rare",
+      "rarity": "common",
       "effect": {
         "type": "boost_stat",
         "stat": "taijutsu",
@@ -29,7 +29,7 @@
       "name": "Resistencia I",
       "description": "Aumenta +1 a la característica de Resistencia",
       "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/resistencia-1.png",
-      "rarity": "rare",
+      "rarity": "common",
       "effect": {
         "type": "boost_stat",
         "stat": "resistencia",
@@ -41,7 +41,7 @@
       "name": "Velocidad I",
       "description": "Aumenta +1 a la característica de Velocidad",
       "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/velocidad-1.png",
-      "rarity": "rare",
+      "rarity": "common",
       "effect": {
         "type": "boost_stat",
         "stat": "velocidad",
@@ -53,7 +53,7 @@
       "name": "Defensa I",
       "description": "Aumenta +1 a la característica de Defensa",
       "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/defensa-1.png",
-      "rarity": "rare",
+      "rarity": "common",
       "effect": {
         "type": "boost_stat",
         "stat": "defensa",
@@ -65,7 +65,7 @@
       "name": "Físico I",
       "description": "Aumenta +1 a la característica de Físico",
       "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fisico-1.png",
-      "rarity": "rare",
+      "rarity": "common",
       "effect": {
         "type": "boost_stat",
         "stat": "fisico",
@@ -149,7 +149,7 @@
       "name": "Ninjutsu III",
       "description": "Aumenta +3 a la característica de Ninjustu",
       "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ninjutsu-3.png",
-      "rarity": "rare",
+      "rarity": "epic",
       "effect": {
         "type": "boost_stat",
         "stat": "ninjutsu",
@@ -161,7 +161,7 @@
       "name": "Taijutsu III",
       "description": "Aumenta +3 a la característica de Taijustu",
       "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taijutsu-3.png",
-      "rarity": "rare",
+      "rarity": "epic",
       "effect": {
         "type": "boost_stat",
         "stat": "taijutsu",
@@ -173,7 +173,7 @@
       "name": "Resistencia III",
       "description": "Aumenta +3 a la característica de Resistencia",
       "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/resistencia-3.png",
-      "rarity": "rare",
+      "rarity": "epic",
       "effect": {
         "type": "boost_stat",
         "stat": "resistencia",
@@ -185,7 +185,7 @@
       "name": "Velocidad III",
       "description": "Aumenta +3 a la característica de Velocidad",
       "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/velocidad-3.png",
-      "rarity": "rare",
+      "rarity": "epic",
       "effect": {
         "type": "boost_stat",
         "stat": "velocidad",
@@ -197,7 +197,7 @@
       "name": "Defensa III",
       "description": "Aumenta +3 a la característica de Defensa",
       "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/defensa-3.png",
-      "rarity": "rare",
+      "rarity": "epic",
       "effect": {
         "type": "boost_stat",
         "stat": "defensa",
@@ -209,12 +209,22 @@
       "name": "Físico III",
       "description": "Aumenta +3 a la característica de Físico",
       "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fisico-3.png",
-      "rarity": "rare",
+      "rarity": "epic",
       "effect": {
         "type": "boost_stat",
         "stat": "fisico",
         "value": 3
       }
-    }
+    },
+    {
+      "id": "mimo",
+      "name": "Mimo",
+      "description": "Copia los atributos del rival, copiando sus buffos para utilizarlos a tu favor.",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/mimo.png",
+      "rarity": "legendary",
+      "effect": {
+        "type": "special"
+      }
+    },
   ]
 }
