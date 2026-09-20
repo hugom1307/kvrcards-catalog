@@ -722,6 +722,11 @@
         "type": "pack",
         "packId": "sobre_oro",
         "amount":1
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":2
       }
     ]
   },
