@@ -226,5 +226,55 @@
         "type": "special"
       }
     },
+    {
+      "id": "full_support",
+      "name": "Full Support",
+      "description": "Después de que utilices una carta con este rasgo, genera un buffo nuevo, aumentando las stats de tus cartas futuras un 3%",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/full_support.png",
+      "rarity": "legendary",
+      "effect": {
+        "type": "special"
+      }
+    },
+    {
+      "id": "especialista",
+      "name": "Especialista",
+      "description": "Aumenta 5 puntos a todas las stats. Además, es inmune a cualquier efecto que reduzca sus estadísticas.",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/especialista.png",
+      "rarity": "legendary",
+      "effect": {
+        "type": "special"
+      }
+    },
+    {
+      "id": "support_max",
+      "name": "Support Máximo",
+      "description": "Después de que utilices una carta con este rasgo, genera un buffo nuevo, aumentando las stats de tus cartas futuras un 10%. El efecto solo se aplica a la carta de después de la que tiene el rasgo.",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/support_max.png",
+      "rarity": "mythic",
+      "effect": {
+        "type": "special"
+      }
+    },
+    {
+      "id": "impostor",
+      "name": "Impostor",
+      "description": "Copia la apariencia de otra carta aleatoria, impidiendo a tu rival saber que usarás realmente.",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/impostor.png",
+      "rarity": "mythic",
+      "effect": {
+        "type": "special"
+      }
+    },
+    {
+      "id": "monarch",
+      "name": "Monarch",
+      "description": "El rey manda. Aumenta un 20% todas las stats",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/monarch.png",
+      "rarity": "mythic",
+      "effect": {
+        "type": "special"
+      }
+    }
   ]
 }
