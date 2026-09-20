@@ -1,7 +1,7 @@
 {
   "inventory": {
     "enabled": true,
-    "baseUrl": "https://inventory-43i0.onrender.com"
+    "baseUrl": "https://kvrcards-server.onrender.com"
   },
   "catalog": {
     "enabled": true,
