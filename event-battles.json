@@ -2,56 +2,91 @@
   "version": 1,
   "events": [
     {
-      "id": "evento_desafio_shinobi",
-      "name": "Desafio de Maestros Shinobi",
-      "description": "Supera las pruebas de los legendarios comandantes de la niebla y el rayo para obtener valiosas recompensas.",
+      "id": "evento_desafio_especial",
+      "name": "Gran Desafio Especial",
+      "description": "Supera las 3 fases diarias de combate para ganar monedas, traits y sobres especiales.",
       "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_ronan_hatake.png",
       "battles": [
         {
           "id": "evento_combate_1",
-          "name": "Fase 1: Guardian de la Niebla",
-          "description": "Enfrentate a la vanguardia tactica y demuestra tu temple.",
+          "name": "Fase 1: Aprendiz",
+          "description": "Primer combate del desafio. 10 intentos diarios.",
           "image": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/doman.png",
-          "maxAttempts": 3,
+          "maxAttempts": 10,
           "dailyReset": true,
           "rewards": [
             {
               "type": "coins",
-              "amount": 600
-            },
-            {
-              "type": "kvr",
-              "amount": 30,
-              "probability": 50
+              "amount": 1000
             },
             {
               "type": "traits",
-              "amount": 2,
-              "probability": 25
+              "amount": 1,
+              "probability": 50
+            },
+            {
+              "type": "pack",
+              "packId": "sobre_especial",
+              "amount": 1,
+              "probability": 10
             }
           ]
         },
         {
           "id": "evento_combate_2",
-          "name": "Fase 2: El Trueno Carmesi",
-          "description": "Combate definitivo contra el maestro del rayo.",
+          "name": "Fase 2: Veterano",
+          "description": "Segundo combate de dificultad media. 5 intentos diarios.",
           "image": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/zion.png",
-          "maxAttempts": 1,
+          "maxAttempts": 5,
           "dailyReset": true,
           "rewards": [
             {
               "type": "coins",
-              "amount": 1800
+              "amount": 3000
             },
             {
-              "type": "kvr",
-              "amount": 100
+              "type": "traits",
+              "amount": 1
+            },
+            {
+              "type": "traits",
+              "amount": 1,
+              "probability": 30
             },
             {
               "type": "pack",
-              "packId": "sobre_oro",
+              "packId": "sobre_especial",
               "amount": 1,
-              "probability": 40
+              "probability": 30
+            }
+          ]
+        },
+        {
+          "id": "evento_combate_3",
+          "name": "Fase 3: Maestro",
+          "description": "Combate final de maxima exigencia. 3 intentos diarios.",
+          "image": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/tan.png",
+          "maxAttempts": 3,
+          "dailyReset": true,
+          "rewards": [
+            {
+              "type": "coins",
+              "amount": 10000
+            },
+            {
+              "type": "traits",
+              "amount": 3
+            },
+            {
+              "type": "pack",
+              "packId": "sobre_especial",
+              "amount": 1
+            },
+            {
+              "type": "pack",
+              "packId": "sobre_especial",
+              "amount": 1,
+              "probability": 20
             }
           ]
         }

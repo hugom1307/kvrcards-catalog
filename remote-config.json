@@ -14,10 +14,10 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.1.5",
-                    "minimumRequired":  "1.1.5",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.5.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.5.zip",
+                    "current":  "1.1.6",
+                    "minimumRequired":  "1.1.6",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.6.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.6.zip",
                     "changelog":  "Batallas de evento remotas y correccion de recompensas de traits en modo infinito",
                     "forceUpdate":  true
                 }
