@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "events": [
+    {
+      "id": "evento_desafio_shinobi",
+      "name": "Desafio de Maestros Shinobi",
+      "description": "Supera las pruebas de los legendarios comandantes de la niebla y el rayo para obtener valiosas recompensas.",
+      "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_ronan_hatake.png",
+      "battles": [
+        {
+          "id": "evento_combate_1",
+          "name": "Fase 1: Guardian de la Niebla",
+          "description": "Enfrentate a la vanguardia tactica y demuestra tu temple.",
+          "image": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/doman.png",
+          "maxAttempts": 3,
+          "dailyReset": true,
+          "rewards": [
+            {
+              "type": "coins",
+              "amount": 600
+            },
+            {
+              "type": "kvr",
+              "amount": 30,
+              "probability": 50
+            },
+            {
+              "type": "traits",
+              "amount": 2,
+              "probability": 25
+            }
+          ]
+        },
+        {
+          "id": "evento_combate_2",
+          "name": "Fase 2: El Trueno Carmesi",
+          "description": "Combate definitivo contra el maestro del rayo.",
+          "image": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/zion.png",
+          "maxAttempts": 1,
+          "dailyReset": true,
+          "rewards": [
+            {
+              "type": "coins",
+              "amount": 1800
+            },
+            {
+              "type": "kvr",
+              "amount": 100
+            },
+            {
+              "type": "pack",
+              "packId": "sobre_oro",
+              "amount": 1,
+              "probability": 40
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
