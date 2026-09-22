@@ -116,6 +116,22 @@
   "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_especial.png",
   "openingGradient": ["#18181B", "#F59E0B", "#FDE047"],
   "price": { "coins": 75000, "kvr": 150 }
+},
+{
+  "id": "sobre_elemental",
+  "name": "Sobre Elemental",
+  "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_elemental.png",
+  "cardsPerPack": 1,
+  "strategy": "qualityMedia",
+  "qualityWeights": {
+    "Bronce": 0,
+    "Plata": 0,
+    "Oro": 80,
+    "special": 20
+  },
+  "allowedCardIds": ["ronan_hatake", "ken_inazuma", "kurai_tenro", "sukui_uzumaki", "mikori_fukasa", "taka_uzumaki", "sekitan", "raiden_fuutaro"],
+    "openingGradient": ["#FDE68A", "#60A5FA", "#1D4ED8"],
+  "price": { "coins": 10000, "kvr": 0 }
 }
 ],
 "shop": [
