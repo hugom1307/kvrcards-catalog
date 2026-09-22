@@ -26,7 +26,7 @@
             },
             {
               "type": "pack",
-              "packId": "sobre_especial",
+              "packId": "sobre_elemental",
               "amount": 1,
               "probability": 10
             }
@@ -55,7 +55,7 @@
             },
             {
               "type": "pack",
-              "packId": "sobre_especial",
+              "packId": "sobre_elemental",
               "amount": 1,
               "probability": 30
             }
@@ -79,12 +79,12 @@
             },
             {
               "type": "pack",
-              "packId": "sobre_especial",
+              "packId": "sobre_elemental",
               "amount": 1
             },
             {
               "type": "pack",
-              "packId": "sobre_especial",
+              "packId": "sobre_elemental",
               "amount": 1,
               "probability": 20
             }
