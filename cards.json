@@ -3238,5 +3238,15 @@
     "calidad": "oro",
     "procedencia": "Mundo Subterráneo",
     "owner": "Grejino02"
+  },
+  {
+    "id": "canje",
+    "name": "Canje",
+    "stats": [0,0,0,0,0,0],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/canje.png",
+    "media": 0,
+    "calidad": "evo",
+    "procedencia": "Desconocido",
+    "owner": "HugoMan1307"
   }
 ]
