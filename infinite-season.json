@@ -37,8 +37,8 @@
     {
       "level": 50,
       "rewards": [
-        { "type": "title", "titleId": "conquistador_del_infinito", "name": "Conquistador del Infinito" },
-        { "type": "card", "cardId": "carta_exclusiva_infinito", "name": "Carta Exclusiva Infinito" },
+        { "type": "title", "titleId": "emperador_infinito"},
+        { "type": "card", "cardId": "rura_exclusive" },
         { "type": "traits", "amount": 10 }
       ]
     },
