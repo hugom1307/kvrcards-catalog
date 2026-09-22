@@ -76,6 +76,26 @@
     "order": 7
   },
   {
+    "id": "cota",
+    "name": "C.O.T.A (Card Of The Arc)",
+    "special": true,
+    "maskImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/calidades/cota.png",
+    "sparkColor": "#000000",
+    "tradeable": true,
+    "valor": 10000,
+    "order": 8
+  },
+  {
+    "id": "exclusive",
+    "name": "Exclusive",
+    "special": true,
+    "maskImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/calidades/exclusive.png",
+    "sparkColor": "#b22222",
+    "tradeable": true,
+    "valor": 10000,
+    "order": 9
+  },
+  {
     "id": "evo",
     "name": "Evo",
     "special": true,
@@ -83,6 +103,6 @@
     "sparkColor": "#c084fc",
     "tradeable": false,
     "valor": 0,
-    "order": 8
+    "order": 10
   }
 ]
