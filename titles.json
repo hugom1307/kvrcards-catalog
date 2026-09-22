@@ -70,6 +70,13 @@
     "unlockDescription":"Compra este título exclusivo por 500 KvR Coins"
   },
   {
+    "id": "emperador_infinito",
+    "name": "Emperador del Infinito",
+    "description": "La danza del emperador te pertenece, has demostrado tu valía para conseguirla.",
+    "gradient":"linear-gradient(to right, #610000 0%, #CF1512 50%, #5C0908 100%)",
+    "unlockDescription":"Llega a nivel 50 del modo infinito durante la Temporada 1"
+  },
+  {
     "id": "esperanza_desesperacion",
     "name": "Esperanza y Desesperación",
     "description": "Dos características únicas... ¿la luz de la esperanza, o la oscuridad de la desesperación?",
