@@ -8,10 +8,10 @@
       "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoarcoelemental.png",
       "battles": [
         {
-          "id": "evento_combate_1",
+          "id": "elemental_1",
           "name": "Fase 1: Aprendiz",
-          "description": "Primer combate del desafio. 10 intentos diarios.",
-          "image": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/doman.png",
+          "description": "Antes de luchar contra las verdaderas amenazas, te vendrá bien un entrenamiento. Veremos si estás listo para lo que viene.",
+          "image": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoelemental1.png",
           "maxAttempts": 10,
           "dailyReset": true,
           "rewards": [
@@ -26,17 +26,17 @@
             },
             {
               "type": "pack",
-              "packId": "sobre_especial",
+              "packId": "sobre_elemental",
               "amount": 1,
               "probability": 10
             }
           ]
         },
         {
-          "id": "evento_combate_2",
-          "name": "Fase 2: Veterano",
-          "description": "Segundo combate de dificultad media. 5 intentos diarios.",
-          "image": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/zion.png",
+          "id": "elemental_2",
+          "name": "Fase 2: Guerrero",
+          "description": "Comienza el verdadero reto. Ganarle significará que estás listo para enfrentarte al Rey Elemental.",
+          "image": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoelemental2.png",
           "maxAttempts": 5,
           "dailyReset": true,
           "rewards": [
@@ -55,17 +55,17 @@
             },
             {
               "type": "pack",
-              "packId": "sobre_especial",
+              "packId": "sobre_elemental",
               "amount": 1,
               "probability": 30
             }
           ]
         },
         {
-          "id": "evento_combate_3",
-          "name": "Fase 3: Maestro",
-          "description": "Combate final de maxima exigencia. 3 intentos diarios.",
-          "image": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/tan.png",
+          "id": "elemental_3",
+          "name": "Fase 3: Elemental",
+          "description": "Tu nivel es suficientemente alto como para enfrentarte al Rey Elemental. Derrotarlo te otorgará grandes recompensas.",
+          "image": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoelemental3.png",
           "maxAttempts": 3,
           "dailyReset": true,
           "rewards": [
@@ -79,12 +79,12 @@
             },
             {
               "type": "pack",
-              "packId": "sobre_especial",
+              "packId": "sobre_elemental",
               "amount": 1
             },
             {
               "type": "pack",
-              "packId": "sobre_especial",
+              "packId": "sobre_elemental",
               "amount": 1,
               "probability": 20
             }
