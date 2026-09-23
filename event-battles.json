@@ -2,10 +2,10 @@
   "version": 1,
   "events": [
     {
-      "id": "evento_desafio_especial",
-      "name": "Gran Desafio Especial",
-      "description": "Supera las 3 fases diarias de combate para ganar monedas, traits y sobres especiales.",
-      "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_ronan_hatake.png",
+      "id": "evento_arco_elemental",
+      "name": "Arco Elemental",
+      "description": "Se te ha encomendado una misión: Derrotar al Rey Elemental. Para ello deberás entrenar y mejorar tu equipo para lograrlo y ganar recompensas.",
+      "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoarcoelemental.png",
       "battles": [
         {
           "id": "evento_combate_1",
