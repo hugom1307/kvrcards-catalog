@@ -4,7 +4,7 @@
     "nombre": "Miguel Carmona",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/miguel.png",
     "dificultades": ["principiante"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_principiante.png",
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondomiguel.png",
     "intervaloMedias": [66, 72],
     "cartasObligatorias": [
       "miguel_carmona",
@@ -16,7 +16,7 @@
     "nombre": "Venti Nara",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/venti.png",
     "dificultades": ["principiante"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_principiante.png",
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoventi.png",
     "intervaloMedias": [64, 74],
     "cartasObligatorias": [
         "shin_uzumaki_heroe"
@@ -27,7 +27,7 @@
     "nombre": "Yuri Ivanov",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/yuri.png",
     "dificultades": ["principiante"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_principiante.png",
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoyuri.png",
     "intervaloMedias": [67, 73],
     "cartasObligatorias": [
       "yuri_ivanov",
@@ -37,10 +37,9 @@
   {
     "id": "doman_kurimunzoso",
     "nombre": "Doman Kurimunzoso",
-    "titulo": "Estratega de la Niebla",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/doman.png",
     "dificultades": ["amateur"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_ronan_hatake.png",
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondodoman.png",
     "intervaloMedias": [76, 82],
     "cartasObligatorias": [
       "doman_kurimunzoso",
@@ -54,10 +53,9 @@
   {
     "id": "zion_hatake",
     "nombre": "Zion Hatake",
-    "titulo": "Maestro del Rayo",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/zion.png",
     "dificultades": ["amateur"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_ronan_hatake.png",
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondozion.png",
     "intervaloMedias": [79, 83],
     "cartasObligatorias": [
       "zion_hatake",
@@ -69,10 +67,9 @@
   {
     "id": "tan_uzumaki",
     "nombre": "Tan Uzumaki",
-    "titulo": "Heredero Carmesí",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/tan.png",
     "dificultades": ["amateur"],
-    "fondo": null,
+     "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondotan.png",
     "intervaloMedias": [73, 84],
     "cartasObligatorias": [
       "tan_uzumaki",
@@ -88,7 +85,7 @@
     "nombre": "Kaoru Noroi",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/kaoru.png",
     "dificultades": ["experimentado"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_experimentado.png",
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondokaoru.png",
     "intervaloMedias": [78, 88],
     "cartasObligatorias": [
       "doriyoku_boku",
@@ -100,7 +97,7 @@
     "nombre": "Ryuki",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/ryuki2.png",
     "dificultades": ["experimentado"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_experimentado.png",
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoryuki.png",
     "intervaloMedias": [81, 85],
     "cartasObligatorias": [
       "ryuki_icono",
@@ -112,7 +109,7 @@
     "nombre": "Merlín",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/merlin.png",
     "dificultades": ["experimentado"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_experimentado.png",
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondomerlin.png",
     "intervaloMedias": [80, 86],
     "cartasObligatorias": [
       "sukui_uzumaki",
@@ -124,7 +121,7 @@
     "nombre": "Shiroku Kowai",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/shiroku.png",
     "dificultades": ["profesional"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_profesional.png",
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoshiroku.png",
     "intervaloMedias": [83, 89],
     "cartasObligatorias": [
       "shiroku_kowai",
@@ -137,7 +134,7 @@
     "nombre": "Kento Rikudo",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/kento.png",
     "dificultades": ["profesional"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_profesional.png",
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondokento.png",
     "intervaloMedias": [82, 90],
     "cartasObligatorias": [
       "kento_rikudo",
@@ -150,7 +147,7 @@
     "nombre": "Iyari Ryuga",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/iyari.png",
     "dificultades": ["profesional"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_profesional.png",
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoiyari.png",
     "intervaloMedias": [85, 88],
     "cartasObligatorias": [
       "iyari_ryuga_icono",
@@ -163,7 +160,7 @@
       "nombre": "Tenshi",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/tenshi.png",
     "dificultades": ["dios-antiguo"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_diosantiguo.png",
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondotenshi.png",
     "intervaloMedias": [88, 93]
   },
   {
@@ -171,7 +168,7 @@
       "nombre": "Seikatsu",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/seikatsu.jpg",
     "dificultades": ["dios-antiguo"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_diosantiguo.png",
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoseikatsu.png",
     "intervaloMedias": [89, 95],
     "cartasObligatorias": [
       "shind_inazuma_iconosuperprime"
@@ -182,7 +179,7 @@
       "nombre": "Jimmy",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/jimmy.png",
     "dificultades": ["dios-antiguo"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_diosantiguo.png",
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondojimmy.png",
     "intervaloMedias": [87, 92]
   },
   {
@@ -190,7 +187,7 @@
     "nombre": "Haseo Otsutsuki",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/haseo.png",
     "dificultades": ["inmo"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/assets/backgrounds/fondo_inmo.jpg",
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/assets/backgrounds/fondohaseo.png",
     "intervaloMedias": [90]
   },
   {
@@ -198,7 +195,7 @@
     "nombre": "Senrigan",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/senrigan.png",
     "dificultades": ["inmo"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/assets/backgrounds/fondo_inmo.jpg",
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/assets/backgrounds/fondosenrigan.png",
     "intervaloMedias": [91]
   },
   {
@@ -206,7 +203,7 @@
     "nombre": "Konran",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/konran.png",
     "dificultades": ["inmo"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/assets/backgrounds/fondo_inmo.jpg",
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/assets/backgrounds/fondokonran.png",
     "intervaloMedias": [91]
   }
 ]
