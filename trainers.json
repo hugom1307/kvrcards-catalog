@@ -231,7 +231,7 @@
     "titulo": "El Ángel del Brillo",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/doriyoku.png",
      "song": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/music/doriyoku2.mp3",
-    "dificultades": ["elemental_3"],
+    "dificultades": ["elemental_2"],
     "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondodoriyoku2.png",
     "intervaloMedias": [76, 87],
     "cartasObligatorias": [
