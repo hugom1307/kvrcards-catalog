@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.1.8",
-                    "minimumRequired":  "1.1.8",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.8.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.8.zip",
-                    "changelog":  "Optimizacion de ancho de banda en trades y batallas online",
+                    "current":  "1.2.0",
+                    "minimumRequired":  "1.2.0",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.2.0.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.2.0.zip",
+                    "changelog":  "Exclusion de cartas evo en coleccion y nuevo registro completo de cartas",
                     "forceUpdate":  true
                 }
 }

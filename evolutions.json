@@ -1,111 +1,261 @@
 {
   "evolutions": [
     {
-  "id": "evo_secuencia_four",
-  "name": "El guerrero definitivo",
-  "type": "featured",
-  "repeatable": false,
-  "phases": [
-    {
-      "phase": 1,
-      "name": "Fase 1: El Origen (One ➔ Two)",
-      "cardFrom": "one",
-      "cardTo": "two",
-      "missions": [
+      "id": "evo_secuencia_four",
+      "name": "El guerrero definitivo",
+      "type": "featured",
+      "repeatable": false,
+      "phases": [
         {
-          "id": "seq_p1_rounds",
-          "description": "Gana 15 rondas en combate con One",
-          "type": "rounds_won",
-          "target": 15,
-          "cardRequired": true
+          "phase": 1,
+          "name": "Fase 1: El Origen (One -> Two)",
+          "cardFrom": "one",
+          "cardTo": "two",
+          "missions": [
+            {
+              "id": "seq_p1_rounds",
+              "description": "Gana 15 rondas en combate con One",
+              "type": "rounds_won",
+              "target": 15,
+              "cardRequired": true
+            },
+            {
+              "id": "seq_p1_battles",
+              "description": "Juega 12 combates con One en tu equipo",
+              "type": "play_games_with_card",
+              "target": 12
+            },
+            {
+              "id": "seq_p1_wins",
+              "description": "Gana 8 combates con One en tu equipo",
+              "type": "win_games_with_card",
+              "target": 8
+            },
+            {
+              "id": "seq_p1_packs",
+              "description": "Abre 15 sobres de cartas",
+              "type": "open_packs",
+              "target": 15
+            }
+          ]
         },
         {
-          "id": "seq_p1_battles",
-          "description": "Juega 12 combates con One en tu equipo",
-          "type": "play_games_with_card",
-          "target": 12
+          "phase": 2,
+          "name": "Fase 2: Evolución (Two -> Three)",
+          "cardFrom": "two",
+          "cardTo": "three",
+          "missions": [
+            {
+              "id": "seq_p2_rounds",
+              "description": "Gana 30 rondas en combate con Two",
+              "type": "rounds_won",
+              "target": 30,
+              "cardRequired": true
+            },
+            {
+              "id": "seq_p2_battles",
+              "description": "Juega 25 combates con Two en tu equipo",
+              "type": "play_games_with_card",
+              "target": 25
+            },
+            {
+              "id": "seq_p2_wins",
+              "description": "Gana 25 combates con Two en tu equipo",
+              "type": "win_games_with_card",
+              "target": 25
+            },
+            {
+              "id": "seq_p2_packs",
+              "description": "Abre 30 sobres de cartas",
+              "type": "open_packs",
+              "target": 30
+            }
+          ]
         },
         {
-          "id": "seq_p1_wins",
-          "description": "Gana 8 combates con One en tu equipo",
-          "type": "win_games_with_card",
-          "target": 8
-        },
-        {
-          "id": "seq_p1_packs",
-          "description": "Abre 15 sobres de cartas",
-          "type": "open_packs",
-          "target": 15
+          "phase": 3,
+          "name": "Fase 3: Guerrero Definitivo (Three -> Four)",
+          "cardFrom": "three",
+          "cardTo": "four",
+          "missions": [
+            {
+              "id": "seq_p3_rounds",
+              "description": "Gana 60 rondas en combate con Three",
+              "type": "rounds_won",
+              "target": 60,
+              "cardRequired": true
+            },
+            {
+              "id": "seq_p3_battles",
+              "description": "Juega 50 combates con Three en tu equipo",
+              "type": "play_games_with_card",
+              "target": 50
+            },
+            {
+              "id": "seq_p3_wins",
+              "description": "Gana 50 combates con Three en tu equipo",
+              "type": "win_games_with_card",
+              "target": 50
+            },
+            {
+              "id": "seq_p3_packs",
+              "description": "Abre 50 sobres de cartas",
+              "type": "open_packs",
+              "target": 50
+            }
+          ]
         }
       ]
     },
     {
-      "phase": 2,
-      "name": "Fase 2: Evolución (Two ➔ Three)",
-      "cardFrom": "two",
-      "cardTo": "three",
+      "id": "evo_test",
+      "name": "Evolución Test",
+      "cardFrom": "ronan_hatake",
+      "cardTo": "ronan_hatake_evo",
+      "type": "featured",
+      "repeatable": true,
+      "maxCompletions": null,
       "missions": [
         {
-          "id": "seq_p2_rounds",
-          "description": "Gana 30 rondas en combate con Two",
+          "id": "evo_mission_rounds",
+          "description": "Gana 3 rondas con esta carta",
           "type": "rounds_won",
-          "target": 30,
+          "target": 3,
           "cardRequired": true
         },
         {
-          "id": "seq_p2_battles",
-          "description": "Juega 25 combates con Two en tu equipo",
+          "id": "evo_mission_games",
+          "description": "Juega 2 partidas con esta carta en tu equipo",
           "type": "play_games_with_card",
-          "target": 25
+          "target": 2
         },
         {
-          "id": "seq_p2_wins",
-          "description": "Gana 25 combates con Two en tu equipo",
-          "type": "win_games_with_card",
-          "target": 25
-        },
-        {
-          "id": "seq_p2_packs",
-          "description": "Abre 30 sobres de cartas",
+          "id": "evo_mission_packs",
+          "description": "Abre 5 sobres",
           "type": "open_packs",
-          "target": 30
+          "target": 5
         }
       ]
     },
     {
-      "phase": 3,
-      "name": "Fase 3: Guerrero Definitivo (Three ➔ Four)",
-      "cardFrom": "three",
-      "cardTo": "four",
+      "id": "evo_multicarta_rutas",
+      "name": "Evolución Promesas (Fases y Misiones por Carta)",
+      "type": "featured",
+      "repeatable": true,
+      "maxCompletions": 3,
+      "cardOptions": [
+        {
+          "cardFrom": "gavi_base",
+          "phases": [
+            {
+              "phase": 1,
+              "name": "Gavi Fase 1: Promesa",
+              "cardTo": "gavi_f1",
+              "missions": [
+                {
+                  "id": "gavi_m1",
+                  "description": "Gana 3 rondas con Gavi",
+                  "type": "rounds_won",
+                  "target": 3,
+                  "cardRequired": true
+                }
+              ]
+            },
+            {
+              "phase": 2,
+              "name": "Gavi Fase 2: Golden Boy",
+              "cardTo": "gavi_prime",
+              "missions": [
+                {
+                  "id": "gavi_m2",
+                  "description": "Gana 2 partidos con Gavi en tu equipo",
+                  "type": "win_games_with_card",
+                  "target": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "cardFrom": "yamal_base",
+          "phases": [
+            {
+              "phase": 1,
+              "name": "Yamal Fase 1: Desborde",
+              "cardTo": "yamal_f1",
+              "missions": [
+                {
+                  "id": "yamal_m1",
+                  "description": "Juega 3 partidos con Lamine",
+                  "type": "play_games_with_card",
+                  "target": 3
+                }
+              ]
+            },
+            {
+              "phase": 2,
+              "name": "Yamal Fase 2: Estrella Mundial",
+              "cardTo": "yamal_prime",
+              "missions": [
+                {
+                  "id": "yamal_m2",
+                  "description": "Gana 5 rondas con Lamine",
+                  "type": "rounds_won",
+                  "target": 5,
+                  "cardRequired": true
+                },
+                {
+                  "id": "yamal_m3",
+                  "description": "Consigue 1 copia de Yamal",
+                  "type": "obtain_card",
+                  "target": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "evo_fusion_elemental",
+      "name": "Fusion Elemental",
+      "type": "featured",
+      "repeatable": true,
+      "maxCompletions": 3,
+      "cardsFrom": ["one", "two"],
+      "cardToOptions": ["three", "four"],
       "missions": [
         {
-          "id": "seq_p3_rounds",
-          "description": "Gana 60 rondas en combate con Three",
+          "id": "fusion_m1",
+          "description": "Gana 10 rondas con una de las cartas requeridas",
           "type": "rounds_won",
-          "target": 60,
+          "target": 10,
           "cardRequired": true
         },
         {
-          "id": "seq_p3_battles",
-          "description": "Juega 50 combates con Three en tu equipo",
+          "id": "fusion_m2",
+          "description": "Juega 5 partidas con tu equipo",
           "type": "play_games_with_card",
-          "target": 50
-        },
+          "target": 5
+        }
+      ]
+    },
+    {
+      "id": "evo_vip_especial",
+      "name": "Evolucion VIP Secreta",
+      "type": "event",
+      "visibleOnly": ["admin", "pitac", "tester"],
+      "cardFrom": "ronan_hatake",
+      "cardTo": "ronan_hatake_evo",
+      "repeatable": 2,
+      "missions": [
         {
-          "id": "seq_p3_wins",
-          "description": "Gana 50 combates con Three en tu equipo",
-          "type": "win_games_with_card",
-          "target": 50
-        },
-        {
-          "id": "seq_p3_packs",
-          "description": "Abre 50 sobres de cartas",
-          "type": "open_packs",
-          "target": 50
+          "id": "vip_m1",
+          "description": "Gana 3 rondas en combate",
+          "type": "rounds_won",
+          "target": 3
         }
       ]
     }
-  ]
-}
   ]
 }
