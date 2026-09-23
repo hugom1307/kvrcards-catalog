@@ -5,13 +5,13 @@
       "id": "evento_arco_elemental",
       "name": "ARCO ELEMENTAL",
       "description": "Derrota al Rey elemental, gana recompensas a cambio y muestra tu superioridad al mundo.",
-      "backgroundImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondarcoelemental.png",
+      "backgroundImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondoarcoelemental.png",
       "battles": [
         {
           "id": "elemental_1",
           "name": "Fase 1: Aprendiz",
           "description": "Demuestra que tu nivel es suficiente para enfrentarte a la dificultad de verdad, considera esto una prueba.",
-          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondoelemental1",
+          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondoelemental1.png",
           "maxAttempts": 10,
           "dailyReset": true,
           "rewards": [
@@ -36,7 +36,7 @@
           "id": "elemental_2",
           "name": "Fase 2: Guerrero",
           "description": "Eres un verdadero shinobi, por lo que debes enfrentarte a algo difícil de verdad antes de llegar al rey elemental.",
-          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondoelemental2",
+          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondoelemental2.png",
           "maxAttempts": 5,
           "dailyReset": true,
           "rewards": [
@@ -65,7 +65,7 @@
           "id": "elemental_3",
           "name": "Fase 3: Elemental",
           "description": "Eres encomendado como el más fuerte, el más capaz de acabar con el Rey Elemental. ¿Lo conseguirás?",
-          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondoelemental3",
+          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondoelemental3.png",
           "maxAttempts": 3,
           "dailyReset": true,
           "rewards": [
