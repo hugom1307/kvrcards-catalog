@@ -2,16 +2,16 @@
   "version": 1,
   "events": [
     {
-      "id": "evento_desafio_especial",
-      "name": "Gran Desafio Especial",
-      "description": "Supera las 3 fases diarias de combate para ganar monedas, traits y sobres especiales.",
-      "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_ronan_hatake.png",
+      "id": "evento_arco_elemental",
+      "name": "ARCO ELEMENTAL",
+      "description": "Derrota al Rey elemental, gana recompensas a cambio y muestra tu superioridad al mundo.",
+      "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondarcoelemental.png",
       "battles": [
         {
-          "id": "evento_combate_1",
+          "id": "elemental_1",
           "name": "Fase 1: Aprendiz",
-          "description": "Primer combate del desafio. 10 intentos diarios.",
-          "image": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/doman.png",
+          "description": "Demuestra que tu nivel es suficiente para enfrentarte a la dificultad de verdad, considera esto una prueba.",
+          "image": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoelemental1",
           "maxAttempts": 10,
           "dailyReset": true,
           "rewards": [
@@ -33,10 +33,10 @@
           ]
         },
         {
-          "id": "evento_combate_2",
-          "name": "Fase 2: Veterano",
-          "description": "Segundo combate de dificultad media. 5 intentos diarios.",
-          "image": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/zion.png",
+          "id": "elemental_2",
+          "name": "Fase 2: Guerrero",
+          "description": "Eres un verdadero shinobi, por lo que debes enfrentarte a algo difícil de verdad antes de llegar al rey elemental.",
+          "image": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoelemental2",
           "maxAttempts": 5,
           "dailyReset": true,
           "rewards": [
@@ -62,10 +62,10 @@
           ]
         },
         {
-          "id": "evento_combate_3",
-          "name": "Fase 3: Maestro",
-          "description": "Combate final de maxima exigencia. 3 intentos diarios.",
-          "image": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/tan.png",
+          "id": "elemental_3",
+          "name": "Fase 3: Elemental",
+          "description": "Eres encomendado como el más fuerte, el más capaz de acabar con el Rey Elemental. ¿Lo conseguirás?",
+          "image": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoelemental3",
           "maxAttempts": 3,
           "dailyReset": true,
           "rewards": [
