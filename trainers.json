@@ -205,5 +205,59 @@
     "dificultades": ["inmo"],
     "fondo": "https://hugom1307.github.io/kvrcards-catalog/assets/backgrounds/fondokonran.png",
     "intervaloMedias": [91]
-  }
+  },
+   {
+    "id": "isabel_elemental_1",
+    "nombre": "Isabel Maya",
+    "titulo": "La Científica",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/isabel.png",
+    "dificultades": ["elemental_1"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoisabel1.png",
+    "intervaloMedias": [65, 78],
+    "cartasObligatorias": [
+      "einar_rideryon_cota1",
+      "isabel_maya",
+      "pedro_maya",
+      "elena_maya",
+      "dario_maya",
+      "alex_petrov",
+      "jenue_bogai"
+    ]
+  },
+   {
+    "id": "doriyoku_elemental_2",
+    "nombre": "Doriyoku Boku",
+    "titulo": "El Ángel del Brillo",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/doriyoku.png",
+    "dificultades": ["elemental_3"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondodoriyoku2.png",
+    "intervaloMedias": [76, 87],
+    "cartasObligatorias": [
+      "doriyoku_boku",
+      "amai_noroi",
+      "rudo_tanku",
+      "yasumi_noroi",
+      "mikori_fukasa",
+      "raiden_fuutaro",
+      "ken_inazuma"
+    ]
+  },
+  {
+    "id": "kento_elemental_3",
+    "nombre": "Kento Rikudo",
+    "titulo": "El Rey Elemental",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/kento.png",
+    "dificultades": ["elemental_3"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondokento3.png",
+    "intervaloMedias": [89, 95],
+    "cartasObligatorias": [
+      "kento_rikudo",
+      "tekina",
+      "dankha_sagi_cota1",
+      "ezio_siam",
+      "roy_ikari",
+      "kai_senju_icono",
+      "nihiro"
+    ]
+  },
 ]
