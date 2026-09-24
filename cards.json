@@ -3448,5 +3448,45 @@
     "calidad": "evo",
     "procedencia": "Amegakure",
     "owner": "Preput777"
+  },
+  {
+    "id": "kurai_tenro_evoe",
+    "name": "Kurai Tenro",
+    "stats": [91,86,84,88,81,78],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kuraievoe.png",
+    "media": 88,
+    "calidad": "evo",
+    "procedencia": "Sunagakure",
+    "owner": "Manuel16"
+  },
+  {
+    "id": "sukui_uzumaki_evoe",
+    "name": "Sukui Uzumaki",
+    "stats": [90,83,83,86,81,80],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sukuievoe.png",
+    "media": 86,
+    "calidad": "evo",
+    "procedencia": "Konohagakure",
+    "owner": "Juanjovc_20"
+  },
+  {
+    "id": "sekitan_evoe",
+    "name": "Sekitan",
+    "stats": [89,90,82,80,82,80],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sekitanevoe.png",
+    "media": 87,
+    "calidad": "evo",
+    "procedencia": "Konohagakure",
+    "owner": "Nataliaa15"
+  },
+  {
+    "id": "taka_uzumaki_evoe",
+    "name": "Taka Uzumaki",
+    "stats": [81,84,83,78,77,73],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/takaevoe.png",
+    "media": 81,
+    "calidad": "evo",
+    "procedencia": "Hispania",
+    "owner": "MrVetoxx"
   }
 ]
