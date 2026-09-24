@@ -50,12 +50,12 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":1
+        "amount": 1
       },
       {
         "type": "pack",
         "packId": "sobre_plata",
-        "amount":2
+        "amount": 2
       }
     ],
     "repeatable": false
@@ -72,18 +72,13 @@
     },
     "rewards": [
       {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 1
+      },
+      {
         "type": "coins",
-        "amount": 7500
-      },
-      {
-        "type": "pack",
-        "packId":"sobre_oc",
-        "amount": 1
-      },
-      {
-        "type": "pack",
-        "packId":"sobre_oro",
-        "amount": 1
+        "amount": 6000
       }
     ],
     "repeatable": false
@@ -92,20 +87,25 @@
     "id": "pack_addict",
     "category": "fundamentals",
     "title": "Adicto a los Sobres",
-    "description": "Abre 50 sobres",
+    "description": "Abre 50 sobres en total",
     "requirement": {
       "type": "packs_opened",
       "amount": 50
     },
     "rewards": [
       {
-        "type": "title",
-        "titleId": "abridor"
+        "type": "coins",
+        "amount": 15000
       },
       {
         "type": "pack",
-        "packId": "sobre_83_plus",
-        "amount":2
+        "packId": "sobre_oro",
+        "amount": 3
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oc",
+        "amount": 1
       }
     ],
     "repeatable": false
@@ -122,17 +122,13 @@
     },
     "rewards": [
       {
-        "type": "title",
-        "titleId": "icono_legendario"
-      },
-      {
-        "type": "coins",
-        "amount": 12500
-      },
-      {
         "type": "pack",
-        "packId":"sobre_85_plus",
+        "packId": "sobre_83_plus",
         "amount": 1
+      },
+      {
+        "type": "title",
+        "titleId": "leyenda"
       }
     ],
     "repeatable": false
@@ -141,7 +137,7 @@
     "id": "daily_login",
     "category": "daily",
     "title": "Jugador Activo",
-    "description": "Inicia sesión en el juego",
+    "description": "Inicia sesión hoy",
     "requirement": {
       "type": "login",
       "amount": 1
@@ -149,41 +145,43 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 1000
-      },
-      {
-        "type": "pack",
-        "packId":"sobre_plata",
-        "amount": 1
+        "amount": 2500
       }
     ],
-    "repeatable": true,
-    "cooldown": 86400
+    "repeatable": true
   },
   {
     "id": "VERYrich_player",
     "category": "featured",
     "title": "Jugador Medio Millonario",
-    "description": "Acumula 500000 Coins",
+    "description": "Acumula 500,000 Coins",
     "requirement": {
       "type": "coins",
       "amount": 500000
     },
     "rewards": [
       {
+        "type": "title",
+        "titleId": "millonario"
+      },
+      {
         "type": "pack",
-        "packId":"sobre_oro",
-        "amount": 10
+        "packId": "sobre_85_plus",
+        "amount": 1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oc",
+        "amount": 3
       }
     ],
     "repeatable": false
   },
-
   {
     "id": "daily_packs",
     "category": "daily",
     "title": "Abre 3 sobres",
-    "description": "Abre 3 sobres de cualquier tipo",
+    "description": "Abre 3 sobres de cualquier tipo hoy",
     "requirement": {
       "type": "packs_opened",
       "amount": 3
@@ -191,17 +189,21 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 1000
+        "amount": 2500
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 2
       }
     ],
-    "repeatable": true,
-    "cooldown": 86400
+    "repeatable": true
   },
   {
     "id": "daily_gold",
     "category": "daily",
     "title": "Consigue 3 cartas de oro",
-    "description": "Obtén 3 cartas de oro de cualquier forma.",
+    "description": "Consigue 3 cartas de calidad Oro hoy",
     "requirement": {
       "type": "cards_by_quality",
       "quality": "Oro",
@@ -210,16 +212,16 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 1500
+        "amount": 5000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 1
       }
     ],
-    "repeatable": true,
-    "cooldown": 86400
+    "repeatable": true
   },
-
-
-
-  
   {
     "id": "bronze_foundation",
     "category": "fundamentals",
@@ -233,12 +235,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 5000
+        "amount": 3000
       },
       {
         "type": "pack",
         "packId": "sobre_plata",
-        "amount":2
+        "amount": 2
       }
     ],
     "repeatable": false
@@ -261,7 +263,7 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":2
+        "amount": 2
       }
     ],
     "repeatable": false
@@ -283,12 +285,12 @@
       {
         "type": "pack",
         "packId": "sobre_83_plus",
-        "amount":1
+        "amount": 1
       },
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":5
+        "amount": 5
       }
     ],
     "repeatable": false
@@ -318,12 +320,12 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":4
+        "amount": 4
       },
-       {
+      {
         "type": "pack",
         "packId": "sobre_oc",
-        "amount":2
+        "amount": 2
       }
     ],
     "repeatable": false
@@ -343,15 +345,15 @@
         "type": "coins",
         "amount": 12000
       },
-       {
+      {
         "type": "pack",
         "packId": "sobre_83_plus",
-        "amount":1
+        "amount": 1
       },
       {
         "type": "pack",
         "packId": "sobre_oc",
-        "amount":3
+        "amount": 3
       }
     ],
     "repeatable": false
@@ -373,12 +375,12 @@
       {
         "type": "pack",
         "packId": "sobre_83_plus",
-        "amount":1
+        "amount": 1
       },
       {
         "type": "pack",
         "packId": "sobre_85_plus",
-        "amount":1
+        "amount": 1
       }
     ],
     "repeatable": false
@@ -407,11 +409,10 @@
       {
         "type": "pack",
         "packId": "sobre_bronce",
-        "amount":3
+        "amount": 3
       }
     ],
-    "repeatable": true,
-    "cooldown": 86400
+    "repeatable": true
   },
   {
     "id": "daily_bronze_grind",
@@ -429,29 +430,28 @@
         "amount": 1500
       }
     ],
-    "repeatable": true,
-    "cooldown": 86400
+    "repeatable": true
   },
-  
   {
     "id": "cartas_de_arco",
     "category": "featured",
     "title": "Coleccionista de arco",
     "description": "Consigue 2 cartas diferentes de calidad C.O.T.A",
     "requirement": {
-    
+      "type": "unique_cards_by_quality",
+      "quality": "cota",
+      "amount": 2
     },
     "rewards": [
       {
         "type": "pack",
-        "packId":"sobre_85_plus",
-	      "amount":1
+        "packId": "sobre_85_plus",
+        "amount": 1
       },
-	    {
-       "type":"coins",
-	      "amount":20000
-
-	    },
+      {
+        "type": "coins",
+        "amount": 20000
+      },
       {
         "type": "background",
         "backgroundId": "fondo_cota1"
@@ -459,26 +459,26 @@
     ],
     "repeatable": false
   },
-
-{
+  {
     "id": "exclusividad",
     "category": "limited",
     "title": "Coleccionista de rarezas",
     "description": "Consigue 1 carta de calidad exclusive",
     "requirement": {
-    
+      "type": "cards_by_quality",
+      "quality": "exclusive",
+      "amount": 1
     },
     "rewards": [
       {
         "type": "pack",
-        "packId":"sobre_85_plus",
-	      "amount":2
+        "packId": "sobre_85_plus",
+        "amount": 2
       },
-	    {
-        "type":"coins",
-	      "amount":30000
-
-	    },
+      {
+        "type": "coins",
+        "amount": 30000
+      },
       {
         "type": "background",
         "backgroundId": "fondo_exclusivo1"
@@ -486,53 +486,49 @@
     ],
     "repeatable": false
   },
-{
+  {
     "id": "trader",
     "category": "weekly",
     "title": "Hombre de negocios",
     "description": "Haz un intercambio con un amigo",
     "requirement": {
-    
+      "type": "complete_trade",
+      "amount": 1
     },
     "rewards": [
       {
         "type": "pack",
-        "packId":"sobre_oro",
-	      "amount":2
+        "packId": "sobre_oro",
+        "amount": 2
       },
-	    {
-        "type":"coins",
-	      "amount":6000
-
-	    }
-       
+      {
+        "type": "coins",
+        "amount": 6000
+      }
     ],
-    "repeatable": true,
-    "cooldown":604800
+    "repeatable": true
   },
-{
+  {
     "id": "abridor_nato",
     "category": "weekly",
     "title": "Abridor nato",
     "description": "Abre 5 sobres de cualquier tipo",
     "requirement": {
-
+      "type": "packs_opened",
+      "amount": 5
     },
     "rewards": [
       {
         "type": "pack",
-        "packId":"sobre_oro",
-          "amount":1
+        "packId": "sobre_oro",
+        "amount": 1
       },
-        {
-        "type":"coins",
-          "amount":3000
-
-        }
-
+      {
+        "type": "coins",
+        "amount": 3000
+      }
     ],
-    "repeatable": true,
-    "cooldown":604800
+    "repeatable": true
   },
   {
     "id": "retador",
@@ -540,52 +536,48 @@
     "title": "Retador",
     "description": "Juega 25 partidas en cualquier modo",
     "requirement": {
-
+      "type": "battles_played",
+      "amount": 25
     },
     "rewards": [
       {
         "type": "pack",
-        "packId":"sobre_oro",
-          "amount":5
+        "packId": "sobre_oro",
+        "amount": 5
       },
-        {
-        "type":"coins",
-          "amount":15000
-
-        }
-
+      {
+        "type": "coins",
+        "amount": 15000
+      }
     ],
-    "repeatable": true,
-    "cooldown":604800
+    "repeatable": true
   },
-    {
+  {
     "id": "invencible",
     "category": "weekly",
     "title": "Invencible",
     "description": "Gana 250 rondas en cualquier modo",
     "requirement": {
-
+      "type": "rounds_won",
+      "amount": 250
     },
     "rewards": [
       {
         "type": "pack",
-        "packId":"sobre_83_plus",
-          "amount":2
+        "packId": "sobre_83_plus",
+        "amount": 2
       },
       {
         "type": "pack",
-        "packId":"sobre_oro",
-          "amount":5
+        "packId": "sobre_oro",
+        "amount": 5
       },
-        {
-        "type":"coins",
-          "amount":27000
-
-        }
-
+      {
+        "type": "coins",
+        "amount": 27000
+      }
     ],
-    "repeatable": true,
-    "cooldown":604800
+    "repeatable": true
   },
   {
     "id": "coleccionista",
@@ -593,54 +585,48 @@
     "title": "Coleccionista semanal",
     "description": "Consigue 25 cartas",
     "requirement": {
-
+      "type": "cards_obtained",
+      "amount": 25
     },
     "rewards": [
-
       {
         "type": "pack",
-        "packId":"sobre_oro",
-          "amount":3
+        "packId": "sobre_oro",
+        "amount": 3
       },
-        {
-        "type":"coins",
-          "amount":8000
-
-        }
-
+      {
+        "type": "coins",
+        "amount": 8000
+      }
     ],
-    "repeatable": true,
-    "cooldown":604800
+    "repeatable": true
   },
-{
+  {
     "id": "jugador_infinito",
     "category": "weekly",
     "title": "Jugador infinito",
     "description": "Juega 15 niveles del modo infinito (aunque pierdas)",
     "requirement": {
-
+      "type": "play_infinite_levels",
+      "amount": 15
     },
     "rewards": [
-
       {
         "type": "pack",
-        "packId":"sobre_oro",
-          "amount":2
+        "packId": "sobre_oro",
+        "amount": 2
       },
       {
         "type": "pack",
-        "packId":"sobre_83_plus",
-          "amount":1
+        "packId": "sobre_83_plus",
+        "amount": 1
       },
-        {
-        "type":"coins",
-          "amount":10000
-
-        }
-
+      {
+        "type": "coins",
+        "amount": 10000
+      }
     ],
-    "repeatable": true,
-    "cooldown":604800
+    "repeatable": true
   },
   {
     "id": "retador_diario",
@@ -648,25 +634,20 @@
     "title": "Retador diario",
     "description": "Gana 3 partidas en cualquier modo",
     "requirement": {
-
+      "type": "battles_won",
+      "amount": 3
     },
     "rewards": [
-
       {
         "type": "pack",
-        "packId":"sobre_oro",
-          "amount":1
+        "packId": "sobre_oro",
+        "amount": 1
       },
-
-        {
-        "type":"coins",
-          "amount":3000
-
-        }
-
+      {
+        "type": "coins",
+        "amount": 3000
+      }
     ],
-    "repeatable": true,
-    "cooldown":86400
+    "repeatable": true
   }
-
 ]
