@@ -107,155 +107,353 @@
         }
       ]
     },
+   {
+  "id": "evo_canje_especial1",
+  "name": "Canje Especial de tu propio OC: Ronan Hatake",
+  "type": "featured",
+  "visibleOnly": ["admin"],
+  "cardFrom": "canje",
+  "cardTo": "ronan_hatake_evo1",
+  "repeatable": false,
+  "missions": [
     {
-      "id": "evo_test",
-      "name": "Evolución Test",
-      "cardFrom": "ronan_hatake",
-      "cardTo": "ronan_hatake_evo",
-      "type": "featured",
-      "repeatable": true,
-      "maxCompletions": null,
-      "missions": [
-        {
-          "id": "evo_mission_rounds",
-          "description": "Gana 3 rondas con esta carta",
-          "type": "rounds_won",
-          "target": 3,
-          "cardRequired": true
-        },
-        {
-          "id": "evo_mission_games",
-          "description": "Juega 2 partidas con esta carta en tu equipo",
-          "type": "play_games_with_card",
-          "target": 2
-        },
-        {
-          "id": "evo_mission_packs",
-          "description": "Abre 5 sobres",
-          "type": "open_packs",
-          "target": 5
-        }
-      ]
+      "id": "canje1_m1_jugar_batallas",
+      "description": "Juega 5 batallas en general",
+      "type": "battles_played",
+      "target": 5
     },
     {
-      "id": "evo_multicarta_rutas",
-      "name": "Evolución Promesas (Fases y Misiones por Carta)",
-      "type": "featured",
-      "repeatable": true,
-      "maxCompletions": 3,
-      "cardOptions": [
-        {
-          "cardFrom": "gavi_base",
-          "phases": [
-            {
-              "phase": 1,
-              "name": "Gavi Fase 1: Promesa",
-              "cardTo": "gavi_f1",
-              "missions": [
-                {
-                  "id": "gavi_m1",
-                  "description": "Gana 3 rondas con Gavi",
-                  "type": "rounds_won",
-                  "target": 3,
-                  "cardRequired": true
-                }
-              ]
-            },
-            {
-              "phase": 2,
-              "name": "Gavi Fase 2: Golden Boy",
-              "cardTo": "gavi_prime",
-              "missions": [
-                {
-                  "id": "gavi_m2",
-                  "description": "Gana 2 partidos con Gavi en tu equipo",
-                  "type": "win_games_with_card",
-                  "target": 2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "cardFrom": "yamal_base",
-          "phases": [
-            {
-              "phase": 1,
-              "name": "Yamal Fase 1: Desborde",
-              "cardTo": "yamal_f1",
-              "missions": [
-                {
-                  "id": "yamal_m1",
-                  "description": "Juega 3 partidos con Lamine",
-                  "type": "play_games_with_card",
-                  "target": 3
-                }
-              ]
-            },
-            {
-              "phase": 2,
-              "name": "Yamal Fase 2: Estrella Mundial",
-              "cardTo": "yamal_prime",
-              "missions": [
-                {
-                  "id": "yamal_m2",
-                  "description": "Gana 5 rondas con Lamine",
-                  "type": "rounds_won",
-                  "target": 5,
-                  "cardRequired": true
-                },
-                {
-                  "id": "yamal_m3",
-                  "description": "Consigue 1 copia de Yamal",
-                  "type": "obtain_card",
-                  "target": 1
-                }
-              ]
-            }
-          ]
-        }
-      ]
+      "id": "canje1_m2_ganar_batallas",
+      "description": "Gana 2 batallas en general",
+      "type": "battles_won",
+      "target": 2
     },
     {
-      "id": "evo_fusion_elemental",
-      "name": "Fusion Elemental",
-      "type": "featured",
-      "repeatable": true,
-      "maxCompletions": 3,
-      "cardsFrom": ["one", "two"],
-      "cardToOptions": ["three", "four"],
-      "missions": [
-        {
-          "id": "fusion_m1",
-          "description": "Gana 10 rondas con una de las cartas requeridas",
-          "type": "rounds_won",
-          "target": 10,
-          "cardRequired": true
-        },
-        {
-          "id": "fusion_m2",
-          "description": "Juega 5 partidas con tu equipo",
-          "type": "play_games_with_card",
-          "target": 5
-        }
-      ]
-    },
-    {
-      "id": "evo_vip_especial",
-      "name": "Evolucion VIP Secreta",
-      "type": "event",
-      "visibleOnly": ["admin", "pitac", "tester"],
-      "cardFrom": "ronan_hatake",
-      "cardTo": "ronan_hatake_evo",
-      "repeatable": 2,
-      "missions": [
-        {
-          "id": "vip_m1",
-          "description": "Gana 3 rondas en combate",
-          "type": "rounds_won",
-          "target": 3
-        }
-      ]
+      "id": "canje1_m3_abrir_sobres",
+      "description": "Abre 5 sobres",
+      "type": "open_packs",
+      "target": 5
     }
+  ]
+},
+{
+  "id": "evo_canje_especial2",
+  "name": "Canje Especial de tu propio OC: Kurai Tenro",
+  "type": "featured",
+  "visibleOnly": ["admin"],
+  "cardFrom": "canje",
+  "cardTo": "kurai_tenro_evo1",
+  "repeatable": false,
+  "missions": [
+    {
+      "id": "canje2_m1_jugar_batallas",
+      "description": "Juega 5 batallas en general",
+      "type": "battles_played",
+      "target": 5
+    },
+    {
+      "id": "canje2_m2_ganar_batallas",
+      "description": "Gana 2 batallas en general",
+      "type": "battles_won",
+      "target": 2
+    },
+    {
+      "id": "canje2_m3_abrir_sobres",
+      "description": "Abre 5 sobres",
+      "type": "open_packs",
+      "target": 5
+    }
+  ]
+},
+{
+  "id": "evo_canje_especial3",
+  "name": "Canje Especial de tu propio OC: Sukui Uzumaki",
+  "type": "featured",
+  "visibleOnly": ["admin"],
+  "cardFrom": "canje",
+  "cardTo": "sukui_uzumaki_evo1",
+  "repeatable": false,
+  "missions": [
+    {
+      "id": "canje3_m1_jugar_batallas",
+      "description": "Juega 5 batallas en general",
+      "type": "battles_played",
+      "target": 5
+    },
+    {
+      "id": "canje3_m2_ganar_batallas",
+      "description": "Gana 2 batallas en general",
+      "type": "battles_won",
+      "target": 2
+    },
+    {
+      "id": "canje3_m3_abrir_sobres",
+      "description": "Abre 5 sobres",
+      "type": "open_packs",
+      "target": 5
+    }
+  ]
+},
+{
+  "id": "evo_canje_especial4",
+  "name": "Canje Especial de tu propio OC: Sekitan",
+  "type": "featured",
+  "visibleOnly": ["admin"],
+  "cardFrom": "canje",
+  "cardTo": "sekitan_evo1",
+  "repeatable": false,
+  "missions": [
+    {
+      "id": "canje4_m1_jugar_batallas",
+      "description": "Juega 5 batallas en general",
+      "type": "battles_played",
+      "target": 5
+    },
+    {
+      "id": "canje4_m2_ganar_batallas",
+      "description": "Gana 2 batallas en general",
+      "type": "battles_won",
+      "target": 2
+    },
+    {
+      "id": "canje4_m3_abrir_sobres",
+      "description": "Abre 5 sobres",
+      "type": "open_packs",
+      "target": 5
+    }
+  ]
+},
+{
+  "id": "evo_canje_especial5",
+  "name": "Canje Especial de tu propio OC: Ken Inazuma",
+  "type": "featured",
+  "visibleOnly": ["admin"],
+  "cardFrom": "canje",
+  "cardTo": "ken_inazuma_evo1",
+  "repeatable": false,
+  "missions": [
+    {
+      "id": "canje5_m1_jugar_batallas",
+      "description": "Juega 5 batallas en general",
+      "type": "battles_played",
+      "target": 5
+    },
+    {
+      "id": "canje5_m2_ganar_batallas",
+      "description": "Gana 2 batallas en general",
+      "type": "battles_won",
+      "target": 2
+    },
+    {
+      "id": "canje5_m3_abrir_sobres",
+      "description": "Abre 5 sobres",
+      "type": "open_packs",
+      "target": 5
+    }
+  ]
+},
+{
+  "id": "evo_canje_especial6",
+  "name": "Canje Especial de tu propio OC: Raiden Fuutaro",
+  "type": "featured",
+  "visibleOnly": ["admin"],
+  "cardFrom": "canje",
+  "cardTo": "raiden_fuutaro_evo1",
+  "repeatable": false,
+  "missions": [
+    {
+      "id": "canje6_m1_jugar_batallas",
+      "description": "Juega 5 batallas en general",
+      "type": "battles_played",
+      "target": 5
+    },
+    {
+      "id": "canje6_m2_ganar_batallas",
+      "description": "Gana 2 batallas en general",
+      "type": "battles_won",
+      "target": 2
+    },
+    {
+      "id": "canje6_m3_abrir_sobres",
+      "description": "Abre 5 sobres",
+      "type": "open_packs",
+      "target": 5
+    }
+  ]
+},
+{
+  "id": "evo_canje_especial7",
+  "name": "Canje Especial de tu propio OC: Taka Uzumaki",
+  "type": "featured",
+  "visibleOnly": ["admin"],
+  "cardFrom": "canje",
+  "cardTo": "taka_uzumaki_evo1",
+  "repeatable": false,
+  "missions": [
+    {
+      "id": "canje7_m1_jugar_batallas",
+      "description": "Juega 5 batallas en general",
+      "type": "battles_played",
+      "target": 5
+    },
+    {
+      "id": "canje7_m2_ganar_batallas",
+      "description": "Gana 2 batallas en general",
+      "type": "battles_won",
+      "target": 2
+    },
+    {
+      "id": "canje7_m3_abrir_sobres",
+      "description": "Abre 5 sobres",
+      "type": "open_packs",
+      "target": 5
+    }
+  ]
+},
+{
+  "id": "evo_canje_especial8",
+  "name": "Canje Especial de tu propio OC: Kenji Ikari",
+  "type": "featured",
+  "visibleOnly": ["admin"],
+  "cardFrom": "canje",
+  "cardTo": "kenji_ikari_evo1",
+  "repeatable": false,
+  "missions": [
+    {
+      "id": "canje8_m1_jugar_batallas",
+      "description": "Juega 5 batallas en general",
+      "type": "battles_played",
+      "target": 5
+    },
+    {
+      "id": "canje8_m2_ganar_batallas",
+      "description": "Gana 2 batallas en general",
+      "type": "battles_won",
+      "target": 2
+    },
+    {
+      "id": "canje8_m3_abrir_sobres",
+      "description": "Abre 5 sobres",
+      "type": "open_packs",
+      "target": 5
+    }
+  ]
+},
+{
+  "id": "evo_canje_especial9",
+  "name": "Canje Especial de tu propio OC: Aya",
+  "type": "featured",
+  "visibleOnly": ["admin"],
+  "cardFrom": "canje",
+  "cardTo": "aya_evo1",
+  "repeatable": false,
+  "missions": [
+    {
+      "id": "canje9_m1_jugar_batallas",
+      "description": "Juega 5 batallas en general",
+      "type": "battles_played",
+      "target": 5
+    },
+    {
+      "id": "canje9_m2_ganar_batallas",
+      "description": "Gana 2 batallas en general",
+      "type": "battles_won",
+      "target": 2
+    },
+    {
+      "id": "canje9_m3_abrir_sobres",
+      "description": "Abre 5 sobres",
+      "type": "open_packs",
+      "target": 5
+    }
+  ]
+},
+{
+  "id": "evo_canje_especial10",
+  "name": "Canje Especial de tu propio OC: Mikori Fukasa",
+  "type": "featured",
+  "visibleOnly": ["admin"],
+  "cardFrom": "canje",
+  "cardTo": "mikori_fukasa_evo1",
+  "repeatable": false,
+  "missions": [
+    {
+      "id": "canje10_m1_jugar_batallas",
+      "description": "Juega 5 batallas en general",
+      "type": "battles_played",
+      "target": 5
+    },
+    {
+      "id": "canje10_m2_ganar_batallas",
+      "description": "Gana 2 batallas en general",
+      "type": "battles_won",
+      "target": 2
+    },
+    {
+      "id": "canje10_m3_abrir_sobres",
+      "description": "Abre 5 sobres",
+      "type": "open_packs",
+      "target": 5
+    }
+  ]
+},
+{
+  "id": "evo_canje_especial11",
+  "name": "Canje Especial de tu propio OC: Azumi Kaguya",
+  "type": "featured",
+  "visibleOnly": ["admin"],
+  "cardFrom": "canje",
+  "cardTo": "azumi_kaguya_evo1",
+  "repeatable": false,
+  "missions": [
+    {
+      "id": "canje11_m1_jugar_batallas",
+      "description": "Juega 5 batallas en general",
+      "type": "battles_played",
+      "target": 5
+    },
+    {
+      "id": "canje11_m2_ganar_batallas",
+      "description": "Gana 2 batallas en general",
+      "type": "battles_won",
+      "target": 2
+    },
+    {
+      "id": "canje11_m3_abrir_sobres",
+      "description": "Abre 5 sobres",
+      "type": "open_packs",
+      "target": 5
+    }
+  ]
+},
+{
+  "id": "evo_canje_especial12",
+  "name": "Canje Especial de tu propio OC: Zagren Senju",
+  "type": "featured",
+  "visibleOnly": ["admin"],
+  "cardFrom": "canje",
+  "cardTo": "zagren_senju_evo1",
+  "repeatable": false,
+  "missions": [
+    {
+      "id": "canje12_m1_jugar_batallas",
+      "description": "Juega 5 batallas en general",
+      "type": "battles_played",
+      "target": 5
+    },
+    {
+      "id": "canje12_m2_ganar_batallas",
+      "description": "Gana 2 batallas en general",
+      "type": "battles_won",
+      "target": 2
+    },
+    {
+      "id": "canje12_m3_abrir_sobres",
+      "description": "Abre 5 sobres",
+      "type": "open_packs",
+      "target": 5
+    }
+  ]
+}
   ]
 }
