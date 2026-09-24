@@ -513,6 +513,164 @@
     ],
     "repeatable": true,
     "cooldown":604800
+  },
+{
+    "id": "abridor_nato",
+    "category": "weekly",
+    "title": "Abridor nato",
+    "description": "Abre 5 sobres de cualquier tipo",
+    "requirement": {
+
+    },
+    "rewards": [
+      {
+        "type": "pack",
+        "packId":"sobre_oro",
+          "amount":1
+      },
+        {
+        "type":"coins",
+          "amount":3000
+
+        }
+
+    ],
+    "repeatable": true,
+    "cooldown":604800
+  },
+  {
+    "id": "retador",
+    "category": "weekly",
+    "title": "Retador",
+    "description": "Juega 25 partidas en cualquier modo",
+    "requirement": {
+
+    },
+    "rewards": [
+      {
+        "type": "pack",
+        "packId":"sobre_oro",
+          "amount":5
+      },
+        {
+        "type":"coins",
+          "amount":15000
+
+        }
+
+    ],
+    "repeatable": true,
+    "cooldown":604800
+  },
+    {
+    "id": "invencible",
+    "category": "weekly",
+    "title": "Invencible",
+    "description": "Gana 250 rondas en cualquier modo",
+    "requirement": {
+
+    },
+    "rewards": [
+      {
+        "type": "pack",
+        "packId":"sobre_83_plus",
+          "amount":2
+      },
+      {
+        "type": "pack",
+        "packId":"sobre_oro",
+          "amount":5
+      },
+        {
+        "type":"coins",
+          "amount":27000
+
+        }
+
+    ],
+    "repeatable": true,
+    "cooldown":604800
+  },
+  {
+    "id": "coleccionista",
+    "category": "weekly",
+    "title": "Coleccionista semanal",
+    "description": "Consigue 25 cartas",
+    "requirement": {
+
+    },
+    "rewards": [
+
+      {
+        "type": "pack",
+        "packId":"sobre_oro",
+          "amount":3
+      },
+        {
+        "type":"coins",
+          "amount":8000
+
+        }
+
+    ],
+    "repeatable": true,
+    "cooldown":604800
+  },
+{
+    "id": "jugador_infinito",
+    "category": "weekly",
+    "title": "Jugador infinito",
+    "description": "Juega 15 niveles del modo infinito (aunque pierdas)",
+    "requirement": {
+
+    },
+    "rewards": [
+
+      {
+        "type": "pack",
+        "packId":"sobre_oro",
+          "amount":2
+      },
+      {
+        "type": "pack",
+        "packId":"sobre_83_plus",
+          "amount":1
+      },
+        {
+        "type":"coins",
+          "amount":10000
+
+        }
+
+    ],
+    "repeatable": true,
+    "cooldown":604800
+  },
+  {
+    "id": "retador_diario",
+    "category": "daily",
+    "title": "Retador diario",
+    "description": "Gana 3 partidas en cualquier modo",
+    "requirement": {
+
+    },
+    "rewards": [
+
+      {
+        "type": "pack",
+        "packId":"sobre_oro",
+          "amount":1
+      },
+
+        {
+        "type":"coins",
+          "amount":3000
+
+        }
+
+    ],
+    "repeatable": true,
+    "cooldown":86400
   }
 
 ]
