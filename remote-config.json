@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.2.1",
-                    "minimumRequired":  "1.2.1",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.2.1.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.2.1.zip",
-                    "changelog":  "Correccion de fallo al abandonar partida y resolucion de sobreescritura de pantalla de resultado",
+                    "current":  "1.2.2",
+                    "minimumRequired":  "1.2.2",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.2.2.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.2.2.zip",
+                    "changelog":  "Correccion de seleccion y separacion de traits, filtros dinamicos en registro y limpieza al reiniciar batallas",
                     "forceUpdate":  true
                 }
 }
