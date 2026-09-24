@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "codes": [
     {
       "code": "DelayCards",
@@ -23,7 +23,7 @@
       },
       "description": "Sentimos la espera, por ello aquí tenéis un código en compensación: 10000 Coins, 1 sobre oro, 5 traits y un canjeo de una evolucion exclusiva propia."
     },
-   {
+    {
       "code": "ElementalArc",
       "active": true,
       "rewardsType": "mixed",
@@ -37,10 +37,10 @@
           {
             "packId": "sobre_bronce",
             "quantity": 3
+          }
         ]
-      
-        },
+      },
       "description": "Bienvenidos al evento de la 1.0: 5 traits, 1 sobre Elemental y 3 sobres bronce."
-    },
+    }
   ]
 }
