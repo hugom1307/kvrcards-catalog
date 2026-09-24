@@ -129,7 +129,6 @@
     "Oro": 80,
     "special": 20
   },
-  "allowedCardIds": ["ronan_hatake", "ken_inazuma", "kurai_tenro", "sukui_uzumaki", "mikori_fukasa", "taka_uzumaki", "sekitan", "raiden_fuutaro"],
     "openingGradient": ["#FDE68A", "#60A5FA", "#1D4ED8"],
   "price": { "coins": 10000, "kvr": 0 }
 }
