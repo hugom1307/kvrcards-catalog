@@ -2,70 +2,45 @@
   "version": 6,
   "codes": [
     {
-      "code": "PRUEBA1",
+      "code": "DelayCards",
       "active": true,
       "rewardsType": "mixed",
       "rewards": {
-        "coins": 5000,
-        "kvr": 100,
+        "coins": 10000,
+        "traits": 5,
         "packs": [
           {
-            "packId": "tu-pack-id-aqui",
-            "quantity": 3
+            "packId": "sobre_oro",
+            "quantity": 1
           }
         ],
         "cards": [
           {
-            "cardId": "tu-carta-id-aqui",
+            "cardId": "canje",
             "quantity": 1
           }
         ]
       },
-      "description": "Mega pack especial - 5000 Coins, 100 KvR, 3 sobres y 1 carta legendaria"
+      "description": "Sentimos la espera, por ello aquí tenéis un código en compensación: 10000 Coins, 1 sobre oro, 5 traits y un canjeo de una evolucion exclusiva propia."
     },
-    {
-      "code": "PRUEBA2",
+   {
+      "code": "ElementalArc",
       "active": true,
       "rewardsType": "mixed",
       "rewards": {
-        "coins": 5000,
-        "kvr": 100,
+        "traits": 5,
         "packs": [
+          {
+            "packId": "sobre_elemental",
+            "quantity": 1
+          },
           {
             "packId": "sobre_bronce",
             "quantity": 3
-          }
-        ],
-        "cards": [
-          {
-            "cardId": "kenji_ikari",
-            "quantity": 1
-          }
         ]
-      },
-      "description": "Prueba 2 - 5000 Coins, 100 KvR, 3 sobres bronce y 1 kenji ikari"
+      
+        },
+      "description": "Bienvenidos al evento de la 1.0: 5 traits, 1 sobre Elemental y 3 sobres bronce."
     },
-    {
-    "code": "SUPPORTER3",
-    "active": true,
-    "singleUse": false,
-    "subscription": true,
-    "rewardsType": "kvr",
-    "rewards": {
-      "kvr": 300
-    },
-    "description": "¡Gracias por la compra! Bendición del Supporter - 300 KvR instantáneos y 30 KvR diarios durante 30 días"
-    },
-    {
-    "code": "SUPPORTER4",
-    "active": true,
-    "singleUse": false,
-    "subscription": true,
-    "rewardsType": "kvr",
-    "rewards": {
-      "kvr": 300
-    },
-    "description": "¡Gracias por la compra! Bendición del Supporter - 300 KvR instantáneos y 30 KvR diarios durante 30 días"
-    }
   ]
 }
