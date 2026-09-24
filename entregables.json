@@ -50,7 +50,8 @@
           }
         ]
       },
-      "repetible": true
+      "repetible": 10,
+      "resetDiario": true
     },
     {
       "id": "mejora_plata",
@@ -102,19 +103,20 @@
           }
         ]
       },
-      "repetible": true
+      "repetible": 10,
+      "resetDiario": true
     },
     {
       "id": "mejora_oro",
       "nombre": "Mejora de Oro",
       "tipo": "permanente",
-      "descripcion": "Entrega 3 cartas de calidad Oro a cambio de 1.500 Coins y 1 Sobre de Oro.",
+      "descripcion": "Entrega 5 cartas de calidad Oro a cambio de 1 Sobre de Oro Jumbo.",
       "imagenes": [
-        "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_oro.png"
+        "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_oro_jumbo.png"
       ],
       "limites": {
-        "minCartas": 3,
-        "maxCartas": 3
+        "minCartas": 5,
+        "maxCartas": 5
       },
       "requisitos": {
         "mediaMinima": null,
@@ -147,30 +149,30 @@
         }
       },
       "recompensas": {
-        "coins": 1500,
         "packs": [
           {
-            "id": "sobre_oro",
+            "id": "sobre_oro_jumbo",
             "cantidad": 1
           }
         ]
       },
-      "repetible": true
+      "repetible": 10,
+      "resetDiario": true
     },
     {
       "id": "mejora_83_plus",
-      "nombre": "Mejora Élite +83",
+      "nombre": "Mejora +83",
       "tipo": "permanente",
-      "descripcion": "Entrega 3 cartas con media mínima de 83 a cambio de 1 Sobre Élite +83.",
+      "descripcion": "Entrega 5 cartas de media 80 o superior a cambio de 1 Sobre +83.",
       "imagenes": [
         "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_83_plus.png"
       ],
       "limites": {
-        "minCartas": 3,
-        "maxCartas": 3
+        "minCartas": 5,
+        "maxCartas": 5
       },
       "requisitos": {
-        "mediaMinima": 83,
+        "mediaMinima": 80,
         "mediaMaxima": null,
         "cartasEspecificas": [],
         "calidades": [],
@@ -205,13 +207,14 @@
           }
         ]
       },
-      "repetible": true
+      "repetible": 1,
+      "resetDiario": true
     },
     {
       "id": "mejora_85_plus",
-      "nombre": "Mejora Élite Oscuro +85",
+      "nombre": "Mejora +85",
       "tipo": "permanente",
-      "descripcion": "Entrega 3 cartas con media mínima de 85 a cambio de 1 Sobre Élite Oscuro +85.",
+      "descripcion": "Entrega 3 cartas de media 85 o superior a cambio de 1 Sobre +85.",
       "imagenes": [
         "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_85_plus.png"
       ],
@@ -255,7 +258,8 @@
           }
         ]
       },
-      "repetible": true
+      "repetible": 1,
+      "resetDiario": true
     },
     {
       "id": "canje_especiales",
@@ -307,7 +311,8 @@
           }
         ]
       },
-      "repetible": true
+      "repetible": 1,
+      "resetDiario": true
     },
     {
       "id": "mejora_alianza_oc",
@@ -361,7 +366,8 @@
           }
         ]
       },
-      "repetible": true
+      "repetible": 3,
+      "resetDiario": true
     },
     {
       "id": "evento_sacrificio_kento",
@@ -473,69 +479,69 @@
       "repetible": 3
     },
     {
-  "id": "evento_tsukiro_cota",
-  "nombre": "Invocación: Tsukiro Card Of The Arc (C.O.T.A)",
-  "tipo": "evento",
-  "descripcion": "Entrega 6 cartas (al menos 4 de calidad Oro, 1 de Jinushi, 2 de Amegakure, 1 de Grejino02 y al menos 1 con media 80+) a cambio de Tsukiro COTA y 15.000 Coins.",
-  "imagenes": [
-    "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/tsukirocota1.png"
-  ],
-  "limites": {
-    "minCartas": 6,
-    "maxCartas": 6
-  },
-  "requisitos": {
-    "mediaMinima": null,
-    "mediaMaxima": null,
-    "minimoCartasConMedia": {
-      "media": 80,
-      "cantidad": 1
-    },
-    "cartasEspecificas": [],
-    "calidades": {
-      "minimo": {
-        "Oro": 4
+      "id": "evento_tsukiro_cota",
+      "nombre": "Invocación: Tsukiro Card Of The Arc (C.O.T.A)",
+      "tipo": "evento",
+      "descripcion": "Entrega 6 cartas (al menos 4 de calidad Oro, 1 de Jinushi, 2 de Amegakure, 1 de Grejino02 y al menos 1 con media 80+) a cambio de Tsukiro COTA y 15.000 Coins.",
+      "imagenes": [
+        "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/tsukirocota1.png"
+      ],
+      "limites": {
+        "minCartas": 6,
+        "maxCartas": 6
       },
-      "maximo": {}
-    },
-    "stats": {
-      "ninjutsuMin": null,
-      "ninjutsuMax": null,
-      "taijutsuMin": null,
-      "taijutsuMax": null,
-      "velocidadMin": null,
-      "velocidadMax": null,
-      "defensaMin": null,
-      "defensaMax": null,
-      "resistenciaMin": null,
-      "resistenciaMax": null,
-      "fisicoMin": null,
-      "fisicoMax": null
-    },
-    "procedencias": {
-      "minimo": {
-        "Jinushi": 1,
-        "Amegakure": 2
+      "requisitos": {
+        "mediaMinima": null,
+        "mediaMaxima": null,
+        "minimoCartasConMedia": {
+          "media": 80,
+          "cantidad": 1
+        },
+        "cartasEspecificas": [],
+        "calidades": {
+          "minimo": {
+            "Oro": 4
+          },
+          "maximo": {}
+        },
+        "stats": {
+          "ninjutsuMin": null,
+          "ninjutsuMax": null,
+          "taijutsuMin": null,
+          "taijutsuMax": null,
+          "velocidadMin": null,
+          "velocidadMax": null,
+          "defensaMin": null,
+          "defensaMax": null,
+          "resistenciaMin": null,
+          "resistenciaMax": null,
+          "fisicoMin": null,
+          "fisicoMax": null
+        },
+        "procedencias": {
+          "minimo": {
+            "Jinushi": 1,
+            "Amegakure": 2
+          },
+          "maximo": {}
+        },
+        "owners": {
+          "minimo": {
+            "Grejino02": 1
+          },
+          "maximo": {}
+        }
       },
-      "maximo": {}
-    },
-    "owners": {
-      "minimo": {
-        "Grejino02": 1
+      "recompensas": {
+        "coins": 15000,
+        "cards": [
+          {
+            "id": "tsukiro_cota1",
+            "cantidad": 1
+          }
+        ]
       },
-      "maximo": {}
+      "repetible": false
     }
-  },
-  "recompensas": {
-    "coins": 15000,
-    "cards": [
-      {
-        "id": "tsukiro_cota1",
-        "cantidad": 1
-      }
-    ]
-  },
-  "repetible": false
-}
   ]
 }
