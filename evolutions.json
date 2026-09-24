@@ -454,6 +454,122 @@
       "target": 5
     }
   ]
-}
+},
+  {
+    "id": "evo_evento_kurai_tenro",
+    "name": "Evolución de Evento: Kurai Tenro",
+    "type": "event",
+    "cardFrom": "kurai_tenro",
+    "cardTo": "kurai_tenro_evoe",
+    "repeatable": false,
+    "missions": [
+      {
+        "id": "kurai_evoe_m1_battles",
+        "description": "Juega 15 partidas con Kurai Tenro en tu equipo",
+        "type": "play_games_with_card",
+        "target": 15
+      },
+      {
+        "id": "kurai_evoe_m2_rounds",
+        "description": "Gana 10 rondas en combate con Kurai Tenro",
+        "type": "rounds_won",
+        "target": 10,
+        "cardRequired": true
+      },
+      {
+        "id": "kurai_evoe_m3_packs",
+        "description": "Abre 20 sobres",
+        "type": "open_packs",
+        "target": 20
+      }
+    ]
+  },
+  {
+    "id": "evo_evento_sekitan",
+    "name": "Evolución de Evento: Sekitan",
+    "type": "event",
+    "cardFrom": "sekitan",
+    "cardTo": "sekitan_evoe",
+    "repeatable": false,
+    "missions": [
+      {
+        "id": "sekitan_evoe_m1_battles",
+        "description": "Juega 15 partidas con Sekitan en tu equipo",
+        "type": "play_games_with_card",
+        "target": 15
+      },
+      {
+        "id": "sekitan_evoe_m2_rounds",
+        "description": "Gana 10 rondas en combate con Sekitan",
+        "type": "rounds_won",
+        "target": 10,
+        "cardRequired": true
+      },
+      {
+        "id": "sekitan_evoe_m3_packs",
+        "description": "Abre 20 sobres",
+        "type": "open_packs",
+        "target": 20
+      }
+    ]
+  },
+  {
+    "id": "evo_evento_taka_uzumaki",
+    "name": "Evolución de Evento: Taka Uzumaki",
+    "type": "event",
+    "cardFrom": "taka_uzumaki",
+    "cardTo": "taka_uzumaki_evoe",
+    "repeatable": false,
+    "missions": [
+      {
+        "id": "taka_evoe_m1_battles",
+        "description": "Juega 15 partidas con Taka Uzumaki en tu equipo",
+        "type": "play_games_with_card",
+        "target": 15
+      },
+      {
+        "id": "taka_evoe_m2_rounds",
+        "description": "Gana 10 rondas en combate con Taka Uzumaki",
+        "type": "rounds_won",
+        "target": 10,
+        "cardRequired": true
+      },
+      {
+        "id": "taka_evoe_m3_packs",
+        "description": "Abre 20 sobres",
+        "type": "open_packs",
+        "target": 20
+      }
+    ]
+  },
+  {
+    "id": "evo_evento_sukui_uzumaki",
+    "name": "Evolución de Evento: Sukui Uzumaki",
+    "type": "event",
+    "cardFrom": "sukui_uzumaki",
+    "cardTo": "sukui_uzumaki_evoe",
+    "repeatable": false,
+    "missions": [
+      {
+        "id": "sukui_evoe_m1_battles",
+        "description": "Juega 15 partidas con Sukui Uzumaki en tu equipo",
+        "type": "play_games_with_card",
+        "target": 15
+      },
+      {
+        "id": "sukui_evoe_m2_rounds",
+        "description": "Gana 10 rondas en combate con Sukui Uzumaki",
+        "type": "rounds_won",
+        "target": 10,
+        "cardRequired": true
+      },
+      {
+        "id": "sukui_evoe_m3_packs",
+        "description": "Abre 20 sobres",
+        "type": "open_packs",
+        "target": 20
+      }
+    ]
+  }
   ]
 }
