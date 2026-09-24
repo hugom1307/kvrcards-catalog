@@ -29,10 +29,6 @@
       {
         "type": "coins",
         "amount": 5000
-      },
-      {
-        "type": "background",
-        "backgroundId": "fondo_ciberpunk"
       }
     ],
     "repeatable": false
