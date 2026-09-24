@@ -92,6 +92,7 @@
     "maskImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/calidades/exclusive.png",
     "sparkColor": "#b22222",
     "tradeable": true,
+    "packable": false,
     "valor": 10000,
     "order": 9
   },
