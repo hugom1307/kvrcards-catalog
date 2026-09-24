@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.2.3",
-                    "minimumRequired":  "1.2.3",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.2.3.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.2.3.zip",
-                    "changelog":  "Nuevos botones ilustrados de modos de juego, dificultades offline y revancha, y aumento de recompensa base a 250 monedas",
+                    "current":  "1.2.4",
+                    "minimumRequired":  "1.2.4",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.2.4.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.2.4.zip",
+                    "changelog":  "Fix selector y separacion de traits, retorno al menu en batallas de evento y sincronizacion general",
                     "forceUpdate":  true
                 }
 }
