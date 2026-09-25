@@ -110,13 +110,13 @@
       "id": "mejora_oro",
       "nombre": "Mejora de Oro",
       "tipo": "permanente",
-      "descripcion": "Entrega 5 cartas de calidad Oro a cambio de 1 Sobre de Oro Jumbo.",
+      "descripcion": "Entrega 3 cartas de calidad Oro a cambio de 1 Sobre de Oro.",
       "imagenes": [
-        "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_oro_jumbo.png"
+        "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_oro.png"
       ],
       "limites": {
-        "minCartas": 5,
-        "maxCartas": 5
+        "minCartas": 3,
+        "maxCartas": 3
       },
       "requisitos": {
         "mediaMinima": null,
@@ -151,7 +151,7 @@
       "recompensas": {
         "packs": [
           {
-            "id": "sobre_oro_jumbo",
+            "id": "sobre_oro",
             "cantidad": 1
           }
         ]
