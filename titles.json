@@ -342,6 +342,13 @@
     "description": "Has unido a todos los hermanos importantes del rol",
     "gradient":"linear-gradient(to left, #381DCF 0%, #05C1FF 50%, #CF2219 100%)",
     "unlockDescription":"Completa el Kizuna 'Hermandad absoluta'"
+  },
+ {
+    "id": "alta_esfera",
+    "name": "Alta Esfera",
+    "description": "<<Kylian Dictador 🫡>>",
+    "gradient":"linear-gradient(to bottom, #8A2387 0%, #E94057 60%, #F27121 100%)",
+    "unlockDescription":"Asciende al plano superior de alta esfera a base de corrupción"
   }
 
 ]
