@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.2.5",
-                    "minimumRequired":  "1.2.5",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.2.5.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.2.5.zip",
-                    "changelog":  "Anti-exploit stats en batalla, bloqueo DevTools e inspeccionar para no-admins, eliminacion barra superior de menu",
+                    "current":  "1.0.0",
+                    "minimumRequired":  "1.0.0",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.0.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.0.zip",
+                    "changelog":  "Lanzamiento oficial KVRCards v1.0",
                     "forceUpdate":  true
                 }
 }
