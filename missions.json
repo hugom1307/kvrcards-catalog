@@ -649,5 +649,467 @@
       }
     ],
     "repeatable": true
+  },
+  
+  {
+    "id": "bronze_1",
+    "category": "fundamentals",
+    "title": "Maestro de bronze 1",
+    "description": "Abre 5 sobres de bronze",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Bronce",
+      "amount": 5
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 1000
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "bronze_2",
+    "category": "fundamentals",
+    "title": "Maestro de bronze 2",
+    "description": "Abre 10 sobres de bronze",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Bronce",
+      "amount": 10
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 2500
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 2
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "bronze_3",
+    "category": "fundamentals",
+    "title": "Maestro de bronze 3",
+    "description": "Abre 20 sobres de bronze",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Bronce",
+      "amount": 20
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 6000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 1
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "bronze_4",
+    "category": "fundamentals",
+    "title": "Maestro de bronze 4",
+    "description": "Abre 50 sobres de bronze",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Bronce",
+      "amount": 50
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 15000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 4
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 2
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "bronze_5",
+    "category": "fundamentals",
+    "title": "Maestro de bronze 5",
+    "description": "Abre 100 sobres de bronze",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Bronce",
+      "amount": 100
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 25000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 8
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 5
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount": 2
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "plata_1",
+    "category": "fundamentals",
+    "title": "Maestro de plata 1",
+    "description": "Abre 5 sobres de plata",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Plata",
+      "amount": 5
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 4000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 2
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "plata_2",
+    "category": "fundamentals",
+    "title": "Maestro de plata 2",
+    "description": "Abre 10 sobres de plata",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Plata",
+      "amount": 10
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 8200
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 1
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "plata_3",
+    "category": "fundamentals",
+    "title": "Maestro de plata 3",
+    "description": "Abre 20 sobres de plata",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Plata",
+      "amount": 20
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 12000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 4
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 2
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "plata_4",
+    "category": "fundamentals",
+    "title": "Maestro de plata 4",
+    "description": "Abre 50 sobres de plata",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Plata",
+      "amount": 50
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 20000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 8
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 4
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount": 1
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "plata_5",
+    "category": "fundamentals",
+    "title": "Maestro de plata 5",
+    "description": "Abre 100 sobres de plata",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Plata",
+      "amount": 100
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 40000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 15
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 8
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount": 2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount": 1
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "oro_1",
+    "category": "fundamentals",
+    "title": "Maestro de oro 1",
+    "description": "Abre 5 sobres de oro",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Oro",
+      "amount": 5
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 7500
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 4
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 1
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "oro_2",
+    "category": "fundamentals",
+    "title": "Maestro de oro 2",
+    "description": "Abre 10 sobres de oro",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Oro",
+      "amount": 10
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 17500
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_bronce",
+        "amount": 15
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 10
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 3
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "oro_3",
+    "category": "fundamentals",
+    "title": "Maestro de oro 3",
+    "description": "Abre 20 sobres de oro",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Oro",
+      "amount": 20
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 35000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_bronce",
+        "amount": 25
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 20
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 8
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount": 1
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "oro_4",
+    "category": "fundamentals",
+    "title": "Maestro de oro 4",
+    "description": "Abre 50 sobres de oro",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Oro",
+      "amount": 50
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 55500
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_bronce",
+        "amount": 35
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 25
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 15
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount": 3
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "oro_5",
+    "category": "fundamentals",
+    "title": "Maestro de oro 5",
+    "description": "Abre 100 sobres de oro",
+    "requirement": {
+      "type": "cards_by_quality",
+      "quality": "Oro",
+      "amount": 100
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 85000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_bronce",
+        "amount": 60
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 40
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 25
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount": 5
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount": 2
+      }
+    ],
+    "repeatable": false
   }
+
 ]
