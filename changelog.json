@@ -1,93 +1,61 @@
 {
   "updates": [
     {
-      "version": "1.0.2",
-      "title": "Expansión de Contenido",
-      "description": "Gran actualización con nuevas cartas legendarias, poderes especiales y el nuevo sobre 'Leyendas del Reino'. ¡Descúbrelas todas!",
-      "date": "2026-02-15",
+      "version": "1.0",
+      "title": "Salida Oficial - Evento Arco Elemental",
+      "description": "Bienvenidos a la salida oficial del juego! Códigos DELAYCARDS y ELEMENTALARC para obtener recompensas iniciales. Añadida calidad C.O.T.A (Card of The Arc) disponibles en los sobres del nuevo evento.",
+      "date": "2026-09-26",
       
       "cardsAdded": [
         {
-          "id": "ronan_hatake",
+          "id": "mamoru_cota1",
+          "name": "Mamoru",
+          "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/mamorucota1.png"
+        },
+        {
+          "id": "touma_cota1",
+          "name": "Touma Ozoku",
+          "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/toumacota1.png"
+        },
+        {
+          "id": "dankha_sagi_cota1",
+          "name": "Dankha Sagi",
+          "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/dankhacota1.png"
+        },
+        {
+          "id": "ronan_hatake_cota1",
           "name": "Ronan Hatake",
-          "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ronan.png"
+          "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ronancota1.png"
         },
         {
-          "id": "mago_oscuro",
-          "name": "Mago Oscuro",
-          "imageUrl": "./assets/mago_oscuro.png"
+          "id": "einar_rideryon_cota1",
+          "name": "Einar Rideryon",
+          "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/einarcota1.png"
         },
         {
-          "id": "guerrero_luz",
-          "name": "Guerrero de Luz",
-          "imageUrl": "./assets/guerrero_luz.png"
-        }
-      ],
-      
-      "powersAdded": [
-        {
-          "id": "lluvia_meteoros",
-          "name": "Lluvia de Meteoros",
-          "imageUrl": "./assets/lluvia_meteoros.png"
+          "id": "raiden_fuutaro_tsukiro_cota1",
+          "name": "Tsukiro",
+          "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/tsukirocota1.png"
         },
         {
-          "id": "escudo_divino",
-          "name": "Escudo Divino",
-          "imageUrl": "./assets/escudo_divino.png"
-        }
-      ],
-      
-      "traitsAdded": [
+          "id": "vivar_cota1",
+          "name": "Vivar",
+          "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/vivarcota1.png"
+        },
         {
-          "id": "legendario",
-          "name": "Legendario",
-          "imageUrl": "./assets/traits/legendario.png"
+          "id": "toshiro_nami_cota1",
+          "name": "Toshiro Nami",
+          "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/toshirocota1.png"
         }
       ],
-      
+     
       "packsAdded": [
         {
-          "id": "pack_leyendas",
-          "name": "Leyendas del Reino",
-          "imageUrl": "./assets/packs/pack_leyendas.png"
+          "id": "sobre_elemental",
+          "name": "Sobre Elemental",
+          "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_elemental.png"
         }
       ]
-    },
-    
-    {
-      "version": "1.0.1",
-      "title": "Primera Actualización",
-      "description": "Mejoras en el sistema de batalla y corrección de errores menores. Añadidas 5 nuevas cartas al juego.",
-      "date": "2026-01-30",
-      
-      "cardsAdded": [
-        "caballero_negro",
-        "arquera_elfica",
-        "golem_piedra",
-        "hechicera_hielo",
-        "ladron_sombras"
-      ],
-      
-      "powersAdded": [
-        "flecha_multiple",
-        "terremoto"
-      ],
-      
-      "traitsAdded": [],
-      
-      "packsAdded": []
-    },
-    
-    {
-      "version": "1.0.0",
-      "title": "Lanzamiento Inicial",
-      "description": "¡Bienvenido a KVRCards! El juego de cartas definitivo ha llegado. Colecciona cartas, crea mazos y desafía a otros jugadores en emocionantes batallas.",
-      "date": "2026-01-15",
-      
-      "cardsAdded": [],
-      "powersAdded": [],
-      "traitsAdded": [],
-      "packsAdded": []
     }
   ]
 }
