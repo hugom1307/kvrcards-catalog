@@ -3528,5 +3528,45 @@
     "calidad": "plata",
     "procedencia": "Jinushi",
     "owner": "Adrianpepo"
+  },
+  {
+    "id": "shiori_hino",
+    "name": "Shiori Hino",
+    "stats": [73,70,64,65,66,75],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/shiorihino.png",
+    "media": 70,
+    "calidad": "plata",
+    "procedencia": "Jinushi",
+    "owner": "Nataliaa15"
+  },
+  {
+    "id": "zilya_chin",
+    "name": "Zilya Chin",
+    "stats": [58,62,60,62,65,60],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/zilyachin.png",
+    "media": 63,
+    "calidad": "bronce",
+    "procedencia": "Jinushi",
+    "owner": "Nataliaa15"
+  },
+  {
+    "id": "yulia_kim",
+    "name": "Yulia Kim",
+    "stats": [60,65,62,65,62,63],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/yuliakim.png",
+    "media": 64,
+    "calidad": "bronce",
+    "procedencia": "Jinushi",
+    "owner": "Nataliaa15"
+  },
+  {
+    "id": "ren_hokori",
+    "name": "Ren Hokori",
+    "stats": [77,75,68,68,72,73],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/renhokori.png",
+    "media": 73,
+    "calidad": "plata",
+    "procedencia": "Jinushi",
+    "owner": "Nataliaa15"
   }
 ]
