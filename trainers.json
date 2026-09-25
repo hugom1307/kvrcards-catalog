@@ -187,7 +187,7 @@
     "nombre": "Haseo Otsutsuki",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/haseo.png",
     "dificultades": ["inmo"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/assets/backgrounds/fondohaseo.png",
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondohaseo.png",
     "intervaloMedias": [90]
   },
   {
@@ -195,7 +195,7 @@
     "nombre": "Senrigan",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/senrigan.png",
     "dificultades": ["inmo"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/assets/backgrounds/fondosenrigan.png",
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondosenrigan.png",
     "intervaloMedias": [91]
   },
   {
@@ -203,7 +203,7 @@
     "nombre": "Konran",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/konran.png",
     "dificultades": ["inmo"],
-    "fondo": "https://hugom1307.github.io/kvrcards-catalog/assets/backgrounds/fondokonran.png",
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondokonran.png",
     "intervaloMedias": [91]
   },
    {
