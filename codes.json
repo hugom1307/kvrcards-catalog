@@ -1,8 +1,8 @@
 {
-  "version": 7,
+  "version": 8,
   "codes": [
     {
-      "code": "DelayCards",
+      "code": "DELAYCARDS",
       "active": true,
       "rewardsType": "mixed",
       "rewards": {
@@ -24,7 +24,7 @@
       "description": "Sentimos la espera, por ello aquí tenéis un código en compensación: 10000 Coins, 1 sobre oro, 5 traits y un canjeo de una evolucion exclusiva propia."
     },
     {
-      "code": "ElementalArc",
+      "code": "ELEMENTALARC",
       "active": true,
       "rewardsType": "mixed",
       "rewards": {
