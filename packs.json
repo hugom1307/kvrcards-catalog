@@ -130,6 +130,7 @@
   "name": "Sobre Especial Ninja",
   "cardsPerPack": 1,
   "strategy": "qualityMedia",
+  "minMedia": 85,
   "qualityWeights": {
    "special": 100
   },
