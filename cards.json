@@ -3568,5 +3568,15 @@
     "calidad": "plata",
     "procedencia": "Jinushi",
     "owner": "Nataliaa15"
+  },
+   {
+    "id": "vivar_cota1",
+    "name": "Vivar",
+    "stats": [80,80,77,82,78,83],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/vivarevo1.png",
+    "media": 80,
+    "calidad": "cota",
+    "procedencia": "Sunagakure",
+    "owner": "Manuel2767"
   }
 ]
