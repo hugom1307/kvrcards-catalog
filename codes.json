@@ -136,6 +136,18 @@
     
   },
   "description": "título giveado por el error previo"
+},
+    {
+  "code": "TITULOS_JOSE",
+  "active": true,
+  "singleUse": true,
+  "rewardsType": "mixed",
+  "rewards": {
+       "titles": ["coleccionista", "adinerado", "abridor", "oro_puro"]
+    
+    
+  },
+  "description": "títulos giveados por bug"
 }
   ]
 }
