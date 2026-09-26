@@ -18,7 +18,7 @@
                     "minimumRequired":  "1.0.0",
                     "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.0.zip",
                     "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.0.zip",
-                    "changelog":  "Fix: actualizacion instantanea de saldos y recompensas de misiones",
+                    "changelog":  "Fix: aislamiento de Kizunas por cuenta",
                     "forceUpdate":  true
                 }
 }
