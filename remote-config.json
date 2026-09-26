@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.0.2",
-                    "minimumRequired":  "1.0.2",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.2.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.2.zip",
-                    "changelog":  "v1.0.2: Mejoras en IA de Modo Infinito y sincronizacion de cuenta",
+                    "current":  "1.0.3",
+                    "minimumRequired":  "1.0.3",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.3.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.3.zip",
+                    "changelog":  "v1.0.3: Reseteo local total automatico al reiniciar cuenta en la nube",
                     "forceUpdate":  true
                 }
 }
