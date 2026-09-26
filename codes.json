@@ -45,7 +45,7 @@
     {
   "code": "BENDICION_JUANJO",
   "active": true,
-  "singleUse": true
+  "singleUse": true,
   "supporterBlessing": true,
   "rewardsType": "mixed",
   "rewards": {
@@ -56,7 +56,7 @@
     {
   "code": "GIVEAWAYS_VETO",
   "active": true,
-  "singleUse": true
+  "singleUse": true,
   "rewardsType": "mixed",
   "rewards": {
     "packs": [
@@ -69,7 +69,7 @@
     {
   "code": "OFERTA_BIENVENIDA_JUANJO",
   "active": true,
-  "singleUse": true
+  "singleUse": true,
   "rewardsType": "mixed",
   "rewards": {
     "packs": [
