@@ -310,6 +310,7 @@
     }
   ]
 },
+    
 {
   "id": "evo_canje_especial8",
   "name": "Canje Especial de tu propio OC: Kenji Ikari",
@@ -449,6 +450,35 @@
     },
     {
       "id": "canje12_m3_abrir_sobres",
+      "description": "Abre 5 sobres",
+      "type": "open_packs",
+      "target": 5
+    }
+  ]
+},
+    {
+  "id": "evo_canje_especial13",
+  "name": "Canje Especial de tu propio OC: Vivar",
+  "type": "featured",
+  "visibleOnly": ["Manuel2767"],
+  "cardFrom": "canje",
+  "cardTo": "vivar_evo1",
+  "repeatable": false,
+  "missions": [
+    {
+      "id": "canje7_m1_jugar_batallas",
+      "description": "Juega 5 batallas en general",
+      "type": "battles_played",
+      "target": 5
+    },
+    {
+      "id": "canje7_m2_ganar_batallas",
+      "description": "Gana 2 batallas en general",
+      "type": "battles_won",
+      "target": 2
+    },
+    {
+      "id": "canje7_m3_abrir_sobres",
       "description": "Abre 5 sobres",
       "type": "open_packs",
       "target": 5
