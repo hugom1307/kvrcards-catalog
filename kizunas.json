@@ -16,6 +16,16 @@
         "titleId": "esperanza_desesperacion"
       },
       {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount":1
+      },
+      {
       "type": "buff",
       "name": "Luz y oscuridad",
       "description": "Aumenta un 3% Ninjutsu y 4% Taijutsu a los miembros del Kizuna",
@@ -40,7 +50,18 @@
       },
       {
         "type": "pack",
-        "packId": "sobre_bronce"
+        "packId": "sobre_bronce",
+        "amount":3
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":1
       },
       {
       "type": "buff",
@@ -76,6 +97,16 @@
         "amount":2
       },
       {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":1
+      },
+      {
         "type":"title",
         "titleId":"poderes_kizoku"
     }
@@ -101,6 +132,15 @@
         "type": "pack",
         "packId": "sobre_oc",
         "amount":2
+      },{
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":1
       },
       {
         "type":"title",
@@ -132,7 +172,7 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":3
+        "amount":5
       },
       {
         "type": "pack",
@@ -170,12 +210,22 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":3
+        "amount":8
       },
       {
         "type": "pack",
         "packId": "sobre_plata",
-        "amount":5
+        "amount":9
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":1
       },
       {
         "type":"title",
@@ -209,12 +259,22 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":1
+        "amount":3
       },
       {
         "type": "pack",
         "packId": "sobre_bronce",
         "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount":4
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":1
       },
       {
         "type":"title",
@@ -246,6 +306,11 @@
       {
         "type": "pack",
         "packId": "sobre_plata",
+        "amount":3
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
         "amount":1
       },
       {
@@ -274,11 +339,16 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":1
+        "amount":4
       },
       {
         "type": "pack",
         "packId": "sobre_plata",
+        "amount":7
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
         "amount":2
       },
       {
@@ -301,7 +371,7 @@
 
    {
     "id": "duo_diabolico",
-    "title": "Duo Diabólico",
+    "title": "Dúo Diabólico",
     "group":"DAM",
     "description": "Cuando este duo se junta, el caos y la diversión están asegurados.",
     "cardIds": ["jenue_bogai","mamoru"],
@@ -313,7 +383,12 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":1
+        "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount":2
       },
       {
       "type": "buff",
@@ -345,6 +420,11 @@
         "packId": "sobre_plata",
         "amount":1
       },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":2
+      },
       {"type":"title",
     "titleId":"maya"},
       {
@@ -368,8 +448,14 @@
       {
         "type": "pack",
         "packId": "sobre_plata",
+        "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
         "amount":1
       }
+      
     ]
   },
 
@@ -387,12 +473,12 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":1
+        "amount":2
       },
       {
         "type": "pack",
         "packId": "sobre_plata",
-        "amount":1
+        "amount":4
       },
       {"type":"title",
     "titleId":"soldado"},
@@ -418,7 +504,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 20000
+        "amount": 25000
       },
       {"type":"title",
     "titleId":"plata"},
@@ -449,6 +535,16 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
+        "amount":5
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
         "amount":2
       },
       {"type":"title",
@@ -480,11 +576,16 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":1
+        "amount":4
       },
        {
         "type": "pack",
         "packId": "sobre_plata",
+        "amount":7
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
         "amount":1
       }
     ]
@@ -503,7 +604,17 @@
        {
         "type": "pack",
         "packId": "sobre_plata",
+        "amount":5
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_bronce",
         "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":3
       },
       {
       "type": "buff",
@@ -576,12 +687,17 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":2
+        "amount":7
       },
        {
         "type": "pack",
         "packId": "sobre_plata",
         "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":1
       },
       {
         "type": "title",
@@ -614,12 +730,12 @@
       {
         "type": "pack",
         "packId": "sobre_bronce",
-        "amount":1
+        "amount":4
       },
        {
         "type": "pack",
         "packId": "sobre_plata",
-        "amount":1
+        "amount":3
       },
       {
         "type": "title",
@@ -652,6 +768,11 @@
        {
         "type": "pack",
         "packId": "sobre_oro",
+        "amount":5
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_85_plus",
         "amount":1
       }
     ]
@@ -670,6 +791,11 @@
        {
         "type": "pack",
         "packId": "sobre_oro",
+        "amount":5
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
         "amount":1
       },
        {
@@ -703,6 +829,11 @@
        {
         "type": "pack",
         "packId": "sobre_bronce",
+        "amount":4
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
         "amount":1
       }
     ]
@@ -721,7 +852,7 @@
        {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":1
+        "amount":4
       },
        {
         "type": "pack",
@@ -744,6 +875,11 @@
        {
         "type": "pack",
         "packId": "sobre_plata",
+        "amount":3
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
         "amount":2
       }
     ]
@@ -762,6 +898,11 @@
        {
         "type": "pack",
         "packId": "sobre_oro",
+        "amount":4
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
         "amount":1
       },
       {"type":"title",
@@ -864,6 +1005,11 @@
         "titleId":"hokage"
       },
       {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":1
+      },
+      {
       "type": "buff",
       "name": "Poder de la Hoja",
       "description": "Aumenta un 5% Fisico y 5% Defensa a los miembros del Kizuna",
@@ -926,7 +1072,7 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":2
+        "amount":5
       },
       {
         "type":"title",
@@ -964,7 +1110,7 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":1
+        "amount":3
       },
       {
       "type": "buff",
@@ -998,11 +1144,16 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":4
+        "amount":5
       },
       {
         "type":"title",
         "titleId":"ryuga"
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":2
       },
       {
       "type": "buff",
@@ -1031,7 +1182,12 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":2
+        "amount":3
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount":3
       },
       {
         "type":"title",
@@ -1055,6 +1211,11 @@
         "type": "pack",
         "packId": "sobre_oro",
         "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_bronce",
+        "amount":3
       }
       
     ]
@@ -1084,7 +1245,7 @@
        {
         "type": "pack",
         "packId": "sobre_83_plus",
-        "amount":2
+        "amount":3
       },
       {
         "type":"title",
@@ -1109,6 +1270,11 @@
         "type": "pack",
         "packId": "sobre_oro",
         "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_bronce",
+        "amount":3
       }
       
     ]
@@ -1128,12 +1294,17 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":3
+        "amount":5
       },
        {
         "type": "pack",
         "packId": "sobre_83_plus",
         "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":1
       },
       {
         "type":"title",
@@ -1155,13 +1326,13 @@
       },
        {
         "type": "pack",
-        "packId": "sobre_85_plus",
+        "packId": "sobre_83_plus",
         "amount":1
       },
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":2
+        "amount":6
       },
       {
       "type": "buff",
@@ -1255,12 +1426,12 @@
        {
         "type": "pack",
         "packId": "sobre_85_plus",
-        "amount":2
+        "amount":1
       },
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":1
+        "amount":3
       },
       {
       "type": "buff",
@@ -1289,12 +1460,12 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":1
+        "amount":4
       },
        {
         "type": "pack",
         "packId": "sobre_plata",
-        "amount":2
+        "amount":5
       },
        {
         "type": "pack",
@@ -1319,12 +1490,17 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount":2
+        "amount":3
       },
        {
         "type": "pack",
         "packId": "sobre_plata",
-        "amount":2
+        "amount":4
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_bronce",
+        "amount":4
       }
       
     ]
