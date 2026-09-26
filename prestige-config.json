@@ -3,8 +3,8 @@
     "cardId": "default",
     "name": "Configuración General (Para todas las cartas estándar)",
     "xpRules": {
-      "battlePlayed": 20,
-      "battleWinBonus": 10,
+      "battlePlayed": 30,
+      "battleWinBonus": 20,
       "duplicateFromPackOrTrade": 500
     },
     "levels": [
