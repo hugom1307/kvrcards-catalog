@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.0.6",
-                    "minimumRequired":  "1.0.6",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.6.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.6.zip",
-                    "changelog":  "v1.0.6: Modo infinito - Preservar recompensas de hitos reclamados y record maximo en ranking tras reiniciar run",
+                    "current":  "1.0.7",
+                    "minimumRequired":  "1.0.7",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.7.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.7.zip",
+                    "changelog":  "v1.0.7: Correccion de titulos, bendicion strictly false y sincronizacion de deducciones administrativas",
                     "forceUpdate":  true
                 }
 }
