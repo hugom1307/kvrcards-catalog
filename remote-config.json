@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.0.9",
-                    "minimumRequired":  "1.0.9",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.9.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.9.zip",
-                    "changelog":  "v1.0.9: Soporte para entrega y deduccion administrativa de cartas desde la web",
+                    "current":  "1.0.10",
+                    "minimumRequired":  "1.0.10",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.10.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.10.zip",
+                    "changelog":  "v1.0.10: Correccion critica de seleccion de stat tras usar ANULO en batallas online",
                     "forceUpdate":  true
                 }
 }
