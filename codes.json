@@ -125,6 +125,17 @@
     
   },
   "description": "OFERTA DE BIENVENIDA! 300 KVR + TÍTULO EXCLUSIVO + SOBRE EXCLUSIVO"
+},
+     {
+  "code": "TITULO_KNIGHTSUPPORTER",
+  "active": true,
+  "rewardsType": "mixed",
+  "rewards": {
+       "titles": ["knight_supporter"]
+    
+    
+  },
+  "description": "título giveado por el error previo"
 }
   ]
 }
