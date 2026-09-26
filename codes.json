@@ -41,6 +41,45 @@
         ]
       },
       "description": "Bienvenidos al evento de la 1.0: 5 traits, 1 sobre Elemental y 3 sobres bronce."
-    }
+    },
+    {
+  "code": "BENDICION_JUANJO",
+  "active": true,
+  "singleUse": true
+  "supporterBlessing": true,
+  "rewardsType": "mixed",
+  "rewards": {
+    "kvr": 300
+  },
+  "description": "Bendición del Supporter: 300 KvR instantáneos + 30 días de recompensas diarias."
+},
+    {
+  "code": "GIVEAWAYS_VETO",
+  "active": true,
+  "singleUse": true
+  "rewardsType": "mixed",
+  "rewards": {
+    "packs": [
+      { "packId": "sobre_83_plus", "quantity": 1 },
+      { "packId": "sobre_elemental", "quantity": 1 }
+    ]
+  },
+  "description": "1 Sobre +83 + 1 Sobre Elemental"
+},
+    {
+  "code": "OFERTA_BIENVENIDA_JUANJO",
+  "active": true,
+  "singleUse": true
+  "rewardsType": "mixed",
+  "rewards": {
+    "packs": [
+      { "packId": "sobre_supporter", "quantity": 1 } ],
+    "kvr": 300,
+       "titles": ["knight_supporter"]
+    
+    ]
+  },
+  "description": "OFERTA DE BIENVENIDA! 300 KVR + TÍTULO EXCLUSIVO + SOBRE EXCLUSIVO"
+}
   ]
 }
