@@ -127,7 +127,7 @@
   "description": "OFERTA DE BIENVENIDA! 300 KVR + TÍTULO EXCLUSIVO + SOBRE EXCLUSIVO"
 },
      {
-  "code": "TITULO_KNIGHTSUPPORTER",
+  "code": "TITULO_KNIGHTSUPPORTER_FIXED",
   "active": true,
   "rewardsType": "mixed",
   "rewards": {
