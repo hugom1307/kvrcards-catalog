@@ -85,7 +85,7 @@
   "minMedia": 83,
   "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_83_plus.png",
   "openingGradient": ["#2563EB", "#F59E0B", "#FEF08A"],
-  "price": { "coins": 25000, "kvr": 50 }
+  "price": { "coins": 25000, "kvr": 70 }
 },
 {
   "id": "sobre_85_plus",
@@ -94,7 +94,7 @@
   "minMedia": 85,
   "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_85_plus.png",
   "openingGradient": ["#312E81", "#7C3AED", "#DC2626"],
-  "price": { "coins": 50000, "kvr": 80 }
+  "price": { "coins": 50000, "kvr": 110 }
 },
 {
   "id": "sobre_legendario",
@@ -103,7 +103,7 @@
   "minMedia": 86,
   "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_legendario.png",
   "openingGradient": ["#FFFBEB", "#F59E0B", "#D97706"],
-  "price": { "coins": 100000, "kvr": 190 }
+  "price": { "coins": 100000, "kvr": 310 }
 },
 {
   "id": "sobre_especial",
@@ -115,7 +115,7 @@
   },
   "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_especial.png",
   "openingGradient": ["#18181B", "#F59E0B", "#FDE047"],
-  "price": { "coins": 75000, "kvr": 150 }
+  "price": { "coins": 75000, "kvr": 190 }
 },
 {
   "id": "sobre_elemental",
