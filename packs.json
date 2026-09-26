@@ -38,12 +38,12 @@
   },
   { "id": "sobre_mix_limitado",
     
-    "name": "Sobre Mix limitado", "cardsPerPack": 1, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_oro.png", "strategy": "qualityMedia",
+    "name": "Sobre Mix limitado", "cardsPerPack": 3, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_oro.png", "strategy": "qualityMedia",
     "qualityWeights": {
     "Bronce": 30,
     "Plata": 30,
     "Oro": 30,
-    "Icono": 10
+    "special":10
     },
     "openingGradient": ["#FFF4B5", "#FDE68A", "#FACC15"],
     "price": { "coins": 5000, "kvr": 10 }
