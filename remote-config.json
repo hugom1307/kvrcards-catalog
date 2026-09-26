@@ -18,7 +18,7 @@
                     "minimumRequired":  "1.0.3",
                     "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.3.zip",
                     "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.3.zip",
-                    "changelog":  "v1.0.3: Reseteo local total automatico al reiniciar cuenta en la nube",
+                    "changelog":  "v1.0.3: Reseteo local total automatico y unico al reiniciar cuenta en la nube",
                     "forceUpdate":  true
                 }
 }
