@@ -1117,24 +1117,29 @@
     "description": "Consigue a los 5 elementales actuales",
     "requirement": [
       {
-        "type": "unique_cards",
-        "cardId": "taka_uzumaki"
+        "type": "own_card",
+        "cardId": "taka_uzumaki",
+        "amount":1
       },
       {
-        "type": "unique_cards",
-        "cardId": "sekitan"
+        "type": "own_card",
+        "cardId": "sekitan",
+        "amount":1
       },
       {
-        "type": "unique_cards",
-        "cardId": "sukui_uzumaki"
+        "type": "own_card",
+        "cardId": "sukui_uzumaki",
+        "amount":1
       },
       {
-        "type": "unique_cards",
-        "cardId": "kurai_tenro"
+        "type": "own_card",
+        "cardId": "kurai_tenro",
+        "amount":1
       },
       {
-        "type": "unique_cards",
-        "cardId": "dekiru_mizu"
+        "type": "own_card",
+        "cardId": "dekiru_mizu",
+        "amount":1
       }
     ],
     "rewards": [
@@ -1172,20 +1177,24 @@
     "description": "Consigue a los 4 nuevos elementales",
     "requirement": [
       {
-        "type": "unique_cards",
-        "cardId": "taka_uzumaki"
+        "type": "own_card",
+        "cardId": "taka_uzumaki",
+        "amount":1
       },
       {
-        "type": "unique_cards",
-        "cardId": "sekitan"
+        "type": "own_card",
+        "cardId": "sekitan",
+        "amount":1
       },
       {
-        "type": "unique_cards",
-        "cardId": "sukui_uzumaki"
+        "type": "own_card",
+        "cardId": "sukui_uzumaki",
+        "amount":1
       },
       {
-        "type": "unique_cards",
-        "cardId": "kurai_tenro"
+        "type": "own_card",
+        "cardId": "kurai_tenro",
+        "amount":1
       }
     ],
     "rewards": [
