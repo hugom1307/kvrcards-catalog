@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.0.16",
-                    "minimumRequired":  "1.0.16",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.16.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.16.zip",
-                    "changelog":  "Nerf probabilidades mejora gambling sobre legendario",
+                    "current":  "1.0.17",
+                    "minimumRequired":  "1.0.17",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.17.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.17.zip",
+                    "changelog":  "Fix recompensas batallas offline normales y separacion estricta de monedas de modo infinito",
                     "forceUpdate":  true
                 }
 }
