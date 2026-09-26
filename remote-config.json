@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.0.0",
-                    "minimumRequired":  "1.0.0",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.0.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.0.zip",
-                    "changelog":  "Fix: aislamiento de Kizunas por cuenta",
+                    "current":  "1.0.1",
+                    "minimumRequired":  "1.0.1",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.1.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.1.zip",
+                    "changelog":  "Fix: conteo de partidas en evoluciones y misiones online, y correccion de entregables",
                     "forceUpdate":  true
                 }
 }
