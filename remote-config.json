@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.0.13",
-                    "minimumRequired":  "1.0.13",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.13.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.13.zip",
-                    "changelog":  "v1.0.13: Correccion inicio de batallas offline y online (startBattle)",
+                    "current":  "1.0.14",
+                    "minimumRequired":  "1.0.14",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.14.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.14.zip",
+                    "changelog":  "Soporte para entrega y sincronizacion de rasgos y traits de inventario",
                     "forceUpdate":  true
                 }
 }
