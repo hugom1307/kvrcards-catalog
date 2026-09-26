@@ -16,8 +16,8 @@
     
     "name": "Sobre Plata", "cardsPerPack": 1, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_plata.png", "strategy": "qualityMedia",
     "qualityWeights": {
-    "Bronce": 10,
-    "Plata": 90,
+    "Bronce": 3,
+    "Plata": 97,
     "Oro": 0,
     "Icono": 0
     },
@@ -29,8 +29,8 @@
     "name": "Sobre Oro", "cardsPerPack": 1, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_oro.png", "strategy": "qualityMedia",
     "qualityWeights": {
     "Bronce": 0,
-    "Plata": 10,
-    "Oro": 90,
+    "Plata": 3,
+    "Oro": 97,
     "Icono": 0
     },
     "openingGradient": ["#FFF4B5", "#FDE68A", "#FACC15"],
