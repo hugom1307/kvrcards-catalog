@@ -24,6 +24,17 @@
     "openingGradient": ["#F3F4F6", "#D1D5DB", "#9CA3AF"],
     "price": { "coins": 2500, "kvr": 0 }
   },
+  { "id": "sobre_oro",
+    
+    "name": "Sobre Oro", "cardsPerPack": 1, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_oro.png", "strategy": "qualityMedia",
+    "qualityWeights": {
+    "Bronce": 0,
+    "Plata": 3,
+    "Oro": 97
+    },
+    "openingGradient": ["#FFF4B5", "#FDE68A", "#FACC15"],
+    "price": { "coins": 7500, "kvr": 10 }
+  },
   { "id": "sobre_oro_doble",
     
     "name": "Sobre Oro X2", "cardsPerPack": 2, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_oro.png", "strategy": "qualityMedia",
@@ -34,7 +45,7 @@
     "special":1
     },
     "openingGradient": ["#FFF4B5", "#FDE68A", "#FACC15"],
-    "price": { "coins": 13000, "kvr": 10 }
+    "price": { "coins": 13000, "kvr": 20 }
   },
   { "id": "sobre_mix_limitado",
     
