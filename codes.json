@@ -80,6 +80,21 @@
     
   },
   "description": "OFERTA DE BIENVENIDA! 300 KVR + TÍTULO EXCLUSIVO + SOBRE EXCLUSIVO"
+},
+    {
+  "code": "OFERTA_BIENVENIDA_ADAN",
+  "active": true,
+  "singleUse": true,
+  "rewardsType": "mixed",
+  "rewards": {
+    "packs": [
+      { "packId": "sobre_supporter", "quantity": 1 } ],
+    "kvr": 300,
+       "titles": ["knight_supporter"]
+    
+    
+  },
+  "description": "OFERTA DE BIENVENIDA! 300 KVR + TÍTULO EXCLUSIVO + SOBRE EXCLUSIVO"
 }
   ]
 }
