@@ -650,7 +650,6 @@
     ],
     "repeatable": true
   },
-  
   {
     "id": "bronze_1",
     "category": "fundamentals",
@@ -1110,6 +1109,614 @@
       }
     ],
     "repeatable": false
+  },
+  {
+    "id": "logro_elemental_1",
+    "category": "limited",
+    "title": "Maestro elemental",
+    "description": "Consigue a los 5 elementales actuales",
+    "requirement": [
+      {
+        "type": "unique_cards",
+        "cardId": "taka_uzumaki"
+      },
+      {
+        "type": "unique_cards",
+        "cardId": "sekitan"
+      },
+      {
+        "type": "unique_cards",
+        "cardId": "sukui_uzumaki"
+      },
+      {
+        "type": "unique_cards",
+        "cardId": "kurai_tenro"
+      },
+      {
+        "type": "unique_cards",
+        "cardId": "dekiru_mizu"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 45000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_bronce",
+        "amount": 15
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 7
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_elemental",
+        "amount": 3
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount": 1
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "logro_elemental_2",
+    "category": "limited",
+    "title": "Novatos elementales",
+    "description": "Consigue a los 4 nuevos elementales",
+    "requirement": [
+      {
+        "type": "unique_cards",
+        "cardId": "taka_uzumaki"
+      },
+      {
+        "type": "unique_cards",
+        "cardId": "sekitan"
+      },
+      {
+        "type": "unique_cards",
+        "cardId": "sukui_uzumaki"
+      },
+      {
+        "type": "unique_cards",
+        "cardId": "kurai_tenro"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 25000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_bronce",
+        "amount": 8
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 4
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_elemental",
+        "amount": 3
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount": 1
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "bronze_unico_1",
+    "category": "fundamentals",
+    "title": "Bronceado único 1",
+    "description": "Consigue 2 cartas diferentes de bronce",
+    "requirement": {
+      "type": "unique_cards_by_quality",
+      "quality": "Bronce",
+      "amount": 2
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 3500
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "bronze_unico_2",
+    "category": "fundamentals",
+    "title": "Bronceado único 2",
+    "description": "Consigue 5 cartas diferentes de bronce",
+    "requirement": {
+      "type": "unique_cards_by_quality",
+      "quality": "Bronce",
+      "amount": 5
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 7500
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 2
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "bronze_unico_3",
+    "category": "fundamentals",
+    "title": "Bronceado único 3",
+    "description": "Consigue 10 cartas diferentes de bronce",
+    "requirement": {
+      "type": "unique_cards_by_quality",
+      "quality": "Bronce",
+      "amount": 10
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 12500
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 5
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 1
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "bronze_unico_4",
+    "category": "fundamentals",
+    "title": "Bronceado único 4",
+    "description": "Consigue 25 cartas diferentes de bronce",
+    "requirement": {
+      "type": "unique_cards_by_quality",
+      "quality": "Bronce",
+      "amount": 25
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 20000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 10
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 3
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "bronze_unico_5",
+    "category": "fundamentals",
+    "title": "Bronceado único 5",
+    "description": "Consigue 50 cartas diferentes de bronce",
+    "requirement": {
+      "type": "unique_cards_by_quality",
+      "quality": "Bronce",
+      "amount": 50
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 35000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 15
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 5
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount": 2
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "plata_unico_1",
+    "category": "fundamentals",
+    "title": "Plateado único 1",
+    "description": "Consigue 2 cartas diferentes de plata",
+    "requirement": {
+      "type": "unique_cards_by_quality",
+      "quality": "Plata",
+      "amount": 2
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 6000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 2
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "plata_unico_2",
+    "category": "fundamentals",
+    "title": "Plateado único 2",
+    "description": "Consigue 5 cartas diferentes de plata",
+    "requirement": {
+      "type": "unique_cards_by_quality",
+      "quality": "Plata",
+      "amount": 5
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 12000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 4
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 1
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "plata_unico_3",
+    "category": "fundamentals",
+    "title": "Plateado único 3",
+    "description": "Consigue 10 cartas diferentes de plata",
+    "requirement": {
+      "type": "unique_cards_by_quality",
+      "quality": "Plata",
+      "amount": 10
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 22500
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 8
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 3
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "plata_unico_4",
+    "category": "fundamentals",
+    "title": "Plateado único 4",
+    "description": "Consigue 25 cartas diferentes de plata",
+    "requirement": {
+      "type": "unique_cards_by_quality",
+      "quality": "Plata",
+      "amount": 25
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 35000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 12
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 5
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount": 2
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "plata_unico_5",
+    "category": "fundamentals",
+    "title": "Plateado único 5",
+    "description": "Consigue 50 cartas diferentes de plata",
+    "requirement": {
+      "type": "unique_cards_by_quality",
+      "quality": "Plata",
+      "amount": 50
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 60000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 18
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 10
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount": 3
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount": 1
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "oro_unico_1",
+    "category": "fundamentals",
+    "title": "Dorado único 1",
+    "description": "Consigue 2 cartas diferentes de oro",
+    "requirement": {
+      "type": "unique_cards_by_quality",
+      "quality": "Oro",
+      "amount": 2
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 10000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 5
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 2
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "oro_unico_2",
+    "category": "fundamentals",
+    "title": "Dorado único 2",
+    "description": "Consigue 5 cartas diferentes de oro",
+    "requirement": {
+      "type": "unique_cards_by_quality",
+      "quality": "Oro",
+      "amount": 5
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 25000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_bronce",
+        "amount": 15
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 12
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 5
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "oro_unico_3",
+    "category": "fundamentals",
+    "title": "Dorado único 3",
+    "description": "Consigue 10 cartas diferentes de oro",
+    "requirement": {
+      "type": "unique_cards_by_quality",
+      "quality": "Oro",
+      "amount": 10
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 45000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_bronce",
+        "amount": 25
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 20
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 10
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount": 2
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "oro_unico_4",
+    "category": "fundamentals",
+    "title": "Dorado único 4",
+    "description": "Consigue 25 cartas diferentes de oro",
+    "requirement": {
+      "type": "unique_cards_by_quality",
+      "quality": "Oro",
+      "amount": 25
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 75000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_bronce",
+        "amount": 35
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 25
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 18
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount": 4
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "oro_unico_5",
+    "category": "fundamentals",
+    "title": "Dorado único 5",
+    "description": "Consigue 50 cartas diferentes de oro",
+    "requirement": {
+      "type": "unique_cards_by_quality",
+      "quality": "Oro",
+      "amount": 50
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 120000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_bronce",
+        "amount": 50
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 35
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 25
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount": 6
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount": 3
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "oro_unico_6",
+    "category": "fundamentals",
+    "title": "Dorado único 6",
+    "description": "Consigue 100 cartas diferentes de oro",
+    "requirement": {
+      "type": "unique_cards_by_quality",
+      "quality": "Oro",
+      "amount": 100
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 200000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_bronce",
+        "amount": 75
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 50
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 35
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount": 8
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount": 4
+      }
+    ],
+    "repeatable": false
   }
-
 ]
