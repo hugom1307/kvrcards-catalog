@@ -24,17 +24,17 @@
     "openingGradient": ["#F3F4F6", "#D1D5DB", "#9CA3AF"],
     "price": { "coins": 2500, "kvr": 0 }
   },
-  { "id": "sobre_oro",
+  { "id": "sobre_oro_doble",
     
-    "name": "Sobre Oro", "cardsPerPack": 1, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_oro.png", "strategy": "qualityMedia",
+    "name": "Sobre Oro X2", "cardsPerPack": 2, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_oro.png", "strategy": "qualityMedia",
     "qualityWeights": {
     "Bronce": 0,
-    "Plata": 3,
-    "Oro": 97,
-    "Icono": 0
+    "Plata": 10,
+    "Oro": 89,
+    "special":1
     },
     "openingGradient": ["#FFF4B5", "#FDE68A", "#FACC15"],
-    "price": { "coins": 7500, "kvr": 10 }
+    "price": { "coins": 13000, "kvr": 10 }
   },
   { "id": "sobre_mix_limitado",
     
@@ -87,6 +87,15 @@
   "openingGradient": ["#2563EB", "#F59E0B", "#FEF08A"],
   "price": { "coins": 25000, "kvr": 70 }
 },
+     {
+  "id": "sobre_81_plus",
+  "name": "Sobre Élite +81",
+  "cardsPerPack": 1,
+  "minMedia": 81,
+  "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_81_plus.png",
+  "openingGradient": ["#2563EB", "#F59E0B", "#FEF08A"],
+  "price": { "coins": 15000, "kvr": 40 }
+},
 {
   "id": "sobre_85_plus",
   "name": "Sobre Élite Oscuro +85",
@@ -137,10 +146,12 @@
     { "id": "sobre_bronce", "order": 1 },   
     { "id": "sobre_plata" },
     { "id": "sobre_oro" },
+    { "id": "sobre_oro_doble" },
     { "id": "sobre_mix_limitado", "stock": 10 },
     { "id": "sobre_oc" },
-    { "id": "sobre_83_plus"},
-    { "id": "sobre_85_plus", "stock": 10},
+    { "id": "sobre_81_plus"},
+    { "id": "sobre_83_plus", "stock": 5},
+    { "id": "sobre_85_plus", "stock": 1},
     { "id": "sobre_legendario", "stock": 1},
     { "id": "sobre_especial", "stock": 1}
   ]
