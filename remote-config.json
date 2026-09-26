@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.0.11",
-                    "minimumRequired":  "1.0.11",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.11.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.11.zip",
-                    "changelog":  "v1.0.11: Correccion modo infinito (pisos y recompensas) y administracion web de sobres y titulos",
+                    "current":  "1.0.12",
+                    "minimumRequired":  "1.0.12",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.12.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.12.zip",
+                    "changelog":  "v1.0.12: Correccion limite revancha eventos, visualizacion titulos/fondos y mision de intercambios",
                     "forceUpdate":  true
                 }
 }
