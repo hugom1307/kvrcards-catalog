@@ -11,14 +11,14 @@
                         "enabled":  false,
                         "title":  "Mantenimiento en Curso",
                         "message":  "Estamos actualizando el juego para mejorar tu experiencia.\n\nVolveremos pronto. Gracias por tu paciencia!",
-                        "estimatedTime":  "Hasta que nerfeemos las recompensas"
+                        "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.0.1",
-                    "minimumRequired":  "1.0.1",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.1.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.1.zip",
-                    "changelog":  "Fix: conteo de partidas en evoluciones y misiones online, y correccion de entregables",
+                    "current":  "1.0.2",
+                    "minimumRequired":  "1.0.2",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.2.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.2.zip",
+                    "changelog":  "v1.0.2: Mejoras en IA de Modo Infinito y sincronizacion de cuenta",
                     "forceUpdate":  true
                 }
 }
