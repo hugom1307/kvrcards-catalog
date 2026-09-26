@@ -440,7 +440,7 @@
     "title": "Clan Ikari",
     "group":"Jinushi",
     "description": "Los enemigos naturales de Kizoku, cuya sed de expansión no sacia.",
-    "cardIds": ["kenji_ikari","ryo_ikari","roy_ikari","tou_ikari"],
+    "cardIds": ["kozue_ikari","kenji_ikari","ryo_ikari","roy_ikari","tou_ikari"],
     "rewards": [
       {
         "type": "coins",
