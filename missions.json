@@ -11,7 +11,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 2000
+        "amount": 1000
       }
     ],
     "repeatable": false
@@ -28,7 +28,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 5000
+        "amount": 500
       }
     ],
     "repeatable": false
@@ -55,7 +55,7 @@
       {
         "type": "pack",
         "packId": "sobre_plata",
-        "amount": 2
+        "amount": 1
       }
     ],
     "repeatable": false
@@ -78,7 +78,7 @@
       },
       {
         "type": "coins",
-        "amount": 6000
+        "amount": 1000
       }
     ],
     "repeatable": false
@@ -95,7 +95,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 15000
+        "amount": 2000
       },
       {
         "type": "pack",
@@ -189,12 +189,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 2500
+        "amount": 500
       },
       {
         "type": "pack",
         "packId": "sobre_plata",
-        "amount": 2
+        "amount": 1
       }
     ],
     "repeatable": true
@@ -212,7 +212,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 5000
+        "amount": 1000
       },
       {
         "type": "pack",
@@ -235,7 +235,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 3000
+        "amount": 2500
       },
       {
         "type": "pack",
@@ -258,12 +258,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 7000
+        "amount": 1000
       },
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount": 2
+        "amount": 1
       }
     ],
     "repeatable": false
@@ -280,17 +280,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 15000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_83_plus",
-        "amount": 1
+        "amount": 5000
       },
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount": 5
+        "amount": 2
       }
     ],
     "repeatable": false
@@ -315,17 +310,17 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 10000
+        "amount": 2000
       },
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount": 4
+        "amount": 1
       },
       {
         "type": "pack",
         "packId": "sobre_oc",
-        "amount": 2
+        "amount": 1
       }
     ],
     "repeatable": false
@@ -343,7 +338,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 12000
+        "amount": 15000
       },
       {
         "type": "pack",
@@ -353,7 +348,7 @@
       {
         "type": "pack",
         "packId": "sobre_oc",
-        "amount": 3
+        "amount": 1
       }
     ],
     "repeatable": false
@@ -370,12 +365,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 20000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_83_plus",
-        "amount": 1
+        "amount": 5000
       },
       {
         "type": "pack",
@@ -404,12 +394,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 4200
+        "amount": 800
       },
       {
         "type": "pack",
         "packId": "sobre_bronce",
-        "amount": 3
+        "amount": 2
       }
     ],
     "repeatable": true
@@ -449,10 +439,6 @@
         "amount": 1
       },
       {
-        "type": "coins",
-        "amount": 20000
-      },
-      {
         "type": "background",
         "backgroundId": "fondo_cota1"
       }
@@ -477,7 +463,7 @@
       },
       {
         "type": "coins",
-        "amount": 30000
+        "amount": 15000
       },
       {
         "type": "background",
@@ -498,12 +484,12 @@
     "rewards": [
       {
         "type": "pack",
-        "packId": "sobre_oro",
+        "packId": "sobre_plata",
         "amount": 2
       },
       {
         "type": "coins",
-        "amount": 6000
+        "amount": 600
       }
     ],
     "repeatable": true
@@ -543,11 +529,11 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount": 5
+        "amount": 2
       },
       {
         "type": "coins",
-        "amount": 15000
+        "amount": 10000
       }
     ],
     "repeatable": true
@@ -565,16 +551,16 @@
       {
         "type": "pack",
         "packId": "sobre_83_plus",
-        "amount": 2
+        "amount": 1
       },
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount": 5
+        "amount": 2
       },
       {
         "type": "coins",
-        "amount": 27000
+        "amount": 10000
       }
     ],
     "repeatable": true
@@ -592,11 +578,7 @@
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount": 3
-      },
-      {
-        "type": "coins",
-        "amount": 8000
+        "amount": 2
       }
     ],
     "repeatable": true
@@ -617,13 +599,8 @@
         "amount": 2
       },
       {
-        "type": "pack",
-        "packId": "sobre_83_plus",
-        "amount": 1
-      },
-      {
         "type": "coins",
-        "amount": 10000
+        "amount": 2000
       }
     ],
     "repeatable": true
@@ -639,13 +616,8 @@
     },
     "rewards": [
       {
-        "type": "pack",
-        "packId": "sobre_oro",
-        "amount": 1
-      },
-      {
         "type": "coins",
-        "amount": 3000
+        "amount": 2000
       }
     ],
     "repeatable": true
@@ -663,7 +635,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 1000
+        "amount": 300
       }
     ],
     "repeatable": false
@@ -681,12 +653,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 2500
+        "amount": 800
       },
       {
         "type": "pack",
         "packId": "sobre_plata",
-        "amount": 2
+        "amount": 1
       }
     ],
     "repeatable": false
@@ -704,17 +676,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 6000
+        "amount": 1000
       },
       {
         "type": "pack",
         "packId": "sobre_plata",
         "amount": 2
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_oro",
-        "amount": 1
       }
     ],
     "repeatable": false
@@ -732,17 +699,17 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 15000
+        "amount": 2000
       },
       {
         "type": "pack",
         "packId": "sobre_plata",
-        "amount": 4
+        "amount": 3
       },
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount": 2
+        "amount": 1
       }
     ],
     "repeatable": false
@@ -760,22 +727,17 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 25000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 8
+        "amount": 5000
       },
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount": 5
+        "amount": 2
       },
       {
         "type": "pack",
         "packId": "sobre_83_plus",
-        "amount": 2
+        "amount": 1
       }
     ],
     "repeatable": false
@@ -793,12 +755,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 4000
+        "amount": 500
       },
       {
         "type": "pack",
         "packId": "sobre_plata",
-        "amount": 2
+        "amount": 1
       }
     ],
     "repeatable": false
@@ -816,17 +778,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 8200
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 2
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_oro",
-        "amount": 1
+        "amount": 1000
       }
     ],
     "repeatable": false
@@ -844,17 +796,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 12000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 4
+        "amount": 2000
       },
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount": 2
+        "amount": 1
       }
     ],
     "repeatable": false
@@ -872,22 +819,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 20000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 8
+        "amount": 5000
       },
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount": 4
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_83_plus",
-        "amount": 1
+        "amount": 3
       }
     ],
     "repeatable": false
@@ -905,27 +842,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 40000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 15
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_oro",
-        "amount": 8
+        "amount": 15000
       },
       {
         "type": "pack",
         "packId": "sobre_83_plus",
         "amount": 2
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_85_plus",
-        "amount": 1
       }
     ],
     "repeatable": false
@@ -943,17 +865,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 7500
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 4
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_oro",
-        "amount": 1
+        "amount": 1000
       }
     ],
     "repeatable": false
@@ -971,22 +883,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 17500
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_bronce",
-        "amount": 15
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 10
+        "amount": 1500
       },
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount": 3
+        "amount": 1
       }
     ],
     "repeatable": false
@@ -1004,22 +906,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 35000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_bronce",
-        "amount": 25
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 20
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_oro",
-        "amount": 8
+        "amount": 3000
       },
       {
         "type": "pack",
@@ -1042,27 +929,17 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 55500
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_bronce",
-        "amount": 35
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 25
+        "amount": 6000
       },
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount": 15
+        "amount": 5
       },
       {
         "type": "pack",
         "packId": "sobre_83_plus",
-        "amount": 3
+        "amount": 1
       }
     ],
     "repeatable": false
@@ -1080,32 +957,17 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 85000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_bronce",
-        "amount": 60
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 40
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_oro",
-        "amount": 25
+        "amount": 15000
       },
       {
         "type": "pack",
         "packId": "sobre_83_plus",
-        "amount": 5
+        "amount": 2
       },
       {
         "type": "pack",
         "packId": "sobre_85_plus",
-        "amount": 2
+        "amount": 1
       }
     ],
     "repeatable": false
@@ -1145,17 +1007,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 45000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_bronce",
-        "amount": 15
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_oro",
-        "amount": 7
+        "amount": 25000
       },
       {
         "type": "pack",
@@ -1200,27 +1052,22 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 25000
+        "amount": 5000
       },
       {
         "type": "pack",
         "packId": "sobre_bronce",
-        "amount": 8
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_oro",
-        "amount": 4
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_elemental",
         "amount": 3
       },
       {
         "type": "pack",
-        "packId": "sobre_83_plus",
-        "amount": 1
+        "packId": "sobre_oro",
+        "amount": 3
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_elemental",
+        "amount": 2
       }
     ],
     "repeatable": false
@@ -1238,7 +1085,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 3500
+        "amount": 200
       }
     ],
     "repeatable": false
@@ -1256,12 +1103,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 7500
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 2
+        "amount": 500
       }
     ],
     "repeatable": false
@@ -1279,16 +1121,11 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 12500
+        "amount": 800
       },
       {
         "type": "pack",
         "packId": "sobre_plata",
-        "amount": 5
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_oro",
         "amount": 1
       }
     ],
@@ -1307,17 +1144,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 20000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 10
+        "amount": 2000
       },
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount": 3
+        "amount": 1
       }
     ],
     "repeatable": false
@@ -1335,17 +1167,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 35000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 15
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_oro",
-        "amount": 5
+        "amount": 5000
       },
       {
         "type": "pack",
@@ -1368,12 +1190,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 6000
+        "amount": 500
       },
       {
         "type": "pack",
         "packId": "sobre_plata",
-        "amount": 2
+        "amount": 1
       }
     ],
     "repeatable": false
@@ -1391,12 +1213,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 12000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 4
+        "amount": 1000
       },
       {
         "type": "pack",
@@ -1419,17 +1236,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 22500
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 8
+        "amount": 2500
       },
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount": 3
+        "amount": 2
       }
     ],
     "repeatable": false
@@ -1447,22 +1259,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 35000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 12
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_oro",
-        "amount": 5
+        "amount": 8000
       },
       {
         "type": "pack",
         "packId": "sobre_83_plus",
-        "amount": 2
+        "amount": 1
       }
     ],
     "repeatable": false
@@ -1480,26 +1282,16 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 60000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 18
+        "amount": 12500
       },
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount": 10
+        "amount": 4
       },
       {
         "type": "pack",
         "packId": "sobre_83_plus",
-        "amount": 3
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_85_plus",
         "amount": 1
       }
     ],
@@ -1518,17 +1310,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 10000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 5
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_oro",
-        "amount": 2
+        "amount": 1000
       }
     ],
     "repeatable": false
@@ -1546,22 +1328,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 25000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_bronce",
-        "amount": 15
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 12
+        "amount": 2500
       },
       {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount": 5
+        "amount": 1
       }
     ],
     "repeatable": false
@@ -1579,27 +1351,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 45000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_bronce",
-        "amount": 25
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 20
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_oro",
-        "amount": 10
+        "amount": 5000
       },
       {
         "type": "pack",
         "packId": "sobre_83_plus",
-        "amount": 2
+        "amount": 1
       }
     ],
     "repeatable": false
@@ -1617,27 +1374,7 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 75000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_bronce",
-        "amount": 35
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 25
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_oro",
-        "amount": 18
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_83_plus",
-        "amount": 4
+        "amount": 10000
       }
     ],
     "repeatable": false
@@ -1655,32 +1392,12 @@
     "rewards": [
       {
         "type": "coins",
-        "amount": 120000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_bronce",
-        "amount": 50
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 35
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_oro",
-        "amount": 25
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_83_plus",
-        "amount": 6
+        "amount": 20000
       },
       {
         "type": "pack",
         "packId": "sobre_85_plus",
-        "amount": 3
+        "amount": 1
       }
     ],
     "repeatable": false
@@ -1697,33 +1414,19 @@
     },
     "rewards": [
       {
-        "type": "coins",
-        "amount": 200000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_bronce",
-        "amount": 75
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_plata",
-        "amount": 50
-      },
-      {
         "type": "pack",
         "packId": "sobre_oro",
-        "amount": 35
+        "amount": 10
       },
       {
         "type": "pack",
         "packId": "sobre_83_plus",
-        "amount": 8
+        "amount": 3
       },
       {
         "type": "pack",
         "packId": "sobre_85_plus",
-        "amount": 4
+        "amount": 1
       }
     ],
     "repeatable": false
