@@ -148,6 +148,26 @@
     
   },
   "description": "títulos giveados por bug"
-}
+},
+     {
+      "code": "SORRY",
+      "active": true,
+      "rewardsType": "mixed",
+      "rewards": {
+        "traits": 15,
+        "packs": [
+          {
+            "packId": "sobre_85_plus",
+            "quantity": 1
+          },
+           {
+            "packId": "sobre_81_plus",
+            "quantity": 3
+          }
+        ]
+       
+      },
+      "description": "Sentimos un montón los cambios de balance del primer día y los borrados de carta, no queremos afectar negativamente la experiencia del juego, toma esto a cambio."
+    }
   ]
 }
