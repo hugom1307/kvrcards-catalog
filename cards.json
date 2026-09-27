@@ -3578,5 +3578,15 @@
     "calidad": "evo",
     "procedencia": "Sunagakure",
     "owner": "Manuel2767"
+  },
+  {
+    "id": "ken_inazuma_exclusive",
+    "name": "Ken Inazuma",
+    "stats": [92, 85, 82, 91, 84, 70],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kenexclusive.png",
+    "media": 86,
+    "calidad": "exclusive",
+    "procedencia": "Amegakure",
+    "owner": "Alecrackman"
   }
 ]
