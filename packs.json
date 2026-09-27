@@ -123,7 +123,7 @@
   "minMedia": 86,
   "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_legendario.png",
   "openingGradient": ["#FFFBEB", "#F59E0B", "#D97706"],
-  "price": { "coins": 200000, "kvr": 310 }
+  "price": { "coins": 100000, "kvr": 310 }
 },
 {
   "id": "sobre_especial",
