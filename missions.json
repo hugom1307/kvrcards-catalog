@@ -1435,6 +1435,7 @@
     "id": "pack_enthusiast_250",
     "category": "featured",
     "title": "Fiebre de Sobres",
+    "startFromZero": true,
     "description": "Abre 250 sobres en total",
     "requirement": {
       "type": "packs_opened",
@@ -1457,6 +1458,7 @@
     "id": "pack_magnate_500",
     "category": "featured",
     "title": "Enfermo del RNG",
+    "startFromZero": true,
     "description": "Abre 500 sobres en total",
     "requirement": {
       "type": "packs_opened",
@@ -1480,6 +1482,7 @@
     "id": "pack_legend_1000",
     "category": "featured",
     "title": "Leyenda de KVR",
+    "startFromZero": true,
     "description": "Abre 1,000 sobres en total",
     "requirement": {
       "type": "packs_opened",
