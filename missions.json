@@ -1430,5 +1430,83 @@
       }
     ],
     "repeatable": false
+  },
+  [
+  {
+    "id": "pack_enthusiast_250",
+    "category": "featured",
+    "title": "Fiebre de Sobres",
+    "description": "Abre 250 sobres en total",
+    "requirement": {
+      "type": "packs_opened",
+      "amount": 250
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 50000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_especial",
+        "amount": 1
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "pack_magnate_500",
+    "category": "featured",
+    "title": "Enfermo del RNG",
+    "description": "Abre 500 sobres en total",
+    "requirement": {
+      "type": "packs_opened",
+      "amount": 500
+    },
+    "rewards": [
+      {
+        "type": "pack",
+        "packId": "sobre_especial",
+        "amount": 1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_legendario",
+        "amount": 1
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "pack_legend_1000",
+    "category": "featured",
+    "title": "Leyenda de KVR",
+    "description": "Abre 1,000 sobres en total",
+    "requirement": {
+      "type": "packs_opened",
+      "amount": 1000
+    },
+    "rewards": [
+       {
+        "type": "background",
+        "backgroundId": "fondo_1000sobres"
+      }
+      {
+        "type": "coins",
+        "amount": 100000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_legendario",
+        "amount": 1
+      },
+      {
+        "type": "card",
+        "cardId": "ken_inazuma_exclusive",
+        "amount": 1
+      }
+    ],
+    "repeatable": false
   }
+  
 ]
