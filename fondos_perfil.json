@@ -108,5 +108,13 @@
     "boxColor": "linear-gradient(to right, #B7DEED 0%, #74B4EF 25%, #0242E2 75%, #B7DEED 100%)",
     "borderColor": "#EFDA61",
     "descripcion": "Fondo obtenido al completar la misión 'Coleccionista de rarezas'."
+  },
+  {
+    "id": "fondo_1000sobres",
+    "nombre": "Las columnas legendarias",
+    "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_1000sobres.png",
+    "boxColor": "linear-gradient(to right, #997676 0%, #ECC3C3 100%)",
+    "borderColor": "#DBD823",
+    "descripcion": "Fondo obtenido al completar la misión 'Leyenda de KVR'."
   }
 ]
