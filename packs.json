@@ -26,7 +26,7 @@
   },
   { "id": "sobre_plata_doble",
     
-    "name": "Sobre Plata", "cardsPerPack": 2, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_plata.png", "strategy": "qualityMedia",
+    "name": "Sobre Plata X2", "cardsPerPack": 2, "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_plata.png", "strategy": "qualityMedia",
     "qualityWeights": {
     "Bronce": 3,
     "Plata": 97,
