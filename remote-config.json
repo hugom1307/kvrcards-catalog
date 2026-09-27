@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.1.8",
-                    "minimumRequired":  "1.1.8",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.8.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.8.zip",
-                    "changelog":  "Restauracion automatica completa de datos de prestigio y progreso",
+                    "current":  "1.1.9",
+                    "minimumRequired":  "1.1.9",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.9.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.9.zip",
+                    "changelog":  "Rendimiento y fluidez extrema en calculo de prestigios y coleccion",
                     "forceUpdate":  true
                 }
 }
