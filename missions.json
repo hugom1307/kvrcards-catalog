@@ -1489,7 +1489,7 @@
        {
         "type": "background",
         "backgroundId": "fondo_1000sobres"
-      }
+      },
       {
         "type": "coins",
         "amount": 100000
