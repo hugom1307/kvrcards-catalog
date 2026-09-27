@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.0.17",
-                    "minimumRequired":  "1.0.17",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.17.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.17.zip",
-                    "changelog":  "Fix recompensas batallas offline normales y separacion estricta de monedas de modo infinito",
+                    "current":  "1.0.18",
+                    "minimumRequired":  "1.0.18",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.18.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.0.18.zip",
+                    "changelog":  "Indicador circular dorado de recompensas de prestigio pendientes en Mi Coleccion",
                     "forceUpdate":  true
                 }
 }
