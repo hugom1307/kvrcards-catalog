@@ -1509,6 +1509,24 @@
       }
     ],
     "repeatable": false
+  },
+   {
+    "id": "uno_mas",
+    "category": "featured",
+    "title": "Uno más",
+    "startFromZero": true,
+    "description": "Abre 1,001 sobres en total",
+    "requirement": {
+      "type": "packs_opened",
+      "amount": 1001
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 1
+      }
+    ],
+    "repeatable": false
   }
   
 ]
