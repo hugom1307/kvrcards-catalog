@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.1.0",
-                    "minimumRequired":  "1.1.0",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.0.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.0.zip",
-                    "changelog":  "Optimizacion masiva de ancho de banda: compresion R2, avatares aislados, amigos directos, trades mutuos y cache ETag",
+                    "current":  "1.1.1",
+                    "minimumRequired":  "1.1.1",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.1.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.1.zip",
+                    "changelog":  "Fix persistencia monedas infinitas, badge de prestigio en coleccion, nerf de carriles en carrera de cartas",
                     "forceUpdate":  true
                 }
 }
