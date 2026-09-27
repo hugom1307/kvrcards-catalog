@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.1.1",
-                    "minimumRequired":  "1.1.1",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.1.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.1.zip",
-                    "changelog":  "Fix persistencia monedas infinitas, badge de prestigio en coleccion, nerf de carriles en carrera de cartas",
+                    "current":  "1.1.2",
+                    "minimumRequired":  "1.1.2",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.2.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.1.2.zip",
+                    "changelog":  "Soporte para misiones startFromZero (progreso relativo desde 0) y resetKey",
                     "forceUpdate":  true
                 }
 }
