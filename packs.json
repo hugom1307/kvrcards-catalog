@@ -203,10 +203,10 @@
     { "id": "sobre_mix_limitado", "stock": 20 },
     { "id": "sobre_oc" },
     { "id": "sobre_81_plus"},
-     { "id": "sobre_81_plus_limitado", "stock": 30},
+     { "id": "sobre_81_plus_limitado", "stock": 40},
     { "id": "sobre_83_plus_limitado", "stock": 15},
-    { "id": "sobre_85_plus_limitado", "stock": 7},
-    { "id": "sobre_especial", "stock": 1},
-   { "id": "sobre_legendario", "stock": 3},
+    { "id": "sobre_85_plus_limitado", "stock": 10},
+    { "id": "sobre_especial", "stock": 2},
+   { "id": "sobre_legendario", "stock": 5},
   ]
 }
