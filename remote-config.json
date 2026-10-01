@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.2.1",
-                    "minimumRequired":  "1.2.1",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.2.1.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.2.1.zip",
-                    "changelog":  "Sincronizacion de prestigios y fondos de perfil desde panel web de administracion",
+                    "current":  "1.2.2",
+                    "minimumRequired":  "1.2.2",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.2.2.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.2.2.zip",
+                    "changelog":  "Fix consumo de cartas en evoluciones por fases y refuerzo total de persistencia",
                     "forceUpdate":  true
                 }
 }
