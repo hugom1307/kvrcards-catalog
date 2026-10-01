@@ -20,7 +20,7 @@
     "maskImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/calidades/plata.png",
     "sparkColor": "#cbd5e1",
     "tradeable": true,
-    "valor": 1000,
+    "valor": 500,
     "order": 2
   },
   {
@@ -32,7 +32,7 @@
     "maskImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/calidades/oro.png",
     "sparkColor": "#fbbf24",
     "tradeable": true,
-    "valor": 2500,
+    "valor": 1000,
     "order": 3
   },
   {
