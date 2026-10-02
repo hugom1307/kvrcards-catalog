@@ -600,6 +600,82 @@
         "target": 20
       }
     ]
-  }
+  },
+  {
+  "id": "evo_jimmy_dual",
+  "name": "Evolución de Jimmy",
+  "type": "featured",
+  "repeatable": true,
+  "cardOptions": [
+    {
+      "name": "Jimmy Chad",
+      "cardFrom": "jimmy",
+      "cardTo": "jimmi_evochad",
+      "missions": [
+        {
+          "id": "jimmy_chad_m1",
+          "description": "Gana 30 batallas con esta carta en tu mazo",
+          "type": "win_games_with_card",
+          "target": 30
+        },
+        {
+          "id": "jimmy_chad_m2",
+          "description": "Gana 25 rondas con la carta Jimmy",
+          "type": "rounds_won",
+          "cardRequired": true,
+          "target": 25
+        },
+        {
+          "id": "jimmy_chad_m3",
+          "description": "Gana 100 rondas con cartas de TaiyoDL",
+          "type": "rounds_won_with_filter",
+          "owner": "TaiyoDL",
+          "target": 100
+        },
+        {
+          "id": "jimmy_chad_m4",
+          "description": "Gana 25 rondas con la stat Físico",
+          "type": "rounds_won_with_stat",
+          "stat": "fisico",
+          "target": 25
+        }
+      ]
+    },
+    {
+      "name": "Jimmy Samurai",
+      "cardFrom": "jimmy",
+      "cardTo": "jimmy_evosamurai",
+      "missions": [
+        {
+          "id": "jimmy_samurai_m1",
+          "description": "Gana 30 batallas con esta carta en tu mazo",
+          "type": "win_games_with_card",
+          "target": 30
+        },
+        {
+          "id": "jimmy_samurai_m2",
+          "description": "Gana 25 rondas con la carta Jimmy",
+          "type": "rounds_won",
+          "cardRequired": true,
+          "target": 25
+        },
+        {
+          "id": "jimmy_samurai_m3",
+          "description": "Gana 100 rondas con cartas de TaiyoDL",
+          "type": "rounds_won_with_filter",
+          "owner": "TaiyoDL",
+          "target": 100
+        },
+        {
+          "id": "jimmy_samurai_m4",
+          "description": "Gana 25 rondas con la stat Velocidad",
+          "type": "rounds_won_with_stat",
+          "stat": "velocidad",
+          "target": 25
+        }
+      ]
+    }
+  ]
+}
   ]
 }
