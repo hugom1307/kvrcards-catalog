@@ -3588,5 +3588,25 @@
     "calidad": "exclusive",
     "procedencia": "Amegakure",
     "owner": "Alecrackman"
+  },
+  {
+    "id": "jimmy_evochad",
+    "name": "Jimmy",
+    "stats": [80,92,80,65,65,88],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/jimmychad.png",
+    "media": 80,
+    "calidad": "evo",
+    "procedencia": "Gokei",
+    "owner": "TaiyoDL"
+  },
+  {
+    "id": "jimmy_evosamurai",
+    "name": "Jimmy",
+    "stats": [90,78,78,90,73,70],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/jimmysamurai.png",
+    "media": 80,
+    "calidad": "evo",
+    "procedencia": "Gokei",
+    "owner": "TaiyoDL"
   }
 ]
