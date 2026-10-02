@@ -610,7 +610,7 @@
     {
       "name": "Jimmy Chad",
       "cardFrom": "jimmy",
-      "cardTo": "jimmi_evochad",
+      "cardTo": "jimmy_evochad",
       "missions": [
         {
           "id": "jimmy_chad_m1",
@@ -674,6 +674,53 @@
           "target": 25
         }
       ]
+    }
+  ]
+}
+  ]
+},
+{
+  "id": "evo_himitsu",
+  "name": "Evolución de Himitsu",
+  "type": "featured",
+  "repeatable": true,
+  "cardFrom": "himitsu",
+  "cardTo": "himitsu_evo1",
+  "missions": [
+    {
+      "id": "himitsu_m1",
+      "description": "Gana 100 batallas con Himitsu en tu equipo",
+      "type": "win_games_with_card",
+      "target": 100
+    },
+    {
+      "id": "himitsu_m2",
+      "description": "Gana 70 rondas con la carta Himitsu",
+      "type": "rounds_won",
+      "cardRequired": true,
+      "target": 70
+    },
+    {
+      "id": "himitsu_m3",
+      "description": "Gana 100 rondas con personajes de Konohagakure",
+      "type": "rounds_won_with_filter",
+      "origin": "Konohagakure",
+      "target": 100
+    },
+    {
+      "id": "himitsu_m4",
+      "description": "Gana 150 rondas con cartas de HugoMan1307",
+      "type": "rounds_won_with_filter",
+      "owner": "HugoMan1307",
+      "target": 150
+    },
+    {
+      "id": "himitsu_m5",
+      "description": "Vence 5 veces a Himitsu en el evento Chuunin (Fase 5)",
+      "type": "win_event_battle",
+      "battleId": "chuunin_fase_5",
+      "opponent": "himitsu",
+      "target": 5
     }
   ]
 }
