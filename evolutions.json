@@ -682,7 +682,7 @@
 {
   "id": "evo_himitsu",
   "name": "Evolución de Himitsu",
-  "type": "featured",
+  "type": "event",
   "repeatable": true,
   "cardFrom": "himitsu",
   "cardTo": "himitsu_evo1",
@@ -721,6 +721,28 @@
       "battleId": "chuunin_fase_5",
       "opponent": "himitsu",
       "target": 5
+    }
+  ]
+},
+{
+  "id": "evo_hangaku_sbc",
+  "name": "Evolución de Hangaku SBC",
+  "type": "event",
+  "repeatable": true,
+  "cardFrom": "hangaku_sbc",
+  "cardTo": "hangaku_sbcevo",
+  "requiredItems": [
+    {
+      "id": "sombrero_sospechoso",
+      "amount": 1
+    }
+  ],
+  "missions": [
+    {
+      "id": "hangaku_sbc_m1",
+      "description": "Gana 10 partidas con Hangaku SBC en tu equipo",
+      "type": "win_games_with_card",
+      "target": 10
     }
   ]
 }
