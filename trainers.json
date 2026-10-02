@@ -263,4 +263,94 @@
       "nihiro"
     ]
   },
+  {
+    "id": "ken_chuunin1",
+    "nombre": "Ken Inazuma",
+    "titulo": "El de la tablet",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/kenniño.png",
+    "dificultades": ["chuunin_fase_1"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/kenfondoevent.jpg",
+    "intervaloMedias": [65, 72],
+    "cartasObligatorias": [
+      "ken_inazuma_flashback",
+      "ronan_hatake_flashback",
+      "ransu_hatake_flashback",
+      "ayato_hyuga",
+      "raiden_fuutaro",
+      "sukui_uzumaki_flashback",
+      "kurai_tenro_flashback"
+    ]
+  },
+  {
+    "id": "sekitan_chuunin2",
+    "nombre": "Sekitan",
+    "titulo": "La hija de Dios",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/sekitanniña.png",
+    "dificultades": ["chuunin_fase_2"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/sekitanfondoevent.jpg",
+    "intervaloMedias": [70, 76],
+    "cartasObligatorias": [
+      "sekitan_flashback",
+      "ronan_hatake_flashback",
+      "seikatsu",
+      "jimmy",
+      "jimmy_evochad",
+      "jimmy_evosamurai",
+      "saiki_hideyasu"
+    ]
+  },
+  {
+    "id": "betocs_chuunin3",
+    "nombre": "Betocs Hatake",
+    "titulo": "Congelación infinita",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/betocsflashback.png",
+    "dificultades": ["chuunin_fase_3"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/betocsfondoevent.jpg",
+    "intervaloMedias": [78, 84],
+    "cartasObligatorias": [
+      "betocs_hatake_flashback",
+      "ayato_hyuga_flashback",
+      "ryuki_heroe",
+      "ronan_hatake",
+      "ransu_hatake_iconoprime",
+      "ken_inazuma",
+      "shiroku_kowai"
+    ]
+  },
+  {
+    "id": "kai_chuunin4",
+    "nombre": "Kai Senju",
+    "titulo": "El dragón humano",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/kaiflashback.png",
+    "dificultades": ["chuunin_fase_4"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/kaifondoevent.jpg",
+    "intervaloMedias": [84, 89],
+    "cartasObligatorias": [
+      "kai_senju_flashback",
+      "doman_kurimunzoso",
+      "hangaku",
+      "himitsu",
+      "betocs_hatake_iconosuperprime",
+      "ayato_hyuga_iconoprime",
+      "yaban_hito"
+    ]
+  },
+  {
+    "id": "himitsu_chuunin5",
+    "nombre": "Himitsu",
+    "titulo": "El Sol oscuro",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/himitsu.png",
+    "dificultades": ["chuunin_fase_5"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/himitsufondoevent.jpg",
+    "intervaloMedias": [88, 95],
+    "cartasObligatorias": [
+      "himitsu_evo1",
+      "taiyo_uchiha_iconosuperprime",
+      "hangaku_sbcevo",
+      "asahi_raiden",
+      "kento_rikudo",
+      "ayato_hyuga_iconosuperprime",
+      "ryuki_iconosuperprime"
+    ]
+  },
 ]
