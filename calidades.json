@@ -96,6 +96,28 @@
     "valor": 10000,
     "order": 9
   },
+   {
+    "id": "sbc",
+    "name": "SBC",
+    "special": true,
+    "maskImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/calidades/sbc.png",
+    "sparkColor": "#b22222",
+    "tradeable": true,
+    "packable": false,
+    "valor": 10000,
+    "order": 10
+  },
+   {
+    "id": "flashback",
+    "name": "Flashback",
+    "special": true,
+    "maskImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/calidades/flashback.png",
+    "sparkColor": "#800080",
+    "tradeable": true,
+    "packable": false,
+    "valor": 10000,
+    "order": 9
+  },
   {
     "id": "evo",
     "name": "Evo",
