@@ -179,6 +179,19 @@
   "price": { "coins": 75000, "kvr": 190 }
 },
 {
+  "id": "sobre_flashback",
+  "name": "Sobre Flashback Asegurado",
+  "cardsPerPack": 1,
+  "strategy": "qualityMedia",
+  "minMedia": 85,
+  "qualityWeights": {
+   "flashback": 100
+  },
+  "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_flashback.png",
+  "openingGradient": ["#9D00FF", "#800080", "#7700ed"],
+  "price": { "coins": 25000, "kvr": 50 }
+},
+{
   "id": "sobre_elemental",
   "name": "Sobre Elemental",
   "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_elemental.png",
