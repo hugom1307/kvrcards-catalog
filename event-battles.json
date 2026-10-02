@@ -95,19 +95,16 @@
     {
       "id": "evento_examenes_chuunin",
       "name": "Exámenes Chuunin: El Robo de los Pergaminos",
-      "description": "Supera las cinco fases del examen y detén a los sospechosos para recuperar los pergaminos sagrados.",
-      "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_ronan_hatake.png",
+      "description": "Supera las tres fases del examen Chuunin y adéntrate en una misión real en busca de los pergaminos prohibidos robados.",
+      "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_examenes.png",
       "battles": [
         {
           "id": "chuunin_fase_1",
           "name": "Fase 1: Ken Inazuma",
-          "description": "Primera prueba del examen. Supera la velocidad del relámpago de Ken Inazuma.",
-          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ken_inazuma.png",
+          "description": "Primera prueba del examen. Superalo, de todas formas no quiere pelear.",
+          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/kenevent.png",
           "maxAttempts": 10,
           "dailyReset": true,
-          "bossCardId": "ken_inazuma",
-          "cartasObligatorias": ["ken_inazuma"],
-          "intervaloMedias": [70, 78],
           "rewards": [
             { "type": "coins", "amount": 250 },
             { "type": "traits", "amount": 1, "probability": 50 }
@@ -116,13 +113,10 @@
         {
           "id": "chuunin_fase_2",
           "name": "Fase 2: Sekitan",
-          "description": "Segunda prueba. Rompe la feroz defensa y el calor sofocante de Sekitan.",
-          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sekitan.png",
+          "description": "Segunda prueba. Rompe la habilidad curativa y supera la fase.",
+          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/sekitanevent.png",
           "maxAttempts": 7,
           "dailyReset": true,
-          "bossCardId": "sekitan",
-          "cartasObligatorias": ["sekitan"],
-          "intervaloMedias": [75, 82],
           "rewards": [
             { "type": "traits", "amount": 1 },
             { "type": "pack", "packId": "sobre_flashback", "amount": 1, "probability": 10 }
@@ -131,13 +125,10 @@
         {
           "id": "chuunin_fase_3",
           "name": "Fase 3: Betocs Hatake",
-          "description": "Tercera prueba. La mente táctica y el filo del clan Hatake te desafían.",
-          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/betocs_hatake.png",
+          "description": "Tercera prueba. Si ganas esto, definitivamente has superado los examenes chuunin.",
+          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/betocsevent.png",
           "maxAttempts": 5,
           "dailyReset": true,
-          "bossCardId": "betocs_hatake",
-          "cartasObligatorias": ["betocs_hatake"],
-          "intervaloMedias": [80, 86],
           "rewards": [
             { "type": "coins", "amount": 1000 },
             { "type": "traits", "amount": 1 },
@@ -148,13 +139,10 @@
         {
           "id": "chuunin_fase_4",
           "name": "Fase 4: Kai Senju",
-          "description": "Cuarta prueba. El heredero del bosque pondrá a prueba tu voluntad con técnicas ancestrales.",
-          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kai_senju.png",
+          "description": "Creemos que él tiene algo que ver con todo esto de los pergaminos, derrótalo y comprobemoslo.",
+          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/kaievent.png",
           "maxAttempts": 2,
           "dailyReset": true,
-          "bossCardId": "kai_senju",
-          "cartasObligatorias": ["kai_senju"],
-          "intervaloMedias": [84, 90],
           "rewards": [
             { "type": "traits", "amount": 2 },
             { "type": "pack", "packId": "sobre_flashback", "amount": 1, "probability": 50 },
@@ -165,12 +153,9 @@
           "id": "chuunin_fase_5",
           "name": "Fase Final: Himitsu",
           "description": "Batalla decisiva. El cerebro tras el robo de los pergaminos revela su auténtico poder.",
-          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/himitsu.png",
+          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/himitsuevent.png",
           "maxAttempts": 1,
           "dailyReset": true,
-          "bossCardId": "himitsu",
-          "cartasObligatorias": ["himitsu"],
-          "intervaloMedias": [88, 95],
           "rewards": [
             { "type": "traits", "amount": 2 },
             { "type": "traits", "amount": 1, "probability": 70 },
