@@ -1527,6 +1527,154 @@
       }
     ],
     "repeatable": false
+  },
+    {
+    "id": "battles_played_100",
+    "category": "featured",
+    "title": "Centurión de Combates",
+    "description": "Juega 100 batallas en total",
+    "requirement": {
+      "type": "battles_played",
+      "amount": 100
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 25000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount": 1
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "battles_played_200",
+    "category": "featured",
+    "title": "Veterano de Combates",
+    "description": "Juega 200 batallas en total",
+    "requirement": {
+      "type": "battles_played",
+      "amount": 200
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 50000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_legendario",
+        "amount": 1
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "battles_played_500",
+    "category": "featured",
+    "title": "Maestro de Combates",
+    "description": "Juega 500 batallas en total",
+    "requirement": {
+      "type": "battles_played",
+      "amount": 500
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 250000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_especial",
+        "amount": 3
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "trio_flashback_obtenido",
+    "category": "limited",
+    "title": "Trío Legendario Flashback",
+    "description": "Consigue a Ayato Flashback, Betocs Flashback y Kai Flashback",
+    "requirement": [
+      {
+        "type": "own_card",
+        "cardId": "ayato_hyuga_flashback",
+        "amount": 1,
+        "description": "Poseer a Ayato Flashback"
+      },
+      {
+        "type": "own_card",
+        "cardId": "betocs_hatake_flashback",
+        "amount": 1,
+        "description": "Poseer a Betocs Flashback"
+      },
+      {
+        "type": "own_card",
+        "cardId": "kai_senju_flashback",
+        "amount": 1,
+        "description": "Poseer a Kai Flashback"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 50000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_legendario",
+        "amount": 2
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "derrotar_himitsu_3",
+    "category": "limited",
+    "title": "La Caída de la Sombra I",
+    "description": "Gana 3 veces a Himitsu en el evento Chuunin (Fase 5)",
+    "requirement": {
+      "type": "win_event_battle",
+      "battleId": "chuunin_fase_5",
+      "opponent": "himitsu",
+      "amount": 3
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 25000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount": 2
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "derrotar_himitsu_5",
+    "category": "limited",
+    "title": "La Caída de la Sombra II",
+    "description": "Gana 5 veces a Himitsu en el evento Chuunin (Fase 5)",
+    "requirement": {
+      "type": "win_event_battle",
+      "battleId": "chuunin_fase_5",
+      "opponent": "himitsu",
+      "amount": 5
+    },
+    "rewards": [
+      {
+        "type": "pack",
+        "packId": "sobre_especial",
+        "amount": 3
+      }
+    ],
+    "repeatable": false
   }
   
 ]
