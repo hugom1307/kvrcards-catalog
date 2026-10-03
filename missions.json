@@ -981,27 +981,27 @@
       {
         "type": "own_card",
         "cardId": "taka_uzumaki",
-        "amount":1
+        "amount": 1
       },
       {
         "type": "own_card",
         "cardId": "sekitan",
-        "amount":1
+        "amount": 1
       },
       {
         "type": "own_card",
         "cardId": "sukui_uzumaki",
-        "amount":1
+        "amount": 1
       },
       {
         "type": "own_card",
         "cardId": "kurai_tenro",
-        "amount":1
+        "amount": 1
       },
       {
         "type": "own_card",
         "cardId": "dekiru_mizu",
-        "amount":1
+        "amount": 1
       }
     ],
     "rewards": [
@@ -1031,22 +1031,22 @@
       {
         "type": "own_card",
         "cardId": "taka_uzumaki",
-        "amount":1
+        "amount": 1
       },
       {
         "type": "own_card",
         "cardId": "sekitan",
-        "amount":1
+        "amount": 1
       },
       {
         "type": "own_card",
         "cardId": "sukui_uzumaki",
-        "amount":1
+        "amount": 1
       },
       {
         "type": "own_card",
         "cardId": "kurai_tenro",
-        "amount":1
+        "amount": 1
       }
     ],
     "rewards": [
@@ -1489,7 +1489,7 @@
       "amount": 1000
     },
     "rewards": [
-       {
+      {
         "type": "background",
         "backgroundId": "fondo_1000sobres"
       },
@@ -1510,7 +1510,7 @@
     ],
     "repeatable": false
   },
-   {
+  {
     "id": "uno_mas",
     "category": "featured",
     "title": "Uno más",
@@ -1528,7 +1528,7 @@
     ],
     "repeatable": false
   },
-    {
+  {
     "id": "battles_played_100",
     "category": "featured",
     "title": "Centurión de Combates",
@@ -1676,5 +1676,4 @@
     ],
     "repeatable": false
   }
-  
 ]
