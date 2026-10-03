@@ -1532,10 +1532,13 @@
     "id": "battles_played_100",
     "category": "featured",
     "title": "Centurión de Combates",
-    "description": "Juega 100 batallas en total",
+    "description": "Juega 100 batallas",
+    "startFromZero": true,
+    "resetKey": "v1.5.3",
     "requirement": {
       "type": "battles_played",
-      "amount": 100
+      "amount": 100,
+      "startFromZero": true
     },
     "rewards": [
       {
@@ -1554,10 +1557,13 @@
     "id": "battles_played_200",
     "category": "featured",
     "title": "Veterano de Combates",
-    "description": "Juega 200 batallas en total",
+    "description": "Juega 200 batallas",
+    "startFromZero": true,
+    "resetKey": "v1.5.3",
     "requirement": {
       "type": "battles_played",
-      "amount": 200
+      "amount": 200,
+      "startFromZero": true
     },
     "rewards": [
       {
@@ -1576,10 +1582,13 @@
     "id": "battles_played_500",
     "category": "featured",
     "title": "Maestro de Combates",
-    "description": "Juega 500 batallas en total",
+    "description": "Juega 500 batallas",
+    "startFromZero": true,
+    "resetKey": "v1.5.3",
     "requirement": {
       "type": "battles_played",
-      "amount": 500
+      "amount": 500,
+      "startFromZero": true
     },
     "rewards": [
       {
