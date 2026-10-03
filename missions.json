@@ -1533,7 +1533,6 @@
     "category": "featured",
     "title": "Centurión de Combates",
     "description": "Juega 100 batallas en total",
-     "startFromZero": true,
     "requirement": {
       "type": "battles_played",
       "amount": 100
@@ -1556,7 +1555,6 @@
     "category": "featured",
     "title": "Veterano de Combates",
     "description": "Juega 200 batallas en total",
-     "startFromZero": true,
     "requirement": {
       "type": "battles_played",
       "amount": 200
@@ -1579,7 +1577,6 @@
     "category": "featured",
     "title": "Maestro de Combates",
     "description": "Juega 500 batallas en total",
-     "startFromZero": true,
     "requirement": {
       "type": "battles_played",
       "amount": 500
