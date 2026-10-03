@@ -544,112 +544,154 @@
       "repetible": false
     },
     {
-  "id": "sbc_hangaku_sbc",
-  "nombre": "SBC Especial: Hangaku",
-  "tipo": "especial",
-  "descripcion": "Entrega 12 cartas (Hangaku, Zack Ryuga y 10 ninjas de Konohagakure con media mínima 75+) a cambio de Hangaku SBC y 1 Sobre Flashback.",
-  "imagenes": [
-    "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/hangakusbc.png"
-  ],
-  "limites": {
-    "minCartas": 12,
-    "maxCartas": 12
-  },
-  "requisitos": {
-    "mediaMinima": 75,
-    "cartasEspecificas": [
-      "hangaku",
-      "zack_ryuga_icono"
-    ],
-    "procedencias": {
-      "minimo": {
-        "Konohagakure": 10
+      "id": "sbc_hangaku_sbc",
+      "nombre": "SBC Especial: Hangaku",
+      "tipo": "especial",
+      "descripcion": "Entrega 12 cartas (Hangaku, Zack Ryuga y 10 ninjas de Konohagakure con media mínima 75+) a cambio de Hangaku SBC y 1 Sobre Flashback.",
+      "imagenes": [
+        "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/hangakusbc.png"
+      ],
+      "limites": {
+        "minCartas": 12,
+        "maxCartas": 12
       },
-      "maximo": {}
-    }
-  },
-  "recompensas": {
-    "packs": [
-      {
-        "id": "sobre_flashback",
-        "cantidad": 1
-      }
-    ],
-    "cards": [
-      {
-        "id": "hangaku_sbc",
-        "cantidad": 1
-      }
-    ]
-  },
-  "repetible": false
-},
-    {
-  "id": "sbc_haji_senju_sbc",
-  "nombre": "SBC Especial: Haji Senju",
-  "tipo": "especial",
-  "descripcion": "Entrega 7 cartas (Haji Senju, Sukui Uzumaki y al menos 5 cartas con media 85+) a cambio de Haji Senju SBC.",
-  "imagenes": [
-    "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/hajisbc.png"
-  ],
-  "limites": {
-    "minCartas": 7,
-    "maxCartas": 7
-  },
-  "requisitos": {
-    "cartasEspecificas": [
-      "haji_senju",
-      "sukui_uzumaki"
-    ],
-    "minimoCartasConMedia": {
-      "media": 85,
-      "cantidad": 5
-    }
-  },
-  "recompensas": {
-    "cards": [
-      {
-        "id": "haji_senju_sbc",
-        "cantidad": 1
-      }
-    ]
-  },
-  "repetible": false
-},
-    {
-  "id": "sbc_diario_tres_aldeas",
-  "nombre": "SBC Diario: Alianza de las Tres Aldeas",
-  "tipo": "evento",
-  "descripcion": "Entrega 10 cartas (al menos 3 de Amegakure, 3 de Konohagakure y 3 de Sunagakure) para conseguir 5.000 Coins y 1 Sobre Flashback Asegurado.",
-  "imagenes": [
-    "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_flashback.png"
-  ],
-  "limites": {
-    "minCartas": 10,
-    "maxCartas": 10
-  },
-  "requisitos": {
-    "procedencias": {
-      "minimo": {
-        "Amegakure": 3,
-        "Konohagakure": 3,
-        "Sunagakure": 3
+      "requisitos": {
+        "mediaMinima": 75,
+        "cartasEspecificas": [
+          "hangaku",
+          "zack_ryuga_icono"
+        ],
+        "procedencias": {
+          "minimo": {
+            "Konohagakure": 10
+          },
+          "maximo": {}
+        },
+        "stats": {
+          "ninjutsuMin": null,
+          "ninjutsuMax": null,
+          "taijutsuMin": null,
+          "taijutsuMax": null,
+          "velocidadMin": null,
+          "velocidadMax": null,
+          "defensaMin": null,
+          "defensaMax": null,
+          "resistenciaMin": null,
+          "resistenciaMax": null,
+          "fisicoMin": null,
+          "fisicoMax": null
+        }
       },
-      "maximo": {}
+      "recompensas": {
+        "packs": [
+          {
+            "id": "sobre_flashback",
+            "cantidad": 1
+          }
+        ],
+        "cards": [
+          {
+            "id": "hangaku_sbc",
+            "cantidad": 1
+          }
+        ]
+      },
+      "repetible": false
+    },
+    {
+      "id": "sbc_haji_senju_sbc",
+      "nombre": "SBC Especial: Haji Senju",
+      "tipo": "especial",
+      "descripcion": "Entrega 7 cartas (Haji Senju, Sukui Uzumaki y al menos 5 cartas con media 85+) a cambio de Haji Senju SBC.",
+      "imagenes": [
+        "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/hajisbc.png"
+      ],
+      "limites": {
+        "minCartas": 7,
+        "maxCartas": 7
+      },
+      "requisitos": {
+        "cartasEspecificas": [
+          "haji_senju",
+          "sukui_uzumaki"
+        ],
+        "minimoCartasConMedia": {
+          "media": 85,
+          "cantidad": 5
+        },
+        "stats": {
+          "ninjutsuMin": null,
+          "ninjutsuMax": null,
+          "taijutsuMin": null,
+          "taijutsuMax": null,
+          "velocidadMin": null,
+          "velocidadMax": null,
+          "defensaMin": null,
+          "defensaMax": null,
+          "resistenciaMin": null,
+          "resistenciaMax": null,
+          "fisicoMin": null,
+          "fisicoMax": null
+        }
+      },
+      "recompensas": {
+        "cards": [
+          {
+            "id": "haji_senju_sbc",
+            "cantidad": 1
+          }
+        ]
+      },
+      "repetible": false
+    },
+    {
+      "id": "sbc_diario_tres_aldeas",
+      "nombre": "SBC Diario: Alianza de las Tres Aldeas",
+      "tipo": "evento",
+      "descripcion": "Entrega 10 cartas (al menos 3 de Amegakure, 3 de Konohagakure y 3 de Sunagakure) para conseguir 5.000 Coins y 1 Sobre Flashback Asegurado.",
+      "imagenes": [
+        "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_flashback.png"
+      ],
+      "limites": {
+        "minCartas": 10,
+        "maxCartas": 10
+      },
+      "requisitos": {
+        "procedencias": {
+          "minimo": {
+            "Amegakure": 3,
+            "Konohagakure": 3,
+            "Sunagakure": 3
+          },
+          "maximo": {}
+        },
+        "stats": {
+          "ninjutsuMin": null,
+          "ninjutsuMax": null,
+          "taijutsuMin": null,
+          "taijutsuMax": null,
+          "velocidadMin": null,
+          "velocidadMax": null,
+          "defensaMin": null,
+          "defensaMax": null,
+          "resistenciaMin": null,
+          "resistenciaMax": null,
+          "fisicoMin": null,
+          "fisicoMax": null
+        }
+      },
+      "recompensas": {
+        "coins": 5000,
+        "packs": [
+          {
+            "id": "sobre_flashback",
+            "cantidad": 1
+          }
+        ]
+      },
+      "resetDiario": true,
+      "limiteDiario": 1,
+      "repetible": 1
     }
-  },
-  "recompensas": {
-    "coins": 5000,
-    "packs": [
-      {
-        "id": "sobre_flashback",
-        "cantidad": 1
-      }
-    ]
-  },
-  "resetDiario": true,
-  "limiteDiario": 1,
-  "repetible": 1
-}
   ]
 }
