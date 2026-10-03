@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.5.1",
-                    "minimumRequired":  "1.5.1",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.5.1.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.5.1.zip",
-                    "changelog":  "Solucion al reclamar entregables y SBCs nuevos",
+                    "current":  "1.5.2",
+                    "minimumRequired":  "1.5.2",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.5.2.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.5.2.zip",
+                    "changelog":  "Correccion de prestigio compartido en variantes de cartas",
                     "forceUpdate":  true
                 }
 }

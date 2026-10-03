@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 4,
   "events": [
     {
       "id": "evento_arco_elemental",
@@ -146,7 +146,7 @@
           "rewards": [
             { "type": "traits", "amount": 2 },
             { "type": "pack", "packId": "sobre_flashback", "amount": 1, "probability": 50 },
-            { "type": "item", "itemId": "sombrero_sospechoso", "amount": 1, "probability": 2 }
+            { "type": "item", "itemId": "sombrero_sospechoso", "amount": 1, "probability": 1 }
           ]
         },
         {
