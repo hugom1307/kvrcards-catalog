@@ -183,7 +183,6 @@
   "name": "Sobre Flashback Asegurado",
   "cardsPerPack": 1,
   "strategy": "qualityMedia",
-  "minMedia": 85,
   "qualityWeights": {
    "flashback": 100
   },
