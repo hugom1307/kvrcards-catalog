@@ -198,9 +198,9 @@
   "strategy": "qualityMedia",
   "qualityWeights": {
     "Bronce": 0,
-    "Plata": 0,
-    "Oro": 0,
-    "cota": 2
+    "Plata": 1,
+    "Oro": 3,
+    "cota": 3
   },
    "allowedCardIds": ["yoku_chi", "amai_noroi", "karasu_joku", "dongonzalez", "kento_rikudo", "kaoru_noroi", "asahi_raiden", "doriyoku_boku", "ezio_siam", "tekina", "roy_ikari", "isabel_maya", "dankha_sagi", "einar_rideryon", "kalya_siam", "alex_petrov", "koro_tsume", "sebastian_godoy", "mamoru", "jenue_bogai", "suko_tsume", "tamiko_ozoku", "touma_ozoku", "dekiru_mizu", "hiro_yuki", "zhen_uzumaki", "merlin", "ronan_hatake", "ken_inazuma", "kurai_tenro", "sukui_uzumaki", "mikori_fukasa", "taka_uzumaki", "sekitan", "kenji_ikari", "raiden_fuutaro", "aya", "vivar"],
     "openingGradient": ["#FDE68A", "#60A5FA", "#1D4ED8"],
