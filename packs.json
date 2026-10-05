@@ -216,8 +216,8 @@
     { "id": "sobre_mix_limitado", "stock": 20 },
     { "id": "sobre_oc" },
     { "id": "sobre_81_plus"},
-    { "id": "sobre_85_plus"},
-    { "id": "sobre_especial", "stock": 3},
-   { "id": "sobre_legendario", "stock": 2}
+    { "id": "sobre_85_plus_limitado", "stock": 5},
+    { "id": "sobre_especial", "stock": 1},
+   { "id": "sobre_legendario", "stock": 1}
   ]
 }
