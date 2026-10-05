@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.5.6",
-                    "minimumRequired":  "1.5.6",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.5.6.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.5.6.zip",
-                    "changelog":  "Correccion de misiones de evento chuunin fase 5 y victorias de ronda con stat",
+                    "current":  "1.5.7",
+                    "minimumRequired":  "1.5.7",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.5.7.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.5.7.zip",
+                    "changelog":  "Descarga local de imagenes aceleradas y boton en ajustes",
                     "forceUpdate":  true
                 }
 }
