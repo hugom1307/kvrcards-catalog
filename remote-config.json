@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.5.8",
-                    "minimumRequired":  "1.5.8",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.5.8.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.5.8.zip",
-                    "changelog":  "Persistencia y sincronizacion remota de objetos (items)",
+                    "current":  "1.5.9",
+                    "minimumRequired":  "1.5.9",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.5.9.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.5.9.zip",
+                    "changelog":  "Optimizacion masiva de ancho de banda: debounce de sincronizacion remota, cooldown HTTP 429, avatares directos DiceBear y healthcheck ligero",
                     "forceUpdate":  true
                 }
 }
