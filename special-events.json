@@ -1,86 +1,106 @@
 {
   "version": 1,
   "event": {
-    "id": "arco_del_abismo",
-    "name": "Arco del Abismo",
-    "subtitle": "Estructura de Eventos Especiales",
-    "description": "Adéntrate en los distintos mundos del arco, supera cada nivel de forma progresiva y obtén materiales exclusivos para canjear en la tienda u objetos de evolución legendarios.",
+    "id": "torneo_de_haseo",
+    "name": "El Gran Torneo de Haseo",
+    "subtitle": "Planeta del árbol divino otsutuki",
+    "description": "Adéntrate en un gran y peligroso torneo donde deberás de superar los distintos escalones para conseguir deseos y que Haseo te los conceda.",
     "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoarcoelemental.png",
     "worlds": [
       {
-        "id": "abismo",
-        "name": "Abismo",
-        "description": "El origen de la oscuridad primordial. Supera sus niveles para recolectar materiales oscuros y obtener la Bendición de Inmo Incompleta.",
+        "id": "escalones",
+        "name": "Escalones",
+        "description": "El torneo en su máximo esplendor. Debes superar los 7 escalones para ganar el torneo.",
         "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondoelemental3.png",
         "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoarcoelemental.png",
-        "materialItemId": "material_abismo_base",
-        "materialName": "Material del Abismo",
         "levels": [
           {
-            "id": "abismo_nivel_1",
+            "id": "escalon_1",
             "levelNumber": 1,
-            "name": "Nivel 1: Entrada al Abismo",
-            "description": "Primer nivel del abismo. Otorga materiales base para la tienda del evento.",
-            "rewards": [
-              { "type": "coins", "amount": 1000 },
-              { "type": "item", "itemId": "material_abismo_base", "name": "Material del Abismo", "amount": 3 }
-            ]
-          },
-          {
-            "id": "abismo_nivel_2",
-            "levelNumber": 2,
-            "name": "Nivel 2: Profundidades Oscuras",
-            "description": "La presión del abismo aumenta. Mejores cantidades de materiales base.",
-            "rewards": [
-              { "type": "coins", "amount": 2500 },
-              { "type": "item", "itemId": "material_abismo_base", "name": "Material del Abismo", "amount": 6 },
-              { "type": "traits", "amount": 1, "probability": 40 }
-            ]
-          },
-          {
-            "id": "abismo_nivel_3",
-            "levelNumber": 3,
-            "name": "Nivel 3: Corazón del Abismo",
-            "description": "Nivel clave para el farmeo de materiales base.",
-            "rewards": [
-              { "type": "coins", "amount": 5000 },
-              { "type": "item", "itemId": "material_abismo_base", "name": "Material del Abismo", "amount": 10 },
-              { "type": "pack", "packId": "sobre_elemental", "amount": 1, "probability": 25 }
-            ]
-          },
-          {
-            "id": "abismo_nivel_4",
-            "levelNumber": 4,
-            "name": "Nivel 4: Guardianes del Abismo",
-            "description": "Nivel de alta dificultad con 1% de probabilidad de drop para la Bendición de Inmo Incompleta.",
+            "name": "Escalón 1: Bienvenida al Torneo de Haseo",
+            "description": "Acabas de llegar al torneo, consigue una pequeña recompensa por ello.",
             "rewards": [
               { "type": "coins", "amount": 10000 },
-              { "type": "item", "itemId": "material_abismo_base", "name": "Material del Abismo", "amount": 15 },
-              { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 1 }
+              { "type": "item", "itemId": "deseo", "amount": 3 }
             ]
           },
           {
-            "id": "abismo_nivel_5",
+            "id": "escalon_2",
+            "levelNumber": 2,
+            "name": "Escalón 2: Prueba de Fuego",
+            "description": "La presión del Torneo aumenta, esta es una buena prueba para demostrar que estás listo para avanzar.",
+            "rewards": [
+              { "type": "item", "itemId": "deseo", "amount": 6 },
+              { "type": "traits", "amount": 5 },
+              { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1, "probability": 30 }
+            ]
+          },
+          {
+            "id": "escalon_3",
+            "levelNumber": 3,
+            "name": "Escalón 3: Nacido para ganar",
+            "description": "Te enfrentas a tu primer rival verdaderamente fuerte. Si ganas, podrás descansar y obtener tu primer deseo.",
+            "rewards": [
+              { "type": "coins", "amount": 15000 },
+              { "type": "item", "itemId": "deseo", "amount": 20 },
+              { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1 }
+              { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1, "probability": 25 }
+            ]
+          },
+          {
+            "id": "escalon_4",
+            "levelNumber": 4,
+            "name": "Escalón 4: Un enfrentamiento VIP",
+            "description": "Comprendes que en este torneo hay VIPs y Administradores. También comprendes que deberás derrotarlos para ganar el torneo.",
+            "rewards": [
+              { "type": "traits", "amount": 10 },
+              { "type": "item", "itemId": "deseo", "amount": 10 },
+              { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 0.01 }
+            ]
+          },
+          {
+            "id": "escalon_5",
             "levelNumber": 5,
-            "name": "Nivel 5: Soberano del Abismo",
-            "description": "Desafío definitivo del mundo. Drop especial del 5% para la Bendición de Inmo Incompleta.",
+            "name": "Escalón 5: La estrella y la katana",
+            "description": "Tu rival es ciego, parece un enfrentamiento fácil. No, te aseugro que no es fácil, si no preguntale a Kai Senju. Al ganar este combate conseguirás tu segundo deseo.",
             "rewards": [
               { "type": "coins", "amount": 25000 },
-              { "type": "traits", "amount": 3 },
-              { "type": "item", "itemId": "material_abismo_base", "name": "Material del Abismo", "amount": 25 },
+              { "type": "traits", "amount": 10 },
+              { "type": "item", "itemId": "deseo", "amount": 25 },
+              { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 5 }
+            ]
+          },
+          {
+            "id": "escalon_6",
+            "levelNumber": 6,
+            "name": "Escalón 6: Un verdadero Administrador",
+            "description": "La cosa se ha puesto seria. Derróta al Administrador y ocupa su puesto para quedarte a un paso de la gran victoria.",
+            "rewards": [
+              { "type": "traits", "amount": 20 },
+              { "type": "item", "itemId": "deseo", "amount": 30 },
+              { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 5 }
+            ]
+          },
+          {
+            "id": "escalon_7",
+            "levelNumber": 7,
+            "name": "Escalón 7: El gran final",
+            "description": "Tu último desafío. Derrota al 'niño' y el torneo será tuyo, desbloqueando tu tercer y último deseo.",
+            "rewards": [
+              { "type": "coins", "amount": 50000 },
+              { "type": "traits", "amount": 25 },
+              { "type": "item", "itemId": "deseo", "amount": 100 },
               { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 5 }
             ]
           }
         ]
       },
       {
-        "id": "tierra",
-        "name": "Tierra",
-        "description": "El bastión terrestre donde se forjan las alianzas. Guardianes sólidos y recursos primordiales.",
+        "id": "legend_stages",
+        "name": "Legend Stages",
+        "description": "Hay algunos retos incluso mayores que el torneo, hecho para los ganadores que tienen hambre de más.",
         "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondoelemental2.png",
         "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_examenes.png",
-        "materialItemId": "material_tierra_base",
-        "materialName": "Material Terrestre",
         "levels": [
           {
             "id": "tierra_nivel_1",
@@ -133,71 +153,6 @@
               { "type": "coins", "amount": 25000 },
               { "type": "traits", "amount": 3 },
               { "type": "item", "itemId": "material_tierra_base", "name": "Material Terrestre", "amount": 25 },
-              { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 5 }
-            ]
-          }
-        ]
-      },
-      {
-        "id": "planeta_danza_pluma",
-        "name": "Planeta donde inmo mato al tio ese con la danza de la pluma",
-        "description": "Un mundo mítico escenario de un combate legendario. Desafíos aéreos y recompensas exclusivas.",
-        "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondoelemental1.png",
-        "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoarcoelemental.png",
-        "materialItemId": "material_pluma_base",
-        "materialName": "Pluma Primordial",
-        "levels": [
-          {
-            "id": "danza_pluma_nivel_1",
-            "levelNumber": 1,
-            "name": "Nivel 1: Viento Cortante",
-            "description": "Comienzo del sendero de las plumas.",
-            "rewards": [
-              { "type": "coins", "amount": 1000 },
-              { "type": "item", "itemId": "material_pluma_base", "name": "Pluma Primordial", "amount": 3 }
-            ]
-          },
-          {
-            "id": "danza_pluma_nivel_2",
-            "levelNumber": 2,
-            "name": "Nivel 2: Danza Aérea",
-            "description": "Enfrentamiento en las alturas azotadas por ráfagas de plumas.",
-            "rewards": [
-              { "type": "coins", "amount": 2500 },
-              { "type": "item", "itemId": "material_pluma_base", "name": "Pluma Primordial", "amount": 6 }
-            ]
-          },
-          {
-            "id": "danza_pluma_nivel_3",
-            "levelNumber": 3,
-            "name": "Nivel 3: Ojo del Ciclón",
-            "description": "Fase central de farmeo de plumas primordiales.",
-            "rewards": [
-              { "type": "coins", "amount": 5000 },
-              { "type": "item", "itemId": "material_pluma_base", "name": "Pluma Primordial", "amount": 10 },
-              { "type": "pack", "packId": "sobre_elemental", "amount": 1, "probability": 25 }
-            ]
-          },
-          {
-            "id": "danza_pluma_nivel_4",
-            "levelNumber": 4,
-            "name": "Nivel 4: Vuelo Fatal",
-            "description": "Rival implacable en los cielos. 1% de drop para la Bendición de Inmo Incompleta.",
-            "rewards": [
-              { "type": "coins", "amount": 10000 },
-              { "type": "item", "itemId": "material_pluma_base", "name": "Pluma Primordial", "amount": 15 },
-              { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 1 }
-            ]
-          },
-          {
-            "id": "danza_pluma_nivel_5",
-            "levelNumber": 5,
-            "name": "Nivel 5: Danza de la Pluma Final",
-            "description": "La recreación del clímax legendario. 5% de drop para la Bendición de Inmo Incompleta.",
-            "rewards": [
-              { "type": "coins", "amount": 25000 },
-              { "type": "traits", "amount": 3 },
-              { "type": "item", "itemId": "material_pluma_base", "name": "Pluma Primordial", "amount": 25 },
               { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 5 }
             ]
           }
