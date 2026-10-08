@@ -1,1 +1,152 @@
-
+{
+  "version": 1,
+  "eventId": "arco_del_abismo",
+  "title": "Tienda del Evento: Arco del Abismo",
+  "description": "Canjea los materiales y monedas obtenidos en los distintos mundos del evento por cartas exclusivas, sobres, títulos honoríficos y objetos de evolución.",
+  "currencies": [
+    {
+      "id": "material_abismo_base",
+      "name": "Material del Abismo",
+      "description": "Materia oscura primordial recolectada en las profundidades del Abismo.",
+      "icon": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/material_abismo.png"
+    },
+    {
+      "id": "material_tierra_base",
+      "name": "Material Terrestre",
+      "description": "Recurso sólido extraído del bastión de la Tierra.",
+      "icon": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/material_tierra.png"
+    },
+    {
+      "id": "material_pluma_base",
+      "name": "Pluma Primordial",
+      "description": "Pluma legendaria impregnada del combate mítico de la danza de la pluma.",
+      "icon": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/material_pluma.png"
+    }
+  ],
+  "items": [
+    {
+      "id": "shop_carta_shind_abismo",
+      "name": "Shind del Abismo (Carta)",
+      "description": "Carta exclusiva del evento con estadísticas oscuras y arte temático.",
+      "category": "card",
+      "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/shind_abismo.png",
+      "reward": {
+        "type": "card",
+        "cardId": "shind_abismo",
+        "name": "Shind del Abismo",
+        "amount": 1
+      },
+      "cost": {
+        "currencyId": "material_abismo_base",
+        "name": "Material del Abismo",
+        "amount": 60
+      }
+    },
+    {
+      "id": "shop_sobre_elemental",
+      "name": "Sobre Elemental de Evento",
+      "description": "Sobre exclusivo que contiene cartas elementales y del evento actual.",
+      "category": "pack",
+      "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_elemental.png",
+      "reward": {
+        "type": "pack",
+        "packId": "sobre_elemental",
+        "name": "Sobre Elemental",
+        "amount": 1
+      },
+      "cost": {
+        "currencyId": "material_abismo_base",
+        "name": "Material del Abismo",
+        "amount": 25
+      }
+    },
+    {
+      "id": "shop_titulo_abismo",
+      "name": "Título: Explorador del Abismo",
+      "description": "Título exclusivo para tu perfil que acredita tu valentía en el abismo.",
+      "category": "title",
+      "image": "./icon-especiales.png",
+      "reward": {
+        "type": "title",
+        "titleId": "explorador_del_abismo",
+        "name": "Explorador del Abismo"
+      },
+      "cost": {
+        "currencyId": "material_abismo_base",
+        "name": "Material del Abismo",
+        "amount": 35
+      }
+    },
+    {
+      "id": "shop_espada_evento",
+      "name": "Espada de Evento (Objeto de Evolución)",
+      "description": "Objeto básico de evolución para Kinan, Benkei o Joshira con sus espadas de evento.",
+      "category": "item",
+      "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/espada_evento.png",
+      "reward": {
+        "type": "item",
+        "itemId": "espada_evento",
+        "name": "Espada de Evento",
+        "amount": 1
+      },
+      "cost": {
+        "currencyId": "material_abismo_base",
+        "name": "Material del Abismo",
+        "amount": 40
+      }
+    },
+    {
+      "id": "shop_monedas_10000",
+      "name": "Bolsa de 10.000 Monedas",
+      "description": "Canjea materiales del abismo por una gran bolsa de monedas de oro.",
+      "category": "coins",
+      "image": "./coin.png",
+      "reward": {
+        "type": "coins",
+        "name": "Monedas Coins",
+        "amount": 10000
+      },
+      "cost": {
+        "currencyId": "material_abismo_base",
+        "name": "Material del Abismo",
+        "amount": 15
+      }
+    },
+    {
+      "id": "shop_sobre_tierra",
+      "name": "Sobre Elemental (vía Tierra)",
+      "description": "Canjea materiales terrestres obtenidos en la Tierra por un sobre elemental.",
+      "category": "pack",
+      "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_elemental.png",
+      "reward": {
+        "type": "pack",
+        "packId": "sobre_elemental",
+        "name": "Sobre Elemental",
+        "amount": 1
+      },
+      "cost": {
+        "currencyId": "material_tierra_base",
+        "name": "Material Terrestre",
+        "amount": 25
+      }
+    },
+    {
+      "id": "shop_sobre_pluma",
+      "name": "Sobre Elemental (vía Pluma)",
+      "description": "Canjea plumas primordiales por un sobre elemental.",
+      "category": "pack",
+      "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_elemental.png",
+      "reward": {
+        "type": "pack",
+        "packId": "sobre_elemental",
+        "name": "Sobre Elemental",
+        "amount": 1
+      },
+      "cost": {
+        "currencyId": "material_pluma_base",
+        "name": "Pluma Primordial",
+        "amount": 25
+      }
+    }
+  ]
+}
