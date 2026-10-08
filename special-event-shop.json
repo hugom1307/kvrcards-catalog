@@ -1,8 +1,8 @@
 {
   "version": 1,
   "eventId": "torneo_de_haseo",
-  "title": "Tienda del Evento: Arco del Abismo",
-  "description": "Canjea los materiales y monedas obtenidos en los distintos mundos del evento por cartas exclusivas, sobres, títulos honoríficos y objetos de evolución.",
+  "title": "Tienda del Evento: El Gran Torneo de Haseo",
+  "description": "Canjea los materiales y monedas obtenidos en los distintos escalones del evento por sobres, objetos de evolución, rasgos y más.",
   "currencies": [
     {
       "id": "deseo",
