@@ -19,7 +19,7 @@
             "levelNumber": 1,
             "name": "Escalón 1: Bienvenida al Torneo de Haseo",
             "description": "Acabas de llegar al torneo, consigue una pequeña recompensa por ello.",
-            "rewards": [
+            "firstClearRewards": [
               { "type": "coins", "amount": 10000 },
               { "type": "item", "itemId": "deseo", "amount": 3 }
             ]
@@ -29,7 +29,7 @@
             "levelNumber": 2,
             "name": "Escalón 2: Prueba de Fuego",
             "description": "La presión del Torneo aumenta, esta es una buena prueba para demostrar que estás listo para avanzar.",
-            "rewards": [
+           "firstClearRewards": [
               { "type": "item", "itemId": "deseo", "amount": 6 },
               { "type": "traits", "amount": 5 },
               { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1, "probability": 30 }
@@ -40,7 +40,7 @@
             "levelNumber": 3,
             "name": "Escalón 3: Nacido para ganar",
             "description": "Te enfrentas a tu primer rival verdaderamente fuerte. Si ganas, podrás descansar y obtener tu primer deseo.",
-            "rewards": [
+            "firstClearRewards": [
               { "type": "coins", "amount": 15000 },
               { "type": "item", "itemId": "deseo", "amount": 20 },
               { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1 }
@@ -52,7 +52,7 @@
             "levelNumber": 4,
             "name": "Escalón 4: Un enfrentamiento VIP",
             "description": "Comprendes que en este torneo hay VIPs y Administradores. También comprendes que deberás derrotarlos para ganar el torneo.",
-            "rewards": [
+            "firstClearRewards": [
               { "type": "traits", "amount": 10 },
               { "type": "item", "itemId": "deseo", "amount": 10 },
               { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 0.01 }
@@ -63,7 +63,7 @@
             "levelNumber": 5,
             "name": "Escalón 5: La estrella y la katana",
             "description": "Tu rival es ciego, parece un enfrentamiento fácil. No, te aseugro que no es fácil, si no preguntale a Kai Senju. Al ganar este combate conseguirás tu segundo deseo.",
-            "rewards": [
+            "firstClearRewards": [
               { "type": "coins", "amount": 25000 },
               { "type": "traits", "amount": 10 },
               { "type": "item", "itemId": "deseo", "amount": 25 },
@@ -75,7 +75,7 @@
             "levelNumber": 6,
             "name": "Escalón 6: Un verdadero Administrador",
             "description": "La cosa se ha puesto seria. Derróta al Administrador y ocupa su puesto para quedarte a un paso de la gran victoria.",
-            "rewards": [
+           "firstClearRewards": [
               { "type": "traits", "amount": 20 },
               { "type": "item", "itemId": "deseo", "amount": 30 },
               { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 5 }
@@ -86,7 +86,7 @@
             "levelNumber": 7,
             "name": "Escalón 7: El gran final",
             "description": "Tu último desafío. Derrota al 'niño' y el torneo será tuyo, desbloqueando tu tercer y último deseo.",
-            "rewards": [
+            "firstClearRewards": [
               { "type": "coins", "amount": 50000 },
               { "type": "traits", "amount": 25 },
               { "type": "item", "itemId": "deseo", "amount": 100 },
@@ -107,7 +107,7 @@
             "levelNumber": 1,
             "name": "Nivel 1: Llanuras de Entrada",
             "description": "Comienzo del recorrido terrestre.",
-            "rewards": [
+            "firstClearRewards": [
               { "type": "coins", "amount": 1000 },
               { "type": "item", "itemId": "material_tierra_base", "name": "Material Terrestre", "amount": 3 }
             ]
@@ -117,7 +117,7 @@
             "levelNumber": 2,
             "name": "Nivel 2: Garganta de Roca",
             "description": "Supera las defensas de roca ancestral.",
-            "rewards": [
+            "firstClearRewards": [
               { "type": "coins", "amount": 2500 },
               { "type": "item", "itemId": "material_tierra_base", "name": "Material Terrestre", "amount": 6 }
             ]
@@ -127,7 +127,7 @@
             "levelNumber": 3,
             "name": "Nivel 3: Fortaleza Subterránea",
             "description": "Fase de farmeo de materiales de la Tierra.",
-            "rewards": [
+            "firstClearRewards": [
               { "type": "coins", "amount": 5000 },
               { "type": "item", "itemId": "material_tierra_base", "name": "Material Terrestre", "amount": 10 },
               { "type": "pack", "packId": "sobre_elemental", "amount": 1, "probability": 25 }
@@ -138,7 +138,7 @@
             "levelNumber": 4,
             "name": "Nivel 4: Titán Terrestre",
             "description": "Enemigo titánico con 1% de probabilidad de drop para la Bendición de Inmo Incompleta.",
-            "rewards": [
+            "firstClearRewards": [
               { "type": "coins", "amount": 10000 },
               { "type": "item", "itemId": "material_tierra_base", "name": "Material Terrestre", "amount": 15 },
               { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 1 }
@@ -149,7 +149,7 @@
             "levelNumber": 5,
             "name": "Nivel 5: Núcleo Terrestre",
             "description": "Conquista final de la Tierra. 5% de probabilidad de drop para la Bendición de Inmo Incompleta.",
-            "rewards": [
+            "firstClearRewards": [
               { "type": "coins", "amount": 25000 },
               { "type": "traits", "amount": 3 },
               { "type": "item", "itemId": "material_tierra_base", "name": "Material Terrestre", "amount": 25 },
