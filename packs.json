@@ -162,7 +162,7 @@
   "cardsPerPack": 1,
   "minMedia": 90,
   "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_90_plus.png",
-  "openingGradient": ["#312E81", "#7C3AED", "#DC2626"],
+  "openingGradient": ["#C90018", "#FFD04A", "#8B000B"],
   "price": { "coins": 500000, "kvr": 400 }
 },
 {
