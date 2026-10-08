@@ -5,23 +5,11 @@
   "description": "Canjea los materiales y monedas obtenidos en los distintos mundos del evento por cartas exclusivas, sobres, títulos honoríficos y objetos de evolución.",
   "currencies": [
     {
-      "id": "material_abismo_base",
-      "name": "Material del Abismo",
-      "description": "Materia oscura primordial recolectada en las profundidades del Abismo.",
-      "icon": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/material_abismo.png"
-    },
-    {
-      "id": "material_tierra_base",
-      "name": "Material Terrestre",
-      "description": "Recurso sólido extraído del bastión de la Tierra.",
-      "icon": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/material_tierra.png"
-    },
-    {
-      "id": "material_pluma_base",
-      "name": "Pluma Primordial",
-      "description": "Pluma legendaria impregnada del combate mítico de la danza de la pluma.",
-      "icon": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/material_pluma.png"
+      "id": "deseo",
+      "name": "Deseos de Haseo",
+      "icon": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/deseo.png"
     }
+   
   ],
   "items": [
     {
