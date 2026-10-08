@@ -5,14 +5,14 @@
     "name": "El Gran Torneo de Haseo",
     "subtitle": "Planeta del árbol divino otsutuki",
     "description": "Adéntrate en un gran y peligroso torneo donde deberás de superar los distintos escalones para conseguir deseos y que Haseo te los conceda.",
-    "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoarcoelemental.png",
+    "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/infinito/torneo_haseo.png",
     "worlds": [
       {
         "id": "escalones",
         "name": "Escalones",
         "description": "El torneo en su máximo esplendor. Debes superar los 7 escalones para ganar el torneo.",
-        "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondoelemental3.png",
-        "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoarcoelemental.png",
+        "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/escalones1.png",
+        "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/escalones.png",
         "levels": [
           {
             "id": "escalon_1",
@@ -99,8 +99,8 @@
         "id": "legend_stages",
         "name": "Legend Stages",
         "description": "Hay algunos retos incluso mayores que el torneo, hecho para los ganadores que tienen hambre de más.",
-        "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondoelemental2.png",
-        "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_examenes.png",
+        "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/legendstages1.png",
+        "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/legendstage.png",
         "levels": [
           {
             "id": "tierra_nivel_1",
