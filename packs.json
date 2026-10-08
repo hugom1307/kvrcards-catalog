@@ -157,6 +157,15 @@
   "price": { "coins": 35000, "kvr": 110 }
 },
 {
+  "id": "sobre_90_plus",
+  "name": "Sobre Inmo +90",
+  "cardsPerPack": 1,
+  "minMedia": 90,
+  "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_90_plus.png",
+  "openingGradient": ["#312E81", "#7C3AED", "#DC2626"],
+  "price": { "coins": 500000, "kvr": 400 }
+},
+{
   "id": "sobre_legendario",
   "name": "Sobre Legendario (3x +86)",
   "cardsPerPack": 3,
