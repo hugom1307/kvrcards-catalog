@@ -43,7 +43,7 @@
             "firstClearRewards": [
               { "type": "coins", "amount": 15000 },
               { "type": "item", "itemId": "deseo", "amount": 20 },
-              { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1 }
+              { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1 },
               { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1, "probability": 25 }
             ]
           },
