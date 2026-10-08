@@ -5,5 +5,12 @@
   "description": "Este sombrero me suena de algo... ¿Por qué lo guarda Hangaku?",
   "calidad": "Mítico",
   "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/sombrero_sospechoso.png"
-}
+},
+{
+  "id": "deseo",
+  "name": "Deseo de Haseo",
+  "description": "Canjea tu deseo en la tienda del evento del Torneo de Haseo",
+  "calidad": "Raro",
+  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/deseo.png"
+},  
 ]
