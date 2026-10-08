@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "event": {
+    "id": "arco_del_abismo",
+    "name": "Arco del Abismo",
+    "subtitle": "Estructura de Eventos Especiales",
+    "description": "Adéntrate en los distintos mundos del arco, supera cada nivel de forma progresiva y obtén materiales exclusivos para canjear en la tienda u objetos de evolución legendarios.",
+    "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoarcoelemental.png",
+    "worlds": [
+      {
+        "id": "abismo",
+        "name": "Abismo",
+        "description": "El origen de la oscuridad primordial. Supera sus niveles para recolectar materiales oscuros y obtener la Bendición de Inmo Incompleta.",
+        "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondoelemental3.png",
+        "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoarcoelemental.png",
+        "materialItemId": "material_abismo_base",
+        "materialName": "Material del Abismo",
+        "levels": [
+          {
+            "id": "abismo_nivel_1",
+            "levelNumber": 1,
+            "name": "Nivel 1: Entrada al Abismo",
+            "description": "Primer nivel del abismo. Otorga materiales base para la tienda del evento.",
+            "rewards": [
+              { "type": "coins", "amount": 1000 },
+              { "type": "item", "itemId": "material_abismo_base", "name": "Material del Abismo", "amount": 3 }
+            ]
+          },
+          {
+            "id": "abismo_nivel_2",
+            "levelNumber": 2,
+            "name": "Nivel 2: Profundidades Oscuras",
+            "description": "La presión del abismo aumenta. Mejores cantidades de materiales base.",
+            "rewards": [
+              { "type": "coins", "amount": 2500 },
+              { "type": "item", "itemId": "material_abismo_base", "name": "Material del Abismo", "amount": 6 },
+              { "type": "traits", "amount": 1, "probability": 40 }
+            ]
+          },
+          {
+            "id": "abismo_nivel_3",
+            "levelNumber": 3,
+            "name": "Nivel 3: Corazón del Abismo",
+            "description": "Nivel clave para el farmeo de materiales base.",
+            "rewards": [
+              { "type": "coins", "amount": 5000 },
+              { "type": "item", "itemId": "material_abismo_base", "name": "Material del Abismo", "amount": 10 },
+              { "type": "pack", "packId": "sobre_elemental", "amount": 1, "probability": 25 }
+            ]
+          },
+          {
+            "id": "abismo_nivel_4",
+            "levelNumber": 4,
+            "name": "Nivel 4: Guardianes del Abismo",
+            "description": "Nivel de alta dificultad con 1% de probabilidad de drop para la Bendición de Inmo Incompleta.",
+            "rewards": [
+              { "type": "coins", "amount": 10000 },
+              { "type": "item", "itemId": "material_abismo_base", "name": "Material del Abismo", "amount": 15 },
+              { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 1 }
+            ]
+          },
+          {
+            "id": "abismo_nivel_5",
+            "levelNumber": 5,
+            "name": "Nivel 5: Soberano del Abismo",
+            "description": "Desafío definitivo del mundo. Drop especial del 5% para la Bendición de Inmo Incompleta.",
+            "rewards": [
+              { "type": "coins", "amount": 25000 },
+              { "type": "traits", "amount": 3 },
+              { "type": "item", "itemId": "material_abismo_base", "name": "Material del Abismo", "amount": 25 },
+              { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 5 }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "tierra",
+        "name": "Tierra",
+        "description": "El bastión terrestre donde se forjan las alianzas. Guardianes sólidos y recursos primordiales.",
+        "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondoelemental2.png",
+        "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondo_examenes.png",
+        "materialItemId": "material_tierra_base",
+        "materialName": "Material Terrestre",
+        "levels": [
+          {
+            "id": "tierra_nivel_1",
+            "levelNumber": 1,
+            "name": "Nivel 1: Llanuras de Entrada",
+            "description": "Comienzo del recorrido terrestre.",
+            "rewards": [
+              { "type": "coins", "amount": 1000 },
+              { "type": "item", "itemId": "material_tierra_base", "name": "Material Terrestre", "amount": 3 }
+            ]
+          },
+          {
+            "id": "tierra_nivel_2",
+            "levelNumber": 2,
+            "name": "Nivel 2: Garganta de Roca",
+            "description": "Supera las defensas de roca ancestral.",
+            "rewards": [
+              { "type": "coins", "amount": 2500 },
+              { "type": "item", "itemId": "material_tierra_base", "name": "Material Terrestre", "amount": 6 }
+            ]
+          },
+          {
+            "id": "tierra_nivel_3",
+            "levelNumber": 3,
+            "name": "Nivel 3: Fortaleza Subterránea",
+            "description": "Fase de farmeo de materiales de la Tierra.",
+            "rewards": [
+              { "type": "coins", "amount": 5000 },
+              { "type": "item", "itemId": "material_tierra_base", "name": "Material Terrestre", "amount": 10 },
+              { "type": "pack", "packId": "sobre_elemental", "amount": 1, "probability": 25 }
+            ]
+          },
+          {
+            "id": "tierra_nivel_4",
+            "levelNumber": 4,
+            "name": "Nivel 4: Titán Terrestre",
+            "description": "Enemigo titánico con 1% de probabilidad de drop para la Bendición de Inmo Incompleta.",
+            "rewards": [
+              { "type": "coins", "amount": 10000 },
+              { "type": "item", "itemId": "material_tierra_base", "name": "Material Terrestre", "amount": 15 },
+              { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 1 }
+            ]
+          },
+          {
+            "id": "tierra_nivel_5",
+            "levelNumber": 5,
+            "name": "Nivel 5: Núcleo Terrestre",
+            "description": "Conquista final de la Tierra. 5% de probabilidad de drop para la Bendición de Inmo Incompleta.",
+            "rewards": [
+              { "type": "coins", "amount": 25000 },
+              { "type": "traits", "amount": 3 },
+              { "type": "item", "itemId": "material_tierra_base", "name": "Material Terrestre", "amount": 25 },
+              { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 5 }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "planeta_danza_pluma",
+        "name": "Planeta donde inmo mato al tio ese con la danza de la pluma",
+        "description": "Un mundo mítico escenario de un combate legendario. Desafíos aéreos y recompensas exclusivas.",
+        "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondoelemental1.png",
+        "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoarcoelemental.png",
+        "materialItemId": "material_pluma_base",
+        "materialName": "Pluma Primordial",
+        "levels": [
+          {
+            "id": "danza_pluma_nivel_1",
+            "levelNumber": 1,
+            "name": "Nivel 1: Viento Cortante",
+            "description": "Comienzo del sendero de las plumas.",
+            "rewards": [
+              { "type": "coins", "amount": 1000 },
+              { "type": "item", "itemId": "material_pluma_base", "name": "Pluma Primordial", "amount": 3 }
+            ]
+          },
+          {
+            "id": "danza_pluma_nivel_2",
+            "levelNumber": 2,
+            "name": "Nivel 2: Danza Aérea",
+            "description": "Enfrentamiento en las alturas azotadas por ráfagas de plumas.",
+            "rewards": [
+              { "type": "coins", "amount": 2500 },
+              { "type": "item", "itemId": "material_pluma_base", "name": "Pluma Primordial", "amount": 6 }
+            ]
+          },
+          {
+            "id": "danza_pluma_nivel_3",
+            "levelNumber": 3,
+            "name": "Nivel 3: Ojo del Ciclón",
+            "description": "Fase central de farmeo de plumas primordiales.",
+            "rewards": [
+              { "type": "coins", "amount": 5000 },
+              { "type": "item", "itemId": "material_pluma_base", "name": "Pluma Primordial", "amount": 10 },
+              { "type": "pack", "packId": "sobre_elemental", "amount": 1, "probability": 25 }
+            ]
+          },
+          {
+            "id": "danza_pluma_nivel_4",
+            "levelNumber": 4,
+            "name": "Nivel 4: Vuelo Fatal",
+            "description": "Rival implacable en los cielos. 1% de drop para la Bendición de Inmo Incompleta.",
+            "rewards": [
+              { "type": "coins", "amount": 10000 },
+              { "type": "item", "itemId": "material_pluma_base", "name": "Pluma Primordial", "amount": 15 },
+              { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 1 }
+            ]
+          },
+          {
+            "id": "danza_pluma_nivel_5",
+            "levelNumber": 5,
+            "name": "Nivel 5: Danza de la Pluma Final",
+            "description": "La recreación del clímax legendario. 5% de drop para la Bendición de Inmo Incompleta.",
+            "rewards": [
+              { "type": "coins", "amount": 25000 },
+              { "type": "traits", "amount": 3 },
+              { "type": "item", "itemId": "material_pluma_base", "name": "Pluma Primordial", "amount": 25 },
+              { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 5 }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
