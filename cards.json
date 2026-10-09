@@ -4134,5 +4134,15 @@
     "calidad": "evo",
     "procedencia": "Konohagakure",
     "owner": "Hugoman1307"
+  },
+  {
+    "id": "kento_rikudo_coht",
+    "name": "Kento Rikudo",
+    "stats": [88, 82, 80, 88, 83, 75],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kentoniño.png",
+    "media": 86,
+    "calidad": "coht",
+    "procedencia": "Mundo Subterráneo",
+    "owner": "Hugoman1307"
   }
 ]
