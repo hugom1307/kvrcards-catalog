@@ -22,6 +22,10 @@
             "firstClearRewards": [
               { "type": "coins", "amount": 10000 },
               { "type": "item", "itemId": "deseo", "amount": 3 }
+            ],
+             "repeatRewards": [
+              { "type": "coins", "amount": 500 },
+              { "type": "item", "itemId": "deseo", "amount": 1 }
             ]
           },
           {
@@ -33,6 +37,11 @@
               { "type": "item", "itemId": "deseo", "amount": 6 },
               { "type": "traits", "amount": 5 },
               { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1, "probability": 30 }
+            ],
+             "repeatRewards": [
+              { "type": "coins", "amount": 1000 },
+              { "type": "item", "itemId": "deseo", "amount": 2 },
+              { "type": "traits", "amount": 1, "probability": 50 }
             ]
           },
           {
@@ -45,6 +54,11 @@
               { "type": "item", "itemId": "deseo", "amount": 20 },
               { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1 },
               { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1, "probability": 25 }
+            ],
+            "repeatRewards": [
+              { "type": "coins", "amount": 1000 },
+              { "type": "item", "itemId": "deseo", "amount": 3 },
+              { "type": "traits", "amount": 1, "probability": 70 }
             ]
           },
           {
@@ -56,6 +70,11 @@
               { "type": "traits", "amount": 10 },
               { "type": "item", "itemId": "deseo", "amount": 10 },
               { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 0.01 }
+            ],
+            "repeatRewards": [
+              { "type": "coins", "amount": 1000 },
+              { "type": "item", "itemId": "deseo", "amount": 4 },
+              { "type": "traits", "amount": 1, "probability": 70 }
             ]
           },
           {
@@ -68,6 +87,11 @@
               { "type": "traits", "amount": 10 },
               { "type": "item", "itemId": "deseo", "amount": 25 },
               { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 5 }
+            ],
+            "repeatRewards": [
+              { "type": "coins", "amount": 1000 },
+              { "type": "item", "itemId": "deseo", "amount": 5 },
+              { "type": "traits", "amount": 1, "probability": 90 }
             ]
           },
           {
@@ -79,6 +103,12 @@
               { "type": "traits", "amount": 20 },
               { "type": "item", "itemId": "deseo", "amount": 30 },
               { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 5 }
+            ],
+             "repeatRewards": [
+              { "type": "coins", "amount": 1000 },
+              { "type": "item", "itemId": "deseo", "amount": 6 },
+              { "type": "traits", "amount": 1 },
+              { "type": "traits", "amount": 1, "probability": 50 }
             ]
           },
           {
@@ -91,6 +121,12 @@
               { "type": "traits", "amount": 25 },
               { "type": "item", "itemId": "deseo", "amount": 100 },
               { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 5 }
+            ],
+             "repeatRewards": [
+              { "type": "coins", "amount": 5000 },
+              { "type": "item", "itemId": "deseo", "amount": 7 },
+              { "type": "traits", "amount": 2 },
+              { "type": "traits", "amount": 1, "probability": 50 }
             ]
           }
         ]
@@ -103,27 +139,35 @@
         "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/legendstage.png",
         "levels": [
           {
-            "id": "tierra_nivel_1",
+            "id": "torneohaseo_ls1",
             "levelNumber": 1,
-            "name": "Nivel 1: Llanuras de Entrada",
-            "description": "Comienzo del recorrido terrestre.",
+            "name": "Nivel 1: Bienvenido al infierno",
+            "description": "Han revivido a antiguos monstruos ninja que causaron estragos, ¿podrás encargarte de él?",
             "firstClearRewards": [
-              { "type": "coins", "amount": 1000 },
+              { "type": "coins", "amount": 20000 },
               { "type": "item", "itemId": "material_tierra_base", "name": "Material Terrestre", "amount": 3 }
+            ],
+             "repeatRewards": [
+              { "type": "coins", "amount": 1000 },
+              { "type": "item", "itemId": "material_abismo_base", "name": "Material del Abismo", "amount": 3 }
             ]
           },
           {
-            "id": "tierra_nivel_2",
+            "id": "torneohaseo_ls2",
             "levelNumber": 2,
             "name": "Nivel 2: Garganta de Roca",
             "description": "Supera las defensas de roca ancestral.",
             "firstClearRewards": [
               { "type": "coins", "amount": 2500 },
               { "type": "item", "itemId": "material_tierra_base", "name": "Material Terrestre", "amount": 6 }
+            ],
+             "repeatRewards": [
+              { "type": "coins", "amount": 1000 },
+              { "type": "item", "itemId": "material_abismo_base", "name": "Material del Abismo", "amount": 3 }
             ]
           },
           {
-            "id": "tierra_nivel_3",
+            "id": "torneohaseo_ls3",
             "levelNumber": 3,
             "name": "Nivel 3: Fortaleza Subterránea",
             "description": "Fase de farmeo de materiales de la Tierra.",
@@ -131,10 +175,14 @@
               { "type": "coins", "amount": 5000 },
               { "type": "item", "itemId": "material_tierra_base", "name": "Material Terrestre", "amount": 10 },
               { "type": "pack", "packId": "sobre_elemental", "amount": 1, "probability": 25 }
+            ],
+             "repeatRewards": [
+              { "type": "coins", "amount": 1000 },
+              { "type": "item", "itemId": "material_abismo_base", "name": "Material del Abismo", "amount": 3 }
             ]
           },
           {
-            "id": "tierra_nivel_4",
+            "id": "torneohaseo_ls4",
             "levelNumber": 4,
             "name": "Nivel 4: Titán Terrestre",
             "description": "Enemigo titánico con 1% de probabilidad de drop para la Bendición de Inmo Incompleta.",
@@ -142,10 +190,14 @@
               { "type": "coins", "amount": 10000 },
               { "type": "item", "itemId": "material_tierra_base", "name": "Material Terrestre", "amount": 15 },
               { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 1 }
+            ],
+             "repeatRewards": [
+              { "type": "coins", "amount": 1000 },
+              { "type": "item", "itemId": "material_abismo_base", "name": "Material del Abismo", "amount": 3 }
             ]
           },
           {
-            "id": "tierra_nivel_5",
+            "id": "torneohaseo_ls5",
             "levelNumber": 5,
             "name": "Nivel 5: Núcleo Terrestre",
             "description": "Conquista final de la Tierra. 5% de probabilidad de drop para la Bendición de Inmo Incompleta.",
@@ -154,6 +206,10 @@
               { "type": "traits", "amount": 3 },
               { "type": "item", "itemId": "material_tierra_base", "name": "Material Terrestre", "amount": 25 },
               { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 5 }
+            ],
+             "repeatRewards": [
+              { "type": "coins", "amount": 1000 },
+              { "type": "item", "itemId": "material_abismo_base", "name": "Material del Abismo", "amount": 3 }
             ]
           }
         ]
