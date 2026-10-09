@@ -436,7 +436,7 @@
       "ninjutsu": 15,
       "defensa": 15
     },
-      "manual"= true
+      "manual": true
        },
     "cartasObligatorias": [
         { "id": "hoseki_kaana_coht", "buff": true },
@@ -510,7 +510,7 @@
       "defensa": 10,
       "fisico": 10
     },
-      "manual"= true
+      "manual": true
        },
     "cartasObligatorias": [
         { "id": "kento_rikudo_coht", "trait": "monarch", "buff": true },
@@ -536,7 +536,7 @@
       "ninjutsu": 10,
       "defensa": 10,
     },
-      "manual"= true
+      "manual": true
        },
     "cartasObligatorias": [
         { "id": "madara_uchiha_edotensei", "buff": true },
