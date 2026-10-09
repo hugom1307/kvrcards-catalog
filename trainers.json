@@ -353,4 +353,292 @@
       "ryuki_iconosuperprime"
     ]
   },
+  {
+    "id": "kobe_otsutsuki",
+    "nombre": "Kobe Otsutsuki",
+    "titulo": "1º Escalón",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/kobeotsutsuki.png",
+    "dificultades": ["escalon_1"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/infinito/torneo_haseo.png",
+    "intervaloMedias": [80, 88],
+    "buff": {
+    "nombre": "Bienvenida caliente",
+    "stats": {
+      "taijutsu": 5,
+      "velocidad": 8,
+      "defensa": 5
+    }
+    },
+    "cartasObligatorias": [
+      "kobe_otsutsuki_coht",
+      "daren_hyuga_coht",
+      "taiyo_iconoprime",
+      "shin_uzumaki_heroe",
+      "zagren_senju_heroe",
+      "hiroshi_hutetsu_coht",
+      "ren_logiuka_coht"
+    ]
+  },
+  {
+    "id": "denwa_soru",
+    "nombre": "Denwa Soru",
+    "titulo": "2º Escalón",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/denwasoru.png",
+    "dificultades": ["escalon_2"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/infinito/torneo_haseo.png",
+    "intervaloMedias": [83, 90],
+    "cartasObligatorias": [
+      "denwa_soru_coht@monarch",
+      "akro_otsutsuki_coth",
+      "karn_otsutsuki_coht",
+      "kobe_otsutsuki_coht",
+      "hikou_nero_coht",
+      "benkei_uchiha_evoe@especialista",
+      "ren_logiuka_coht"
+    ]
+  },
+  {
+    "id": "inui_uzumaki",
+    "nombre": "Inui Uzumaki",
+    "titulo": "3º Escalón",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/inui.jpg",
+    "dificultades": ["escalon_3"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/infinito/torneo_haseo.png",
+    "intervaloMedias": [86, 93],
+    "buff": {
+    "nombre": "Intercambio Equivalente",
+    "stats": {
+      "taijutsu": 10,
+      "velocidad": 10,
+    }
+       },
+    "cartasObligatorias": [
+      "inui_uzumaki_heroe@taijutsu3",
+      "sakura_nara_heroe@ninjutsu3",
+      "taiyo_uchiha_evoe",
+      "saiten_otsutsuki_coht@especialista",
+      "maito_gai_edotensei",
+      "daren_hyuga_coht",
+      "makusu_poikon_coht"
+    ]
+  },
+  {
+    "id": "hoseki_kaana",
+    "nombre": "Hoseki Kaana",
+    "titulo": "4º Escalón",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/hosekikaana.png",
+    "dificultades": ["escalon_4"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/infinito/torneo_haseo.png",
+    "intervaloMedias": [87, 93],
+    "buff": {
+    "nombre": "Dúo imparable",
+    "stats": {
+      "ninjutsu": 15,
+      "defensa": 15
+    },
+      "manual"= true
+       },
+    "cartasObligatorias": [
+        { "id": "hoseki_kaana_coht", "buff": true },
+        { "id": "joku_coht",  "buff": true },
+        { "id": "nyusha_otsutsuki_coht", "trait": "especialista", "buff": false },
+        { "id": "karn_otsutsuki_coht", "trait": "especialista", "buff": false },
+        { "id": "temaki_shinjo_coht", "trait": "support_max", "buff": false },
+        { "id": "hiroshi_hutetsu_coht", "trait": "full_support", "buff": false },
+        { "id": "saiten_otsutsuki_coht", "buff": false }
+    ]
+  },
+   {
+    "id": "hoshinori_itto",
+    "nombre": "Hoshinori Itto",
+    "titulo": "5º Escalón",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/itto.png",
+    "dificultades": ["escalon_5"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/infinito/torneo_haseo.png",
+    "intervaloMedias": [88, 95],
+    "cartasObligatorias": [
+      "hoshinori_itto_coht@monarch",
+      "zagren_senju_evoe@especialista",
+      "kai_senju_icono@monarch",
+      "karn_otsutsuki_coht@especialista",
+      "minato_namikaze_edotensei@velocidad3",
+      "daren_hyuga_evoe",
+      "denwa_soru_coht@ninjutsu3"
+    ]
+  },
+   {
+    "id": "rinto",
+    "nombre": "Rinto",
+    "titulo": "6º Escalón",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/rinto.png",
+    "dificultades": ["escalon_6"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/infinito/torneo_haseo.png",
+    "intervaloMedias": [92, 99],
+    "buff": {
+    "nombre": "Los Administradores Mandan",
+    "stats": {
+      "ninjutsu": 5,
+      "taijutsu":5,
+      "resistencia":5,
+      "defensa":5,
+      "fisico":5,
+      "velocidad": 5,
+    }
+       },
+    "cartasObligatorias": [
+      "rinto_coht@monarch",
+      "yuhiro_coht@especialista",
+      "joku_coht@especialista",
+      "makusu_poikon_coht@taijutsu3",
+      "hoseki_kaana_coht@especialista",
+      "madara_uchiha_edotensei",
+      "maito_gai_evo"
+    ]
+  },
+   {
+    "id": "kento_rikudo_niño",
+    "nombre": "Kento Rikudo",
+    "titulo": "7º Escalón",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/kentoniño.png",
+    "dificultades": ["escalon_7"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/infinito/torneo_haseo.png",
+    "intervaloMedias": [94, 99],
+    "buff": {
+    "nombre": "Elementales antiguos",
+    "stats": {
+      "ninjutsu": 10,
+      "defensa": 10,
+      "fisico": 10
+    },
+      "manual"= true
+       },
+    "cartasObligatorias": [
+        { "id": "kento_rikudo_coht", "trait": "monarch", "buff": true },
+        { "id": "obito_uchiha_edotensei", "trait": "especialista",  "buff": false },
+        { "id": "benkei_uchiha_evoe", "trait": "especialista", "buff": true },
+        { "id": "taiyo_uchiha_evoe", "trait": "support_max", "buff": false },
+        { "id": "daren_hyuga_evoe", "trait": "especialista", "buff": true },
+        { "id": "zagren_senju_evoe", "trait": "ninjutsu3", "buff": true },
+        { "id": "sakura_nara_heroe", "buff": false }
+    ]
+  },
+   {
+    "id": "obito_uchiha",
+    "nombre": "Obito Uchiha",
+    "titulo": "'Nadie'",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/obito.png",
+    "dificultades": ["torneohaseo_ls1"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/infinito/torneo_haseo.png",
+    "intervaloMedias": [92, 99],
+    "buff": {
+    "nombre": "La 4a Gran Guerra Ninja",
+   "stats": {
+      "ninjutsu": 10,
+      "defensa": 10,
+    },
+      "manual"= true
+       },
+    "cartasObligatorias": [
+        { "id": "madara_uchiha_edotensei", "buff": true },
+        { "id": "obito_uchiha_edotensei","buff": true },
+        { "id": "maito_gai_edotensei", "trait": "especialista", "buff": false },
+        { "id": "minato_namikaze_edotensei", "buff": false },
+        { "id": "nyusha_otsutsuki_coht", "trait": "especialista", "buff": false },
+        { "id": "kaa_okaami_coht", "trait": "monarch", "buff": false },
+        { "id": "benkei_uchiha_iconosuperprime", "buff": false }
+    ]
+  },
+   {
+    "id": "maito_gai",
+    "nombre": "Maito Gai",
+      "titulo": "La bestia verde de Konoha",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/gai.png",
+    "dificultades": ["torneohaseo_ls2"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/infinito/torneo_haseo.png",
+    "intervaloMedias": [92, 99],
+    "buff": {
+    "nombre": "Yo te declaro el más fuerte de todos",
+    "stats": {
+      "taijutsu":20,
+    }
+       },
+    "cartasObligatorias": [
+      "maito_gai_evo@taijutsu3",
+      "kinan_hatake_iconosuperprime@especialista",
+      "daren_hyuga_evoe@especialista",
+      "sukui_uzumaki_evoe@full_support",
+      "inui_uzumaki_heroe",
+      "sakura_nara_heroe@ninjutsu3",
+      "madara_uchiha_edotensei"
+    ]
+  },
+  {
+    "id": "minato_namikaze",
+    "nombre": "Minato Namikaze",
+      "titulo": "El relámpago amarillo",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/minato.png",
+    "dificultades": ["torneohaseo_ls3"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/infinito/torneo_haseo.png",
+    "intervaloMedias": [92, 99],
+    "buff": {
+    "nombre": "Yo me encargo, tardaré 1 milisegundo",
+    "stats": {
+      "velocidad":20,
+    }
+       },
+    "cartasObligatorias": [
+      "minato_namikaze_evo@velocidad3",
+      "kinan_hatake_iconosuperprime@especialista",
+      "daren_hyuga_evoe@especialista",
+      "ayari_hyuga_heroe@full_support",
+      "shin_uzumaki_heroe",
+      "sakura_nara_heroe@ninjutsu3",
+      "obito_uchiha_edotensei"
+    ]
+  },
+  {
+    "id": "shin_uzumaki",
+    "nombre": "Shin Uzumaki",
+      "titulo": "Shind sin d",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/shin.png",
+    "dificultades": ["torneohaseo_ls4"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/infinito/torneo_haseo.png",
+    "intervaloMedias": [92, 99],
+    "buff": {
+    "nombre": "¿Sabes lo que es el amor?",
+    "stats": {
+      "ninjutsu": 4,
+      "taijutsu":3,
+      "velocidad": 6,
+      "defensa":5
+    }
+       },
+    "cartasObligatorias": [
+      "shin_uzumaki_evo@monarch",
+      "shind_inazuma_iconosuperprime@velocidad3",
+      "himitsu_evo1@especialista",
+      "iyari_ryuga_iconosuperprime@fisico3",
+      "inui_uzumaki_heroe",
+      "zagren_senju_heroe@ninjutsu3",
+      "maito_gai_edotensei"
+    ]
+  },
+   {
+    "id": "kizuna_otsutsuki",
+    "nombre": "Kizuna Otsutsuki",
+      "titulo": "El heredero de Haseo",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/kizuna.png",
+    "dificultades": ["torneohaseo_ls4"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/infinito/torneo_haseo.png",
+    "intervaloMedias": [92, 99],
+    "cartasObligatorias": [
+      "kizuna_otsutsuki_coht@monarch",
+      "nyusha_otsutsuki_coht@monarch",
+      "karn_otsutsuki_coht@especialista",
+      "kobe_otstusuki_coht@especialista",
+      "akro_otsutsuki_coht@support_max",
+      "saiten_otsutsuki_coht@full_support",
+      "raik_otsutsuki_coht@especialista"
+    ]
+  }
 ]
