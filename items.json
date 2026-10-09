@@ -12,5 +12,75 @@
   "description": "Canjea tu deseo en la tienda del evento del Torneo de Haseo",
   "calidad": "Raro",
   "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/deseo.png"
-},  
+},
+{
+  "id": "alma_del_sol",
+  "name": "Alma del Sol",
+  "description": "Este alma... me recuerda al de cierta danza, quizás sirva para algún personaje.",
+  "calidad": "Mítico",
+  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Alma_del_Sol.png"
+},
+{
+  "id": "capa_baryon_yang",
+  "name": "Capa Baryon Yang",
+  "description": "El gran modo baryon de Minato, con el cual le pegó una paliza a Shin.",
+  "calidad": "Mítico",
+  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Capa_Baryon_Yang.png"
+},
+{
+  "id": "capa_baryon_ying",
+  "name": "Capa Baryon Ying",
+  "description": "El gran modo baryon de Shin, con el cual no ganó, pero dejó buenos momentos.",
+  "calidad": "Mítico",
+  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Capa_Baryon_Ying.png"
+},
+{
+  "id": "octava_puerta",
+  "name": "Octava Puerta",
+  "description": "Finalmente obtuviste la octava puerta, solo encájala en el personaje indicado y disfruta de ella.",
+  "calidad": "Mítico",
+  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Octava_Puerta.png"
+},
+{
+  "id": "pergamino_elemental_agua",
+  "name": "Pergamino Elemental Agua",
+  "description": "Entrégalo a Daren Hyuga para desbloquear su poder interno.",
+  "calidad": "Mítico",
+  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Pergamino_elemental_agua.png"
+},
+{
+  "id": "pergamino_elemental_fuego",
+  "name": "Pergamino Elemental Fuego",
+  "description": "Entrégalo a Zagren Senju para desbloquear su poder interno.",
+  "calidad": "Mítico",
+  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Pergamino_elemental_fuego.png"
+},
+{
+  "id": "pergamino_elemental_rayo",
+  "name": "Pergamino Elemental Rayo",
+  "description": "Entrégalo a Benkei Uchiha para desbloquear su poder interno.",
+  "calidad": "Mítico",
+  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Pergamino_elemental_rayo.png"
+},
+{
+  "id": "bankakyo_byakugan",
+  "name": "Bankakyo Byakugan",
+  "description": "Cuando juntes dos de estos ojos, podrás desbloquear al verdadero heredero otsutsuki.",
+  "calidad": "Mítico",
+  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/bankaikio_byakugan.png"
+},
+{
+  "id": "pergamino_elemental_agua",
+  "name": "Pergamino Elemental Agua",
+  "description": "Entrégalo a Daren Hyuga para desbloquear su poder interno.",
+  "calidad": "Mítico",
+  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Pergamino_elemental_agua.png"
+},
+{
+  "id": "puertas_internas",
+  "name": "Puertas Internas",
+  "description": "Has conseguido activar las puertas internas. Si consigues 8, podrás canjear algo especial.",
+  "calidad": "Mítico",
+  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/puertasinternas.png"
+},
 ]
