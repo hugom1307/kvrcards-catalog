@@ -119,6 +119,29 @@
     "order": 11
   },
   {
+    "id": "edotensei",
+    "name": "Edo Tensei",
+    "special": true,
+    "maskImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/calidades/edotensei.png",
+    "sparkColor": "#5f8cb4",
+    "tradeable": true,
+    "packable": true,
+    "valor": 10000,
+    "order": 12
+  },
+   {
+    "id": "coht",
+    "name": "C.O.H.T (Card Of Haseo's Tournament)",
+    "special": true,
+    "maskImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/calidades/coht.png",
+    "sparkColor": "#474b4e",
+    "tradeable": true,
+    "packable": true,
+    "valor": 10000,
+    "order": 13
+  }, 
+
+  {
     "id": "evo",
     "name": "Evo",
     "special": true,
