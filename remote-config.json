@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "2.0.0",
-                    "minimumRequired":  "2.0.0",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.0.0.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.0.0.zip",
-                    "changelog":  "Versión 2.0: Torneo de Haseo, Edo Tensei, Temporada 2 de Infinito y Nuevas Misiones",
+                    "current":  "2.0.1",
+                    "minimumRequired":  "2.0.1",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.0.1.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.0.1.zip",
+                    "changelog":  "Fixes v2.0.1: Misiones de ciclo y eventos, desactivacion de traits en combate y persistencia de piso infinito",
                     "forceUpdate":  true
                 }
 }

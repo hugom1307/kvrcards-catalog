@@ -1,6 +1,18 @@
 {
   "updates": [
     {
+      "version": "2.0.1",
+      "title": "Parche 2.0.1: Hotfix Misiones, Rasgos y Persistencia",
+      "description": "Corrección de errores: filtrado de ciclo en misiones maestras diarias y semanales, seguimiento estricto por nivel en evento especial, desactivación total de traits en combate y comparador, y persistencia blindada del piso en Modo Infinito.",
+      "date": "2026-10-10",
+      "improvements": [
+        "Las misiones de maestría diaria y semanal ahora evalúan estrictamente el ciclo activo (06:00 AM) sin contar estados pasados.",
+        "Las misiones de evento especial con nivel específico (Escalón 7 y Torneo Haseo LS5) solo registran victorias en dicho nivel.",
+        "Anulación estricta de bonificaciones de rasgos (traits) en combates de Evento Especial y modificador 'Sin Rasgos' en Modo Infinito, reflejándose correctamente en el comparador y desempates.",
+        "Corrección del guardado y recuperación del Modo Infinito para evitar reinicios involuntarios al piso 1 al reiniciar el juego."
+      ]
+    },
+    {
       "version": "2.0.0",
       "title": "Versión 2.0: Torneo de Haseo, Edo Tensei & Temporada 2",
       "description": "Llega la mayor actualización de KVRCards con el inicio de la Temporada 2 del Modo Infinito, el evento especial del Torneo de Haseo, 38 nuevas cartas (Edo Tensei, COHT, Evoluciones y Exclusivas), dos nuevos sobres temáticos, zoom en tienda, nuevas misiones y códigos promocionales.",
