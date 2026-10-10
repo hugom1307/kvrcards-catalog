@@ -274,7 +274,7 @@
         "maxCartas": 3
       },
       "requisitos": {
-        "mediaMinima": null,
+        "mediaMinima": 80,
         "mediaMaxima": null,
         "cartasEspecificas": [],
         "calidades": [
@@ -368,180 +368,6 @@
       },
       "repetible": 3,
       "resetDiario": true
-    },
-    {
-      "id": "evento_sacrificio_kento",
-      "nombre": "Sacrificio del Rey Elemental",
-      "tipo": "evento",
-      "descripcion": "Entrega la carta de Kento Rikudo a cambio de 1 Sobre Legendario (3x +86).",
-      "imagenes": [
-        "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_legendario.png"
-      ],
-      "limites": {
-        "minCartas": 1,
-        "maxCartas": 1
-      },
-      "requisitos": {
-        "mediaMinima": null,
-        "mediaMaxima": null,
-        "cartasEspecificas": [
-          "kento_rikudo"
-        ],
-        "calidades": [],
-        "stats": {
-          "ninjutsuMin": null,
-          "ninjutsuMax": null,
-          "taijutsuMin": null,
-          "taijutsuMax": null,
-          "velocidadMin": null,
-          "velocidadMax": null,
-          "defensaMin": null,
-          "defensaMax": null,
-          "resistenciaMin": null,
-          "resistenciaMax": null,
-          "fisicoMin": null,
-          "fisicoMax": null
-        },
-        "procedencias": {
-          "minimo": {},
-          "maximo": {}
-        },
-        "owners": {
-          "minimo": {},
-          "maximo": {}
-        }
-      },
-      "recompensas": {
-        "packs": [
-          {
-            "id": "sobre_legendario",
-            "cantidad": 1
-          }
-        ]
-      },
-      "repetible": false
-    },
-    {
-      "id": "evento_elemental",
-      "nombre": "Poder Elemental",
-      "tipo": "evento",
-      "descripcion": "Entrega 5 cartas con al menos 3 de calidad Oro y al menos 1 de Mundo Subterráneo a cambio de 2 Sobres Elementales.",
-      "imagenes": [
-        "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_elemental.png"
-      ],
-      "limites": {
-        "minCartas": 5,
-        "maxCartas": 5
-      },
-      "requisitos": {
-        "mediaMinima": null,
-        "mediaMaxima": null,
-        "cartasEspecificas": [],
-        "calidades": {
-          "minimo": {
-            "Oro": 3
-          },
-          "maximo": {}
-        },
-        "stats": {
-          "ninjutsuMin": null,
-          "ninjutsuMax": null,
-          "taijutsuMin": null,
-          "taijutsuMax": null,
-          "velocidadMin": null,
-          "velocidadMax": null,
-          "defensaMin": null,
-          "defensaMax": null,
-          "resistenciaMin": null,
-          "resistenciaMax": null,
-          "fisicoMin": null,
-          "fisicoMax": null
-        },
-        "procedencias": {
-          "minimo": {
-            "Mundo Subterráneo": 1
-          },
-          "maximo": {}
-        },
-        "owners": {
-          "minimo": {},
-          "maximo": {}
-        }
-      },
-      "recompensas": {
-        "packs": [
-          {
-            "id": "sobre_elemental",
-            "cantidad": 2
-          }
-        ]
-      },
-      "repetible": 3
-    },
-    {
-      "id": "evento_tsukiro_cota",
-      "nombre": "Invocación: Tsukiro Card Of The Arc (C.O.T.A)",
-      "tipo": "evento",
-      "descripcion": "Entrega 6 cartas (al menos 4 de calidad Oro, 1 de Jinushi, 2 de Amegakure, 1 de Grejino02 y al menos 1 con media 80+) a cambio de Tsukiro COTA y 15.000 Coins.",
-      "imagenes": [
-        "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/tsukirocota1.png"
-      ],
-      "limites": {
-        "minCartas": 6,
-        "maxCartas": 6
-      },
-      "requisitos": {
-        "mediaMinima": null,
-        "mediaMaxima": null,
-        "minimoCartasConMedia": {
-          "media": 80,
-          "cantidad": 1
-        },
-        "cartasEspecificas": [],
-        "calidades": {
-          "minimo": {
-            "Oro": 4
-          },
-          "maximo": {}
-        },
-        "stats": {
-          "ninjutsuMin": null,
-          "ninjutsuMax": null,
-          "taijutsuMin": null,
-          "taijutsuMax": null,
-          "velocidadMin": null,
-          "velocidadMax": null,
-          "defensaMin": null,
-          "defensaMax": null,
-          "resistenciaMin": null,
-          "resistenciaMax": null,
-          "fisicoMin": null,
-          "fisicoMax": null
-        },
-        "procedencias": {
-          "minimo": {
-            "Jinushi": 1,
-            "Amegakure": 2
-          },
-          "maximo": {}
-        },
-        "owners": {
-          "minimo": {
-            "Grejino02": 1
-          },
-          "maximo": {}
-        }
-      },
-      "recompensas": {
-        "coins": 15000,
-        "cards": [
-          {
-            "id": "raiden_fuutaro_tsukirocota1",
-            "cantidad": 1
-          }
-        ]
-      },
-      "repetible": false
     },
     {
       "id": "sbc_hangaku_sbc",
@@ -692,6 +518,192 @@
       "resetDiario": true,
       "limiteDiario": 1,
       "repetible": 1
+    },
+    {
+  "id": "sbc_gaara_sbc",
+  "nombre": "SBC Especial: Gaara (Edo Tensei)",
+  "tipo": "especial",
+  "descripcion": "Entrega exactamente 30 cartas (29 de calidad Oro y 1 de calidad Edo Tensei, con al menos 15 de HugoMan1307, al menos 5 de Sunagakure y al menos 5 con media 86+) a cambio de 2 Sobres Torneo de Haseo y la carta Gaara (Edo Tensei) SBC.",
+  "imagenes": [
+    "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/gaara.png",
+    "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_torneodehaseo.png"
+  ],
+  "limites": {
+    "minCartas": 30,
+    "maxCartas": 30
+  },
+  "requisitos": {
+    "mediaMinima": null,
+    "mediaMaxima": null,
+    "minimoCartasConMedia": {
+      "media": 86,
+      "cantidad": 5
+    },
+    "cartasEspecificas": [],
+    "calidades": {
+      "minimo": {
+        "Oro": 29,
+        "edotensei": 1
+      },
+      "maximo": {}
+    },
+    "stats": {
+      "ninjutsuMin": null,
+      "ninjutsuMax": null,
+      "taijutsuMin": null,
+      "taijutsuMax": null,
+      "velocidadMin": null,
+      "velocidadMax": null,
+      "defensaMin": null,
+      "defensaMax": null,
+      "resistenciaMin": null,
+      "resistenciaMax": null,
+      "fisicoMin": null,
+      "fisicoMax": null
+    },
+    "procedencias": {
+      "minimo": {
+        "Sunagakure": 5
+      },
+      "maximo": {}
+    },
+    "owners": {
+      "minimo": {
+        "HugoMan1307": 15
+      },
+      "maximo": {}
     }
+  },
+  "recompensas": {
+    "packs": [
+      {
+        "id": "sobre_torneohaseo",
+        "cantidad": 2
+      }
+    ],
+    "cards": [
+      {
+        "id": "gaara_sbc",
+        "cantidad": 1
+      }
+    ]
+  },
+  "repetible": false
+},
+  {
+  "id": "evento_diario_torneo_haseo",
+  "nombre": "Desafío Diario: Torneo de Haseo",
+  "tipo": "evento",
+  "descripcion": "Entrega 15 cartas con media 79+ (exactamente 14 cartas de calidad Oro y 1 carta Especial) a cambio de 10.000 Coins y 1 Sobre Torneo de Haseo.",
+  "imagenes": [
+    "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_torneodehaseo.png"
+  ],
+  "limites": {
+    "minCartas": 15,
+    "maxCartas": 15
+  },
+  "requisitos": {
+    "mediaMinima": 79,
+    "mediaMaxima": null,
+    "cartasEspecificas": [],
+    "calidades": {
+      "minimo": {
+        "Oro": 14,
+        "special": 1
+      },
+      "maximo": {}
+    },
+    "stats": {
+      "ninjutsuMin": null,
+      "ninjutsuMax": null,
+      "taijutsuMin": null,
+      "taijutsuMax": null,
+      "velocidadMin": null,
+      "velocidadMax": null,
+      "defensaMin": null,
+      "defensaMax": null,
+      "resistenciaMin": null,
+      "resistenciaMax": null,
+      "fisicoMin": null,
+      "fisicoMax": null
+    },
+    "procedencias": {
+      "minimo": {},
+      "maximo": {}
+    },
+    "owners": {
+      "minimo": {},
+      "maximo": {}
+    }
+  },
+  "recompensas": {
+    "coins": 10000,
+    "packs": [
+      {
+        "id": "sobre_torneohaseo",
+        "cantidad": 1
+      }
+    ]
+  },
+  "resetDiario": true,
+  "limiteDiario": 3,
+  "repetible": 3
+},
+    {
+  "id": "evento_invocacion_edotensei",
+  "nombre": "Invocación: Resurrección Edo Tensei",
+  "tipo": "evento",
+  "descripcion": "Entrega 15 cartas con media 85+ (exactamente 10 cartas de calidad Oro y 5 cartas Especiales) a cambio de 1 Sobre Edo Tensei Asegurado.",
+  "imagenes": [
+    "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_edotensei.png"
+  ],
+  "limites": {
+    "minCartas": 15,
+    "maxCartas": 15
+  },
+  "requisitos": {
+    "mediaMinima": 85,
+    "mediaMaxima": null,
+    "cartasEspecificas": [],
+    "calidades": {
+      "minimo": {
+        "Oro": 10,
+        "special": 5
+      },
+      "maximo": {}
+    },
+    "stats": {
+      "ninjutsuMin": null,
+      "ninjutsuMax": null,
+      "taijutsuMin": null,
+      "taijutsuMax": null,
+      "velocidadMin": null,
+      "velocidadMax": null,
+      "defensaMin": null,
+      "defensaMax": null,
+      "resistenciaMin": null,
+      "resistenciaMax": null,
+      "fisicoMin": null,
+      "fisicoMax": null
+    },
+    "procedencias": {
+      "minimo": {},
+      "maximo": {}
+    },
+    "owners": {
+      "minimo": {},
+      "maximo": {}
+    }
+  },
+  "recompensas": {
+    "packs": [
+      {
+        "id": "sobre_edotensei",
+        "cantidad": 1
+      }
+    ]
+  },
+  "repetible": false
+}
   ]
 }
