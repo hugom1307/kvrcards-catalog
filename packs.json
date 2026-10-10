@@ -167,9 +167,9 @@
 },
 {
   "id": "sobre_legendario",
-  "name": "Sobre Legendario (3x +86)",
-  "cardsPerPack": 3,
-  "minMedia": 86,
+  "name": "Sobre Legendario (2x +88)",
+  "cardsPerPack": 2,
+  "minMedia": 88,
   "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_legendario.png",
   "openingGradient": ["#FFFBEB", "#F59E0B", "#D97706"],
   "price": { "coins": 100000, "kvr": 310 }
