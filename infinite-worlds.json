@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "worldOrder": [
     "amegakure_guerra",
     "laboratorio",
@@ -11,7 +11,7 @@
     "guerradanzas",
     "konohagakure_antigua",
     "torneo_multiversal",
-    "kazegakure",
+    "kazegakure"
     
   ],
   "worlds": [
