@@ -498,7 +498,7 @@
   {
     "id": "dinero",
     "title": "Plata 🤑",
-    "group":"Otros",
+    "group":"Dúos",
     "description": "Todo sea por el dinero.",
     "cardIds": ["zhen_uzumaki","dongonzalez"],
     "rewards": [
@@ -633,7 +633,7 @@
   {
     "id": "rivalidad",
     "title": "Rivalidad eterna",
-    "group":"Otros",
+    "group":"Dúos",
     "description": "Al comienzo se enfrentaron y al final también, pero nunca perdieron el respeto por el otro.",
     "cardIds": ["kinan_hatake","kiri_uzumaki"],
     "rewards": [
@@ -887,7 +887,7 @@
   {
     "id": "nigromantes",
     "title": "Nigromantes",
-    "group":"Otros",
+    "group":"Dúos",
     "description": "Peligrosos para la vida y el alma de la gente.",
     "cardIds": ["kenji_nara","shiroku_kowai"],
     "rewards": [
@@ -922,7 +922,7 @@
  {
     "id": "animales_misticos",
     "title": "Animales Místicos",
-    "group":"Otros",
+    "group":"Gokei",
     "description": "No se saben que son exactamente, pero definitivamente no son normales y provienen de dioses antiguos.",
     "cardIds": ["kyo","jimmy","suta"],
     "rewards": [
@@ -1349,7 +1349,7 @@
   {
     "id": "mejores_amigos",
     "title": "Mejores amigos",
-    "group":"Otros",
+    "group":"Dúos",
     "description": "Se apreciaban mutuamente tanto como amigos como rivales desafiantes, pero ambos sentimientos acabaron por la muerte, sin embargo el vivo siempre recordará y llevará consigo al fallecido.",
     "cardIds": ["sukui_uzumaki","ransu_hatake_icono"],
     "rewards": [
@@ -1574,7 +1574,7 @@
   {
     "id": "electricidad_maldita",
     "title": "Electricidad maldita",
-    "group":"Otros",
+    "group":"Dúos",
     "description": "Un duo de los más antiguos y peligrosos, uno de ellos fue capaz de dejar a Konohagakure sin luz usando sus...'métodos'.",
     "cardIds": ["manuel_hyuga_icono","shind_inazuma_icono"],
     "rewards": [
@@ -1651,7 +1651,7 @@
   {
     "id": "amor_confuso",
     "title": "Amor confuso",
-    "group":"Familias",
+    "group":"Dúos",
     "description": "Un romance con un futuro prometedor, más ese futuro nunca llegó.",
     "cardIds": ["sakura_nara_heroe","benkei_uchiha_evoe"],
     "rewards": [
@@ -1691,7 +1691,7 @@
   {
     "id": "vip_y_administrador",
     "title": "VIP y administrador",
-    "group":"Otros",
+    "group":"Torneo de Haseo",
     "description": "Se importante en el gran torneo de Haseo.",
     "cardIds": ["makusu_poikon_coht","joku_coht"],
     "rewards": [
@@ -1718,7 +1718,7 @@
   {
     "id": "dios_y_creyente",
     "title": "Dios y creyente",
-    "group":"Otros",
+    "group":"Dúos",
     "description": "Fieles a sus creencias.",
     "cardIds": ["saiten_otsutsuki_coht","hashin_otsutsuki"],
     "rewards": [
@@ -1744,7 +1744,7 @@
    {
     "id": "puerta",
     "title": "Puertas al límite",
-    "group":"Otros",
+    "group":"Dúos",
     "description": "Aquellos que llevaron el poder de las 8º puertas internas hasta el límite.",
     "cardIds": ["maito_gai_evo","kinan_hatake_iconosuperprime"],
     "rewards": [
@@ -1820,7 +1820,7 @@
    {
     "id": "administradores",
     "title": "Administradores",
-    "group":"Otros",
+    "group":"Torneo de Haseo",
     "description": "Los más importantes del torneo de Haseo.",
     "cardIds": ["rinto_coht","yuhiro_coht","joku_coht","daren_hyuga_coht","kizuna_otsutsuki_coht"],
     "rewards": [
