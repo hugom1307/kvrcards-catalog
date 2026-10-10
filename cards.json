@@ -4144,6 +4144,16 @@
     "calidad": "coht",
     "procedencia": "Mundo Subterráneo",
     "owner": "Hugoman1307"
+  },
+  {
+    "id": "haseo_otsutsuki_exclusive",
+    "name": "Haseo Otsutsuki",
+    "stats": [100,95,91,94,91,83],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/haseoexclusive.png",
+    "media": 92,
+    "calidad": "exclusive",
+    "procedencia": "Torneo de Haseo",
+    "owner": "Hugoman1307"
   }
   
 ]
