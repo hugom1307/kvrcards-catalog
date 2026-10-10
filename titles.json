@@ -349,6 +349,34 @@
     "description": "<<Kylian Dictador 🫡>>",
     "gradient":"linear-gradient(to bottom, #8A2387 0%, #E94057 60%, #F27121 100%)",
     "unlockDescription":"Asciende al plano superior de alta esfera a base de corrupción"
+  },
+ {
+    "id": "otsutsuki",
+    "name": "Otsutsuki",
+    "description": "Reune a la raza que dió guerra en el pasado",
+    "gradient":"linear-gradient(to bottom, #5CE1FF 0%, #ECECEC 25%, #05C1FF 50%, #E9E9E9 75%, #9CF7FF 100%)",
+    "unlockDescription":"Completa el Kizuna 'Clan Otsutsuki'"
+  },
+    {
+    "id": "administrador",
+    "name": "Administrador",
+    "description": "Invitado especial del torneo de Haseo",
+    "gradient":"linear-gradient(to bottom, #FFD412 0%, #FFA73D 30%, #FF580A 60%, #FFF36A 100%)",
+    "unlockDescription":"Completa el Kizuna 'Administradores'"
+  },
+  {
+    "id": "octava_puerta",
+    "name": "8º PUERTA",
+    "description": "¡8º PUERTA, ABIERTA!",
+    "gradient":"linear-gradient(to bottom, #3251FF 0%, #FF0000 50%, #000000 100%)",
+    "unlockDescription":"Completa el Kizuna 'Puertas al límite'"
+  },
+{
+    "id": "vip",
+    "name": "V.I.P",
+    "description": "Acompaña a tu administrador en el gran torneo de Haseo",
+    "gradient":"linear-gradient(to right, #CFCFCF 0%, #CBE43F 50%, #A5AD49 50%, #745E5E 100%)",
+    "unlockDescription":"Compra este título en la tienda del evento especial: Torneo de Haseo'"
   }
 
 ]
