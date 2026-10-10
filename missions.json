@@ -1023,56 +1023,6 @@
     "repeatable": false
   },
   {
-    "id": "logro_elemental_2",
-    "category": "limited",
-    "title": "Novatos elementales",
-    "description": "Consigue a los 4 nuevos elementales",
-    "requirement": [
-      {
-        "type": "own_card",
-        "cardId": "taka_uzumaki",
-        "amount": 1
-      },
-      {
-        "type": "own_card",
-        "cardId": "sekitan",
-        "amount": 1
-      },
-      {
-        "type": "own_card",
-        "cardId": "sukui_uzumaki",
-        "amount": 1
-      },
-      {
-        "type": "own_card",
-        "cardId": "kurai_tenro",
-        "amount": 1
-      }
-    ],
-    "rewards": [
-      {
-        "type": "coins",
-        "amount": 5000
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_bronce",
-        "amount": 3
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_oro",
-        "amount": 3
-      },
-      {
-        "type": "pack",
-        "packId": "sobre_elemental",
-        "amount": 2
-      }
-    ],
-    "repeatable": false
-  },
-  {
     "id": "bronze_unico_1",
     "category": "fundamentals",
     "title": "Bronceado único 1",
@@ -1681,6 +1631,160 @@
         "type": "pack",
         "packId": "sobre_especial",
         "amount": 3
+      }
+    ],
+    "repeatable": false
+  },
+    {
+    "id": "daily_todas_las_misiones",
+    "category": "daily",
+    "title": "Maestría Diaria",
+    "description": "Completa todas las misiones diarias",
+    "requirement": {
+      "type": "complete_all_daily_missions",
+      "description": "Completar todas las misiones diarias"
+    },
+    "rewards": [
+      {
+        "type": "traits",
+        "amount": 5
+      },
+      {
+        "type": "coins",
+        "amount": 10000
+      }
+    ],
+    "repeatable": true
+  },
+  {
+    "id": "weekly_todas_las_misiones",
+    "category": "weekly",
+    "title": "Maestría Semanal",
+    "description": "Completa todas las misiones semanales",
+    "requirement": {
+      "type": "complete_all_weekly_missions",
+      "description": "Completar todas las misiones semanales"
+    },
+    "rewards": [
+      {
+        "type": "traits",
+        "amount": 20
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_especial",
+        "amount": 1
+      }
+    ],
+    "repeatable": true
+  },
+  {
+    "id": "limited_conseguir_haseo_exclusive",
+    "category": "limited",
+    "title": "El gran anfitrión",
+    "description": "Consigue a Haseo Otsutsuki (Exclusive)",
+    "requirement": {
+      "type": "own_card",
+      "cardId": "haseo_exclusive",
+      "amount": 1,
+      "description": "Poseer a Haseo Otsutsuki (Exclusive)"
+    },
+    "rewards": [
+      {
+        "type": "background",
+        "backgroundId": "fondo_haseoinfinito"
+      },
+      {
+        "type": "coins",
+        "amount": 50000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_torneohaseo",
+        "amount": 1
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "limited_ayari_y_daren",
+    "category": "limited",
+    "title": "Lazos elementales",
+    "description": "Obtén a Ayari Hyūga (Héroe) y a Daren Hyūga (Evo E)",
+    "requirement": [
+      {
+        "type": "own_card",
+        "cardId": "ayari_hyuga_heroe",
+        "amount": 1,
+        "description": "Poseer a Ayari Hyūga (Héroe)"
+      },
+      {
+        "type": "own_card",
+        "cardId": "daren_hyuga_evoe",
+        "amount": 1,
+        "description": "Poseer a Daren Hyūga (Evo E)"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "background",
+        "backgroundId": "fondo_ayaridaren"
+      },
+      {
+        "type": "coins",
+        "amount": 20000
+      },
+      {
+        "type": "traits",
+        "amount": 10
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "limited_escalon_7_master",
+    "category": "limited",
+    "title": "Dominio del Escalón 7",
+    "description": "Gana 10 veces el nivel Escalón 7 del evento especial",
+    "requirement": {
+      "type": "win_special_event_level",
+      "levelId": "escalon_7",
+      "amount": 10,
+      "description": "Ganar 10 veces el nivel Escalón 7"
+    },
+    "rewards": [
+      {
+        "type": "pack",
+        "packId": "sobre_edotensei",
+        "amount": 1
+      },
+      {
+        "type": "background",
+        "backgroundId": "fondo_entrenamientohaseo"
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "limited_torneohaseo_ls5_master",
+    "category": "limited",
+    "title": "Ganador del Torneo de Haseo",
+    "description": "Gana 10 veces el nivel Torneo Haseo LS5 del evento especial",
+    "requirement": {
+      "type": "win_special_event_level",
+      "levelId": "torneohaseo_ls5",
+      "amount": 10,
+      "description": "Ganar 10 veces el nivel Torneo Haseo LS5"
+    },
+    "rewards": [
+      {
+        "type": "pack",
+        "packId": "sobre_torneohaseo",
+        "amount": 4
+      },
+      {
+        "type": "background",
+        "backgroundId": "puzzle_haseo"
       }
     ],
     "repeatable": false
