@@ -228,7 +228,7 @@
   "price": { "coins": 10000, "kvr": 0 }
 },
 {
-  "id": "sobre_torneodehaseo",
+  "id": "sobre_torneohaseo",
   "name": "Sobre Torneo de Haseo",
   "cardsPerPack": 1,
   "strategy": "qualityMedia",
