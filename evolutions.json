@@ -652,6 +652,176 @@
           "target": 10
         }
       ]
-    }
+    },
+      {
+    "id": "evo_evento_maito_gai",
+    "name": "Evolución de Evento: Maito Gai",
+    "type": "event",
+    "repeatable": false,
+    "cardFrom": "maito_gai_edotensei",
+    "cardTo": "maito_gai_evo",
+    "requiredItems": [
+      {
+        "id": "octava_puerta",
+        "amount": 1
+      }
+    ],
+    "missions": [
+      {
+        "id": "maito_gai_evo_m1_battles",
+        "description": "Juega 30 partidas con Maito Gai (Edo Tensei) en tu equipo",
+        "type": "play_games_with_card",
+        "target": 30
+      },
+      {
+        "id": "maito_gai_evo_m2_rounds",
+        "description": "Gana 50 rondas en combate con Maito Gai (Edo Tensei)",
+        "type": "rounds_won",
+        "target": 50,
+        "cardRequired": true
+      }
+    ]
+  },
+  {
+    "id": "evo_evento_minato_namikaze",
+    "name": "Evolución de Evento: Minato Namikaze",
+    "type": "event",
+    "repeatable": false,
+    "cardFrom": "minato_namikaze_edotensei",
+    "cardTo": "minato_namikaze_evo",
+    "requiredItems": [
+      {
+        "id": "capa_baryon_yang",
+        "amount": 1
+      }
+    ],
+    "missions": [
+      {
+        "id": "minato_namikaze_evo_m1_battles",
+        "description": "Juega 30 partidas con Minato Namikaze (Edo Tensei) en tu equipo",
+        "type": "play_games_with_card",
+        "target": 30
+      },
+      {
+        "id": "minato_namikaze_evo_m2_rounds",
+        "description": "Gana 50 rondas en combate con Minato Namikaze (Edo Tensei)",
+        "type": "rounds_won",
+        "target": 50,
+        "cardRequired": true
+      }
+    ]
+  },
+  {
+    "id": "evo_evento_taiyo_uchiha",
+    "name": "Evolución de Evento: Taiyo Uchiha",
+    "type": "event",
+    "repeatable": false,
+    "cardFrom": "taiyo_uchiha_icono",
+    "cardTo": "taiyo_uchiha_evo",
+    "requiredItems": [
+      {
+        "id": "alma_del_sol",
+        "amount": 1
+      }
+    ],
+    "missions": [
+      {
+        "id": "taiyo_uchiha_evo_m1_rounds_owner",
+        "description": "Gana 25 rondas con cartas creadas por TaiyoDL",
+        "type": "rounds_won_with_filter",
+        "owner": "TaiyoDL",
+        "target": 25
+      }
+    ]
+  },
+  {
+    "id": "evo_evento_shin_uzumaki",
+    "name": "Evolución de Evento: Shin Uzumaki",
+    "type": "event",
+    "repeatable": false,
+    "cardFrom": "shin_uzumaki_heroe",
+    "cardTo": "shin_uzumaki_evo",
+    "requiredItems": [
+      {
+        "id": "capa_baryon_ying",
+        "amount": 1
+      }
+    ],
+    "missions": [
+      {
+        "id": "shin_uzumaki_evo_m1_rounds_owner",
+        "description": "Gana 25 rondas con cartas creadas por Alecrackman",
+        "type": "rounds_won_with_filter",
+        "owner": "Alecrackman",
+        "target": 25
+      }
+    ]
+  },
+  {
+    "id": "evo_evento_daren_hyuga",
+    "name": "Evolución de Evento: Daren Hyuga",
+    "type": "event",
+    "repeatable": false,
+    "cardFrom": "daren_hyuga_coht",
+    "cardTo": "daren_hyuga_evoe",
+    "requiredItems": [
+      {
+        "id": "pergamino_elemental_agua",
+        "amount": 3
+      }
+    ],
+    "missions": [
+      {
+        "id": "daren_hyuga_evoe_m1_battle",
+        "description": "Juega 1 partida con Daren Hyuga (COHT) en tu equipo",
+        "type": "play_games_with_card",
+        "target": 1
+      }
+    ]
+  },
+  {
+    "id": "evo_evento_zagren_senju",
+    "name": "Evolución de Evento: Zagren Senju",
+    "type": "event",
+    "repeatable": false,
+    "cardFrom": "zagren_senju_heroe",
+    "cardTo": "zagren_senju_evoe",
+    "requiredItems": [
+      {
+        "id": "pergamino_elemental_fuego",
+        "amount": 3
+      }
+    ],
+    "missions": [
+      {
+        "id": "zagren_senju_evoe_m1_battle",
+        "description": "Juega 1 partida con Zagren Senju (Héroe) en tu equipo",
+        "type": "play_games_with_card",
+        "target": 1
+      }
+    ]
+  },
+  {
+    "id": "evo_evento_benkei_uchiha",
+    "name": "Evolución de Evento: Benkei Uchiha",
+    "type": "event",
+    "repeatable": false,
+    "cardFrom": "benkei_uchiha_icono",
+    "cardTo": "benkei_uchiha_evoe",
+    "requiredItems": [
+      {
+        "id": "pergamino_elemental_rayo",
+        "amount": 3
+      }
+    ],
+    "missions": [
+      {
+        "id": "benkei_uchiha_evoe_m1_battle",
+        "description": "Juega 1 partida con Benkei Uchiha (Ícono) en tu equipo",
+        "type": "play_games_with_card",
+        "target": 1
+      }
+    ]
+  }
   ]
 }
