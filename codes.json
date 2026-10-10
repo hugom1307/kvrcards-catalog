@@ -3,7 +3,7 @@
   "codes": [
     {
       "code": "DELAYCARDS",
-      "active": true,
+      "active": false,
       "rewardsType": "mixed",
       "rewards": {
         "coins": 10000,
@@ -25,7 +25,7 @@
     },
     {
       "code": "ELEMENTALARC",
-      "active": true,
+      "active": false,
       "rewardsType": "mixed",
       "rewards": {
         "traits": 5,
@@ -168,6 +168,34 @@
        
       },
       "description": "Sentimos un montón los cambios de balance del primer día y los borrados de carta, no queremos afectar negativamente la experiencia del juego, toma esto a cambio."
+    },
+     {
+      "code": "VERSION2ISHERE",
+      "active": true,
+      "rewardsType": "mixed",
+      "rewards": {
+        "packs": [
+          {
+            "packId": "sobre_torneodehaseo",
+            "quantity": 1
+          },
+          {
+            "packId": "sobre_85_plus",
+            "quantity": 2
+          }
+        ]
+      },
+      "description": "¡Celebración de la Versión 2.0! Recompensa: 1 Sobre Torneo de Haseo y 2 Sobres Élite Oscuro +85."
+    },
+    {
+      "code": "INEEDTRAITS",
+      "active": true,
+      "rewardsType": "mixed",
+      "rewards": {
+        "coins": 50000,
+        "traits": 25
+      },
+      "description": "Pack de recursos: 50.000 Coins y 25 Traits."
     }
   ]
 }
