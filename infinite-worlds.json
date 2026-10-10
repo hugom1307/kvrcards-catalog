@@ -1,17 +1,18 @@
 {
   "version": 6,
   "worldOrder": [
-    "konohagakure_antigua",
-    "techlin",
-    "kumogakure",
-    "torneo_multiversal",
-    "guerradanzas",
-    "torneo_haseo",
     "amegakure_guerra",
     "laboratorio",
     "basedam",
+    "espacio",
+    "torneo_haseo",
+    "techlin",
+    "kumogakure",
+    "guerradanzas",
+    "konohagakure_antigua",
+    "torneo_multiversal",
     "kazegakure",
-    "espacio"
+    
   ],
   "worlds": [
     {
