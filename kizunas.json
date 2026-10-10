@@ -1570,6 +1570,284 @@
       "allTeam": false
     }
     ]
-  }
+  },
+  {
+    "id": "electricidad_maldita",
+    "title": "Electricidad maldita",
+    "group":"Otros",
+    "description": "Un duo de los más antiguos y peligrosos, uno de ellos fue capaz de dejar a Konohagakure sin luz usando sus...'métodos'.",
+    "cardIds": ["manuel_hyuga_icono","shind_inazuma_icono"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 15000
+      },
+       
+       {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":3
+      },
+      {
+      "type": "buff",
+      "name": "Cono estático",
+      "description": "Aumenta un 3% Taijutsu, 3% Ninjutsu  y 2% Velocidad a los miembros del Kizuna",
+      "stats": {
+        "taijutsu": 3,
+        "ninjutsu":3,
+        "velocidad": 2
+      },
+      "allTeam": false
+    }
+    ]
+  },
+
+   {
+    "id": "hermanos_de_otro_mundo",
+    "title": "Hermanos de otro mundo",
+    "group":"Familias",
+    "description": "Una relación curiosa para nosotros, pero normal para su raza.",
+    "cardIds": ["kizuna_otsutsuki_coht","nyusha_otsutsuki_coht"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 20000
+      },
+       
+       {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":3
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_81_plus",
+        "amount":1
+      },
+      {
+      "type": "buff",
+      "name": "Poder otsutsuki",
+      "description": "Aumenta un 3% Taijutsu y 4% Ninjutsu a los miembros del Kizuna",
+      "stats": {
+        "taijutsu": 3,
+        "ninjutsu":4
+        
+      },
+      "allTeam": false
+    }
+    ]
+  },
+  
+  {
+    "id": "amor_confuso",
+    "title": "Amor confuso",
+    "group":"Familias",
+    "description": "Un romance con un futuro prometedor, más ese futuro nunca llegó.",
+    "cardIds": ["sakura_nara_heroe","benkei_uchiha_evoe"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 22000
+      },
+       
+       {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":2
+      },
+       {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":1
+      },
+      {
+      "type": "buff",
+      "name": "Amor elemental",
+      "description": "Aumenta un 3% Taijutsu y 3% Ninjutsu a los miembros del Kizuna",
+      "stats": {
+        "taijutsu": 3,
+        "ninjutsu":3
+        
+      },
+      "allTeam": false
+    }
+    ]
+  },
+  {
+    "id": "vip_y_administrador",
+    "title": "VIP y administrador",
+    "group":"Otros",
+    "description": "Se importante en el gran torneo de Haseo.",
+    "cardIds": ["makusu_poikon_coht","joku_coht"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 12500
+      },
+       
+       {
+        "type": "pack",
+        "packId": "sobre_81_plus",
+        "amount":1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":3
+      }
+       
+     
+    ]
+  },
+
+  {
+    "id": "dios_y_creyente",
+    "title": "Dios y creyente",
+    "group":"Otros",
+    "description": "Fieles a sus creencias.",
+    "cardIds": ["saiten_otsutsuki_coht","hashin_otsutsuki"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 10000
+      },
+       
+       {
+        "type": "pack",
+        "packId": "sobre_81_plus",
+        "amount":1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":2
+      }
+       
+      
+    ]
+  },
+   {
+    "id": "puerta",
+    "title": "Puertas al límite",
+    "group":"Otros",
+    "description": "Aquellos que llevaron el poder de las 8º puertas internas hasta el límite.",
+    "cardIds": ["maito_gai_evo","kinan_hatake_iconosuperprime"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 30000
+      },
+       
+       {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":2
+      },
+      {
+      "type": "buff",
+      "name": "Apertura de Puerta",
+      "description": "Aumenta un 4% Taijutsu y 1% a todas las demás stats a los miembros del Kizuna",
+      "stats": {
+        "taijutsu": 4,
+        "ninjutsu":1,
+        "velocidad":1,
+        "defensa":1,
+        "fisico":1,
+        "resistencia":1
+        
+      },
+      "allTeam": false
+    },
+    {
+        "type": "title",
+        "titleID": "octava_puerta"
+        
+      }
+
+    ]
+  },
+  {
+    "id": "clan_otsutsuki",
+    "title": "Clan Otsutsuki",
+    "group":"Familias",
+    "description": "La raza más poderosa y antigua.",
+    "cardIds": ["hashin_otsutsuki","kizuna_otsutsuki_coht","nyusha_otsutsuki_coht","saiten_otsutsuki_coht","kobe_otsutsuki_coht","raik_otsutsuki_coht","karn_otsutsuki_coht","kiyoshi_otsutsuki","kashiki_otsutsuki"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 50000
+      },
+       
+       {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_legendario",
+        "amount":1
+      },
+      
+    {
+        "type": "title",
+        "titleID": "otsutsuki"
+        
+      }
+
+    ]
+  },
+   {
+    "id": "administradores",
+    "title": "Administradores",
+    "group":"Otros",
+    "description": "Los más importantes del torneo de Haseo.",
+    "cardIds": ["rinto_coht","yuhiro_coht","joku_coht","daren_hyuga_coht","kizuna_otsutsuki_coht"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 22500
+      },
+       
+       {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":4
+      },
+       {
+        "type": "title",
+        "titleID": "administrador"
+        
+      }
+       
+     
+    ]
+   }
+
 
 ]
