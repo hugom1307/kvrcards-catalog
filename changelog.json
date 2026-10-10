@@ -1,6 +1,18 @@
 {
   "updates": [
     {
+      "version": "2.0.2",
+      "title": "Parche 2.0.2: Recompensas en Evento Especial e Icono de Traits",
+      "description": "Corrección de errores: visualización y entrega de recompensas en combate de Evento Especial, y corrección del icono y etiqueta de Traits en misiones.",
+      "date": "2026-10-11",
+      "improvements": [
+        "Corrección del mensaje y ventana animada (HUD) de recompensas obtenidas al superar cualquier nivel del Evento Especial.",
+        "Las recompensas de rasgos en misiones ahora muestran correctamente el icono oficial de Traits ('./trait.png') y se denominan 'Traits' sin recurrir a imágenes de respaldo.",
+        "Rescate dinámico de la configuración de nivel y mundo al finalizar batallas de eventos especiales para evitar pérdidas de estado.",
+        "Sincronización fluida del progreso de niveles del evento especial sin bloqueos de interfaz."
+      ]
+    },
+    {
       "version": "2.0.1",
       "title": "Parche 2.0.1: Hotfix Misiones, Rasgos y Persistencia",
       "description": "Corrección de errores: filtrado de ciclo en misiones maestras diarias y semanales, seguimiento estricto por nivel en evento especial, desactivación total de traits en combate y comparador, y persistencia blindada del piso en Modo Infinito.",
