@@ -125,4 +125,36 @@
     "borderColor": "#4D661F",
     "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Minato Namikaze."
   },
+  {
+    "id": "fondo_madara_uchiha",
+    "nombre": "El fantasma de los Uchiha",
+    "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_madara_uchiha.png",
+    "boxColor": "linear-gradient(to right, #660F0F 0%, #CF3131 100%)",
+    "borderColor": "#FA2D45",
+    "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Madara Uchiha."
+  },
+  {
+    "id": "fondo_obito_uchiha",
+    "nombre": "El hombre enmascarado",
+    "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_obito_uchiha.png",
+    "boxColor": "linear-gradient(to right, #150061 0%, #2D379F 100%)",
+    "borderColor": "#991414",
+    "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Obito Uchiha."
+  },
+  {
+    "id": "fondo_maito_gai",
+    "nombre": "La bestia verde de Konohagakure",
+    "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_maito_gai.png",
+    "boxColor": "linear-gradient(to right, #3D6147 0%, #4F9F76 100%)",
+    "borderColor": "#6DB8C9",
+    "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Maito Gai."
+  },
+  {
+    "id": "fondo_gaara_edo",
+    "nombre": "Sabaku no Gaara",
+    "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_gaara_edo.png",
+    "boxColor": "linear-gradient(to right, #818F45 0%, #CDCA2E 100%)",
+    "borderColor": "#758F63",
+    "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Gaara."
+  }
 ]
