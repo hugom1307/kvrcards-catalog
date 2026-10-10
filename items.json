@@ -70,13 +70,6 @@
   "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/bankaikio_byakugan.png"
 },
 {
-  "id": "pergamino_elemental_agua",
-  "name": "Pergamino Elemental Agua",
-  "description": "Entrégalo a Daren Hyuga para desbloquear su poder interno.",
-  "calidad": "Mítico",
-  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Pergamino_elemental_agua.png"
-},
-{
   "id": "puertas_internas",
   "name": "Puertas Internas",
   "description": "Has conseguido activar las puertas internas. Si consigues 8, podrás canjear algo especial.",
