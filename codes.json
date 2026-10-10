@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "codes": [
     {
       "code": "DELAYCARDS",
@@ -176,7 +176,7 @@
       "rewards": {
         "packs": [
           {
-            "packId": "sobre_torneodehaseo",
+            "packId": "sobre_torneohaseo",
             "quantity": 1
           },
           {
