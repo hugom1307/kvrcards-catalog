@@ -832,6 +832,395 @@
         ]
       }
     ]
-  }
+  },
+  {
+  "cardId": "minato_namikaze_edotensei",
+  "name": "Minato Namikaze",
+  "levels": [
+    {
+      "prestige": 1,
+      "xpRequired": 100,
+      "missions": [
+        { "name": "Jugar 3 batallas con esta carta", "type": "played", "target": 3, "xp": 100 },
+        { "name": "Ganar 2 batallas con esta carta", "type": "wins", "target": 2, "xp": 100 },
+        { "name": "Ganar 5 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 5, "xp": 100 }
+      ],
+      "rewards": [
+        { "type": "coins", "amount": 2500 },
+        { "type": "pack", "packId": "sobre_oro", "amount": 1 }
+      ]
+    },
+    {
+      "prestige": 2,
+      "xpRequired": 500,
+      "missions": [
+        { "name": "Gana 10 batallas con esta carta", "type": "wins", "target": 10, "xp": 250 },
+        { "name": "Ganar 10 rondas con esta carta", "type": "winsRounds", "target": 10, "xp": 250 },
+        { "name": "Ganar 15 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 15, "xp": 300 },
+        { "name": "Ganar 15 rondas con cartas de HugoMan1307", "type": "winsRounds", "owner": "HugoMan1307", "target": 15, "xp": 250 }
+      ],
+      "rewards": [
+        { "type": "pack", "packId": "sobre_oro", "amount": 5 },
+        { "type": "coins", "amount": 5000 }
+      ]
+    },
+    {
+      "prestige": 3,
+      "xpRequired": 2000,
+      "missions": [
+        { "name": "Jugar 25 batallas con esta carta", "type": "played", "target": 25, "xp": 800 },
+        { "name": "Ganar 15 batallas con esta carta", "type": "wins", "target": 15, "xp": 800 },
+        { "name": "Gana 50 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 50, "xp": 800 },
+        { "name": "Gana 50 rondas con cartas de HugoMan1307", "type": "winsRounds", "owner": "HugoMan1307", "target": 50, "xp": 600 }
+      ],
+      "rewards": [
+        { "type": "coins", "amount": 10000 },
+        { "type": "pack", "packId": "sobre_elite_83", "amount": 3 }
+      ]
+    },
+    {
+      "prestige": 4,
+      "xpRequired": 5000,
+      "missions": [
+        { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 50, "xp": 1500 },
+        { "name": "Ganar 35 batallas con esta carta", "type": "wins", "target": 35, "xp": 2000 },
+        { "name": "Gana 150 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 150, "xp": 2000 },
+        { "name": "Gana 150 rondas con cartas de HugoMan1307", "type": "winsRounds", "owner": "HugoMan1307", "target": 150, "xp": 2000 }
+      ],
+      "rewards": [
+        { "type": "pack", "packId": "sobre_legendario", "amount": 1 },
+        { "type": "coins", "amount": 30000 }
+      ]
+    },
+    {
+      "prestige": 5,
+      "xpRequired": 10000,
+      "missions": [
+        { "name": "Gana 100 batallas con esta carta", "type": "wins", "target": 100, "xp": 4000 },
+        { "name": "Jugar 120 batallas con esta carta", "type": "played", "target": 120, "xp": 3000 },
+        { "name": "Ganar 200 rondas con cartas de Konohagakure de HugoMan1307", "type": "winsRounds", "procedencia": "Konohagakure", "owner": "HugoMan1307", "target": 200, "xp": 4000 },
+        { "name": "Ganar 250 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 250, "xp": 3500 }
+      ],
+      "rewards": [
+        { "type": "title", "titleId": "relampago_amarillo" },
+        { "type": "coins", "amount": 50000 },
+        { "type": "background", "backgroundId": "fondo_minato_namikaze" }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "cardId": "madara_uchiha_edotensei",
+  "name": "Madara Uchiha",
+  "levels": [
+    {
+      "prestige": 1,
+      "xpRequired": 100,
+      "missions": [
+        { "name": "Jugar 3 batallas con esta carta", "type": "played", "target": 3, "xp": 100 },
+        { "name": "Ganar 2 batallas con esta carta", "type": "wins", "target": 2, "xp": 100 },
+        { "name": "Ganar 5 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 5, "xp": 100 }
+      ],
+      "rewards": [
+        { "type": "coins", "amount": 2500 },
+        { "type": "pack", "packId": "sobre_oro", "amount": 1 }
+      ]
+    },
+    {
+      "prestige": 2,
+      "xpRequired": 500,
+      "missions": [
+        { "name": "Gana 10 batallas con esta carta", "type": "wins", "target": 10, "xp": 250 },
+        { "name": "Ganar 10 rondas con esta carta", "type": "winsRounds", "target": 10, "xp": 250 },
+        { "name": "Ganar 15 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 15, "xp": 300 },
+        { "name": "Ganar 15 rondas con cartas de HugoMan1307", "type": "winsRounds", "owner": "HugoMan1307", "target": 15, "xp": 250 }
+      ],
+      "rewards": [
+        { "type": "pack", "packId": "sobre_oro", "amount": 5 },
+        { "type": "coins", "amount": 5000 }
+      ]
+    },
+    {
+      "prestige": 3,
+      "xpRequired": 2000,
+      "missions": [
+        { "name": "Jugar 25 batallas con esta carta", "type": "played", "target": 25, "xp": 800 },
+        { "name": "Ganar 15 batallas con esta carta", "type": "wins", "target": 15, "xp": 800 },
+        { "name": "Gana 50 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 50, "xp": 800 },
+        { "name": "Gana 50 rondas con cartas de HugoMan1307", "type": "winsRounds", "owner": "HugoMan1307", "target": 50, "xp": 600 }
+      ],
+      "rewards": [
+        { "type": "coins", "amount": 10000 },
+        { "type": "pack", "packId": "sobre_elite_83", "amount": 3 }
+      ]
+    },
+    {
+      "prestige": 4,
+      "xpRequired": 5000,
+      "missions": [
+        { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 50, "xp": 1500 },
+        { "name": "Ganar 35 batallas con esta carta", "type": "wins", "target": 35, "xp": 2000 },
+        { "name": "Gana 150 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 150, "xp": 2000 },
+        { "name": "Gana 150 rondas con cartas de HugoMan1307", "type": "winsRounds", "owner": "HugoMan1307", "target": 150, "xp": 2000 }
+      ],
+      "rewards": [
+        { "type": "pack", "packId": "sobre_legendario", "amount": 1 },
+        { "type": "coins", "amount": 35000 }
+      ]
+    },
+    {
+      "prestige": 5,
+      "xpRequired": 10000,
+      "missions": [
+        { "name": "Gana 100 batallas con esta carta", "type": "wins", "target": 100, "xp": 4000 },
+        { "name": "Jugar 120 batallas con esta carta", "type": "played", "target": 120, "xp": 3000 },
+        { "name": "Ganar 200 rondas con cartas de Konohagakure de HugoMan1307", "type": "winsRounds", "procedencia": "Konohagakure", "owner": "HugoMan1307", "target": 200, "xp": 4000 },
+        { "name": "Ganar 250 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 250, "xp": 3500 }
+      ],
+      "rewards": [
+        { "type": "title", "titleId": "fantasma_de_los_uchiha" },
+        { "type": "coins", "amount": 50000 },
+        { "type": "background", "backgroundId": "fondo_madara_uchiha" }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "cardId": "maito_gai_edotensei",
+  "name": "Maito Gai",
+  "levels": [
+    {
+      "prestige": 1,
+      "xpRequired": 100,
+      "missions": [
+        { "name": "Jugar 3 batallas con esta carta", "type": "played", "target": 3, "xp": 100 },
+        { "name": "Ganar 2 batallas con esta carta", "type": "wins", "target": 2, "xp": 100 },
+        { "name": "Ganar 5 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 5, "xp": 100 }
+      ],
+      "rewards": [
+        { "type": "coins", "amount": 2500 },
+        { "type": "pack", "packId": "sobre_oro", "amount": 1 }
+      ]
+    },
+    {
+      "prestige": 2,
+      "xpRequired": 500,
+      "missions": [
+        { "name": "Gana 10 batallas con esta carta", "type": "wins", "target": 10, "xp": 250 },
+        { "name": "Ganar 10 rondas con esta carta", "type": "winsRounds", "target": 10, "xp": 250 },
+        { "name": "Ganar 15 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 15, "xp": 300 },
+        { "name": "Ganar 15 rondas con cartas de HugoMan1307", "type": "winsRounds", "owner": "HugoMan1307", "target": 15, "xp": 250 }
+      ],
+      "rewards": [
+        { "type": "pack", "packId": "sobre_oro", "amount": 5 },
+        { "type": "coins", "amount": 5000 }
+      ]
+    },
+    {
+      "prestige": 3,
+      "xpRequired": 2000,
+      "missions": [
+        { "name": "Jugar 25 batallas con esta carta", "type": "played", "target": 25, "xp": 800 },
+        { "name": "Ganar 15 batallas con esta carta", "type": "wins", "target": 15, "xp": 800 },
+        { "name": "Gana 50 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 50, "xp": 800 },
+        { "name": "Gana 50 rondas con cartas de HugoMan1307", "type": "winsRounds", "owner": "HugoMan1307", "target": 50, "xp": 600 }
+      ],
+      "rewards": [
+        { "type": "coins", "amount": 10000 },
+        { "type": "pack", "packId": "sobre_elite_83", "amount": 3 }
+      ]
+    },
+    {
+      "prestige": 4,
+      "xpRequired": 5000,
+      "missions": [
+        { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 50, "xp": 1500 },
+        { "name": "Ganar 35 batallas con esta carta", "type": "wins", "target": 35, "xp": 2000 },
+        { "name": "Gana 150 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 150, "xp": 2000 },
+        { "name": "Gana 150 rondas con cartas de HugoMan1307", "type": "winsRounds", "owner": "HugoMan1307", "target": 150, "xp": 2000 }
+      ],
+      "rewards": [
+        { "type": "pack", "packId": "sobre_legendario", "amount": 1 },
+        { "type": "coins", "amount": 35000 }
+      ]
+    },
+    {
+      "prestige": 5,
+      "xpRequired": 10000,
+      "missions": [
+        { "name": "Gana 100 batallas con esta carta", "type": "wins", "target": 100, "xp": 4000 },
+        { "name": "Jugar 120 batallas con esta carta", "type": "played", "target": 120, "xp": 3000 },
+        { "name": "Ganar 200 rondas con cartas de Konohagakure de HugoMan1307", "type": "winsRounds", "procedencia": "Konohagakure", "owner": "HugoMan1307", "target": 200, "xp": 4000 },
+        { "name": "Ganar 250 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 250, "xp": 3500 }
+      ],
+      "rewards": [
+        { "type": "title", "titleId": "bestia_verde_de_konoha" },
+        { "type": "coins", "amount": 50000 },
+        { "type": "background", "backgroundId": "fondo_maito_gai" }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "cardId": "obito_uchiha_edotensei",
+  "name": "Obito Uchiha",
+  "levels": [
+    {
+      "prestige": 1,
+      "xpRequired": 100,
+      "missions": [
+        { "name": "Jugar 3 batallas con esta carta", "type": "played", "target": 3, "xp": 100 },
+        { "name": "Ganar 2 batallas con esta carta", "type": "wins", "target": 2, "xp": 100 },
+        { "name": "Ganar 5 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 5, "xp": 100 }
+      ],
+      "rewards": [
+        { "type": "coins", "amount": 2500 },
+        { "type": "pack", "packId": "sobre_oro", "amount": 1 }
+      ]
+    },
+    {
+      "prestige": 2,
+      "xpRequired": 500,
+      "missions": [
+        { "name": "Gana 10 batallas con esta carta", "type": "wins", "target": 10, "xp": 250 },
+        { "name": "Ganar 10 rondas con esta carta", "type": "winsRounds", "target": 10, "xp": 250 },
+        { "name": "Ganar 15 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 15, "xp": 300 },
+        { "name": "Ganar 15 rondas con cartas de HugoMan1307", "type": "winsRounds", "owner": "HugoMan1307", "target": 15, "xp": 250 }
+      ],
+      "rewards": [
+        { "type": "pack", "packId": "sobre_oro", "amount": 5 },
+        { "type": "coins", "amount": 5000 }
+      ]
+    },
+    {
+      "prestige": 3,
+      "xpRequired": 2000,
+      "missions": [
+        { "name": "Jugar 25 batallas con esta carta", "type": "played", "target": 25, "xp": 800 },
+        { "name": "Ganar 15 batallas con esta carta", "type": "wins", "target": 15, "xp": 800 },
+        { "name": "Gana 50 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 50, "xp": 800 },
+        { "name": "Gana 50 rondas con cartas de HugoMan1307", "type": "winsRounds", "owner": "HugoMan1307", "target": 50, "xp": 600 }
+      ],
+      "rewards": [
+        { "type": "coins", "amount": 10000 },
+        { "type": "pack", "packId": "sobre_elite_83", "amount": 3 }
+      ]
+    },
+    {
+      "prestige": 4,
+      "xpRequired": 5000,
+      "missions": [
+        { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 50, "xp": 1500 },
+        { "name": "Ganar 35 batallas con esta carta", "type": "wins", "target": 35, "xp": 2000 },
+        { "name": "Gana 150 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 150, "xp": 2000 },
+        { "name": "Gana 150 rondas con cartas de HugoMan1307", "type": "winsRounds", "owner": "HugoMan1307", "target": 150, "xp": 2000 }
+      ],
+      "rewards": [
+        { "type": "pack", "packId": "sobre_legendario", "amount": 1 },
+        { "type": "coins", "amount": 35000 }
+      ]
+    },
+    {
+      "prestige": 5,
+      "xpRequired": 10000,
+      "missions": [
+        { "name": "Gana 100 batallas con esta carta", "type": "wins", "target": 100, "xp": 4000 },
+        { "name": "Jugar 120 batallas con esta carta", "type": "played", "target": 120, "xp": 3000 },
+        { "name": "Ganar 200 rondas con cartas de Konohagakure de HugoMan1307", "type": "winsRounds", "procedencia": "Konohagakure", "owner": "HugoMan1307", "target": 200, "xp": 4000 },
+        { "name": "Ganar 250 rondas con cartas de Konohagakure", "type": "winsRounds", "procedencia": "Konohagakure", "target": 250, "xp": 3500 }
+      ],
+      "rewards": [
+        { "type": "title", "titleId": "hombre_enmascarado" },
+        { "type": "coins", "amount": 50000 },
+        { "type": "background", "backgroundId": "fondo_obito_uchiha" }
+      ]
+    }
+  ]
+}
+,
+
+{
+  "cardId": "gaara_sbc",
+  "name": "Gaara (Edo Tensei)",
+  "levels": [
+    {
+      "prestige": 1,
+      "xpRequired": 100,
+      "missions": [
+        { "name": "Jugar 3 batallas con esta carta", "type": "played", "target": 3, "xp": 100 },
+        { "name": "Ganar 2 batallas con esta carta", "type": "wins", "target": 2, "xp": 100 },
+        { "name": "Ganar 5 rondas con cartas de Sunagakure", "type": "winsRounds", "procedencia": "Sunagakure", "target": 5, "xp": 100 }
+      ],
+      "rewards": [
+        { "type": "coins", "amount": 2500 },
+        { "type": "pack", "packId": "sobre_oro", "amount": 1 }
+      ]
+    },
+    {
+      "prestige": 2,
+      "xpRequired": 500,
+      "missions": [
+        { "name": "Gana 10 batallas con esta carta", "type": "wins", "target": 10, "xp": 250 },
+        { "name": "Ganar 10 rondas con esta carta", "type": "winsRounds", "target": 10, "xp": 250 },
+        { "name": "Ganar 15 rondas con cartas de Sunagakure", "type": "winsRounds", "procedencia": "Sunagakure", "target": 15, "xp": 300 },
+        { "name": "Ganar 15 rondas con cartas de Hugoman1307", "type": "winsRounds", "owner": "Hugoman1307", "target": 15, "xp": 250 }
+      ],
+      "rewards": [
+        { "type": "pack", "packId": "sobre_oro", "amount": 5 },
+        { "type": "coins", "amount": 5000 }
+      ]
+    },
+    {
+      "prestige": 3,
+      "xpRequired": 2000,
+      "missions": [
+        { "name": "Jugar 25 batallas con esta carta", "type": "played", "target": 25, "xp": 800 },
+        { "name": "Ganar 15 batallas con esta carta", "type": "wins", "target": 15, "xp": 800 },
+        { "name": "Gana 50 rondas con cartas de Sunagakure", "type": "winsRounds", "procedencia": "Sunagakure", "target": 50, "xp": 800 },
+        { "name": "Gana 50 rondas con cartas de Hugoman1307", "type": "winsRounds", "owner": "Hugoman1307", "target": 50, "xp": 600 }
+      ],
+      "rewards": [
+        { "type": "coins", "amount": 10000 },
+        { "type": "pack", "packId": "sobre_elite_83", "amount": 3 }
+      ]
+    },
+    {
+      "prestige": 4,
+      "xpRequired": 5000,
+      "missions": [
+        { "name": "Jugar 50 batallas con esta carta", "type": "played", "target": 50, "xp": 1500 },
+        { "name": "Ganar 35 batallas con esta carta", "type": "wins", "target": 35, "xp": 2000 },
+        { "name": "Gana 150 rondas con cartas de Sunagakure", "type": "winsRounds", "procedencia": "Sunagakure", "target": 150, "xp": 2000 },
+        { "name": "Gana 150 rondas con cartas de Hugoman1307", "type": "winsRounds", "owner": "Hugoman1307", "target": 150, "xp": 2000 }
+      ],
+      "rewards": [
+        { "type": "pack", "packId": "sobre_85_plus", "amount": 2 },
+        { "type": "coins", "amount": 35000 }
+      ]
+    },
+    {
+      "prestige": 5,
+      "xpRequired": 10000,
+      "missions": [
+        { "name": "Gana 100 batallas con esta carta", "type": "wins", "target": 100, "xp": 4000 },
+        { "name": "Jugar 120 batallas con esta carta", "type": "played", "target": 120, "xp": 3000 },
+        { "name": "Ganar 200 rondas con cartas de Sunagakure de Hugoman1307", "type": "winsRounds", "procedencia": "Sunagakure", "owner": "Hugoman1307", "target": 200, "xp": 4000 },
+        { "name": "Ganar 250 rondas con cartas de Sunagakure", "type": "winsRounds", "procedencia": "Sunagakure", "target": 250, "xp": 3500 }
+      ],
+      "rewards": [
+        { "type": "title", "titleId": "gaara_del_desierto" },
+        { "type": "coins", "amount": 50000 },
+        { "type": "background", "backgroundId": "fondo_gaara_edo" }
+      ]
+    }
+  ]
+}
+
   
 ]
