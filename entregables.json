@@ -525,8 +525,7 @@
   "tipo": "especial",
   "descripcion": "Entrega exactamente 30 cartas (29 de calidad Oro y 1 de calidad Edo Tensei, con al menos 15 de HugoMan1307, al menos 5 de Sunagakure y al menos 5 con media 86+) a cambio de 2 Sobres Torneo de Haseo y la carta Gaara (Edo Tensei) SBC.",
   "imagenes": [
-    "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/gaara.png",
-    "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_torneodehaseo.png"
+    "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/gaara.png"
   ],
   "limites": {
     "minCartas": 30,
