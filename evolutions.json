@@ -739,7 +739,7 @@
     "name": "Evolución de Evento: Shin Uzumaki",
     "type": "event",
     "repeatable": false,
-    "cardFrom": "shin_uzumaki_heroe",
+    "cardFrom": "shin_uzumaki",
     "cardTo": "shin_uzumaki_evo",
     "requiredItems": [
       {
@@ -784,7 +784,7 @@
     "name": "Evolución de Evento: Zagren Senju",
     "type": "event",
     "repeatable": false,
-    "cardFrom": "zagren_senju_heroe",
+    "cardFrom": "zagren_senju",
     "cardTo": "zagren_senju_evoe",
     "requiredItems": [
       {
