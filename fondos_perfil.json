@@ -156,5 +156,37 @@
     "boxColor": "linear-gradient(to right, #818F45 0%, #CDCA2E 100%)",
     "borderColor": "#758F63",
     "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Gaara."
-  }
+  },
+  {
+  "id": "fondo_haseoinfinito",
+  "nombre": "Espacio sideral",
+  "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/espacio_sideral.png",
+  "boxColor": "linear-gradient(to right, #06101E 0%, #184E8E 25%, #48CAE4 75%, #06101E 100%)",
+  "borderColor": "#48CAE4",
+    "descripcion": "Fondo obtenido al completar la misión 'El gran anfitrión'."
+},
+{
+  "id": "puzzle_haseo",
+  "nombre": "KnightPuzle",
+  "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/knight_Puzle.png",
+  "boxColor": "linear-gradient(to bottom, #1B0FFF 0%, #2024FF 50%, #7F73FF 100%)",
+  "borderColor": "#4DFF1C",
+  "descripcion": "Fondo obtenido al completar la misión 'Ganador del Torneo de Haseo'."
+},
+{
+  "id": "fondo_entrenamientohaseo",
+  "nombre": "Espacio de descanso y entrenamiento",
+  "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/espacio_de_descanso_y_entrenamiento.png",
+  "boxColor": "linear-gradient(to right, #161026 0%, #4A3369 30%, #A26EB5 70%, #161026 100%)",
+  "borderColor": "#A26EB5",
+  "descripcion": "Fondo obtenido al completar la misión 'Dominio del Escalón 7'."
+},
+{
+  "id": "fondo_ayaridaren",
+  "nombre": "Brisa húmeda",
+  "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/brisa_humeda.png",
+  "boxColor": "linear-gradient(to right, #234563 0%, #185E9E 30%, #6EC3F4 70%, #234563 100%)",
+  "borderColor": "#6EC3F4",
+  "descripcion": "Fondo obtenido al completar la misión 'Lazos elementales'."
+}
 ]
