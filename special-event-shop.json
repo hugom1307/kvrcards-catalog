@@ -125,6 +125,7 @@
       "id": "monedas_10000",
       "name": "Bolsa de 10.000 Monedas",
       "description": "Canjea deseos por una gran bolsa de monedas de oro.",
+      "stock": 100,
       "category": "coins",
       "reward": {
         "type": "coins",
