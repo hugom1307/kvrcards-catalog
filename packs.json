@@ -163,7 +163,7 @@
   "minMedia": 90,
   "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_90_plus.png",
   "openingGradient": ["#C90018", "#FFD04A", "#8B000B"],
-  "price": { "coins": 500000, "kvr": 400 }
+  "price": { "coins": 250000, "kvr": 400 }
 },
 {
   "id": "sobre_legendario",
@@ -200,6 +200,18 @@
   "price": { "coins": 25000, "kvr": 50 }
 },
 {
+  "id": "sobre_edotensei",
+  "name": "Sobre Edo Tensei Asegurado",
+  "cardsPerPack": 1,
+  "strategy": "qualityMedia",
+  "qualityWeights": {
+   "edotensei": 100
+  },
+  "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_edotensei.png",
+  "openingGradient": ["#572E75", "#D2E31E", "##572E75"],
+  "price": { "coins": 200000, "kvr": 300 }
+},
+{
   "id": "sobre_elemental",
   "name": "Sobre Elemental",
   "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_elemental.png",
@@ -214,19 +226,32 @@
    "allowedCardIds": ["yoku_chi", "amai_noroi", "karasu_joku", "dongonzalez", "kento_rikudo", "kaoru_noroi", "asahi_raiden", "doriyoku_boku", "ezio_siam", "tekina", "roy_ikari", "isabel_maya", "dankha_sagi", "einar_rideryon", "kalya_siam", "alex_petrov", "koro_tsume", "sebastian_godoy", "mamoru", "jenue_bogai", "suko_tsume", "tamiko_ozoku", "touma_ozoku", "dekiru_mizu", "hiro_yuki", "zhen_uzumaki", "merlin", "ronan_hatake", "ken_inazuma", "kurai_tenro", "sukui_uzumaki", "mikori_fukasa", "taka_uzumaki", "sekitan", "kenji_ikari", "raiden_fuutaro", "aya", "vivar"],
     "openingGradient": ["#FDE68A", "#60A5FA", "#1D4ED8"],
   "price": { "coins": 10000, "kvr": 0 }
+},
+{
+  "id": "sobre_torneodehaseo",
+  "name": "Sobre Torneo de Haseo",
+  "cardsPerPack": 1,
+  "strategy": "qualityMedia",
+  "qualityWeights": {
+    "coht": 50,
+    "edotensei": 50
+  },
+  "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_torneodehaseo.png",
+  "openingGradient": ["##ABF8FF", "#E6FCFF", "##ABF8FF"],
+  "price": {
+    "coins": 50000,
+    "kvr": 40
+  }
 }
 ],
 "shop": [
     { "id": "sobre_bronce", "order": 1 },   
     { "id": "sobre_plata" },
-    { "id": "sobre_plata_doble", "stock":25 },
     { "id": "sobre_oro" },
-    { "id": "sobre_oro_doble" },
-    { "id": "sobre_mix_limitado", "stock": 10 },
-    { "id": "sobre_oc" },
     { "id": "sobre_81_plus"},
-    { "id": "sobre_85_plus_limitado", "stock": 1 },
-    { "id": "sobre_especial", "stock": 3},
-   { "id": "sobre_legendario", "stock": 2}
+    { "id": "sobre_especial", "stock": 5},
+    { "id": "sobre_90_plus", "stock": 1}
   ]
 }
+
+
