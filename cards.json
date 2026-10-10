@@ -1290,7 +1290,7 @@
     "owner": "HugoMan1307"
   },
   {
-    "id": "zagren_senju",
+    "id": "zagren_senju_heroe",
     "name": "Zagren Senju",
     "stats": [91, 80, 83, 87, 82, 79],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/zagren_heroe.png",
@@ -1950,7 +1950,7 @@
     "owner": "HugoMan1307"
   },
   {
-    "id": "shin_uzumaki",
+    "id": "shin_uzumaki_heroe",
     "name": "Shin Uzumaki",
     "stats": [91, 89, 88, 82, 82, 81],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/shinuzumaki.png",
@@ -1960,7 +1960,7 @@
     "owner": "Alecrackman"
   },
   {
-    "id": "ryuki",
+    "id": "ryuki_heroe",
     "name": "Ryuki",
     "stats": [93, 83, 92, 85, 88, 86],
     "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ryuki.png",
