@@ -56,6 +56,85 @@
           "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_elemental.png"
         }
       ]
+    },
+        {
+      "version": "2.0.0",
+      "title": "Versión 2.0: Torneo de Haseo, Edo Tensei & Temporada 2",
+      "description": "Llega la mayor actualización de KVRCards con el inicio de la Temporada 2 del Modo Infinito, el evento especial del Torneo de Haseo, 38 nuevas cartas (Edo Tensei, COHT, Evoluciones y Exclusivas), dos sobres temáticos, zoom de inspección en tienda de evento, nuevas misiones de maestría y códigos promocionales.",
+      "date": "2026-10-10",
+      "cardsAdded": [
+        "obito_uchiha_edotensei",
+        "madara_uchiha_edotensei",
+        "maito_gai_edotensei",
+        "minato_namikaze_edotensei",
+        "maito_gai_evo",
+        "minato_namikaze_evo",
+        "ren_logiuka_coht",
+        "naoto_kurui_coht",
+        "kobe_otsutsuki_coht",
+        "temaki_shinjo_coht",
+        "raik_otsutsuki_coht",
+        "kaa_okaami_coht",
+        "nyusha_otsutsuki_coht",
+        "daren_hyuga_coht",
+        "hikou_nero_coht",
+        "karn_otsutsuki_coht",
+        "raiken_chouto_coht",
+        "hiroshi_hutetsu_coht",
+        "denwa_soru_coht",
+        "akro_otsutsuki_coht",
+        "saiten_otsutsuki_coht",
+        "hoseki_kaana_coht",
+        "makusu_poikon_coht",
+        "joku_coht",
+        "yuhiro_coht",
+        "rinto_coht",
+        "kizuna_otsutsuki_coht",
+        "hoshinori_itto_coht",
+        "inui_uzumaki_heroe",
+        "sakura_nara_heroe",
+        "gaara_sbc",
+        "shin_uzumaki_evo",
+        "taiyo_uchiha_evo",
+        "benkei_uchiha_evoe",
+        "zagren_senju_evoe",
+        "daren_hyuga_evoe",
+        "kento_rikudo_coht",
+        "haseo_otsutsuki_exclusive"
+      ],
+      "packsAdded": [
+        "sobre_edotensei",
+        "sobre_torneohaseo"
+      ],
+      "evolutionsAdded": [
+        "maito_gai_evo",
+        "minato_namikaze_evo",
+        "taiyo_uchiha_evo",
+        "shin_uzumaki_evo",
+        "daren_hyuga_evoe",
+        "zagren_senju_evoe",
+        "benkei_uchiha_evoe"
+      ],
+      "missionsAdded": [
+        "daily_todas_las_misiones",
+        "weekly_todas_las_misiones",
+        "limited_conseguir_haseo_exclusive",
+        "limited_ayari_y_daren",
+        "limited_escalon_7_master",
+        "limited_torneohaseo_ls5_master"
+      ],
+      "codesAdded": [
+        "VERSION2ISHERE",
+        "INEEDTRAITS"
+      ],
+      "backgroundsAdded": [
+        "fondo_haseoinfinito",
+        "fondo_ayaridaren",
+        "fondo_entrenamientohaseo",
+        "puzzle_haseo"
+      ],
+      "powersAdded": [],
+      "traitsAdded": []
     }
   ]
 }
