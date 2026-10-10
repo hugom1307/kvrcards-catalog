@@ -377,6 +377,40 @@
     "description": "Acompaña a tu administrador en el gran torneo de Haseo",
     "gradient":"linear-gradient(to right, #CFCFCF 0%, #CBE43F 50%, #A5AD49 50%, #745E5E 100%)",
     "unlockDescription":"Compra este título en la tienda del evento especial: Torneo de Haseo'"
+  },
+{
+    "id": "relampago_amarillo",
+    "name": "El Relámpago Amarillo",
+    "description": "El ninja más rápido de la historia",
+    "gradient":"linear-gradient(to right, #DEE825 0%, #C0B324 50%, #CDCA2E 100%)",
+    "unlockDescription":"Completa el prestigio de Minato Namikaze"
+  },
+ {
+    "id": "fantasma_de_los_uchiha",
+    "name": "El Fantasma de los Uchiha",
+    "description": "¿Prefieres los clones con o sin susanoo?",
+    "gradient":"linear-gradient(to right, #963939 0%, #EC1414 50%, #911D1D 100%)",
+    "unlockDescription":"Completa el prestigio de Madara Uchiha"
+  },
+ {
+    "id": "hombre_enmascarado",
+    "name": "El Hombre Enmascarado",
+    "description": "Estoy en el infierno...",
+    "gradient":"linear-gradient(to right, #52256D 0%, #AA19DA 50%, #751A99 100%)",
+    "unlockDescription":"Completa el prestigio de Obito Uchiha"
+  },
+ {
+    "id": "bestia_verde_de_konoha",
+    "name": "La Bestia Verde de Konoha",
+    "description": "Yo te declaro el más fuerte de todos!",
+    "gradient":"linear-gradient(to right, #06BD83 0%, #1B8611 50%, #53ED28 100%)",
+    "unlockDescription":"Completa el prestigio de Maito Gai"
+  },
+ {
+    "id": "gaara_del_desierto",
+    "name": "Gaara del Desierto",
+    "description": "Soy Gaara el de la defensa perfecta!",
+    "gradient":"linear-gradient(to right, #CFD17B 0%, #D4DA6E 50%, #595625 100%)",
+    "unlockDescription":"Completa el prestigio de Gaara"
   }
-
 ]
