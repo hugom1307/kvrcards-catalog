@@ -125,7 +125,6 @@
     "maskImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/calidades/edotensei.png",
     "sparkColor": "#5f8cb4",
     "tradeable": true,
-    "packable": true,
     "valor": 10000,
     "order": 12
   },
@@ -136,7 +135,6 @@
     "maskImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/calidades/coht.png",
     "sparkColor": "#474b4e",
     "tradeable": true,
-    "packable": true,
     "valor": 10000,
     "order": 13
   }, 
