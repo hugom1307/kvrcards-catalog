@@ -8,132 +8,160 @@
       "id": "deseo",
       "name": "Deseos de Haseo",
       "icon": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/deseo.png"
+    },
+    {
+      "id": "puertas_internas",
+      "name": "Puertas Internas",
+      "icon": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/puertasinternas.png"
+    },
+    {
+      "id": "bankakyo_byakugan",
+      "name": "Bankakyo Byakugan",
+      "icon": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/bankaikio_byakugan.png"
     }
    
   ],
   "items": [
     {
-      "id": "shop_carta_shind_abismo",
-      "name": "Shind del Abismo (Carta)",
-      "description": "Carta exclusiva del evento con estadísticas oscuras y arte temático.",
+      "id": "carta_kizuna_otsutsuki_coht",
+        "name": "Kizuna Otsutsuki",
+      "description": "Canjea esta carta del evento obteniendo los dos ojos.",
       "category": "card",
-      "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/shind_abismo.png",
+      "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kizuna.png",
+      "stock": 1,
       "reward": {
         "type": "card",
-        "cardId": "shind_abismo",
-        "name": "Shind del Abismo",
+        "cardId": "kizuna_otsutsuki_coht",
         "amount": 1
       },
       "cost": {
-        "currencyId": "material_abismo_base",
-        "name": "Material del Abismo",
-        "amount": 60
+        "currencyId": "bankakyo_byakugan",
+        "amount": 2
       }
     },
     {
-      "id": "shop_sobre_elemental",
-      "name": "Sobre Elemental de Evento",
-      "description": "Sobre exclusivo que contiene cartas elementales y del evento actual.",
+      "id": "sobre_sobre_torneodehaseo",
+      "name": "Sobre Torneo de Haseo",
+      "description": "Sobre exclusivo del evento que contiene cartas de calidad C.O.H.T y Edo Tensei.",
       "category": "pack",
-      "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_elemental.png",
+      "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_torneodehaseo.png",
       "reward": {
         "type": "pack",
-        "packId": "sobre_elemental",
-        "name": "Sobre Elemental",
+        "packId": "sobre_torneodehaseo",
         "amount": 1
       },
       "cost": {
-        "currencyId": "material_abismo_base",
-        "name": "Material del Abismo",
-        "amount": 25
+        "currencyId": "deseo",
+        "amount": 30
       }
     },
     {
-      "id": "shop_titulo_abismo",
-      "name": "Título: Explorador del Abismo",
-      "description": "Título exclusivo para tu perfil que acredita tu valentía en el abismo.",
+      "id": "sobre_sobre_legendario",
+      "name": "Sobre Legendario",
+      "description": "Sobre legendario que te garantiza 2 cartas +88.",
+      "category": "pack",
+      "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_legendario.png",
+      "stock": 3,
+      "reward": {
+        "type": "pack",
+        "packId": "sobre_legendario",
+        "amount": 1
+      },
+      "cost": {
+        "currencyId": "deseo",
+        "amount": 100
+      }
+    },
+    {
+      "id": "titulo_vip",
+      "name": "V.I.P",
+      "description": "Título exclusivo para tu perfil canjeable con deseos.",
+      "stock": 1,
       "category": "title",
-      "image": "./icon-especiales.png",
       "reward": {
         "type": "title",
-        "titleId": "explorador_del_abismo",
-        "name": "Explorador del Abismo"
+        "titleId": "vip",
       },
       "cost": {
-        "currencyId": "material_abismo_base",
-        "name": "Material del Abismo",
-        "amount": 35
+        "currencyId": "deseo",
+        "amount": 150
       }
     },
     {
-      "id": "shop_espada_evento",
-      "name": "Espada de Evento (Objeto de Evolución)",
-      "description": "Objeto básico de evolución para Kinan, Benkei o Joshira con sus espadas de evento.",
+      "id": "item_alma_del_sol",
+      "name": "Alma del Sol",
+      "description": "Objeto de evolución para Taiyo Uchiha.",
+      "stock": 1,
       "category": "item",
-      "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/espada_evento.png",
+      "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Alma_del_Sol.png",
       "reward": {
         "type": "item",
-        "itemId": "espada_evento",
-        "name": "Espada de Evento",
+        "itemId": "alma_del_sol",
         "amount": 1
       },
       "cost": {
-        "currencyId": "material_abismo_base",
-        "name": "Material del Abismo",
-        "amount": 40
+        "currencyId": "deseo",
+        "amount": 300
       }
     },
     {
-      "id": "shop_monedas_10000",
+      "id": "item_octava_puerta",
+      "name": "Octava Puerta",
+      "description": "Objeto de evolución para Maito Gai Edo Tensei.",
+      "stock": 1,
+      "category": "item",
+      "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Octava_Puerta.png",
+      "reward": {
+        "type": "item",
+        "itemId": "octava_puerta",
+        "amount": 1
+      },
+      "cost": {
+        "currencyId": "puertas_internas",
+        "amount": 8
+      }
+    },
+    {
+      "id": "monedas_10000",
       "name": "Bolsa de 10.000 Monedas",
-      "description": "Canjea materiales del abismo por una gran bolsa de monedas de oro.",
+      "description": "Canjea deseos por una gran bolsa de monedas de oro.",
       "category": "coins",
-      "image": "./coin.png",
       "reward": {
         "type": "coins",
-        "name": "Monedas Coins",
         "amount": 10000
       },
       "cost": {
-        "currencyId": "material_abismo_base",
-        "name": "Material del Abismo",
+        "currencyId": "deseo",
         "amount": 15
       }
     },
     {
-      "id": "shop_sobre_tierra",
-      "name": "Sobre Elemental (vía Tierra)",
-      "description": "Canjea materiales terrestres obtenidos en la Tierra por un sobre elemental.",
-      "category": "pack",
-      "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_elemental.png",
+      "id": "traits_th",
+      "name": "Rasgos",
+      "description": "Canjea rasgos a cambio de deseos.",
+      "stock": 50,
+      "category": "traits",
       "reward": {
-        "type": "pack",
-        "packId": "sobre_elemental",
-        "name": "Sobre Elemental",
+        "type": "traits",
         "amount": 1
       },
       "cost": {
-        "currencyId": "material_tierra_base",
-        "name": "Material Terrestre",
-        "amount": 25
+        "currencyId": "deseo",
+        "amount": 5
       }
-    },
+    }
     {
-      "id": "shop_sobre_pluma",
-      "name": "Sobre Elemental (vía Pluma)",
-      "description": "Canjea plumas primordiales por un sobre elemental.",
-      "category": "pack",
-      "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_elemental.png",
+      "id": "traits_th",
+      "name": "Rasgos",
+      "description": "Canjea rasgos a cambio de deseos.",
+      "category": "traits",
       "reward": {
-        "type": "pack",
-        "packId": "sobre_elemental",
-        "name": "Sobre Elemental",
+        "type": "traits",
         "amount": 1
       },
       "cost": {
-        "currencyId": "material_pluma_base",
-        "name": "Pluma Primordial",
-        "amount": 25
+        "currencyId": "deseo",
+        "amount": 15
       }
     }
   ]
