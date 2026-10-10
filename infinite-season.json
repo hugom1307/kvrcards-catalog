@@ -1,77 +1,76 @@
 {
-  "version": 1,
+  "version": 2,
   "season": {
-    "id": "season-1",
-    "name": "Temporada 1 - Comienzo"
+    "id": "season-2",
+    "name": "Temporada 2 - El Gran Torneo de Haseo"
   },
   "rewards": [
     {
       "level": 10,
       "rewards": [
         { "type": "coins", "amount": 5000 },
-        { "type": "traits", "amount": 3 }
+        { "type": "traits", "amount": 5 }
       ]
     },
     {
       "level": 20,
       "rewards": [
-        { "type": "coins", "amount": 10000 },
-        { "type": "packs", "packId": "sobre_oro", "amount": 3 },
-        { "type": "traits", "amount": 2 }
+        { "type": "packs", "packId": "sobre_83_plus", "amount": 2 },
+        { "type": "traits", "amount": 5 }
       ]
     },
     {
       "level": 30,
       "rewards": [
-        { "type": "packs", "packId": "sobre_83_plus", "amount": 1 },
-        { "type": "traits", "amount": 5 }
+        { "type": "packs", "packId": "sobre_85_plus", "amount": 1 },
+        { "type": "traits", "amount": 10 }
       ]
     },
     {
       "level": 40,
       "rewards": [
         { "type": "coins", "amount": 30000 },
-        { "type": "packs", "packId": "sobre_83_plus", "amount": 2 }
+        { "type": "packs", "packId": "sobre_torneohaseo", "amount": 2 }
       ]
     },
     {
       "level": 50,
       "rewards": [
-        { "type": "title", "titleId": "emperador_infinito"},
-        { "type": "card", "cardId": "rura_exclusive" },
-        { "type": "traits", "amount": 10 }
+        { "type": "title", "titleId": "anfitrion"},
+        { "type": "card", "cardId": "haseo_otsutsuki_exclusive" },
+        { "type": "traits", "amount": 20 }
       ]
     },
     {
       "level": 60,
       "rewards": [
-        { "type": "traits", "amount": 15 }
+        { "type": "traits", "amount": 25 }
       ]
     },
     {
       "level": 70,
       "rewards": [
-        { "type": "traits", "amount": 20 }
+        { "type": "traits", "amount": 30 }
       ]
     },
     {
       "level": 80,
       "rewards": [
-        { "type": "packs", "packId": "sobre_85_plus", "amount": 1 },
+        { "type": "packs", "packId": "sobre_90_plus", "amount": 1 },
         { "type": "coins", "amount": 25000 }
       ]
     },
     {
       "level": 90,
       "rewards": [
-        { "type": "traits", "amount": 25 }
+        { "type": "traits", "amount": 50 }
       ]
     },
     {
       "level": 100,
       "rewards": [
         { "type": "coins", "amount": 100000 },
-        { "type": "packs", "packId": "sobre_especial", "amount": 1 }
+        { "type": "packs", "packId": "sobre_edotensei", "amount": 1 }
       ]
     }
   ],
