@@ -11,14 +11,14 @@
                         "enabled":  false,
                         "title":  "Mantenimiento en Curso",
                         "message":  "Estamos actualizando el juego para mejorar tu experiencia.\n\nVolveremos pronto. Gracias por tu paciencia!",
-                        "estimatedTime":  "30 minutos"
+                        "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "1.6.0",
-                    "minimumRequired":  "1.6.0",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.6.0.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-1.6.0.zip",
-                    "changelog":  "Fix 429 Too Many Requests en remote-config, micro-cache en maintenance y fallback a Raw GitHub CDN",
+                    "current":  "2.0.0",
+                    "minimumRequired":  "2.0.0",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.0.0.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.0.0.zip",
+                    "changelog":  "Versión 2.0: Torneo de Haseo, Edo Tensei, Temporada 2 de Infinito y Nuevas Misiones",
                     "forceUpdate":  true
                 }
 }
