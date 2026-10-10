@@ -116,5 +116,13 @@
     "boxColor": "linear-gradient(to right, #997676 0%, #ECC3C3 100%)",
     "borderColor": "#DBD823",
     "descripcion": "Fondo obtenido al completar la misión 'Leyenda de KVR'."
-  }
+  },
+  {
+    "id": "fondo_minato_namikaze",
+    "nombre": "El relámpago amarillo",
+    "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_minato_namikaze.png",
+    "boxColor": "linear-gradient(to right, #A7B72C 0%, #CFC129 100%)",
+    "borderColor": "#4D661F",
+    "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Minato Namikaze."
+  },
 ]
