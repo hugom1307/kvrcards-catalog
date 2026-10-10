@@ -75,7 +75,6 @@
             "firstClearRewards": [
               { "type": "traits", "amount": 10 },
               { "type": "item", "itemId": "deseo", "amount": 10 },
-              { "type": "item", "itemId": "bendicion_inmo_incompleta", "name": "Bendición de Inmo Incompleta", "amount": 1, "probability": 0.01 },
               { "type": "item", "itemId": "pergamino_elemental_rayo", "amount": 1, "probability": 5 }
             ],
             "repeatRewards": [
