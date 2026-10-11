@@ -1,6 +1,19 @@
 {
   "updates": [
     {
+      "version": "2.0.3",
+      "title": "Parche 2.0.3: Aislamiento de Eventos, Ruleta Gambling y Probabilidades",
+      "description": "Corrección de errores: limitación estricta de Gambling Mode exclusivamente al Torneo de Haseo, separación total entre mini eventos y evento especial, blindaje de probabilidades de drop (Sombrero Sospechoso al 2%) y protección de catálogo remoto.",
+      "date": "2026-10-11",
+      "improvements": [
+        "El modo Gambling y su ruleta ahora se activan única y exclusivamente en los combates del Evento Especial (Torneo de Haseo), manteniendo los combates de mini eventos completamente normales.",
+        "Separación estricta de estado entre mini eventos y evento especial: ganar un mini evento ya no avanza indebidamente niveles ni otorga recompensas del evento especial.",
+        "Corrección del cálculo de probabilidad de recompensas para valores bajos (1% o 2% ya no se interpretan erróneamente como 100% asegurado).",
+        "Probabilidad de drop del Sombrero Sospechoso en la Fase 4 de Chuunin fijada en 2% como recompensa rara.",
+        "Blindaje del script de despliegue para evitar sobreescribir la configuración remota de event-battles.json en GitHub."
+      ]
+    },
+    {
       "version": "2.0.2",
       "title": "Parche 2.0.2: Recompensas en Evento Especial e Icono de Traits",
       "description": "Corrección de errores: visualización y entrega de recompensas en combate de Evento Especial, y corrección del icono y etiqueta de Traits en misiones.",
