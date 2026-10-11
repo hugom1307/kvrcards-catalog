@@ -628,7 +628,7 @@
     "nombre": "Kizuna Otsutsuki",
       "titulo": "El heredero de Haseo",
     "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/kizuna.png",
-    "dificultades": ["torneohaseo_ls4"],
+    "dificultades": ["torneohaseo_ls5"],
     "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/infinito/torneo_haseo.png",
     "intervaloMedias": [92, 99],
     "cartasObligatorias": [
