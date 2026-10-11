@@ -984,7 +984,7 @@
     "title": "Hokages",
     "group":"Kages",
     "description": "Los que siguieron el legado del legendario Uzumaki Naruto.",
-    "cardIds": ["haji_senju","shin_uzumaki","ayari_hyuga_heroe","taiyo_uchiha_icono","kuroo_sarutobi","sukui_uzumaki","merlin"],
+    "cardIds": ["haji_senju","shin_uzumaki_heroe","ayari_hyuga_heroe","taiyo_uchiha_icono","kuroo_sarutobi","sukui_uzumaki","merlin"],
     "rewards": [
       {
         "type": "coins",
