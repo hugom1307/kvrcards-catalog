@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "2.0.3",
-                    "minimumRequired":  "2.0.3",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.0.3.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.0.3.zip",
-                    "changelog":  "Fixes v2.0.3: Gambling mode restringido, correccion de drop de sombrero sospechoso y separacion estricta de eventos mini vs especial",
+                    "current":  "2.0.4",
+                    "minimumRequired":  "2.0.4",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.0.4.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.0.4.zip",
+                    "changelog":  "Ajuste Modo comodo para moviles",
                     "forceUpdate":  true
                 }
 }
