@@ -4154,6 +4154,45 @@
     "calidad": "exclusive",
     "procedencia": "Torneo de Haseo",
     "owner": "HugoMan1307"
-  }
-  
+  },
+  {
+    "id": "ezio_siam_cota",
+    "name": "Ezio Siam",
+    "stats": [92,93,85,88,85,80],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/eziocota.png",
+    "media": 87,
+    "calidad": "cota",
+    "procedencia": "Iri",
+    "owner": "HugoMan1307"
+  },
+  {
+    "id": "jenue_bogai_cota",
+    "name": "Jenue Bogai",
+    "stats": [96,83,72,93,85,65],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/jenuecota.png",
+    "media": 86,
+    "calidad": "cota",
+    "procedencia": "Iri",
+    "owner": "TaiyoDL"
+  },
+  {
+    "id": "ines",
+    "name": "Inés",
+    "stats": [88,72,82,80,77,80],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ines.png",
+    "media": 81,
+    "calidad": "oro",
+    "procedencia": "Hispania",
+    "owner": "Nataliaa15"
+  },
+  {
+    "id": "amaro",
+    "name": "Amaro",
+    "stats": [85,84,81,83,80,78],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/amaro.png",
+    "media": 82,
+    "calidad": "oro",
+    "procedencia": "Hispania",
+    "owner": "Adrianpepo"
+  },
 ]
