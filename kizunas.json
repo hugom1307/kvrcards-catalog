@@ -1864,7 +1864,7 @@
     "title": "Dúo Diabólico (C.O.T.A)",
     "group":"Dúo Diabólico",
     "description": "El dúo con más kills de la A.N.I",
-    "cardIds": ["jenue_bogai_cota", "mamoru_cota"],
+    "cardIds": ["jenue_bogai_cota", "mamoru_cota1"],
     "rewards": [
       {
         "type": "coins",
