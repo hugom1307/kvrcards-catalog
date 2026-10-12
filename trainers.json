@@ -365,7 +365,7 @@
     "nombre": "Bienvenida caliente",
     "stats": {
       "taijutsu": 5,
-      "velocidad": 8,
+      "velocidad": 5,
       "defensa": 5
     }
     },
@@ -393,7 +393,7 @@
       "karn_otsutsuki_coht",
       "kobe_otsutsuki_coht",
       "hikou_nero_coht",
-      "benkei_uchiha_evoe@especialista",
+      "benkei_uchiha_evoe",
       "ren_logiuka_coht"
     ]
   },
@@ -416,7 +416,7 @@
       "inui_uzumaki_heroe@taijutsu3",
       "sakura_nara_heroe@ninjutsu3",
       "taiyo_uchiha_evoe",
-      "saiten_otsutsuki_coht@especialista",
+      "saiten_otsutsuki_coht",
       "maito_gai_edotensei",
       "daren_hyuga_coht",
       "makusu_poikon_coht"
@@ -442,7 +442,7 @@
         { "id": "hoseki_kaana_coht", "buff": true },
         { "id": "joku_coht",  "buff": true },
         { "id": "nyusha_otsutsuki_coht", "trait": "especialista", "buff": false },
-        { "id": "karn_otsutsuki_coht", "trait": "especialista", "buff": false },
+        { "id": "karn_otsutsuki_coht",  "buff": false },
         { "id": "temaki_shinjo_coht", "trait": "support_max", "buff": false },
         { "id": "hiroshi_hutetsu_coht", "trait": "full_support", "buff": false },
         { "id": "saiten_otsutsuki_coht", "buff": false }
@@ -458,10 +458,10 @@
     "intervaloMedias": [88, 95],
     "cartasObligatorias": [
       "hoshinori_itto_coht@monarch",
-      "zagren_senju_evoe@especialista",
+      "zagren_senju_evoe",
       "kai_senju_icono@monarch",
       "karn_otsutsuki_coht@especialista",
-      "minato_namikaze_edotensei@velocidad3",
+      "minato_namikaze_edotensei",
       "daren_hyuga_evoe",
       "denwa_soru_coht@ninjutsu3"
     ]
@@ -487,12 +487,12 @@
        },
     "cartasObligatorias": [
       "rinto_coht@monarch",
-      "yuhiro_coht@especialista",
+      "yuhiro_coht@ninjutsu3",
       "joku_coht@especialista",
-      "makusu_poikon_coht@taijutsu3",
+      "makusu_poikon_coht",
       "hoseki_kaana_coht@especialista",
       "madara_uchiha_edotensei",
-      "maito_gai_evo"
+      "obito_uchiha_edotensei"
     ]
   },
    {
@@ -506,16 +506,16 @@
     "buff": {
     "nombre": "Elementales antiguos",
     "stats": {
-      "ninjutsu": 10,
-      "defensa": 10,
-      "fisico": 10
+      "ninjutsu": 5,
+      "defensa": 5,
+      "fisico": 5
     },
       "manual": true
        },
     "cartasObligatorias": [
         { "id": "kento_rikudo_coht", "trait": "monarch", "buff": true },
         { "id": "obito_uchiha_edotensei", "trait": "especialista",  "buff": false },
-        { "id": "benkei_uchiha_evoe", "trait": "especialista", "buff": true },
+        { "id": "benkei_uchiha_evoe",  "buff": true },
         { "id": "taiyo_uchiha_evoe", "trait": "support_max", "buff": false },
         { "id": "daren_hyuga_evoe", "trait": "especialista", "buff": true },
         { "id": "zagren_senju_evoe", "trait": "ninjutsu3", "buff": true },
@@ -541,10 +541,10 @@
     "cartasObligatorias": [
         { "id": "madara_uchiha_edotensei", "buff": true },
         { "id": "obito_uchiha_edotensei","buff": true },
-        { "id": "maito_gai_edotensei", "trait": "especialista", "buff": false },
+        { "id": "maito_gai_edotensei",  "buff": false },
         { "id": "minato_namikaze_edotensei", "buff": false },
-        { "id": "nyusha_otsutsuki_coht", "trait": "especialista", "buff": false },
-        { "id": "kaa_okaami_coht", "trait": "monarch", "buff": false },
+        { "id": "nyusha_otsutsuki_coht", "trait": "full_support", "buff": false },
+        { "id": "ronan_hatake_cota", "trait": "especialista", "buff": false },
         { "id": "benkei_uchiha_iconosuperprime", "buff": false }
     ]
   },
@@ -564,8 +564,8 @@
        },
     "cartasObligatorias": [
       "maito_gai_evo@taijutsu3",
-      "kinan_hatake_iconosuperprime@especialista",
-      "daren_hyuga_evoe@especialista",
+      "kinan_hatake_iconosuperprime",
+      "daren_hyuga_evoe",
       "sukui_uzumaki_evoe@full_support",
       "inui_uzumaki_heroe",
       "sakura_nara_heroe@ninjutsu3",
@@ -588,8 +588,8 @@
        },
     "cartasObligatorias": [
       "minato_namikaze_evo@velocidad3",
-      "kinan_hatake_iconosuperprime@especialista",
-      "daren_hyuga_evoe@especialista",
+      "kinan_hatake_iconosuperprime",
+      "daren_hyuga_evoe",
       "ayari_hyuga_heroe@full_support",
       "shin_uzumaki_heroe",
       "sakura_nara_heroe@ninjutsu3",
@@ -615,8 +615,8 @@
        },
     "cartasObligatorias": [
       "shin_uzumaki_evo@monarch",
-      "shind_inazuma_iconosuperprime@velocidad3",
-      "himitsu_evo1@especialista",
+      "shind_inazuma_iconoprime@velocidad3",
+      "himitsu_evo1",
       "iyari_ryuga_iconosuperprime@fisico3",
       "inui_uzumaki_heroe",
       "zagren_senju_heroe@ninjutsu3",
@@ -636,7 +636,7 @@
       "nyusha_otsutsuki_coht@monarch",
       "karn_otsutsuki_coht@especialista",
       "kobe_otsutsuki_coht@especialista",
-      "akro_otsutsuki_coht@support_max",
+      "akro_otsutsuki_coht@ninjutsu3",
       "saiten_otsutsuki_coht@full_support",
       "raik_otsutsuki_coht@especialista"
     ]
