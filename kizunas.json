@@ -372,7 +372,7 @@
    {
     "id": "duo_diabolico",
     "title": "Dúo Diabólico",
-    "group":"DAM",
+    "group":"Dúo Diabólico",
     "description": "Cuando este duo se junta, el caos y la diversión están asegurados.",
     "cardIds": ["jenue_bogai","mamoru"],
     "rewards": [
@@ -1736,7 +1736,18 @@
         "type": "pack",
         "packId": "sobre_oro",
         "amount":2
-      }
+      },
+      {
+      "type": "buff",
+      "name": "Pacto con el dios Hashin",
+      "description": "Aumenta un 5% Taijutsu y 3% Físico a los miembros del Kizuna",
+      "stats": {
+        "taijutsu": 5,
+        "fisico":3
+        
+      },
+      "allTeam": false
+    },
        
       
     ]
@@ -1847,7 +1858,233 @@
        
      
     ]
-   }
+   },
+{
+    "id": "duo_diabolico_cota",
+    "title": "Dúo Diabólico (C.O.T.A)",
+    "group":"Dúo Diabólico",
+    "description": "El dúo con más kills de la A.N.I",
+    "cardIds": ["jenue_bogai_cota", "mamoru_cota"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 30000
+      },
+       
+       {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":1
+      },
+     {
+      "type": "buff",
+      "name": "Disparo de diablillo",
+      "description": "Aumenta un 6% Ninjutsu y 6% Velocidad a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 6,
+        "velocidad":6
+        
+      },
+      "allTeam": false
+    }
 
+    ]
+  },
+  {
+    "id": "edo_tenseis",
+    "title": "Formación: Edo Tensei",
+    "group":"Torneo de Haseo",
+    "description": "Revividos con un propósito: Revolucionar el Torneo de Haseo",
+    "cardIds": ["obito_uchiha_edotensei", "madara_uchiha_edotensei", "minato_namikaze_edotensei", "maito_gai_edotensei", "gaara_sbc"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 50000
+      },
+       
+       {
+        "type": "pack",
+        "packId": "sobre_legendario",
+        "amount":1
+      },
+      {
+        "type": "title",
+        "titleId": "edotensei"
+      },
+     {
+      "type": "buff",
+      "name": "Resurrección eficaz",
+      "description": "Aumenta un 4% Ninjutsu, un 3% Defensa y un 2% Físico a todos los miembros del equipo",
+      "stats": {
+        "ninjutsu": 4,
+        "defensa":3,
+        "fisico":2
+        
+      },
+      "allTeam": true
+    }
 
+    ]
+  },
+  {
+    "id": "trinidad1",
+    "title": "LA TRINIDAD (Icono)",
+    "group":"La trinidad",
+    "description": "Los 3 shinobis más consagrados de la historia",
+    "cardIds": ["taiyo_uchiha_icono", "joshira_uzumaki_icono", "peyan_uzumaki_icono"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 10000
+      },
+       
+       {
+        "type": "pack",
+        "packId": "sobre_81_plus",
+        "amount":3
+      },
+     {
+      "type": "buff",
+      "name": "La trinidad I",
+      "description": "Aumenta un 3% Ninjutsu, un 3% Taijutsu y un 5% Defensa a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu": 3,
+        "defensa":5,
+        "taijutsu":3
+        
+      },
+      "allTeam": false
+    }
+
+    ]
+  },
+   {
+    "id": "trinidad2",
+    "title": "LA TRINIDAD (Icono Prime)",
+    "group":"La trinidad",
+    "description": "Los 3 shinobis más consagrados de la historia, en su prime",
+    "cardIds": ["taiyo_uchiha_iconoprime", "joshira_uzumaki_iconoprime", "peyan_uzumaki_iconoprime"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 25000
+      },
+       
+       {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":2
+      },
+     {
+      "type": "buff",
+      "name": "La trinidad II",
+      "description": "Aumenta un 3% Ninjutsu, un 6% Taijutsu y un 3% Defensa a los miembros del Kizuna",
+      "stats": {
+        "defensa":3,
+        "taijutsu":6
+        
+      },
+      "allTeam": false
+    }
+
+    ]
+  },
+  {
+    "id": "trinidad3",
+    "title": "LA TRINIDAD (Icono Superprime)",
+    "group":"La trinidad",
+    "description": "Los 3 shinobis más consagrados de la historia, en su superprime",
+    "cardIds": ["taiyo_uchiha_iconosuperprime", "joshira_uzumaki_iconosuperprime", "peyan_uzumaki_iconosuperprime"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 50000
+      },
+       
+       {
+        "type": "pack",
+        "packId": "sobre_legendario",
+        "amount":1
+      },
+       {
+        "type": "title",
+        "titleId": "trinidad"
+      },
+     {
+      "type": "buff",
+      "name": "La trinidad III",
+      "description": "Aumenta un 5% Ninjutsu y un 5% Taijutsu a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu":5,
+        "taijutsu":5
+        
+      },
+      "allTeam": false
+    }
+
+    ]
+  },
+  {
+    "id": "padrehijaryukiaya",
+    "title": "'Padre' e 'Hija'",
+    "group":"Familias",
+    "description": "Aunque haya sido por una creación, sigue contando como padre e hija, ¿no?",
+    "cardIds": ["ryuki_icono", "aya"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 10000
+      },
+       
+       {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":1
+      },
+     {
+      "type": "buff",
+      "name": "Padre e Hija",
+      "description": "Aumenta un 5% Resistencia y un 5% Defensa a los miembros del Kizuna",
+      "stats": {
+        "defensa":5,
+        "resistencia":5
+        
+      },
+      "allTeam": false
+    }
+
+    ]
+  },
+  {
+    "id": "herreroyaprendiz",
+    "title": "Herrero y su aprendiz",
+    "group":"Dúos",
+    "description": "Aunque tuvieron sus diferencias, siempre fueron maestro y alumno de la lanza.",
+    "cardIds": ["ransu_hatake_icono", "ryuki_heroe"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 15000
+      },
+       
+       {
+        "type": "pack",
+        "packId": "sobre_81_plus",
+        "amount":3
+      },
+     
+     {
+      "type": "buff",
+      "name": "Lanza boomerang",
+      "description": "Aumenta un 6% Taijutsu y un 5% Resistencia a los miembros del Kizuna",
+      "stats": {
+        "resistencia":5,
+        "taijutsu":6
+        
+      },
+      "allTeam": false
+    }
+
+    ]
+  }
 ]
