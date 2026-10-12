@@ -14,10 +14,10 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "2.0.8",
-                    "minimumRequired":  "2.0.8",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.0.8.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.0.8.zip",
+                    "current":  "2.0.9",
+                    "minimumRequired":  "2.0.9",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.0.9.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.0.9.zip",
                     "changelog":  "ActualizaciÃ³n de juego",
                     "forceUpdate":  true
                 }
