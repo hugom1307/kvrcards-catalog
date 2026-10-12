@@ -419,5 +419,19 @@
     "description": "Has alcanzado el rango más alto, ahora tú mismo organizarás el Torneo de Haseo",
     "gradient":"linear-gradient(to right, #00BFD1 0%, #2A9AA9 50%, #BFF5FF 100%)",
     "unlockDescription":"Llega a nivel 50 del modo infinito durante la Temporada 2"
+  },
+  {
+    "id": "edotensei",
+    "name": "Edo Tensei",
+    "description": "Te han revivido, cumple tu objetivo",
+    "gradient":"linear-gradient(to right, #6B3787 0%, #AF4ED0 50%, #75338F 100%)",
+    "unlockDescription":"Llega a nivel 50 del modo infinito durante la Temporada 2"
+  },
+  {
+    "id": "trinidad",
+    "name": "LA TRINIDAD",
+    "description": "J.P.T",
+    "gradient":"linear-gradient(to right, #2E93FF 0%, #DA0000 50%, #FFC20A 100%)",
+    "unlockDescription":"Llega a nivel 50 del modo infinito durante la Temporada 2"
   }
 ]
