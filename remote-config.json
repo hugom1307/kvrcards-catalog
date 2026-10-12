@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "2.0.9",
-                    "minimumRequired":  "2.0.9",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.0.9.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.0.9.zip",
-                    "changelog":  "ActualizaciÃ³n de juego",
+                    "current":  "2.1.0",
+                    "minimumRequired":  "2.1.0",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.1.0.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.1.0.zip",
+                    "changelog":  "Correccion de inventario de objetos y descuento de objetos en evoluciones",
                     "forceUpdate":  true
                 }
 }
