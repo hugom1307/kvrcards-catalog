@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "2.0.6",
-                    "minimumRequired":  "2.0.6",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.0.6.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.0.6.zip",
-                    "changelog":  "Ajustes de Mejoramela y fix cartas con guiones bajos",
+                    "current":  "2.0.7",
+                    "minimumRequired":  "2.0.7",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.0.7.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.0.7.zip",
+                    "changelog":  "Restaurar persistencia global de prestigio",
                     "forceUpdate":  true
                 }
 }
