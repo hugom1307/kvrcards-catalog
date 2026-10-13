@@ -239,7 +239,7 @@
   "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_torneodehaseo.png",
   "openingGradient": ["##ABF8FF", "#E6FCFF", "##ABF8FF"],
   "price": {
-    "coins": 50000,
+    "coins": 20000,
     "kvr": 40
   }
 }
@@ -249,8 +249,11 @@
     { "id": "sobre_plata" },
     { "id": "sobre_oro" },
     { "id": "sobre_81_plus"},
-    { "id": "sobre_especial", "stock": 5},
-    { "id": "sobre_90_plus", "stock": 1}
+    { "id": "sobre_83_plus_limitado", "stock": 10},
+    { "id": "sobre_torneohaseo", "stock": 5},
+    { "id": "sobre_especial", "stock": 3},
+    { "id": "sobre_legendario", "stock": 1}
+    
   ]
 }
 
