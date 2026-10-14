@@ -249,10 +249,9 @@
     { "id": "sobre_plata" },
     { "id": "sobre_oro" },
     { "id": "sobre_81_plus"},
-    { "id": "sobre_83_plus_limitado", "stock": 10},
-    { "id": "sobre_torneohaseo", "stock": 5},
-    { "id": "sobre_especial", "stock": 3},
-    { "id": "sobre_legendario", "stock": 1}
+    { "id": "sobre_83_plus", "stock": 5},
+    { "id": "sobre_85_plus", "stock": 3},
+    { "id": "sobre_especial", "stock": 2}
     
   ]
 }
