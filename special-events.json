@@ -139,14 +139,14 @@
             ],
              "repeatRewards": [
               { "type": "coins", "amount": 5000 },
-              { "type": "item", "itemId": "deseo", "amount": 7 },
+              { "type": "item", "itemId": "deseo", "amount": 15 },
               { "type": "traits", "amount": 2 },
               { "type": "traits", "amount": 1, "probability": 50 },
               { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1, "probability": 20 },
               { "type": "item", "itemId": "pergamino_elemental_rayo", "amount": 1, "probability": 10 },
               { "type": "item", "itemId": "pergamino_elemental_fuego", "amount": 1, "probability": 10 },
               { "type": "item", "itemId": "pergamino_elemental_agua", "amount": 1, "probability": 10 },
-              { "type": "item", "itemId": "bankakyo_byakugan", "amount": 1, "probability": 0.01 }
+              { "type": "item", "itemId": "bankakyo_byakugan", "amount": 1, "probability": 3 }
             ]
           }
         ]
@@ -171,7 +171,7 @@
              "repeatRewards": [
               { "type": "coins", "amount": 1000 },
               { "type": "traits", "amount": 1, "probability": 50 },
-              { "type": "pack", "packId": "sobre_edotensei", "amount": 1, "probability": 3 }
+              { "type": "pack", "packId": "sobre_edotensei", "amount": 1, "probability": 15 }
             ]
           },
           {
@@ -183,13 +183,13 @@
               { "type": "coins", "amount": 25000 },
               { "type": "traits", "amount": 10},
               { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1 },
-              { "type": "item", "itemId": "capa_baryon_yang", "amount": 1, "probability": 2 }
+              { "type": "item", "itemId": "capa_baryon_yang", "amount": 1, "probability": 5 }
             ],
              "repeatRewards": [
               { "type": "coins", "amount": 1000 },
               { "type": "traits", "amount": 1, "probability": 50 },
               { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1 , "probability": 10},
-              { "type": "item", "itemId": "capa_baryon_yang", "amount": 1, "probability": 2 }
+              { "type": "item", "itemId": "capa_baryon_yang", "amount": 1, "probability": 5 }
             ]
           },
           {
@@ -201,13 +201,13 @@
               { "type": "traits", "amount": 20},
               { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1 },
               { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1, "probability": 50},
-              { "type": "item", "itemId": "puertas_internas", "amount": 1, "probability": 10 }
+              { "type": "item", "itemId": "puertas_internas", "amount": 1, "probability": 25 }
             ],
              "repeatRewards": [
               { "type": "coins", "amount": 1000 },
               { "type": "traits", "amount": 1, "probability": 50 },
-              { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1 , "probability": 10},
-              { "type": "item", "itemId": "puertas_internas", "amount": 1, "probability": 10 }
+              { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1 , "probability": 25},
+              { "type": "item", "itemId": "puertas_internas", "amount": 1, "probability": 25 }
             ]
           },
           {
@@ -218,13 +218,13 @@
             "firstClearRewards": [
               { "type": "traits", "amount": 25},
               { "type": "pack", "packId": "sobre_torneohaseo", "amount": 2 },
-              { "type": "item", "itemId": "capa_baryon_ying", "amount": 1, "probability": 2 }
+              { "type": "item", "itemId": "capa_baryon_ying", "amount": 1, "probability": 5 }
             ],
              "repeatRewards": [
               { "type": "coins", "amount": 1000 },
               { "type": "traits", "amount": 1, "probability": 50 },
-              { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1 , "probability": 10},
-              { "type": "item", "itemId": "capa_baryon_ying", "amount": 1, "probability": 2 }
+              { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1 , "probability": 25},
+              { "type": "item", "itemId": "capa_baryon_ying", "amount": 1, "probability": 5 }
             ]
           },
           {
@@ -236,13 +236,13 @@
               { "type": "traits", "amount": 25},
               { "type": "coins", "amount": 50000 },
               { "type": "pack", "packId": "sobre_edotensei", "amount": 1, "probability": 50 },
-              { "type": "item", "itemId": "bankakyo_byakugan", "amount": 1, "probability": 3 }
+              { "type": "item", "itemId": "bankakyo_byakugan", "amount": 1, "probability": 5 }
             ],
              "repeatRewards": [
               { "type": "coins", "amount": 1000 },
               { "type": "traits", "amount": 1, "probability": 80 },
-              { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1 , "probability": 10},
-              { "type": "item", "itemId": "bankakyo_byakugan", "amount": 1, "probability": 3 }
+              { "type": "pack", "packId": "sobre_torneohaseo", "amount": 1 , "probability": 25},
+              { "type": "item", "itemId": "bankakyo_byakugan", "amount": 1, "probability": 5 }
             ]
           }
         ]
