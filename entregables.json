@@ -710,7 +710,7 @@
   "tipo": "especial",
   "descripcion": "Entrega exactamente 50 cartas (Al menos 45 de calidad Oro, con al menos 5 de Grejino02, al menos 10 de Konohagakure y al menos 3 con media 90+) a cambio de 1 Sobre Legendario y la carta Raiden Keitaro SBC.",
   "imagenes": [
-    "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/keitaroevo.png"
+    "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/keitarosbc.png"
   ],
   "limites": {
     "minCartas": 50,
