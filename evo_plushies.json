@@ -23,6 +23,294 @@
         "name": "Inpu",
         "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/inpuplushie.png"
       }
+    },
+   {
+      "id": "plushie_tsukiro",
+      "name": "Plushie: Tsukiro",
+      "description": "Vive en tu propia mente. Familiar exclusivo para Fuutaro.",
+      "plushieId": "tsukiro",
+      "cardIds": [
+        "raiden_fuutaro"
+      ],
+      "targetCardName": "Raiden Fuutaro",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/fuutaroplushie.png",
+      "requirements": {
+        "prestigeLevel": 5,
+        "duplicateCopies": 2,
+        "items": [
+          { "id": "plush_coin", "name": "Plush Coin", "amount": 1 }
+        ]
+      },
+      "reward": {
+        "type": "plushie",
+        "plushieId": "tsukiro",
+        "name": "Tsukiro",
+        "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/fuutaroplushie.png"
+      }
+    },
+    {
+      "id": "plushie_lilia",
+      "name": "Plushie: Lilia",
+      "description": "Una niña inofensiva. Familiar exclusivo para Ken.",
+      "plushieId": "lilia",
+      "cardIds": [
+        "ken_inazuma"
+      ],
+      "targetCardName": "Ken Inazuma",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/kenplushie.png",
+      "requirements": {
+        "prestigeLevel": 5,
+        "duplicateCopies": 2,
+        "items": [
+          { "id": "plush_coin", "name": "Plush Coin", "amount": 1 }
+        ]
+      },
+      "reward": {
+        "type": "plushie",
+        "plushieId": "lilia",
+        "name": "Lilia",
+        "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/kenplushie.png"
+      }
+    },
+    {
+      "id": "plushie_yuri",
+      "name": "Plushie: Yuri",
+      "description": "Un amor accidentado. Familiar exclusivo para Kenji.",
+      "plushieId": "yuri",
+      "cardIds": [
+        "kenji_ikari"
+      ],
+      "targetCardName": "Kenji Ikari",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/kenjiplushie.png",
+      "requirements": {
+        "prestigeLevel": 5,
+        "duplicateCopies": 2,
+        "items": [
+          { "id": "plush_coin", "name": "Plush Coin", "amount": 1 }
+        ]
+      },
+      "reward": {
+        "type": "plushie",
+        "plushieId": "yuri",
+        "name": "Yuri",
+        "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/kenjiplushie.png"
+      }
+    },
+    {
+      "id": "plushie_nagare",
+      "name": "Plushie: Nagare",
+      "description": "El hermano que nadie querría tener. Familiar exclusivo para Mikori.",
+      "plushieId": "nagare",
+      "cardIds": [
+        "mikori_fukasa"
+      ],
+      "targetCardName": "Mikori Fukasa",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/mikoriplushie.png",
+      "requirements": {
+        "prestigeLevel": 5,
+        "duplicateCopies": 2,
+        "items": [
+          { "id": "plush_coin", "name": "Plush Coin", "amount": 1 }
+        ]
+      },
+      "reward": {
+        "type": "plushie",
+        "plushieId": "nagare",
+        "name": "Nagare",
+        "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/mikoriplushie.png"
+      }
+    },
+    {
+      "id": "plushie_jimmy",
+      "name": "Plushie: Jimmy",
+      "description": "El mejor perro de la historia. Familiar exclusivo para Sekitan.",
+      "plushieId": "jimmy",
+      "cardIds": [
+        "sekitan"
+      ],
+      "targetCardName": "Sekitan",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/sekitanplushie.png",
+      "requirements": {
+        "prestigeLevel": 5,
+        "duplicateCopies": 2,
+        "items": [
+          { "id": "plush_coin", "name": "Plush Coin", "amount": 1 }
+        ]
+      },
+      "reward": {
+        "type": "plushie",
+        "plushieId": "jimmy",
+        "name": "Jimmy",
+        "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/sekitanplushie.png"
+      }
+    },
+    {
+      "id": "plushie_ransu",
+      "name": "Plushie: Ransu",
+      "description": "'Hermano, ahora verás a través de mis ojos'. Familiar exclusivo para Ronan.",
+      "plushieId": "ransu",
+      "cardIds": [
+        "ronan_hatake"
+      ],
+      "targetCardName": "Ronan Hatake",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/ronanplushie.png",
+      "requirements": {
+        "prestigeLevel": 5,
+        "duplicateCopies": 2,
+        "items": [
+          { "id": "plush_coin", "name": "Plush Coin", "amount": 1 }
+        ]
+      },
+      "reward": {
+        "type": "plushie",
+        "plushieId": "ransu",
+        "name": "Ransu",
+        "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/ronanplushie.png"
+      }
+    },
+    {
+      "id": "plushie_haji",
+      "name": "Plushie: Haji",
+      "description": "El maestro del cual heredamos la voluntad del fuego. Familiar exclusivo para Sukui.",
+      "plushieId": "haji",
+      "cardIds": [
+        "sukui_uzumaki"
+      ],
+      "targetCardName": "Sukui Uzumaki",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/sukuiplushie.png",
+      "requirements": {
+        "prestigeLevel": 5,
+        "duplicateCopies": 2,
+        "items": [
+          { "id": "plush_coin", "name": "Plush Coin", "amount": 1 }
+        ]
+      },
+      "reward": {
+        "type": "plushie",
+        "plushieId": "haji",
+        "name": "Haji",
+        "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/sukuiplushie.png"
+      }
+    },
+    {
+      "id": "plushie_mascaras",
+      "name": "Plushie: Las 3 máscaras",
+      "description": "Una técnica que representa los sentimientos más profundos. Familiar exclusivo para Taka.",
+      "plushieId": "mascaras",
+      "cardIds": [
+        "taka_uzumaki"
+      ],
+      "targetCardName": "Taka Uzumaki",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/takaplushie.png",
+      "requirements": {
+        "prestigeLevel": 5,
+        "duplicateCopies": 2,
+        "items": [
+          { "id": "plush_coin", "name": "Plush Coin", "amount": 1 }
+        ]
+      },
+      "reward": {
+        "type": "plushie",
+        "plushieId": "mascaras",
+        "name": "Las 3 máscaras",
+        "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/takaplushie.png"
+      }
+    },
+    {
+      "id": "plushie_toshiro",
+      "name": "Plushie: Toshiro",
+      "description": "Nada como un buen compañero de trabajo. Familiar exclusivo para Vivar.",
+      "plushieId": "toshiro",
+      "cardIds": [
+        "vivar"
+      ],
+      "targetCardName": "Vivar",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/vivarplushie.png",
+      "requirements": {
+        "prestigeLevel": 5,
+        "duplicateCopies": 2,
+        "items": [
+          { "id": "plush_coin", "name": "Plush Coin", "amount": 1 }
+        ]
+      },
+      "reward": {
+        "type": "plushie",
+        "plushieId": "toshiro",
+        "name": "Toshiro",
+        "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/vivarplushie.png"
+      }
+    },
+    {
+      "id": "plushie_ryuki",
+      "name": "Plushie: Ryuki",
+      "description": "'Padre, ¿dónde has estado?'. Familiar exclusivo para Aya.",
+      "plushieId": "ryuki",
+      "cardIds": [
+        "aya"
+      ],
+      "targetCardName": "Aya",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/ayaplushie.png",
+      "requirements": {
+        "prestigeLevel": 5,
+        "duplicateCopies": 2,
+        "items": [
+          { "id": "plush_coin", "name": "Plush Coin", "amount": 1 }
+        ]
+      },
+      "reward": {
+        "type": "plushie",
+        "plushieId": "ryuki",
+        "name": "Ryuki",
+        "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/ayaplushie.png"
+      }
+    },
+    {
+      "id": "plushie_kyo",
+      "name": "Plushie: Kyo",
+      "description": "Nada como una hydra para que te enseñe a pelear. Familiar exclusivo para Mamoru.",
+      "plushieId": "kyo",
+      "cardIds": [
+        "mamoru_cota1"
+      ],
+      "targetCardName": "Mamoru",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/mamoruplushie.png",
+      "requirements": {
+        "prestigeLevel": 5,
+        "duplicateCopies": 2,
+        "items": [
+          { "id": "plush_coin", "name": "Plush Coin", "amount": 1 }
+        ]
+      },
+      "reward": {
+        "type": "plushie",
+        "plushieId": "kyo",
+        "name": "Kyo",
+        "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/mamoruplushie.png"
+      }
+    },
+    {
+      "id": "plushie_kai",
+      "name": "Plushie: Kai",
+      "description": "De kazekage a kazekage. Familiar exclusivo para Kurai.",
+      "plushieId": "kai",
+      "cardIds": [
+        "kurai_tenro"
+      ],
+      "targetCardName": "Kurai Tenro",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/kuraiplushie.png",
+      "requirements": {
+        "prestigeLevel": 5,
+        "duplicateCopies": 2,
+        "items": [
+          { "id": "plush_coin", "name": "Plush Coin", "amount": 1 }
+        ]
+      },
+      "reward": {
+        "type": "plushie",
+        "plushieId": "kai",
+        "name": "Kai",
+        "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/kuraiplushie.png"
+      }
     }
   ]
 }
