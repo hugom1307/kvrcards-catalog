@@ -1,1 +1,28 @@
-
+{
+  "evoPlushies": [
+    {
+      "id": "plushie_inpu",
+      "name": "Plushie: Inpu",
+      "description": "¡Consigue el plushie de Inpu!",
+      "plushieId": "inpu",
+      "cardIds": [
+        "jenue_bogai_cota"
+      ],
+      "targetCardName": "Jenue Bogai C.O.T.A.",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/inpu.png",
+      "requirements": {
+        "prestigeLevel": 5,
+        "duplicateCopies": 1,
+        "items": [
+          { "id": "plush_coin", "name": "Plush Coin", "amount": 1 }
+        ]
+      },
+      "reward": {
+        "type": "plushie",
+        "plushieId": "inpu",
+        "name": "Inpu",
+        "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/inpu.png"
+      }
+    }
+  ]
+}
