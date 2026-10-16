@@ -640,5 +640,62 @@
       "saiten_otsutsuki_coht@full_support",
       "raik_otsutsuki_coht@especialista"
     ]
+  },
+   {
+    "id": "daruma_kazegakure",
+    "nombre": "Daruma Kenjiku",
+      "titulo": "El falso caos",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/daruma.png",
+     "song": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/music/daruma.mp3",
+    "dificultades": ["kazegakure_1"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondodarumakazegakure.png",
+    "intervaloMedias": [87, 99],
+    "cartasObligatorias": [
+      "daruma_kenjiku@monarch",
+      "iyari_ryuga_icono",
+      "raiden_senjuro@especialista",
+      "kiri_uzumaki_icono",
+      "kinan_hatake_icono@taijutsu3",
+      "manuel_hyuga_iconoprime@full_support",
+      "shind_inazuma_iconoprime@velocidad3"
+    ]
+  },
+  {
+    "id": "keitaro_kazegakure",
+    "nombre": "Raiden Keitaro",
+      "titulo": "Ave Geométrica",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/keitaro.png",
+     "song": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/music/keitaro.mp3",
+    "dificultades": ["kazegakure_2"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondokeitarokazegakure.png",
+    "intervaloMedias": [87, 99],
+    "cartasObligatorias": [
+      "raiden_keitaro_sbc@monarch",
+      "iyari_ryuga_iconoprime",
+      "raiden_senjuro_evo@especialista",
+      "zagren_senju_evoe",
+      "kinan_hatake_iconoprime",
+      "daiki_senju_heroe",
+      "taiyo_uchiha_iconoprime"
+    ]
+  },
+   {
+    "id": "iyari_kazegakure",
+    "nombre": "Iyari Ryuga",
+      "titulo": "El creador de Kazegakure",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/iyari.png",
+     "song": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/music/iyari.mp3",
+    "dificultades": ["kazegakure_3"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/fondoiyarikazegakure.png",
+    "intervaloMedias": [87, 99],
+    "cartasObligatorias": [
+      "iyari_ryuga_flashback@monarch",
+      "raiden_keitaro_sbc@especialista",
+      "rura_exclusive",
+      "zagren_senju_evoe",
+      "inui_uzumaki_heroe",
+      "taiyo_uchiha_iconosuperprime",
+      "daruma_kenjiku"
+    ]
   }
 ]
