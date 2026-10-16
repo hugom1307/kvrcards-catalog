@@ -83,4 +83,11 @@
   "calidad": "Legendario",
   "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/plushcoin.png"
 },
+{
+  "id": "segmentus",
+  "name": "Segmentus",
+  "description": "Un arma muy antigua, perteneciente al clan Raiden.",
+  "calidad": "Mítico",
+  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/segmentus.png"
+},
 ]
