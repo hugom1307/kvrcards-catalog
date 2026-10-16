@@ -1220,7 +1220,878 @@
       ]
     }
   ]
-}
-
+},
+  {
+    "cardId": "raiden_senjuro",
+    "name": "Raiden Senjuro",
+    "levels": [
+      {
+        "prestige": 1,
+        "xpRequired": 100,
+        "missions": [
+          {
+            "name": "Jugar 3 batallas con esta carta",
+            "type": "played",
+            "target": 3,
+            "xp": 100
+          },
+          {
+            "name": "Ganar 2 batallas con esta carta",
+            "type": "wins",
+            "target": 2,
+            "xp": 100
+          },
+          {
+            "name": "Ganar 5 rondas con cartas de Konohagakure",
+            "type": "winsRounds",
+            "procedencia": "Konohagakure",
+            "target": 5,
+            "xp": 100
+          }
+        ],
+        "rewards": [
+          {
+            "type": "coins",
+            "amount": 2500
+          },
+          {
+            "type": "pack",
+            "packId": "sobre_oro",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "prestige": 2,
+        "xpRequired": 500,
+        "missions": [
+          {
+            "name": "Gana 10 batallas con esta carta",
+            "type": "wins",
+            "target": 10,
+            "xp": 250
+          },
+          {
+            "name": "Ganar 10 rondas con esta carta",
+            "type": "winsRounds",
+            "target": 10,
+            "xp": 250
+          },
+          {
+            "name": "Ganar 15 rondas con cartas de Konohagakure",
+            "type": "winsRounds",
+            "procedencia": "Konohagakure",
+            "target": 15,
+            "xp": 300
+          },
+          {
+            "name": "Ganar 15 rondas con cartas de Grejino02",
+            "type": "winsRounds",
+            "owner": "Grejino02",
+            "target": 15,
+            "xp": 250
+          }
+        ],
+        "rewards": [
+          {
+            "type": "pack",
+            "packId": "sobre_oro",
+            "amount": 5
+          },
+          {
+            "type": "coins",
+            "amount": 5000
+          }
+        ]
+      },
+      {
+        "prestige": 3,
+        "xpRequired": 2000,
+        "missions": [
+          {
+            "name": "Jugar 25 batallas con esta carta",
+            "type": "played",
+            "target": 25,
+            "xp": 800
+          },
+          {
+            "name": "Ganar 15 batallas con esta carta",
+            "type": "wins",
+            "target": 15,
+            "xp": 800
+          },
+          {
+            "name": "Gana 50 rondas con cartas de Konohagakure",
+            "type": "winsRounds",
+            "procedencia": "Konohagakure",
+            "target": 50,
+            "xp": 800
+          },
+          {
+            "name": "Gana 50 rondas con cartas de Grejino02",
+            "type": "winsRounds",
+            "owner": "Grejino02",
+            "target": 50,
+            "xp": 600
+          }
+        ],
+        "rewards": [
+          {
+            "type": "coins",
+            "amount": 10000
+          },
+          {
+            "type": "pack",
+            "packId": "sobre_83_plus",
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "prestige": 4,
+        "xpRequired": 5000,
+        "missions": [
+          {
+            "name": "Jugar 50 batallas con esta carta",
+            "type": "played",
+            "target": 50,
+            "xp": 1500
+          },
+          {
+            "name": "Ganar 35 batallas con esta carta",
+            "type": "wins",
+            "target": 35,
+            "xp": 2000
+          },
+          {
+            "name": "Gana 150 rondas con cartas de Konohagakure",
+            "type": "winsRounds",
+            "procedencia": "Konohagakure",
+            "target": 150,
+            "xp": 2000
+          },
+          {
+            "name": "Gana 150 rondas con cartas de Grejino02",
+            "type": "winsRounds",
+            "owner": "Grejino02",
+            "target": 150,
+            "xp": 2000
+          }
+        ],
+        "rewards": [
+          {
+            "type": "pack",
+            "packId": "sobre_legendario",
+            "amount": 1
+          },
+          {
+            "type": "coins",
+            "amount": 35000
+          }
+        ]
+      },
+      {
+        "prestige": 5,
+        "xpRequired": 10000,
+        "missions": [
+          {
+            "name": "Gana 100 batallas con esta carta",
+            "type": "wins",
+            "target": 100,
+            "xp": 4000
+          },
+          {
+            "name": "Jugar 120 batallas con esta carta",
+            "type": "played",
+            "target": 120,
+            "xp": 3000
+          },
+          {
+            "name": "Ganar 200 rondas con cartas de Konohagakure de Grejino02",
+            "type": "winsRounds",
+            "procedencia": "Konohagakure",
+            "owner": "Grejino02",
+            "target": 200,
+            "xp": 4000
+          },
+          {
+            "name": "Ganar 250 rondas con cartas de Konohagakure",
+            "type": "winsRounds",
+            "procedencia": "Konohagakure",
+            "target": 250,
+            "xp": 3500
+          }
+        ],
+        "rewards": [
+          {
+            "type": "title",
+            "titleId": "creacion"
+          },
+          {
+            "type": "coins",
+            "amount": 50000
+          },
+          {
+            "type": "background",
+            "backgroundId": "fondo_senjuro"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "raiden_keitaro_sbc",
+    "name": "Raiden Keitaro",
+    "levels": [
+      {
+        "prestige": 1,
+        "xpRequired": 100,
+        "missions": [
+          {
+            "name": "Jugar 3 batallas con esta carta",
+            "type": "played",
+            "target": 3,
+            "xp": 100
+          },
+          {
+            "name": "Ganar 2 batallas con esta carta",
+            "type": "wins",
+            "target": 2,
+            "xp": 100
+          },
+          {
+            "name": "Ganar 5 rondas con cartas de Jinushi",
+            "type": "winsRounds",
+            "procedencia": "Jinushi",
+            "target": 5,
+            "xp": 100
+          }
+        ],
+        "rewards": [
+          {
+            "type": "coins",
+            "amount": 2500
+          },
+          {
+            "type": "pack",
+            "packId": "sobre_oro",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "prestige": 2,
+        "xpRequired": 500,
+        "missions": [
+          {
+            "name": "Gana 10 batallas con esta carta",
+            "type": "wins",
+            "target": 10,
+            "xp": 250
+          },
+          {
+            "name": "Ganar 10 rondas con esta carta",
+            "type": "winsRounds",
+            "target": 10,
+            "xp": 250
+          },
+          {
+            "name": "Ganar 15 rondas con cartas de Jinushi",
+            "type": "winsRounds",
+            "procedencia": "Jinushi",
+            "target": 15,
+            "xp": 300
+          },
+          {
+            "name": "Ganar 15 rondas con cartas de Grejino02",
+            "type": "winsRounds",
+            "owner": "Grejino02",
+            "target": 15,
+            "xp": 250
+          }
+        ],
+        "rewards": [
+          {
+            "type": "pack",
+            "packId": "sobre_oro",
+            "amount": 5
+          },
+          {
+            "type": "coins",
+            "amount": 5000
+          }
+        ]
+      },
+      {
+        "prestige": 3,
+        "xpRequired": 2000,
+        "missions": [
+          {
+            "name": "Jugar 25 batallas con esta carta",
+            "type": "played",
+            "target": 25,
+            "xp": 800
+          },
+          {
+            "name": "Ganar 15 batallas con esta carta",
+            "type": "wins",
+            "target": 15,
+            "xp": 800
+          },
+          {
+            "name": "Gana 50 rondas con cartas de Konoha",
+            "type": "winsRounds",
+            "procedencia": "Konohagakure",
+            "target": 50,
+            "xp": 800
+          },
+          {
+            "name": "Gana 50 rondas con cartas de Grejino02",
+            "type": "winsRounds",
+            "owner": "Grejino02",
+            "target": 50,
+            "xp": 600
+          }
+        ],
+        "rewards": [
+          {
+            "type": "coins",
+            "amount": 10000
+          },
+          {
+            "type": "pack",
+            "packId": "sobre_83_plus",
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "prestige": 4,
+        "xpRequired": 5000,
+        "missions": [
+          {
+            "name": "Jugar 50 batallas con esta carta",
+            "type": "played",
+            "target": 50,
+            "xp": 1500
+          },
+          {
+            "name": "Ganar 35 batallas con esta carta",
+            "type": "wins",
+            "target": 35,
+            "xp": 2000
+          },
+          {
+            "name": "Gana 150 rondas con cartas de Konoha",
+            "type": "winsRounds",
+            "procedencia": "Konohagakure",
+            "target": 150,
+            "xp": 2000
+          },
+          {
+            "name": "Gana 150 rondas con cartas de Grejino02",
+            "type": "winsRounds",
+            "owner": "Grejino02",
+            "target": 150,
+            "xp": 2000
+          }
+        ],
+        "rewards": [
+          {
+            "type": "pack",
+            "packId": "sobre_legendario",
+            "amount": 1
+          },
+          {
+            "type": "coins",
+            "amount": 35000
+          }
+        ]
+      },
+      {
+        "prestige": 5,
+        "xpRequired": 10000,
+        "missions": [
+          {
+            "name": "Gana 100 batallas con esta carta",
+            "type": "wins",
+            "target": 100,
+            "xp": 4000
+          },
+          {
+            "name": "Jugar 120 batallas con esta carta",
+            "type": "played",
+            "target": 120,
+            "xp": 3000
+          },
+          {
+            "name": "Ganar 200 rondas con cartas de Konoha de Grejino02",
+            "type": "winsRounds",
+            "procedencia": "Konohagakure",
+            "owner": "Grejino02",
+            "target": 200,
+            "xp": 4000
+          },
+          {
+            "name": "Ganar 250 rondas con cartas de Konoha",
+            "type": "winsRounds",
+            "procedencia": "Konohagakure",
+            "target": 250,
+            "xp": 3500
+          }
+        ],
+        "rewards": [
+          {
+            "type": "title",
+            "titleId": "destruccion"
+          },
+          {
+            "type": "coins",
+            "amount": 50000
+          },
+          {
+            "type": "background",
+            "backgroundId": "fondo_keitaro"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "iyari_ryuga_icono",
+    "name": "Iyari Ryuga",
+    "levels": [
+      {
+        "prestige": 1,
+        "xpRequired": 100,
+        "missions": [
+          {
+            "name": "Jugar 3 batallas con esta carta",
+            "type": "played",
+            "target": 3,
+            "xp": 100
+          },
+          {
+            "name": "Ganar 2 batallas con esta carta",
+            "type": "wins",
+            "target": 2,
+            "xp": 100
+          },
+          {
+            "name": "Ganar 5 rondas con cartas de Konohagakure",
+            "type": "winsRounds",
+            "procedencia": "Konohagakure",
+            "target": 5,
+            "xp": 100
+          }
+        ],
+        "rewards": [
+          {
+            "type": "coins",
+            "amount": 2500
+          },
+          {
+            "type": "pack",
+            "packId": "sobre_oro",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "prestige": 2,
+        "xpRequired": 500,
+        "missions": [
+          {
+            "name": "Gana 10 batallas con esta carta",
+            "type": "wins",
+            "target": 10,
+            "xp": 250
+          },
+          {
+            "name": "Ganar 10 rondas con esta carta",
+            "type": "winsRounds",
+            "target": 10,
+            "xp": 250
+          },
+          {
+            "name": "Ganar 15 rondas con cartas de Konohagakure",
+            "type": "winsRounds",
+            "procedencia": "Konohagakure",
+            "target": 15,
+            "xp": 300
+          },
+          {
+            "name": "Ganar 15 rondas con cartas de Grejino02",
+            "type": "winsRounds",
+            "owner": "Grejino02",
+            "target": 15,
+            "xp": 250
+          }
+        ],
+        "rewards": [
+          {
+            "type": "pack",
+            "packId": "sobre_oro",
+            "amount": 5
+          },
+          {
+            "type": "coins",
+            "amount": 5000
+          }
+        ]
+      },
+      {
+        "prestige": 3,
+        "xpRequired": 2000,
+        "missions": [
+          {
+            "name": "Jugar 25 batallas con esta carta",
+            "type": "played",
+            "target": 25,
+            "xp": 800
+          },
+          {
+            "name": "Ganar 15 batallas con esta carta",
+            "type": "wins",
+            "target": 15,
+            "xp": 800
+          },
+          {
+            "name": "Gana 50 rondas con cartas de Konohagakure",
+            "type": "winsRounds",
+            "procedencia": "Konohagakure",
+            "target": 50,
+            "xp": 800
+          },
+          {
+            "name": "Gana 50 rondas con cartas de Grejino02",
+            "type": "winsRounds",
+            "owner": "Grejino02",
+            "target": 50,
+            "xp": 600
+          }
+        ],
+        "rewards": [
+          {
+            "type": "coins",
+            "amount": 10000
+          },
+          {
+            "type": "pack",
+            "packId": "sobre_83_plus",
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "prestige": 4,
+        "xpRequired": 5000,
+        "missions": [
+          {
+            "name": "Jugar 50 batallas con esta carta",
+            "type": "played",
+            "target": 50,
+            "xp": 1500
+          },
+          {
+            "name": "Ganar 35 batallas con esta carta",
+            "type": "wins",
+            "target": 35,
+            "xp": 2000
+          },
+          {
+            "name": "Gana 150 rondas con cartas de Konohagakure",
+            "type": "winsRounds",
+            "procedencia": "Konohagakure",
+            "target": 150,
+            "xp": 2000
+          },
+          {
+            "name": "Gana 150 rondas con cartas de Grejino02",
+            "type": "winsRounds",
+            "owner": "Grejino02",
+            "target": 150,
+            "xp": 2000
+          }
+        ],
+        "rewards": [
+          {
+            "type": "pack",
+            "packId": "sobre_legendario",
+            "amount": 1
+          },
+          {
+            "type": "coins",
+            "amount": 35000
+          }
+        ]
+      },
+      {
+        "prestige": 5,
+        "xpRequired": 10000,
+        "missions": [
+          {
+            "name": "Gana 100 batallas con esta carta",
+            "type": "wins",
+            "target": 100,
+            "xp": 4000
+          },
+          {
+            "name": "Jugar 120 batallas con esta carta",
+            "type": "played",
+            "target": 120,
+            "xp": 3000
+          },
+          {
+            "name": "Ganar 200 rondas con cartas de Konohagakure de Grejino02",
+            "type": "winsRounds",
+            "procedencia": "Konohagakure",
+            "owner": "Grejino02",
+            "target": 200,
+            "xp": 4000
+          },
+          {
+            "name": "Ganar 250 rondas con cartas de Konohagakure",
+            "type": "winsRounds",
+            "procedencia": "Konohagakure",
+            "target": 250,
+            "xp": 3500
+          }
+        ],
+        "rewards": [
+          {
+            "type": "title",
+            "titleId": "lamento"
+          },
+          {
+            "type": "coins",
+            "amount": 50000
+          },
+          {
+            "type": "background",
+            "backgroundId": "fondo_iyari"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cardId": "daruma_kenjiku",
+    "name": "Daruma Kenjiku",
+    "levels": [
+      {
+        "prestige": 1,
+        "xpRequired": 100,
+        "missions": [
+          {
+            "name": "Jugar 3 batallas con esta carta",
+            "type": "played",
+            "target": 3,
+            "xp": 100
+          },
+          {
+            "name": "Ganar 2 batallas con esta carta",
+            "type": "wins",
+            "target": 2,
+            "xp": 100
+          },
+          {
+            "name": "Ganar 5 rondas con cartas de procedencia Desconocida",
+            "type": "winsRounds",
+            "procedencia": "Desconocido",
+            "target": 5,
+            "xp": 100
+          }
+        ],
+        "rewards": [
+          {
+            "type": "coins",
+            "amount": 2500
+          },
+          {
+            "type": "pack",
+            "packId": "sobre_oro",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "prestige": 2,
+        "xpRequired": 500,
+        "missions": [
+          {
+            "name": "Gana 10 batallas con esta carta",
+            "type": "wins",
+            "target": 10,
+            "xp": 250
+          },
+          {
+            "name": "Ganar 10 rondas con esta carta",
+            "type": "winsRounds",
+            "target": 10,
+            "xp": 250
+          },
+          {
+            "name": "Ganar 15 rondas con cartas de procedencia Desconocida",
+            "type": "winsRounds",
+            "procedencia": "Desconocido",
+            "target": 15,
+            "xp": 300
+          },
+          {
+            "name": "Ganar 15 rondas con cartas de Grejino02",
+            "type": "winsRounds",
+            "owner": "Grejino02",
+            "target": 15,
+            "xp": 250
+          }
+        ],
+        "rewards": [
+          {
+            "type": "pack",
+            "packId": "sobre_oro",
+            "amount": 5
+          },
+          {
+            "type": "coins",
+            "amount": 5000
+          }
+        ]
+      },
+      {
+        "prestige": 3,
+        "xpRequired": 2000,
+        "missions": [
+          {
+            "name": "Jugar 25 batallas con esta carta",
+            "type": "played",
+            "target": 25,
+            "xp": 800
+          },
+          {
+            "name": "Ganar 15 batallas con esta carta",
+            "type": "wins",
+            "target": 15,
+            "xp": 800
+          },
+          {
+            "name": "Gana 50 rondas con cartas de procedencia Desconocida",
+            "type": "winsRounds",
+            "procedencia": "Desconocido",
+            "target": 50,
+            "xp": 800
+          },
+          {
+            "name": "Gana 50 rondas con cartas de Grejino02",
+            "type": "winsRounds",
+            "owner": "Grejino02",
+            "target": 50,
+            "xp": 600
+          }
+        ],
+        "rewards": [
+          {
+            "type": "coins",
+            "amount": 10000
+          },
+          {
+            "type": "pack",
+            "packId": "sobre_83_plus",
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "prestige": 4,
+        "xpRequired": 5000,
+        "missions": [
+          {
+            "name": "Jugar 50 batallas con esta carta",
+            "type": "played",
+            "target": 50,
+            "xp": 1500
+          },
+          {
+            "name": "Ganar 35 batallas con esta carta",
+            "type": "wins",
+            "target": 35,
+            "xp": 2000
+          },
+          {
+            "name": "Gana 150 rondas con cartas de procedencia Desconocida",
+            "type": "winsRounds",
+            "procedencia": "Desconocido",
+            "target": 150,
+            "xp": 2000
+          },
+          {
+            "name": "Gana 150 rondas con cartas de Grejino02",
+            "type": "winsRounds",
+            "owner": "Grejino02",
+            "target": 150,
+            "xp": 2000
+          }
+        ],
+        "rewards": [
+          {
+            "type": "pack",
+            "packId": "sobre_legendario",
+            "amount": 1
+          },
+          {
+            "type": "coins",
+            "amount": 35000
+          }
+        ]
+      },
+      {
+        "prestige": 5,
+        "xpRequired": 10000,
+        "missions": [
+          {
+            "name": "Gana 100 batallas con esta carta",
+            "type": "wins",
+            "target": 100,
+            "xp": 4000
+          },
+          {
+            "name": "Jugar 120 batallas con esta carta",
+            "type": "played",
+            "target": 120,
+            "xp": 3000
+          },
+          {
+            "name": "Ganar 200 rondas con cartas de Desconocido de Grejino02",
+            "type": "winsRounds",
+            "procedencia": "Desconocido",
+            "owner": "Grejino02",
+            "target": 200,
+            "xp": 4000
+          },
+          {
+            "name": "Ganar 250 rondas con cartas de procedencia Desconocida",
+            "type": "winsRounds",
+            "procedencia": "Desconocido",
+            "target": 250,
+            "xp": 3500
+          }
+        ],
+        "rewards": [
+          {
+            "type": "title",
+            "titleId": "falso_caos"
+          },
+          {
+            "type": "coins",
+            "amount": 50000
+          },
+          {
+            "type": "background",
+            "backgroundId": "fondo_daruma"
+          }
+        ]
+      }
+    ]
+  }
   
 ]
