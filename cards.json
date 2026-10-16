@@ -4294,5 +4294,85 @@
     "calidad": "evo",
     "procedencia": "Mundo Subterráneo",
     "owner": "TaiyoDL"
+  },
+  {
+    "id": "raiden_senjuro_evo1",
+    "name": "Raiden Senjuro",
+    "stats": [92,80,83,87,77,80],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/senjuroevo1.png",
+    "media": 85,
+    "calidad": "evo",
+    "procedencia": "Desconocido",
+    "owner": "Grejino02"
+  },
+  {
+    "id": "raiden_senjuro_evo2",
+    "name": "Raiden Senjuro",
+    "stats": [95,81,85,94,86,83],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/senjuroevo2.png",
+    "media": 89,
+    "calidad": "evo",
+    "procedencia": "Desconocido",
+    "owner": "Grejino02"
+  },
+  {
+    "id": "raiden_keitaro_sbc",
+    "name": "Raiden Keitaro",
+    "stats": [93,84,88,90,89,80],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/keitarosbc.png",
+    "media": 88,
+    "calidad": "sbc",
+    "procedencia": "Desconocido",
+    "owner": "Grejino02"
+  },
+  {
+    "id": "raiden_keitaro_evo",
+    "name": "Raiden Keitaro",
+    "stats": [96,85,91,94,93,84],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/keitaroevo.png",
+    "media": 91,
+    "calidad": "evo",
+    "procedencia": "Desconocido",
+    "owner": "Grejino02"
+  },
+  {
+    "id": "daruma_kenjiku",
+    "name": "Daruma Kenjiku",
+    "stats": [92,87,92,84,82,80],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/darumakenjiku.png",
+    "media": 85,
+    "calidad": "oro",
+    "procedencia": "Desconocido",
+    "owner": "Grejino02"
+  },
+  {
+    "id": "hoshinori_itto_flashback",
+    "name": "Hoshinori Itto",
+    "stats": [97,85,93,80,88,87],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ittoflashback.png",
+    "media": 90,
+    "calidad": "flashback",
+    "procedencia": "Desconocido",
+    "owner": "Grejino02"
+  },
+  {
+    "id": "iyari_ryuga_flashback",
+    "name": "Iyari Ryuga",
+    "stats": [97,87,95,90,90,90],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/iyariflashback.png",
+    "media": 92,
+    "calidad": "flashback",
+    "procedencia": "Konohagakure",
+    "owner": "Grejino02"
+  },
+  {
+    "id": "kakashi_hatake_exclusive",
+    "name": "Kakashi Hatake",
+    "stats": [100,95,98,91,98,86],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kakashiexclusive.png",
+    "media": 93,
+    "calidad": "exclusive",
+    "procedencia": "Konohagakure",
+    "owner": "HugoMan1307"
   }
 ]
