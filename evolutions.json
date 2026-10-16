@@ -822,6 +822,93 @@
         "target": 1
       }
     ]
-  }
+  },
+  {
+  "id": "evo_raiden_senjuro_secuencia",
+  "name": "Evolución: Raiden Senjuro",
+  "type": "featured",
+  "repeatable": false,
+  "phases": [
+    {
+      "phase": 1,
+      "name": "Fase 1: Raiden Senjuro -> Evo 1",
+      "cardFrom": "raiden_senjuro",
+      "cardTo": "raiden_senjuro_evo1",
+      "missions": [
+        {
+          "id": "senjuro_p1_m1_wins",
+          "description": "Gana 30 partidas con Raiden Senjuro en tu equipo",
+          "type": "win_games_with_card",
+          "target": 30
+        },
+        {
+          "id": "senjuro_p1_m2_rounds",
+          "description": "Gana 15 rondas en combate con Raiden Senjuro",
+          "type": "rounds_won",
+          "cardRequired": true,
+          "target": 15
+        },
+        {
+          "id": "senjuro_p1_m3_rounds_owner",
+          "description": "Gana 50 rondas con personajes creados por Grejino02",
+          "type": "rounds_won_with_filter",
+          "owner": "Grejino02",
+          "target": 50
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "name": "Fase 2: Raiden Senjuro Evo 1 -> Evo 2",
+      "cardFrom": "raiden_senjuro_evo1",
+      "cardTo": "raiden_senjuro_evo2",
+      "missions": [
+        {
+          "id": "senjuro_p2_m1_wins",
+          "description": "Gana 50 partidas con Raiden Senjuro (Evo 1) en tu equipo",
+          "type": "win_games_with_card",
+          "target": 50
+        },
+        {
+          "id": "senjuro_p2_m2_general_wins",
+          "description": "Gana 100 partidas en general",
+          "type": "win_games",
+          "cardRequired": false,
+          "target": 100
+        },
+        {
+          "id": "senjuro_p2_m3_iyari_kazegakure",
+          "description": "Vence 5 veces a Iyari Ryuga en el evento Kazegakure (Combate 3)",
+          "type": "win_event_battle",
+          "battleId": "kazegakure_3",
+          "opponent": "iyari ryuga",
+          "target": 5
+        }
+      ]
+    }
+  ]
+},
+    {
+  "id": "evo_evento_raiden_keitaro",
+  "name": "Evolución de Evento: Raiden Keitaro",
+  "type": "event",
+  "repeatable": false,
+  "cardFrom": "raiden_keitaro_sbc",
+  "cardTo": "raiden_keitaro_evo",
+  "requiredItems": [
+    {
+      "id": "segmentus",
+      "amount": 1
+    }
+  ],
+  "missions": [
+    {
+      "id": "keitaro_evo_m1_wins",
+      "description": "Gana 15 partidas con Raiden Keitaro SBC en tu equipo",
+      "type": "win_games_with_card",
+      "target": 15
+    }
+  ]
+}
   ]
 }
