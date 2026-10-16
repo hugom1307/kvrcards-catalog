@@ -1838,5 +1838,155 @@
       }
     ],
     "repeatable": false
+  },
+  {
+    "id": "limited_herederos_flashback",
+    "category": "limited",
+    "title": "Legado de Kazegakure",
+    "description": "Consigue a Hoshinori Itto (Flashback), Iyari Ryuga (Flashback), Raiden Senjuro (Evo 2) y Raiden Keitaro (Evo)",
+    "requirement": [
+      {
+        "type": "own_card",
+        "cardId": "hoshinori_itto_flashback",
+        "amount": 1,
+        "description": "Poseer a Hoshinori Itto (Flashback)"
+      },
+      {
+        "type": "own_card",
+        "cardId": "iyari_ryuga_flashback",
+        "amount": 1,
+        "description": "Poseer a Iyari Ryuga (Flashback)"
+      },
+      {
+        "type": "own_card",
+        "cardId": "raiden_senjuro_evo2",
+        "amount": 1,
+        "description": "Poseer a Raiden Senjuro (Evo 2)"
+      },
+      {
+        "type": "own_card",
+        "cardId": "raiden_keitaro_evo",
+        "amount": 1,
+        "description": "Poseer a Raiden Keitaro (Evo)"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "card",
+        "cardId": "kakashi_hatake_exclusive",
+        "amount": 1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_90_plus",
+        "amount": 1
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "limited_kazegakure_10_partidas",
+    "category": "limited",
+    "title": "Incursión en Kazegakure I",
+    "description": "Juega 10 partidas en cualquier batalla del evento de Kazegakure",
+    "requirement": {
+      "type": "play_event_battle",
+      "battleId": "kazegakure_",
+      "amount": 10,
+      "description": "Jugar 10 partidas en el evento de Kazegakure"
+    },
+    "rewards": [
+      {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount": 1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_flashback",
+        "amount": 2
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "limited_kazegakure_25_partidas",
+    "category": "limited",
+    "title": "Incursión en Kazegakure II",
+    "description": "Juega 25 partidas en cualquier batalla del evento de Kazegakure",
+    "requirement": {
+      "type": "play_event_battle",
+      "battleId": "kazegakure_",
+      "amount": 25,
+      "description": "Jugar 25 partidas en el evento de Kazegakure"
+    },
+    "rewards": [
+      {
+        "type": "pack",
+        "packId": "sobre_flashback",
+        "amount": 5
+      },
+      {
+        "type": "coins",
+        "amount": 100000
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "limited_kazegakure_50_partidas",
+    "category": "limited",
+    "title": "Maestría de Kazegakure",
+    "description": "Juega 50 partidas en cualquier batalla del evento de Kazegakure",
+    "requirement": {
+      "type": "play_event_battle",
+      "battleId": "kazegakure_",
+      "amount": 50,
+      "description": "Jugar 50 partidas en el evento de Kazegakure"
+    },
+    "rewards": [
+      {
+        "type": "pack",
+        "packId": "sobre_legendario",
+        "amount": 2
+      },
+      {
+        "type": "background",
+        "backgroundId": "fondo_kazegakure_evento"
+      }
+    ],
+    "repeatable": false
+  },
+  {
+    "id": "limited_cenizas_kazegakure",
+    "category": "limited",
+    "title": "Cenizas y Recuerdos",
+    "description": "Consigue a Iyari Ryuga (Flashback) y a Taiyo Uchiha (Ícono Super Prime)",
+    "requirement": [
+      {
+        "type": "own_card",
+        "cardId": "iyari_ryuga_flashback",
+        "amount": 1,
+        "description": "Poseer a Iyari Ryuga (Flashback)"
+      },
+      {
+        "type": "own_card",
+        "cardId": "taiyo_uchiha_iconosuperprime",
+        "amount": 1,
+        "description": "Poseer a Taiyo Uchiha (Ícono Super Prime)"
+      }
+    ],
+    "rewards": [
+      {
+        "type": "pack",
+        "packId": "sobre_90_plus",
+        "amount": 1
+      },
+      {
+        "type": "background",
+        "backgroundId": "fondo_kazegakure_cenizas"
+      }
+    ],
+    "repeatable": false
   }
 ]
