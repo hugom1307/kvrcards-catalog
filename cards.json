@@ -4194,5 +4194,105 @@
     "calidad": "oro",
     "procedencia": "Hispania",
     "owner": "Adrianpepo"
+  },
+  {
+    "id": "ronan_hatake_evo2",
+    "name": "Ronan Hatake",
+    "stats": [93,85,77,84,88,83],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ronanevo2.png",
+    "media": 85,
+    "calidad": "evo",
+    "procedencia": "Amegakure",
+    "owner": "HugoMan1307"
+  },
+  {
+    "id": "kurai_tenro_evo2",
+    "name": "Kurai Tenro",
+    "stats": [88,86,84,87,82,83],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kuraievo2.png",
+    "media": 85,
+    "calidad": "evo",
+    "procedencia": "Sunagakure",
+    "owner": "Manuel16"
+  },
+  {
+    "id": "sukui_uzumaki_evo2",
+    "name": "Sukui Uzumaki",
+    "stats": [90,87,80,83,84,86],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sukuievo2.png",
+    "media": 85,
+    "calidad": "evo",
+    "procedencia": "Konohagakure",
+    "owner": "Juanjovc_20"
+  },
+  {
+    "id": "sekitan_evo2",
+    "name": "Sekitan",
+    "stats": [88,91,83,79,86,83],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sekitanevo2.png",
+    "media": 85,
+    "calidad": "evo",
+    "procedencia": "Konohagakure",
+    "owner": "Nataliaa15"
+  },
+  {
+    "id": "ken_inazuma_evo2",
+    "name": "Ken Inazuma",
+    "stats": [91,87,83,87,85,77],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kenevo2.png",
+    "media": 85,
+    "calidad": "evo",
+    "procedencia": "Amegakure",
+    "owner": "Alecrackman"
+  },
+  {
+    "id": "raiden_fuutaro_evo2",
+    "name": "Raiden Fuutaro",
+    "stats": [89,83,88,85,85,80],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fuutaroevo2.png",
+    "media": 85,
+    "calidad": "evo",
+    "procedencia": "Jinushi",
+    "owner": "Grejino02"
+  },
+{
+    "id": "taka_uzumaki_evo2",
+    "name": "Taka Uzumaki",
+    "stats": [81,90,89,84,86,80],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/takaevo2.png",
+    "media": 85,
+    "calidad": "evo",
+    "procedencia": "Hispania",
+    "owner": "MrVetoxx"
+  },
+  {
+    "id": "kenji_ikari_evo2",
+    "name": "Kenji Ikari",
+    "stats": [82,88,85,88,82,85],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kenjievo2.png",
+    "media": 85,
+    "calidad": "evo",
+    "procedencia": "Jinushi",
+    "owner": "Adrianpepo"
+  },
+  {
+    "id": "aya_evo2",
+    "name": "Aya",
+    "stats": [84,84,89,82,86,85],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ayaevo2.png",
+    "media": 85,
+    "calidad": "evo",
+    "procedencia": "Iwagakure",
+    "owner": "Wailant"
+  },
+  {
+    "id": "mikori_fukasa_evo2",
+    "name": "Mikori Fukasa",
+    "stats": [79,89,91,85,77,88],
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/mikorievo2.png",
+    "media": 85,
+    "calidad": "evo",
+    "procedencia": "Mundo Subterráneo",
+    "owner": "TaiyoDL"
   }
 ]
