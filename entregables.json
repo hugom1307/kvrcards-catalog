@@ -771,7 +771,7 @@
       }
     ]
   },
-  "repetible": false
+  "repetible": true
 },
      {
       "id": "sbc_diario_flashback",
