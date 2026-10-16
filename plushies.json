@@ -1,1 +1,64 @@
+{
+  "plushies": [
+   
+    {
+      "id": "omni_plushie",
+      "nombre": "Omni Plushie",
+      "descripcion": "Familiar universal compatible con cualquier carta del juego, con mecánicas de desgaste y durabilidad por uso.",
+      "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/omni_phase1.png",
+      "universal": true,
+      "totalPartidas": 16,
+      "fases": [
+        {
+          "fase": 1,
+          "rangoUso": "100%-75%",
+          "partidas": 4,
+          "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/omni_phase1.png",
+          "buffs": { "stat1": 15, "stat2": 10 }
+        },
+        {
+          "fase": 2,
+          "rangoUso": "75%-50%",
+          "partidas": 4,
+          "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/omni_phase2.png",
+          "buffs": { "stat1": 10, "stat2": 5 }
+        },
+        {
+          "fase": 3,
+          "rangoUso": "50%-25%",
+          "partidas": 4,
+          "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/omni_phase3.png",
+          "buffs": { "stat1": 5, "stat2": 0 }
+        },
+        {
+          "fase": 4,
+          "rangoUso": "25%-0%",
+          "partidas": 4,
+          "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/omni_phase4.png",
+          "buffs": { "stat1": -10, "stat2": -5 },
+          "vendible": true,
+          "precioVentaCoins": 1000
+        }
+      ]
+    },
 
+
+    
+     {
+      "id": "inpu",
+      "nombre": "Inpu",
+      "descripcion": "Tatsu de Jenue. Familiar exclusivo para Jenue.",
+      "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/inpu.png",
+      "ownerId": [
+        "jenue_bogai_cota",
+        "jenue_bogai"
+      ],
+      "universal": false,
+      "buff": [
+        { "media": 3 },
+        { "ninjutsu": 2 },
+        { "velocidad": 2 }
+      ]
+    }
+  ]
+}
