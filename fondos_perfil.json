@@ -188,5 +188,53 @@
   "boxColor": "linear-gradient(to right, #234563 0%, #185E9E 30%, #6EC3F4 70%, #234563 100%)",
   "borderColor": "#6EC3F4",
   "descripcion": "Fondo obtenido al completar la misión 'Lazos elementales'."
+},
+{
+  "id": "fondo_kazegakure_cenizas",
+  "nombre": "Cenizas y Recuerdos",
+  "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_kazegakure_cenizas.png",
+  "boxColor": "linear-gradient(to right, #512668 0%, #393E95 100%)",
+  "borderColor": "#A039B7",
+  "descripcion": "Fondo obtenido al completar la misión 'Cenizas y Recuerdos'."
+},
+{
+  "id": "fondo_kazegakure_evento",
+  "nombre": "La gran Kazegakure",
+  "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_kazegakure_evento.png",
+  "boxColor": "linear-gradient(to right, #3394B5 0%, #2EA9E1 100%)",
+  "borderColor": "#A3C6C7",
+  "descripcion": "Fondo obtenido al completar la misión 'Maestría de Kazegakure'."
+},
+{
+  "id": "fondo_daruma",
+  "nombre": "El falso caos",
+  "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_daruma.png",
+  "boxColor": "linear-gradient(to right, #516363 0%, #797C8D 100%)",
+  "borderColor": "#8D90A4",
+  "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Daruma Kenjiku."
+},
+{
+  "id": "fondo_iyari",
+  "nombre": "El 'creador' de Kazegakure",
+  "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_iyari.png",
+  "boxColor": "linear-gradient(to right, #963232 0%, #652525 100%)",
+  "borderColor": "#893990",
+  "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Iyari Ryuga."
+},
+{
+  "id": "fondo_keitaro",
+  "nombre": "Geometría de la destrucción",
+  "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_keitaro.png",
+  "boxColor": "linear-gradient(to right, #63BA67 0%, #447E46 100%)",
+  "borderColor": "#71E44A",
+  "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Raiden Keitaro."
+},
+{
+  "id": "fondo_senjuro",
+  "nombre": "Geometría de la creación",
+  "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_senjuro.png",
+  "boxColor": "linear-gradient(to right, #2B91BA 0%, #81BBE4 100%)",
+  "borderColor": "#28E4C2",
+  "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Raiden Senjuro."
 }
 ]
