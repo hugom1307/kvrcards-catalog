@@ -9,7 +9,7 @@
         "jenue_bogai_cota"
       ],
       "targetCardName": "Jenue Bogai C.O.T.A.",
-      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/inpu.png",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/inpuplushie.png",
       "requirements": {
         "prestigeLevel": 5,
         "duplicateCopies": 1,
@@ -21,7 +21,7 @@
         "type": "plushie",
         "plushieId": "inpu",
         "name": "Inpu",
-        "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/inpu.png"
+        "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/inpuplushie.png"
       }
     }
   ]
