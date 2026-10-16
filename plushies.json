@@ -59,6 +59,211 @@
         { "ninjutsu": 2 },
         { "velocidad": 2 }
       ]
+    },
+    {
+      "id": "tsukiro",
+      "nombre": "Tsukiro",
+      "descripcion": "Vive en tu propia mente. Familiar exclusivo para Fuutaro.",
+      "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/fuutaroplushie.png",
+      "ownerId": [
+        "raiden_fuutaro",
+        "raiden_fuutaro_tsukirocota1",
+        "raiden_fuutaro_evo1"
+      ],
+      "universal": false,
+      "buff": [
+        { "media": 3 },
+        { "ninjutsu": 2 },
+        { "defensa": 2 }
+      ]
+    },
+    {
+      "id": "lilia",
+      "nombre": "Lilia",
+      "descripcion": "Una niña inofensiva. Familiar exclusivo para Ken.",
+      "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/kenplushie.png",
+      "ownerId": [
+       "ken_inazuma",
+      "ken_inazuma_evo1",
+      "ken_inazuma_exclusive",
+      "ken_inazuma_flashback"
+      ],
+      "universal": false,
+      "buff": [
+        { "media": 3 },
+        { "ninjutsu": 2 },
+        { "resistencia": 2 }
+      ]
+    },
+    {
+      "id": "yuri",
+      "nombre": "Yuri",
+      "descripcion": "Un amor accidentado. Familiar exclusivo para Kenji.",
+      "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/kenjiplushie.png",
+      "ownerId": [
+       "kenji_ikari",
+      "kenji_ikari_evo1"
+      ],
+      "universal": false,
+      "buff": [
+        { "media": 3 },
+        { "tajitsu": 2 },
+        { "velocidad": 2 }
+      ]
+    },
+     {
+      "id": "nagare",
+      "nombre": "Nagare",
+      "descripcion": "El hermano que nadie querría tener. Familiar exclusivo para Mikori.",
+      "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/mikoriplushie.png",
+      "ownerId": [
+      "mikori_fukasa",
+      "mikori_fukasa_evo1"
+      ],
+      "universal": false,
+      "buff": [
+        { "media": 3 },
+        { "tajitsu": 2 },
+        { "resistencia": 2 }
+      ]
+    },
+    {
+      "id": "jimmy",
+      "nombre": "Jimmy",
+      "descripcion": "El mejor perro de la historia. Familiar exclusivo para Sekitan.",
+      "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/sekitanplushie.png",
+      "ownerId": [
+     "sekitan",
+      "sekitan_evo1",
+      "sekitan_evoe",
+      "sekitan_flashback"
+      ],
+      "universal": false,
+      "buff": [
+        { "media": 3 },
+        { "tajitsu": 2 },
+        { "ninjutsu": 2 }
+      ]
+    },
+     {
+      "id": "ransu",
+      "nombre": "Ransu",
+      "descripcion": "'Hermano, ahora verás a través de mis ojos'. Familiar exclusivo para Ronan.",
+      "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/ronanplushie.png",
+      "ownerId": [
+    "ronan_hatake",
+    "ronan_hatake_cota1",
+    "ronan_hatake_evo1",
+    "ronan_hatake_flashback"
+      ],
+      "universal": false,
+      "buff": [
+        { "media": 3 },
+        { "ninjutsu": 2 },
+        { "defensa": 2 }
+      ]
+    },
+     {
+      "id": "haji",
+      "nombre": "Haji",
+      "descripcion": "El maestro del cual heredamos la voluntad del fuego. Familiar exclusivo para Sukui.",
+      "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/sukuiplushie.png",
+      "ownerId": [
+    "sukui_uzumaki",
+    "sukui_uzumaki_evo1",
+    "sukui_uzumaki_evoe",
+    "sukui_uzumaki_flashback"
+      ],
+      "universal": false,
+      "buff": [
+        { "media": 3 },
+        { "ninjutsu": 2 },
+        { "fisico": 2 }
+      ]
+    },
+    {
+      "id": "mascaras",
+      "nombre": "Las 3 máscaras",
+      "descripcion": "Una técnica que representa los sentimientos más profundos. Familiar exclusivo para Taka.",
+      "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/takaplushie.png",
+      "ownerId": [
+   "taka_uzumaki",
+    "taka_uzumaki_evo1",
+    "taka_uzumaki_evoe"
+      ],
+      "universal": false,
+      "buff": [
+        { "media": 3 },
+        { "taijutsu": 2 },
+        { "resistencia": 2 }
+      ]
+    },
+     {
+      "id": "toshiro",
+      "nombre": "Toshiro",
+      "descripcion": "Nada como un buen compañero de trabajo. Familiar exclusivo para Vivar.",
+      "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/vivarplushie.png",
+      "ownerId": [
+    "vivar",
+    "vivar_cota1",
+    "vivar_evo1"
+      ],
+      "universal": false,
+      "buff": [
+        { "media": 3 },
+        { "taijutsu": 2 },
+        { "fisico": 2 }
+      ]
+    },
+    {
+      "id": "ryuki",
+      "nombre": "Ryuki",
+      "descripcion": "'Padre, ¿dónde has estado?'. Familiar exclusivo para Aya.",
+      "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/ayaplushie.png",
+      "ownerId": [
+     "aya",
+    "aya_evo1"
+      ],
+      "universal": false,
+      "buff": [
+        { "media": 3 },
+        { "taijutsu": 2 },
+        { "defensa": 2 }
+      ]
+    },
+     {
+      "id": "kyo",
+      "nombre": "Kyo",
+      "descripcion": "Nada como una hydra para que te enseñe a pelear. Familiar exclusivo para Mamoru.",
+      "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/mamoruplushie.png",
+      "ownerId": [
+      "mamoru",
+      "mamoru_cota1"
+      ],
+      "universal": false,
+      "buff": [
+        { "media": 3 },
+        { "taijutsu": 2 },
+        { "velocidad": 2 }
+      ]
+    },
+     {
+      "id": "kai",
+      "nombre": "Kai",
+      "descripcion": "De kazekage a kazekage. Familiar exclusivo para Kurai.",
+      "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/kuraiplushie.png",
+      "ownerId": [
+     "kurai_tenro",
+    "kurai_tenro_evo1",
+    "kurai_tenro_evoe",
+    "kurai_tenro_flashback"
+      ],
+      "universal": false,
+      "buff": [
+        { "media": 3 },
+        { "ninjutsu": 2 },
+        { "velocidad": 2 }
+      ]
     }
   ]
 }
