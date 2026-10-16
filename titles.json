@@ -433,5 +433,33 @@
     "description": "J.P.T",
     "gradient":"linear-gradient(to right, #2E93FF 0%, #DA0000 50%, #FFC20A 100%)",
     "unlockDescription":"Llega a nivel 50 del modo infinito durante la Temporada 2"
+  },
+ {
+    "id": "creacion",
+    "name": "Creación",
+    "description": "El verdadero Raiden de la creación",
+    "gradient":"linear-gradient(to right, #1DDDE0 0%, #56C4FF 50%, #CCE0E4 100%)",
+    "unlockDescription":"Completa el prestigio de Senjuro"
+  },
+ {
+    "id": "destruccion",
+    "name": "Destrucción",
+    "description": "El verdadero Raiden de la destrucción",
+    "gradient":"linear-gradient(to right, #20E09D 0%, #10D213 50%, #1BB26E 100%)",
+    "unlockDescription":"Completa el prestigio de Keitaro"
+  },
+ {
+    "id": "lamento",
+    "name": "El Lamento",
+    "description": "El trato que nunca quiso, pero debió aceptar",
+    "gradient":"linear-gradient(to right, #5C407F 0%, #8D42D2 50%, #B20707 100%)",
+    "unlockDescription":"Completa el prestigio de Iyari"
+  },
+ {
+    "id": "falso_caos",
+    "name": "Falso Caos",
+    "description": "El experimento salió mal...",
+    "gradient":"linear-gradient(to right, #2A1D3A 0%, #9A9A9A 50%, #813DB2 100%)",
+    "unlockDescription":"Completa el prestigio de Daruma"
   }
 ]
