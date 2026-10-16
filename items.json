@@ -77,8 +77,8 @@
   "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/puertasinternas.png"
 },
 {
-  "id": "plushie_coin",
-  "name": "Plushie Coin",
+  "id": "plush_coin",
+  "name": "Plush Coin",
   "description": "Moneda especial canjeable por plushies.",
   "calidad": "Legendario",
   "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/plushcoin.png"
