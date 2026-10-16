@@ -703,6 +703,126 @@
     ]
   },
   "repetible": false
-}
+},
+  {
+  "id": "sbc_keitaro_sbc",
+  "nombre": "SBC Especial: Raiden Keitaro",
+  "tipo": "especial",
+  "descripcion": "Entrega exactamente 50 cartas (Al menos 45 de calidad Oro, con al menos 5 de Grejino02, al menos 10 de Konohagakure y al menos 3 con media 90+) a cambio de 1 Sobre Legendario y la carta Raiden Keitaro SBC.",
+  "imagenes": [
+    "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/keitaroevo.png"
+  ],
+  "limites": {
+    "minCartas": 50,
+    "maxCartas": 50
+  },
+  "requisitos": {
+    "mediaMinima": null,
+    "mediaMaxima": null,
+    "minimoCartasConMedia": {
+      "media": 90,
+      "cantidad": 3
+    },
+    "cartasEspecificas": [],
+    "calidades": {
+      "minimo": {
+        "Oro": 45
+      },
+      "maximo": {}
+    },
+    "stats": {
+      "ninjutsuMin": null,
+      "ninjutsuMax": null,
+      "taijutsuMin": null,
+      "taijutsuMax": null,
+      "velocidadMin": null,
+      "velocidadMax": null,
+      "defensaMin": null,
+      "defensaMax": null,
+      "resistenciaMin": null,
+      "resistenciaMax": null,
+      "fisicoMin": null,
+      "fisicoMax": null
+    },
+    "procedencias": {
+      "minimo": {
+        "Konohagakure": 10
+      },
+      "maximo": {}
+    },
+    "owners": {
+      "minimo": {
+        "Grejino02": 5
+      },
+      "maximo": {}
+    }
+  },
+  "recompensas": {
+    "packs": [
+      {
+        "id": "sobre_legendario",
+        "cantidad": 1
+      }
+    ],
+    "cards": [
+      {
+        "id": "raiden_keitaro_sbc",
+        "cantidad": 1
+      }
+    ]
+  },
+  "repetible": false
+},
+     {
+      "id": "sbc_diario_flashback",
+      "nombre": "SBC Diario: Flashback Moments",
+      "tipo": "evento",
+      "descripcion": "Entrega 10 cartas (al menos 1 flashback) para obtener 5000 monedas y un sobre Flashback asegurado.",
+      "imagenes": [
+        "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_flashback.png"
+      ],
+      "limites": {
+        "minCartas": 10,
+        "maxCartas": 10
+      },
+      "requisitos": {
+        "procedencias": {
+          "minimo": {},
+          "maximo": {}
+        },
+         "calidades": {
+      "minimo": {
+        "flashback": 1
+      },
+      "maximo": {}
+    },
+        "stats": {
+          "ninjutsuMin": null,
+          "ninjutsuMax": null,
+          "taijutsuMin": null,
+          "taijutsuMax": null,
+          "velocidadMin": null,
+          "velocidadMax": null,
+          "defensaMin": null,
+          "defensaMax": null,
+          "resistenciaMin": null,
+          "resistenciaMax": null,
+          "fisicoMin": null,
+          "fisicoMax": null
+        }
+      },
+      "recompensas": {
+        "coins": 5000,
+        "packs": [
+          {
+            "id": "sobre_flashback",
+            "cantidad": 1
+          }
+        ]
+      },
+      "resetDiario": true,
+      "limiteDiario": 5,
+      "repetible": 5
+    }
   ]
 }
