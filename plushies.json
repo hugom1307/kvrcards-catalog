@@ -14,28 +14,28 @@
           "rangoUso": "100%-75%",
           "partidas": 4,
           "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/image_1.png",
-          "buffs": { "stat1": 15, "stat2": 10 }
+          "buffs": { "media": 10, "ninjutsu": 5,"taijutsu": 5,"velocidad": 5,"defensa": 5,"resistencia": 5,"fisico": 5 }
         },
         {
           "fase": 2,
           "rangoUso": "75%-50%",
           "partidas": 4,
           "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/image_2.png",
-          "buffs": { "stat1": 10, "stat2": 5 }
+          "buffs": { "media": 7, "ninjutsu": 2,"taijutsu": 2,"velocidad": 2,"defensa": 2,"resistencia": 2,"fisico": 2 }
         },
         {
           "fase": 3,
           "rangoUso": "50%-25%",
           "partidas": 4,
           "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/image_3.png",
-          "buffs": { "stat1": 5, "stat2": 0 }
+          "buffs": { "media": 3, "ninjutsu": 1,"taijutsu": 1,"velocidad": 1,"defensa": 1,"resistencia": 1,"fisico": 1 }
         },
         {
           "fase": 4,
           "rangoUso": "25%-0%",
           "partidas": 4,
           "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/image_4.png",
-          "buffs": { "stat1": -10, "stat2": -5 },
+          "buffs": { "media": -10, "ninjutsu": -3,"taijutsu": -3,"velocidad": -3,"defensa": -3,"resistencia": -3,"fisico": -3 },
           "vendible": true,
           "precioVentaCoins": 1000
         }
