@@ -2086,5 +2086,285 @@
     }
 
     ]
+  },
+  {
+    "id": "sensei",
+    "title": "Sensei Destructivo",
+    "group":"Kazegakure",
+    "description": "Nadie sabe sobre su pasado como maestro y alumno, pero nadie duda de la lealtad del alumno caótico.",
+    "cardIds": ["iyari_ryuga_flashback", "raiden_keitaro_evo"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 45000
+      },
+       
+       {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":5
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":2
+      },
+     
+     {
+      "type": "buff",
+      "name": "Destrucción heredada",
+      "description": "Aumenta un 4% Ninjutsu y un 4% Resistencia a los miembros del Kizuna",
+      "stats": {
+        "resistencia":4,
+        "ninjutsu":4
+        
+      },
+      "allTeam": false
+    }
+  ]
+},
+
+{
+    "id": "hermanos_realidad",
+    "title": "Hermanos de la realidad",
+    "group":"Kazegakure",
+    "description": "Creación y Destrucción, 2 fuerzas opuestas y unidas al mismo tiempo.",
+    "cardIds": ["raiden_senjuro_evo", "raiden_keitaro_sbc"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 20000
+      },
+       
+       
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":3
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":2
+      },
+      {
+      "type": "buff",
+      "name": "Creación y Destrucción",
+      "description": "Aumenta un 4% Ninjutsu y un 4% Defensa a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu":4,
+        "defensa":4
+        
+      },
+      "allTeam": false
+    }
+     
+    
+
+    ]
+  },
+    {
+    "id": "hermanos_realidad_evo",
+    "title": "Hermanos de la realidad (EVO)",
+    "group":"Kazegakure",
+    "description": "Creación y Destrucción, las 2 fuerzas en todo su esplandor.",
+    "cardIds": ["raiden_senjuro_evo2", "raiden_keitaro_evo"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 35000
+      },
+       
+       {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":4
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":3
+      },
+      {"type":"title",
+    "titleId":"realidad"},
+     
+     {
+      "type": "buff",
+      "name": "Realidad y orden",
+      "description": "Aumenta un 3% Ninjutsu y un 3% Defensa a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu":3,
+        "defensa":3
+        
+      },
+      "allTeam": false
+    }
+
+    ]
+  },
+  {
+    "id": "elite_kazegakure",
+    "title": "Ëlite de Kazegakure",
+    "group":"Kazegakure",
+    "description": "La mayor fuerza del Arashikage y las llaves para llegar hasta él.",
+    "cardIds": ["daruma_kenjiju","kiri_uzumaki","shind_inazuma_icono","hoshinori_itto_flashback","raiden_keitaro_sbc"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 30000
+      },
+       
+       {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":4
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":2
+      },
+     
+     {
+      "type": "buff",
+      "name": "Élite del Arashikage",
+      "description": "Aumenta un 3% ninjutsu, un 3 la Defensa y un 3% Resistencia a los miembros del Kizuna",
+      "stats": {
+        "ninjutsu":3,
+        "defensa":3,
+        "resistencia":3
+        
+      },
+      "allTeam": false
+    }
+
+    ]
+  },
+   {
+    "id": "destino_kazegakure",
+    "title": "Destino de Kazegakure",
+    "group":"Kazegakure",
+    "description": "Un combate entre las mayores amenazas para el Arashikage, cada uno con sus metas.",
+    "cardIds": ["taiyo_uchiha_iconosuperprime","rura_exclusive"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 50000
+      },
+       
+       {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":3
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":4
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":2
+      },
+      {
+      "type": "buff",
+      "name": "Sellado del Subespacio",
+      "description": "Aumenta un 3% Velocidad y un 3% Defensa a los miembros del Kizuna",
+      "stats": {
+        "defensa":3,
+        "velocidad":3
+        
+      },
+      "allTeam": false
+    }
+
+    ]
+  },
+  {
+    "id": "eclipse",
+    "title": "Eclipse",
+    "group":"Kazegakure",
+    "description": "2 grandes amigos, el Sol y la Luna, cuándo el Sol se apagó, la Luna cargó los sentimientos de su amigo y tomó su brillo, lo que ocasionó un ECLIPSE.",
+    "cardIds": ["taiyo_uchiha_iconosuperprime","iyari_ryuga_flashback"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 50000
+      },
+       
+       {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount":1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":4
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_legendario",
+        "amount":1
+      },
+      {
+"type":"title",
+"titleId":"eclipse"
+      },
+      {
+      "type": "buff",
+      "name": "Danza del Eclipse",
+      "description": "Aumenta un 3% Taijutsu y un 3% Defensa a los miembros del Kizuna",
+      "stats": {
+        "defensa":3,
+        "taijutsu":3
+        
+      },
+      "allTeam": false
+    }
+    
+
+    ]
+  },
+   {
+    "id": "creacion_ardiente",
+    "title": "Creación ardiente",
+    "group":"Dúos",
+    "description": "La otra cara de la moneda de la destrucción y su sensei.",
+    "cardIds": ["taiyo_uchiha_iconoprime","raiden_senjuro_evo"],
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 25000
+      },
+       
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount":4
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount":2
+      }
+
+    ]
   }
 ]
