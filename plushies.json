@@ -5,7 +5,7 @@
       "id": "omni_plushie",
       "nombre": "Omni Plushie",
       "descripcion": "Familiar universal compatible con cualquier carta del juego, con mecánicas de desgaste y durabilidad por uso.",
-      "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/omni_phase1.png",
+      "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/image_1.png",
       "universal": true,
       "totalPartidas": 16,
       "fases": [
@@ -13,28 +13,28 @@
           "fase": 1,
           "rangoUso": "100%-75%",
           "partidas": 4,
-          "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/omni_phase1.png",
+          "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/image_1.png",
           "buffs": { "stat1": 15, "stat2": 10 }
         },
         {
           "fase": 2,
           "rangoUso": "75%-50%",
           "partidas": 4,
-          "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/omni_phase2.png",
+          "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/image_2.png",
           "buffs": { "stat1": 10, "stat2": 5 }
         },
         {
           "fase": 3,
           "rangoUso": "50%-25%",
           "partidas": 4,
-          "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/omni_phase3.png",
+          "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/image_3.png",
           "buffs": { "stat1": 5, "stat2": 0 }
         },
         {
           "fase": 4,
           "rangoUso": "25%-0%",
           "partidas": 4,
-          "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/omni_phase4.png",
+          "imagen": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/image_4.png",
           "buffs": { "stat1": -10, "stat2": -5 },
           "vendible": true,
           "precioVentaCoins": 1000
