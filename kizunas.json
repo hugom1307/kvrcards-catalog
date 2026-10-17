@@ -663,7 +663,7 @@
       },
       {
       "type": "buff",
-      "name": "Adredalina de Rival",
+      "name": "Adrenalina de Rival",
       "description": "Aumenta un 5% Ninjutsu y 5% Taijutsu a los miembros del Kizuna",
       "stats": {
         "ninjutsu": 5,
@@ -1791,7 +1791,7 @@
     },
     {
         "type": "title",
-        "titleID": "octava_puerta"
+        "titleId": "octava_puerta"
         
       }
 
