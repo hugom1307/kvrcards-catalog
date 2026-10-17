@@ -190,7 +190,7 @@
 {
   "id": "sobre_flashback",
   "name": "Sobre Flashback Asegurado",
-  "cardsPerPack": 1,
+  "cardsPerPack": 3,
   "strategy": "qualityMedia",
   "qualityWeights": {
    "flashback": 100
@@ -198,6 +198,19 @@
   "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_flashback.png",
   "openingGradient": ["#9D00FF", "#800080", "#7700ed"],
   "price": { "coins": 25000, "kvr": 50 }
+},
+{
+  "id": "sobre_flashback_80",
+  "name": "Sobre Flashback Asegurado +80",
+  "cardsPerPack": 1,
+   "minMedia": 80,
+  "strategy": "qualityMedia",
+  "qualityWeights": {
+   "flashback": 100
+  },
+  "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_flashback.png",
+  "openingGradient": ["#9D00FF", "#800080", "#7700ed"],
+  "price": { "coins": 75000, "kvr": 50 }
 },
 {
   "id": "sobre_edotensei",
@@ -249,9 +262,9 @@
     { "id": "sobre_plata" },
     { "id": "sobre_oro" },
     { "id": "sobre_81_plus"},
-    { "id": "sobre_especial", "stock": 2},
-    { "id": "sobre_legendario", "stock": 2},
-    { "id": "sobre_90_plus", "stock": 1}
+    { "id": "sobre_85_plus", "stock": 3},
+    { "id": "sobre_legendario", "stock": 1},
+    { "id": "sobre_flashback_80", "stock": 1}
     
   ]
 }
