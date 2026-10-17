@@ -2134,7 +2134,7 @@
     "title": "Hermanos de la realidad",
     "group":"Kazegakure",
     "description": "Creación y Destrucción, 2 fuerzas opuestas y unidas al mismo tiempo.",
-    "cardIds": ["raiden_senjuro_evo1", "raiden_keitaro_sbc"],
+    "cardIds": ["raiden_senjuro", "raiden_keitaro_sbc"],
     "rewards": [
       {
         "type": "coins",
