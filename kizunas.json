@@ -2134,7 +2134,7 @@
     "title": "Hermanos de la realidad",
     "group":"Kazegakure",
     "description": "Creación y Destrucción, 2 fuerzas opuestas y unidas al mismo tiempo.",
-    "cardIds": ["raiden_senjuro_evo", "raiden_keitaro_sbc"],
+    "cardIds": ["raiden_senjuro_evo1", "raiden_keitaro_sbc"],
     "rewards": [
       {
         "type": "coins",
@@ -2217,7 +2217,7 @@
     "title": "Ëlite de Kazegakure",
     "group":"Kazegakure",
     "description": "La mayor fuerza del Arashikage y las llaves para llegar hasta él.",
-    "cardIds": ["daruma_kenjiju","kiri_uzumaki","shind_inazuma_icono","hoshinori_itto_flashback","raiden_keitaro_sbc"],
+    "cardIds": ["daruma_kenjiku","kiri_uzumaki","shind_inazuma_icono","hoshinori_itto_flashback","raiden_keitaro_sbc"],
     "rewards": [
       {
         "type": "coins",
@@ -2347,7 +2347,7 @@
     "title": "Creación ardiente",
     "group":"Dúos",
     "description": "La otra cara de la moneda de la destrucción y su sensei.",
-    "cardIds": ["taiyo_uchiha_iconoprime","raiden_senjuro_evo"],
+    "cardIds": ["taiyo_uchiha_iconoprime","raiden_senjuro_evo1"],
     "rewards": [
       {
         "type": "coins",
