@@ -107,7 +107,7 @@
       "universal": false,
       "buff": [
         { "media": 3 },
-        { "tajitsu": 2 },
+        { "taijutsu": 2 },
         { "velocidad": 2 }
       ]
     },
@@ -123,7 +123,7 @@
       "universal": false,
       "buff": [
         { "media": 3 },
-        { "tajitsu": 2 },
+        { "taijutsu": 2 },
         { "resistencia": 2 }
       ]
     },
@@ -141,7 +141,7 @@
       "universal": false,
       "buff": [
         { "media": 3 },
-        { "tajitsu": 2 },
+        { "taijutsu": 2 },
         { "ninjutsu": 2 }
       ]
     },
