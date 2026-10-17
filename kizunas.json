@@ -2347,7 +2347,7 @@
     "title": "Creación ardiente",
     "group":"Dúos",
     "description": "La otra cara de la moneda de la destrucción y su sensei.",
-    "cardIds": ["taiyo_uchiha_iconoprime","raiden_senjuro_evo1"],
+    "cardIds": ["taiyo_uchiha_iconoprime","raiden_senjuro"],
     "rewards": [
       {
         "type": "coins",
