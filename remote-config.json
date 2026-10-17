@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "2.5.3",
-                    "minimumRequired":  "2.5.3",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.3.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.3.zip",
-                    "changelog":  "Parche 2.5.3: Restauracion de evoluciones y prestigios personalizados",
+                    "current":  "2.5.4",
+                    "minimumRequired":  "2.5.4",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.4.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.4.zip",
+                    "changelog":  "Parche 2.5.4: Correccion de persistencia de stock limitado en tienda y optimizacion de peso del parche",
                     "forceUpdate":  true
                 }
 }
