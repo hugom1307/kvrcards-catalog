@@ -6,7 +6,7 @@
       "description": "Tatsu de Jenue. Familiar exclusivo para Jenue.",
       "plushieId": "inpu",
       "cardIds": [
-        "jenue_bogai"
+        "jenue_bogai_cota"
       ],
       "targetCardName": "Jenue Bogai",
       "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/inpuplushie.png",
@@ -270,7 +270,7 @@
       "description": "Nada como una hydra para que te enseñe a pelear. Familiar exclusivo para Mamoru.",
       "plushieId": "kyo",
       "cardIds": [
-        "mamoru"
+        "mamoru_cota1"
       ],
       "targetCardName": "Mamoru",
       "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/mamoruplushie.png",
