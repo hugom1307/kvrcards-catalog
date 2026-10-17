@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "2.5.1",
-                    "minimumRequired":  "2.5.1",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.1.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.1.zip",
-                    "changelog":  "Parche 2.5.1: Correccion y reseteo de prestigios personalizados, y nuevos codigos promocionales",
+                    "current":  "2.5.2",
+                    "minimumRequired":  "2.5.2",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.2.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.2.zip",
+                    "changelog":  "Parche 2.5.2: Correccion de conteo de partidas en misiones de evento Kazegakure",
                     "forceUpdate":  true
                 }
 }
