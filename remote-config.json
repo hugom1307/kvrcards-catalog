@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "2.5.6",
-                    "minimumRequired":  "2.5.6",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.6.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.6.zip",
-                    "changelog":  "Parche 2.5.6: Correccion de inicio de batalla y sintaxis de battle-core",
+                    "current":  "2.5.7",
+                    "minimumRequired":  "2.5.7",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.7.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.7.zip",
+                    "changelog":  "Parche 2.5.7: Correccion definitiva de desgaste continuo en Omni Plushies para todas las batallas",
                     "forceUpdate":  true
                 }
 }
