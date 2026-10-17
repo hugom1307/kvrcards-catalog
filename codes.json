@@ -60,8 +60,14 @@
       "rewardsType": "mixed",
       "rewards": {
         "packs": [
-          { "packId": "sobre_83_plus", "quantity": 1 },
-          { "packId": "sobre_elemental", "quantity": 1 }
+          {
+            "packId": "sobre_83_plus",
+            "quantity": 1
+          },
+          {
+            "packId": "sobre_elemental",
+            "quantity": 1
+          }
         ]
       },
       "description": "1 Sobre +83 + 1 Sobre Elemental"
@@ -73,10 +79,15 @@
       "rewardsType": "mixed",
       "rewards": {
         "packs": [
-          { "packId": "sobre_supporter", "quantity": 1 }
+          {
+            "packId": "sobre_supporter",
+            "quantity": 1
+          }
         ],
         "kvr": 300,
-        "titles": ["knight_supporter"]
+        "titles": [
+          "knight_supporter"
+        ]
       },
       "description": "OFERTA DE BIENVENIDA! 300 KVR + TÍTULO EXCLUSIVO + SOBRE EXCLUSIVO"
     },
@@ -87,10 +98,15 @@
       "rewardsType": "mixed",
       "rewards": {
         "packs": [
-          { "packId": "sobre_supporter", "quantity": 1 }
+          {
+            "packId": "sobre_supporter",
+            "quantity": 1
+          }
         ],
         "kvr": 300,
-        "titles": ["knight_supporter"]
+        "titles": [
+          "knight_supporter"
+        ]
       },
       "description": "OFERTA DE BIENVENIDA! 300 KVR + TÍTULO EXCLUSIVO + SOBRE EXCLUSIVO"
     },
@@ -101,10 +117,15 @@
       "rewardsType": "mixed",
       "rewards": {
         "packs": [
-          { "packId": "sobre_supporter", "quantity": 1 }
+          {
+            "packId": "sobre_supporter",
+            "quantity": 1
+          }
         ],
         "kvr": 300,
-        "titles": ["knight_supporter"]
+        "titles": [
+          "knight_supporter"
+        ]
       },
       "description": "OFERTA DE BIENVENIDA! 300 KVR + TÍTULO EXCLUSIVO + SOBRE EXCLUSIVO"
     },
@@ -115,10 +136,15 @@
       "rewardsType": "mixed",
       "rewards": {
         "packs": [
-          { "packId": "sobre_supporter", "quantity": 1 }
+          {
+            "packId": "sobre_supporter",
+            "quantity": 1
+          }
         ],
         "kvr": 300,
-        "titles": ["knight_supporter"]
+        "titles": [
+          "knight_supporter"
+        ]
       },
       "description": "OFERTA DE BIENVENIDA! 300 KVR + TÍTULO EXCLUSIVO + SOBRE EXCLUSIVO"
     },
@@ -127,7 +153,9 @@
       "active": true,
       "rewardsType": "mixed",
       "rewards": {
-        "titles": ["knight_supporter"]
+        "titles": [
+          "knight_supporter"
+        ]
       },
       "description": "título giveado por el error previo"
     },
@@ -137,7 +165,12 @@
       "singleUse": true,
       "rewardsType": "mixed",
       "rewards": {
-        "titles": ["coleccionista", "adinerado", "abridor", "oro_puro"]
+        "titles": [
+          "coleccionista",
+          "adinerado",
+          "abridor",
+          "oro_puro"
+        ]
       },
       "description": "títulos giveados por bug"
     },
