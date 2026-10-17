@@ -461,5 +461,20 @@
     "description": "El experimento salió mal...",
     "gradient":"linear-gradient(to right, #2A1D3A 0%, #9A9A9A 50%, #813DB2 100%)",
     "unlockDescription":"Completa el prestigio de Daruma"
+  },
+ {
+    "id": "realidad",
+    "name": "Realidad",
+    "description": "Junta la creación y la destrucción",
+    "gradient":"linear-gradient(to bottom, #00FF00 0%, #58FF6C 50%, #2CFFC3 50%, #00FFFF 100%)",
+    "unlockDescription":"Completa el Kizuna 'Hermanos de la realidad (EVO)'"
+  },
+  {
+"id": "eclipse",
+    "name": "ECLIPSE",
+    "description": "La unión del Sol y la Luna",
+    "gradient":"linear-gradient(to bottom, #FF0000 0%, #FFA807 44%, #021D4F 71%, #085EFF 59%, #4321FF 29%)",
+    "unlockDescription":"Completa el Kizuna 'Eclipse'"
+    
   }
 ]
