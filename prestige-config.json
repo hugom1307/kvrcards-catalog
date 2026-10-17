@@ -3341,7 +3341,7 @@
         "rewards": [
           {
             "type": "title",
-            "titleId": "creacion"
+            "titleId": "ojo_del_relampago"
           },
           {
             "type": "coins",
@@ -3349,7 +3349,7 @@
           },
           {
             "type": "background",
-            "backgroundId": "fondo_senjuro"
+            "backgroundId": "fondo_raiden_senjuro"
           }
         ]
       }
@@ -3559,7 +3559,7 @@
         "rewards": [
           {
             "type": "title",
-            "titleId": "destruccion"
+            "titleId": "relampago_indomable"
           },
           {
             "type": "coins",
@@ -3567,7 +3567,7 @@
           },
           {
             "type": "background",
-            "backgroundId": "fondo_keitaro"
+            "backgroundId": "fondo_raiden_keitaro"
           }
         ]
       }
@@ -3777,7 +3777,7 @@
         "rewards": [
           {
             "type": "title",
-            "titleId": "lamento"
+            "titleId": "dragon_de_la_hoja"
           },
           {
             "type": "coins",
@@ -3785,7 +3785,7 @@
           },
           {
             "type": "background",
-            "backgroundId": "fondo_iyari"
+            "backgroundId": "fondo_iyari_ryuga"
           }
         ]
       }
@@ -3995,7 +3995,7 @@
         "rewards": [
           {
             "type": "title",
-            "titleId": "falso_caos"
+            "titleId": "espiritu_inquebrantable"
           },
           {
             "type": "coins",
@@ -4003,7 +4003,7 @@
           },
           {
             "type": "background",
-            "backgroundId": "fondo_daruma"
+            "backgroundId": "fondo_daruma_kenjiku"
           }
         ]
       }

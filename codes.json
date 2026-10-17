@@ -227,28 +227,6 @@
         ]
       },
       "description": "¡Llegada del evento Kazegakure! 50 Traits, 1 Sobre Legendario y 5 Sobres Flashback."
-    },
-    {
-  "code": "ILOVEPLUSHIES",
-  "active": true,
-  "rewardsType": "mixed",
-  "rewards": {
-    "items": [
-      {
-        "itemId": "plush_coin",
-        "name": "Plush Coin",
-        "quantity": 1
-      }
-    ],
-    "plushies": [
-      {
-        "plushieId": "omni_plushie",
-        "name": "Omni Plushie"
-      }
-    ]
-  },
-  "description": "¡Amor por los peluches! 1 Plush Coin y 1 Omni Plushie universal."
-}
-    
+    }
   ]
 }

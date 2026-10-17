@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "2.5",
-                    "minimumRequired":  "2.5",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.zip",
-                    "changelog":  "Parche 2.5: Nuevo boton Evo-Plushies, Plushies en Kazegakure, nuevos prestigios y mejoras HUD",
+                    "current":  "2.5.1",
+                    "minimumRequired":  "2.5.1",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.1.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.1.zip",
+                    "changelog":  "Parche 2.5.1: Correccion y reseteo de prestigios personalizados, y nuevos codigos promocionales",
                     "forceUpdate":  true
                 }
 }
