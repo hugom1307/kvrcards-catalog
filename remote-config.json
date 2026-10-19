@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "2.5.7",
-                    "minimumRequired":  "2.5.7",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.7.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.7.zip",
-                    "changelog":  "Parche 2.5.7: Correccion definitiva de desgaste continuo en Omni Plushies para todas las batallas",
+                    "current":  "2.5.8",
+                    "minimumRequired":  "2.5.8",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.8.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.8.zip",
+                    "changelog":  "Correccion critica de reinicio de prestigios personalizados y reclamos de cartas",
                     "forceUpdate":  true
                 }
 }
