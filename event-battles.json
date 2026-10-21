@@ -98,7 +98,7 @@
               "type": "item",
               "itemId": "sombrero_sospechoso",
               "amount": 1,
-              "probability": 1
+              "probability": 5
             }
           ]
         },
@@ -128,7 +128,7 @@
               "type": "item",
               "itemId": "sombrero_sospechoso",
               "amount": 1,
-              "probability": 5
+              "probability": 10
             }
           ]
         }
