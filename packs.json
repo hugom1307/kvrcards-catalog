@@ -262,9 +262,8 @@
     { "id": "sobre_plata" },
     { "id": "sobre_oro" },
     { "id": "sobre_81_plus"},
-    { "id": "sobre_85_plus", "stock": 3},
-    { "id": "sobre_legendario", "stock": 1},
-    { "id": "sobre_90_plus", "stock": 1},
+    { "id": "sobre_especial", "stock": 2},
+    { "id": "sobre_legendario", "stock": 2},
     { "id": "sobre_flashback_80", "stock": 1}
     
   ]
