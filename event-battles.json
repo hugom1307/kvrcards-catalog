@@ -86,13 +86,12 @@
           "rewards": [
             {
               "type": "traits",
-              "amount": 2
+              "amount": 4
             },
             {
               "type": "pack",
               "packId": "sobre_flashback",
-              "amount": 1,
-              "probability": 50
+              "amount": 2
             },
             {
               "type": "item",
@@ -112,7 +111,7 @@
           "rewards": [
             {
               "type": "traits",
-              "amount": 2
+              "amount": 4
             },
             {
               "type": "traits",
@@ -122,7 +121,7 @@
             {
               "type": "pack",
               "packId": "sobre_flashback",
-              "amount": 1
+              "amount": 3
             },
             {
               "type": "item",
