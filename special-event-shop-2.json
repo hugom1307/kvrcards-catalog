@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "eventId": "desafio_de_titanes",
+  "title": "Tienda del Evento: Desafío de Titanes",
+  "description": "Canjea las esencias de titán y esencias ancestrales obtenidas en los combates 7v1 por recompensas exclusivas.",
+  "currencies": [
+    {
+      "id": "esencia_titan",
+      "name": "Esencia de Titán",
+      "description": "Material obtenido al vencer colosos en el Modo Normal 7v1.",
+      "icon": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/deseo.png"
+    },
+    {
+      "id": "esencia_ancestral",
+      "name": "Esencia Ancestral",
+      "description": "Material legendario obtenido de los jefes del Modo Difícil 7v1.",
+      "icon": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/bankaikio_byakugan.png"
+    }
+  ],
+  "items": [
+    {
+      "id": "shop2_carta_kizuna",
+      "name": "Kizuna Otsutsuki",
+      "description": "Carta exclusiva de máxima categoría desbloqueable con esencias ancestrales.",
+      "category": "card",
+      "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kizuna.png",
+      "stock": 1,
+      "reward": {
+        "type": "card",
+        "cardId": "kizuna_otsutsuki_coht",
+        "amount": 1
+      },
+      "cost": {
+        "currencyId": "esencia_ancestral",
+        "amount": 40
+      }
+    },
+    {
+      "id": "shop2_sobre_legendario",
+      "name": "Sobre Legendario",
+      "description": "Sobre exclusivo garantizado con cartas de alta media.",
+      "category": "pack",
+      "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_legendario.png",
+      "stock": 3,
+      "reward": {
+        "type": "pack",
+        "packId": "sobre_legendario",
+        "amount": 1
+      },
+      "cost": {
+        "currencyId": "esencia_ancestral",
+        "amount": 25
+      }
+    },
+    {
+      "id": "shop2_sobre_titanes",
+      "name": "Sobre de Titanes",
+      "description": "Sobre temático del evento especial 2.",
+      "category": "pack",
+      "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_torneodehaseo.png",
+      "stock": 10,
+      "reward": {
+        "type": "pack",
+        "packId": "sobre_edotensei",
+        "amount": 1
+      },
+      "cost": {
+        "currencyId": "esencia_titan",
+        "amount": 30
+      }
+    },
+    {
+      "id": "shop2_titulo_titanes",
+      "name": "Cazador de Titanes",
+      "description": "Título exclusivo de perfil para quienes dominan el modo 7v1.",
+      "category": "title",
+      "stock": 1,
+      "reward": {
+        "type": "title",
+        "titleId": "cazador_de_titanes",
+        "name": "Cazador de Titanes",
+        "gradient": "linear-gradient(135deg, #ef4444 0%, #b91c1c 100%)"
+      },
+      "cost": {
+        "currencyId": "esencia_ancestral",
+        "amount": 30
+      }
+    },
+    {
+      "id": "shop2_item_octava_puerta",
+      "name": "Octava Puerta",
+      "description": "Objeto de evolución especial.",
+      "category": "item",
+      "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Octava_Puerta.png",
+      "stock": 2,
+      "reward": {
+        "type": "item",
+        "itemId": "octava_puerta",
+        "amount": 1
+      },
+      "cost": {
+        "currencyId": "esencia_ancestral",
+        "amount": 15
+      }
+    },
+    {
+      "id": "shop2_monedas_50k",
+      "name": "Bolsa de 50.000 Coins",
+      "description": "Monedas de oro obtenidas de los colosos derrotados.",
+      "category": "coins",
+      "stock": 50,
+      "reward": {
+        "type": "coins",
+        "amount": 50000
+      },
+      "cost": {
+        "currencyId": "esencia_titan",
+        "amount": 15
+      }
+    },
+    {
+      "id": "shop2_traits_pack_10",
+      "name": "Pack de 10 Rasgos",
+      "description": "Puntos de rasgos acumulados del combate.",
+      "category": "traits",
+      "stock": 30,
+      "reward": {
+        "type": "traits",
+        "amount": 10
+      },
+      "cost": {
+        "currencyId": "esencia_titan",
+        "amount": 20
+      }
+    },
+    {
+      "id": "shop2_traits_pack_5",
+      "name": "Pack de 5 Rasgos",
+      "description": "Rasgos rápidos canjeables con esencias básicas.",
+      "category": "traits",
+      "stock": 50,
+      "reward": {
+        "type": "traits",
+        "amount": 5
+      },
+      "cost": {
+        "currencyId": "esencia_titan",
+        "amount": 10
+      }
+    }
+  ]
+}
