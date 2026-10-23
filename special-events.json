@@ -1,6 +1,7 @@
 {
   "version": 1,
-  "event": {
+  "events": [
+    {
     "id": "torneo_de_haseo",
     "name": "El Gran Torneo de Haseo",
     "subtitle": "Planeta del árbol divino otsutuki",
@@ -13,6 +14,7 @@
         "description": "El torneo en su máximo esplendor. Debes superar los 7 escalones para ganar el torneo.",
         "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/escalones1.png",
         "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/escalones.png",
+        "shopUrl": "special-event-shop.json",
         "levels": [
           {
             "id": "escalon_1",
@@ -248,5 +250,206 @@
         ]
       }
     ]
-  }
+  },
+    {
+      "id": "guerra_danzas",
+      "name": "La Gran Guerra de las Danzas, Parte I",
+      "subtitle": "Modo 7v1 - Enfréntate a los verdaderos monstruos de la guerra.",
+      "description": "La guerra está a punto de comenzar, debes de asegurar la victoria o todo lo que quieres desaparecerá. Protege las danzas principales.",
+      "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/infinito/torneo_haseo.png",
+      "mode": "7v1",
+      "shopUrl": "special-event-shop-2.json",
+      "worlds": [
+        {
+          "id": "titanes_normal",
+          "name": "Modo Normal: Los Colosos",
+          "description": "Supera los 5 niveles normales de combate 7v1 para ganar esencias de titán.",
+          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/escalones1.png",
+          "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/escalones.png",
+          "mode": "7v1",
+          "levels": [
+            {
+              "id": "titan_normal_1",
+              "levelNumber": 1,
+              "name": "Nivel 1: El Despertar del Coloso",
+              "description": "El primer coloso pone a prueba tu equipo en modo 7v1.",
+              "mode": "7v1",
+              "firstClearRewards": [
+                { "type": "coins", "amount": 15000 },
+                { "type": "item", "itemId": "esencia_titan", "amount": 5 }
+              ],
+              "repeatRewards": [
+                { "type": "coins", "amount": 1000 },
+                { "type": "item", "itemId": "esencia_titan", "amount": 2 }
+              ]
+            },
+            {
+              "id": "titan_normal_2",
+              "levelNumber": 2,
+              "name": "Nivel 2: La Furia de la Bestia",
+              "description": "El coloso ataca con toda su fuerza en cada turno.",
+              "mode": "7v1",
+              "bossCardId": "seikatsu",
+              "firstClearRewards": [
+                { "type": "coins", "amount": 20000 },
+                { "type": "item", "itemId": "esencia_titan", "amount": 8 }
+              ],
+              "repeatRewards": [
+                { "type": "coins", "amount": 1500 },
+                { "type": "item", "itemId": "esencia_titan", "amount": 3 }
+              ]
+            },
+            {
+              "id": "titan_normal_3",
+              "levelNumber": 3,
+              "name": "Nivel 3: El Guardián Impenetrable",
+              "description": "Una defensa colosal que resiste a tu escuadrón.",
+              "mode": "7v1",
+              "bossCardId": "shin_uzumaki_heroe",
+              "firstClearRewards": [
+                { "type": "coins", "amount": 25000 },
+                { "type": "item", "itemId": "esencia_titan", "amount": 10 },
+                { "type": "traits", "amount": 5 }
+              ],
+              "repeatRewards": [
+                { "type": "coins", "amount": 2000 },
+                { "type": "item", "itemId": "esencia_titan", "amount": 4 }
+              ]
+            },
+            {
+              "id": "titan_normal_4",
+              "levelNumber": 4,
+              "name": "Nivel 4: La Fuerza de la Tempestad",
+              "description": "La batalla se intensifica al acercarte al último coloso.",
+              "mode": "7v1",
+              "bossCardId": "kinan_hatake_icono",
+              "firstClearRewards": [
+                { "type": "coins", "amount": 30000 },
+                { "type": "item", "itemId": "esencia_titan", "amount": 12 },
+                { "type": "traits", "amount": 8 }
+              ],
+              "repeatRewards": [
+                { "type": "coins", "amount": 2500 },
+                { "type": "item", "itemId": "esencia_titan", "amount": 5 }
+              ]
+            },
+            {
+              "id": "titan_normal_5",
+              "levelNumber": 5,
+              "name": "Nivel 5: El Coloso Supremo",
+              "description": "Supera el último desafío normal para desbloquear el modo difícil.",
+              "mode": "7v1",
+              "bossCardId": "ryuki_icono",
+              "firstClearRewards": [
+                { "type": "coins", "amount": 40000 },
+                { "type": "item", "itemId": "esencia_titan", "amount": 20 },
+                { "type": "traits", "amount": 15 }
+              ],
+              "repeatRewards": [
+                { "type": "coins", "amount": 3000 },
+                { "type": "item", "itemId": "esencia_titan", "amount": 6 }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "titanes_dificil",
+          "name": "Modo Difícil: La Pesadilla Ancestral",
+          "description": "5 niveles de máxima exigencia en combate 7v1.",
+          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/escalones1.png",
+          "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/escalones.png",
+          "materialItemId": "esencia_ancestral",
+          "materialName": "Esencia Ancestral",
+          "mode": "7v1",
+          "levels": [
+            {
+              "id": "titan_dificil_1",
+              "levelNumber": 1,
+              "name": "Nivel 1: Retorno de la Pesadilla",
+              "description": "Un inicio implacable en modo difícil.",
+              "mode": "7v1",
+              "bossCardId": "shind_inazuma_iconoprime",
+              "firstClearRewards": [
+                { "type": "coins", "amount": 30000 },
+                { "type": "item", "itemId": "esencia_ancestral", "amount": 8 }
+              ],
+              "repeatRewards": [
+                { "type": "coins", "amount": 2000 },
+                { "type": "item", "itemId": "esencia_ancestral", "amount": 3 }
+              ]
+            },
+            {
+              "id": "titan_dificil_2",
+              "levelNumber": 2,
+              "name": "Nivel 2: El Trueno Inmortal",
+              "description": "Velocidad demoledora en cada asalto 7v1.",
+              "mode": "7v1",
+              "bossCardId": "raiden_keitaro_sbc",
+              "firstClearRewards": [
+                { "type": "coins", "amount": 35000 },
+                { "type": "item", "itemId": "esencia_ancestral", "amount": 10 }
+              ],
+              "repeatRewards": [
+                { "type": "coins", "amount": 2500 },
+                { "type": "item", "itemId": "esencia_ancestral", "amount": 4 }
+              ]
+            },
+            {
+              "id": "titan_dificil_3",
+              "levelNumber": 3,
+              "name": "Nivel 3: El Ojo de la Devastación",
+              "description": "Resiste las 7 estadísticas del jefe ancestral.",
+              "mode": "7v1",
+              "bossCardId": "daruma_kenjiku",
+              "firstClearRewards": [
+                { "type": "coins", "amount": 40000 },
+                { "type": "item", "itemId": "esencia_ancestral", "amount": 15 },
+                { "type": "traits", "amount": 10 }
+              ],
+              "repeatRewards": [
+                { "type": "coins", "amount": 3000 },
+                { "type": "item", "itemId": "esencia_ancestral", "amount": 5 }
+              ]
+            },
+            {
+              "id": "titan_dificil_4",
+              "levelNumber": 4,
+              "name": "Nivel 4: La Fuerza Absoluta",
+              "description": "Frente al creador de la arena en combate individual.",
+              "mode": "7v1",
+              "bossCardId": "iyari_ryuga_flashback",
+              "firstClearRewards": [
+                { "type": "coins", "amount": 50000 },
+                { "type": "item", "itemId": "esencia_ancestral", "amount": 20 },
+                { "type": "traits", "amount": 15 }
+              ],
+              "repeatRewards": [
+                { "type": "coins", "amount": 3500 },
+                { "type": "item", "itemId": "esencia_ancestral", "amount": 6 }
+              ]
+            },
+            {
+              "id": "titan_dificil_5",
+              "levelNumber": 5,
+              "name": "Nivel 5: El Titán Supremo",
+              "description": "La máxima prueba del evento 7v1.",
+              "mode": "7v1",
+              "bossCardId": "kizuna_otsutsuki_coht",
+              "firstClearRewards": [
+                { "type": "coins", "amount": 100000 },
+                { "type": "item", "itemId": "esencia_ancestral", "amount": 35 },
+                { "type": "traits", "amount": 25 }
+              ],
+              "repeatRewards": [
+                { "type": "coins", "amount": 5000 },
+                { "type": "item", "itemId": "esencia_ancestral", "amount": 8 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+  ]
 }
