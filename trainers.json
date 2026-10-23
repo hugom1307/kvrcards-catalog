@@ -409,7 +409,7 @@
     "nombre": "Intercambio Equivalente",
     "stats": {
       "taijutsu": 10,
-      "velocidad": 10,
+      "velocidad": 10
     }
        },
     "cartasObligatorias": [
@@ -482,7 +482,7 @@
       "resistencia":5,
       "defensa":5,
       "fisico":5,
-      "velocidad": 5,
+      "velocidad": 5
     }
        },
     "cartasObligatorias": [
@@ -534,7 +534,7 @@
     "nombre": "La 4a Gran Guerra Ninja",
    "stats": {
       "ninjutsu": 10,
-      "defensa": 10,
+      "defensa": 10
     },
       "manual": true
        },
@@ -559,7 +559,7 @@
     "buff": {
     "nombre": "Yo te declaro el más fuerte de todos",
     "stats": {
-      "taijutsu":20,
+      "taijutsu":20
     }
        },
     "cartasObligatorias": [
@@ -583,7 +583,7 @@
     "buff": {
     "nombre": "Yo me encargo, tardaré 1 milisegundo",
     "stats": {
-      "velocidad":20,
+      "velocidad":20
     }
        },
     "cartasObligatorias": [
