@@ -168,7 +168,7 @@
             "firstClearRewards": [
               { "type": "coins", "amount": 20000 },
               { "type": "traits", "amount": 10 },
-              { "type": "pack", "packId": "sobre_edotensei", "amount": 1},
+              { "type": "pack", "packId": "sobre_edotensei", "amount": 1}
             ],
              "repeatRewards": [
               { "type": "coins", "amount": 1000 },
