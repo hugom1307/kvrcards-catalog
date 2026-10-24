@@ -1999,21 +1999,26 @@
     "name": "Los Tres Generales de Rura",
     "title": "Los Tres Generales de Rura",
     "description": "Obtén a los 3 comandantes supremos de Rura en sus versiones exclusivas de codwmoments: Ryuki, Shiroku Kowai y Zankoku.",
-    "target": 3,
-    "condition": {
-      "type": "collect_cards",
-      "requiredCount": 3,
-      "cardNames": [
-        "Ryuki",
-        "Shiroku Kowai",
-        "Zankoku"
-      ],
-      "cardIds": [
-        "ryuki_codw",
-        "shiroku_kowai_codwmoments",
-        "zankoku_codwmoments"
-      ]
-    },
+     "requirement": [
+      {
+        "type": "own_card",
+        "cardId": "ryuki_codw",
+        "amount": 1,
+        "description": "Poseer a Ryuki C.O.D.W"
+      },
+      {
+        "type": "own_card",
+        "cardId": "zankoku_codwmoments",
+        "amount": 1,
+        "description": "Poseer a Zankoku C.O.D.W Moments"
+      },
+      {
+        "type": "own_card",
+        "cardId": "shiroku_kowai_codw",
+        "amount": 1,
+        "description": "Poseer a Shiroku C.O.D.W"
+      }
+    ],
     "rewards": [
       {
         "type": "coins",
@@ -2042,23 +2047,32 @@
     "name": "La Alianza de los Cuatro Generales",
     "title": "La Alianza de los Cuatro Generales",
     "description": "Recluta al cuarteto de generales aliados en sus versiones exclusivas de codw: Ronan Hatake, Ayato Hyuga, Kai Senju y Betocs Hatake.",
-    "target": 4,
-    "condition": {
-      "type": "collect_cards",
-      "requiredCount": 4,
-      "cardNames": [
-        "Ronan Hatake",
-        "Ayato Hyuga",
-        "Kai Senju",
-        "Betocs Hatake"
-      ],
-      "cardIds": [
-        "ronan_hatake_codw",
-        "ayato_hyuga_codw",
-        "kai_senju_codw",
-        "betocs_hatake_codw"
-      ]
-    },
+    "requirement": [
+      {
+        "type": "own_card",
+        "cardId": "ronan_codw",
+        "amount": 1,
+        "description": "Poseer a Ronan C.O.D.W"
+      },
+      {
+        "type": "own_card",
+        "cardId": "ayato_hyuga_codw",
+        "amount": 1,
+        "description": "Poseer a Ayato C.O.D.W"
+      },
+      {
+        "type": "own_card",
+        "cardId": "kai_senju_codw",
+        "amount": 1,
+        "description": "Poseer a Kai C.O.D.W"
+      },
+      {
+        "type": "own_card",
+        "cardId": "betocs_hatake_codw",
+        "amount": 1,
+        "description": "Poseer a Betocs C.O.D.W"
+      }
+    ],
     "rewards": [
       {
         "type": "coins",
@@ -2083,21 +2097,26 @@
     "name": "El Trío de las Danzas Imperfectas",
     "title": "El Trío de las Danzas Imperfectas",
     "description": "Consigue a los 3 usuarios de danza imperfecta codw: Ken Inazuma, Sekitan y Kurai Tenro.",
-    "target": 3,
-    "condition": {
-      "type": "collect_cards",
-      "requiredCount": 3,
-      "cardNames": [
-        "Ken Inazuma",
-        "Sekitan",
-        "Kurai Tenro"
-      ],
-      "cardIds": [
-        "ken_inazuma_codw",
-        "sekitan_codw",
-        "kurai_tenro_codw"
-      ]
-    },
+    "requirement": [
+      {
+        "type": "own_card",
+        "cardId": "ken_inazuma_codw",
+        "amount": 1,
+        "description": "Poseer a Ken C.O.D.W"
+      },
+      {
+        "type": "own_card",
+        "cardId": "sekitan_codw",
+        "amount": 1,
+        "description": "Poseer a Sekitan C.O.D.W"
+      },
+      {
+        "type": "own_card",
+        "cardId": "kurai_tenro_codw",
+        "amount": 1,
+        "description": "Poseer a Kurai C.O.D.W"
+      }
+    ],
     "rewards": [
       {
         "type": "coins",
@@ -2122,21 +2141,26 @@
     "name": "El Trío de las Danzas Liberadas",
     "title": "El Trío de las Danzas Liberadas",
     "description": "Despierta el poder supremo reuniendo a los 3 usuarios de danza liberada codwmoments: Ken Inazuma, Sekitan y Kurai Tenro.",
-    "target": 3,
-    "condition": {
-      "type": "collect_cards",
-      "requiredCount": 3,
-      "cardNames": [
-        "Ken Inazuma",
-        "Sekitan",
-        "Kurai Tenro"
-      ],
-      "cardIds": [
-        "ken_inazuma_codwmoments",
-        "sekitan_codwmoments",
-        "kurai_tenro_codwmoments"
-      ]
-    },
+   "requirement": [
+      {
+        "type": "own_card",
+        "cardId": "ken_inazuma_codwmoments",
+        "amount": 1,
+        "description": "Poseer a Ken C.O.D.W Moments"
+      },
+      {
+        "type": "own_card",
+        "cardId": "sekitan_codwmoments",
+        "amount": 1,
+        "description": "Poseer a Sekitan C.O.D.W Moments"
+      },
+      {
+        "type": "own_card",
+        "cardId": "kurai_tenro_codwmoments",
+        "amount": 1,
+        "description": "Poseer a Kurai C.O.D.W Moments"
+      }
+    ],
     "rewards": [
       {
         "type": "coins",
