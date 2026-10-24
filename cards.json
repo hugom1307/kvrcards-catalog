@@ -4374,5 +4374,549 @@
     "calidad": "exclusive",
     "procedencia": "Konohagakure",
     "owner": "HugoMan1307"
-  }
+  },
+  {
+        "id":  "ayato_betocs_exclusive",
+        "name":  "Ayato & Betocs",
+        "stats":  [
+                      91,
+                      90,
+                      88,
+                      90,
+                      89,
+                      88
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ayato_betocs.png",
+        "media":  89,
+        "calidad":  "exclusive",
+        "procedencia":  "Amegakure",
+        "owner":  "MrVetoxx"
+    },
+    {
+        "id":  "ayato_betocs_exclusive_exclusive2",
+        "name":  "Ayato & Betocs",
+        "stats":  [
+                      99,
+                      98,
+                      91,
+                      94,
+                      92,
+                      92
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ayato_betocs_evo.png",
+        "media":  93,
+        "calidad":  "exclusive",
+        "procedencia":  "Amegakure",
+        "owner":  "MrVetoxx"
+    },
+    {
+        "id":  "kyo_codw",
+        "name":  "Kyo",
+        "stats":  [
+                      88,
+                      88,
+                      80,
+                      81,
+                      87,
+                      85
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kyo_codw.png",
+        "media":  84,
+        "calidad":  "codw",
+        "procedencia":  "Gokei",
+        "owner":  "Adrianpepo"
+    },
+    {
+        "id":  "aniel_codw",
+        "name":  "Añel",
+        "stats":  [
+                      86,
+                      80,
+                      80,
+                      87,
+                      93,
+                      75
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/aniel_codw.png",
+        "media":  84,
+        "calidad":  "codw",
+        "procedencia":  "Konohagakure",
+        "owner":  "Manuel2767"
+    },
+    {
+        "id":  "ayato_hyuga_codw",
+        "name":  "Ayato Hyuga",
+        "stats":  [
+                      93,
+                      88,
+                      88,
+                      91,
+                      85,
+                      83
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ayato_hyuga_codw.png",
+        "media":  90,
+        "calidad":  "codw",
+        "procedencia":  "Amegakure",
+        "owner":  "Adrianpepo"
+    },
+    {
+        "id":  "bashame_haruno_codw",
+        "name":  "Bashame Haruno",
+        "stats":  [
+                      91,
+                      81,
+                      84,
+                      79,
+                      84,
+                      86
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/bashame_haruno_codw.png",
+        "media":  84,
+        "calidad":  "codw",
+        "procedencia":  "Konohagakure",
+        "owner":  "TaiyoDL"
+    },
+    {
+        "id":  "betocs_hatake_codw",
+        "name":  "Betocs Hatake",
+        "stats":  [
+                      93,
+                      96,
+                      90,
+                      92,
+                      85,
+                      90
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/betocs_hatake_codw.png",
+        "media":  92,
+        "calidad":  "codw",
+        "procedencia":  "Amegakure",
+        "owner":  "MrVetoxx"
+    },
+    {
+        "id":  "chikso_codw",
+        "name":  "Chikso",
+        "stats":  [
+                      92,
+                      89,
+                      83,
+                      90,
+                      85,
+                      80
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/chikso_codw.png",
+        "media":  88,
+        "calidad":  "codw",
+        "procedencia":  "Kizoku",
+        "owner":  "HugoMan1307"
+    },
+    {
+        "id":  "dankha_sagi_codw",
+        "name":  "Dankha Sagi",
+        "stats":  [
+                      90,
+                      84,
+                      82,
+                      90,
+                      80,
+                      75
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/dankha_sagi_codw.png",
+        "media":  84,
+        "calidad":  "codw",
+        "procedencia":  "Konohagakure",
+        "owner":  "TaiyoDL"
+    },
+    {
+        "id":  "doman_kurimunzoso_codw",
+        "name":  "Doman Kurimunzoso",
+        "stats":  [
+                      93,
+                      86,
+                      78,
+                      90,
+                      86,
+                      81
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/doman_kurimunzoso_codw.png",
+        "media":  87,
+        "calidad":  "codw",
+        "procedencia":  "Sunagakure",
+        "owner":  "HugoMan1307"
+    },
+    {
+        "id":  "goman_codw",
+        "name":  "Goman",
+        "stats":  [
+                      92,
+                      82,
+                      86,
+                      80,
+                      86,
+                      83
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/goman_codw.png",
+        "media":  85,
+        "calidad":  "codw",
+        "procedencia":  "Sunagakure",
+        "owner":  "MrVetoxx"
+    },
+    {
+        "id":  "junketsu_codw",
+        "name":  "Junketsu",
+        "stats":  [
+                      91,
+                      85,
+                      89,
+                      84,
+                      85,
+                      85
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/junketsu_codw.png",
+        "media":  86,
+        "calidad":  "codw",
+        "procedencia":  "Desconocido",
+        "owner":  "Adrianpepo"
+    },
+    {
+        "id":  "kai_senju_codw",
+        "name":  "Kai Senju",
+        "stats":  [
+                      95,
+                      91,
+                      90,
+                      88,
+                      86,
+                      83
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kai_senju_codw.png",
+        "media":  91,
+        "calidad":  "codw",
+        "procedencia":  "Sunagakure",
+        "owner":  "Manuel2767"
+    },
+    {
+        "id":  "ken_inazuma_codw",
+        "name":  "Ken Inazuma",
+        "stats":  [
+                      88,
+                      78,
+                      80,
+                      83,
+                      78,
+                      62
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ken_inazuma_danza_imperfecta_codw.png",
+        "media":  80,
+        "calidad":  "codw",
+        "procedencia":  "Amegakure",
+        "owner":  "Alecrackman"
+    },
+    {
+        "id":  "kurai_tenro_codw",
+        "name":  "Kurai Tenro",
+        "stats":  [
+                      80,
+                      86,
+                      82,
+                      84,
+                      78,
+                      78
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kurai_tenro_danza_imperfecta_codw.png",
+        "media":  82,
+        "calidad":  "codw",
+        "procedencia":  "Sunagakure",
+        "owner":  "Manuel16"
+    },
+    {
+        "id":  "rakhan_codw",
+        "name":  "Rakhan",
+        "stats":  [
+                      75,
+                      92,
+                      85,
+                      75,
+                      85,
+                      85
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/rakhan_codw.png",
+        "media":  84,
+        "calidad":  "codw",
+        "procedencia":  "Desconocido",
+        "owner":  "Alecrackman"
+    },
+    {
+        "id":  "ransu_hatake_codw",
+        "name":  "Ransu Hatake",
+        "stats":  [
+                      76,
+                      95,
+                      91,
+                      88,
+                      79,
+                      88
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ransu_hatake_codw.png",
+        "media":  86,
+        "calidad":  "codw",
+        "procedencia":  "Amegakure",
+        "owner":  "TaiyoDL"
+    },
+    {
+        "id":  "ronan_hatake_codw",
+        "name":  "Ronan Hatake",
+        "stats":  [
+                      87,
+                      80,
+                      77,
+                      82,
+                      78,
+                      73
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ronan_hatake_codw.png",
+        "media":  82,
+        "calidad":  "codw",
+        "procedencia":  "Amegakure",
+        "owner":  "HugoMan1307"
+    },
+    {
+        "id":  "shiroku_kowai_codw",
+        "name":  "Shiroku Kowai",
+        "stats":  [
+                      96,
+                      92,
+                      88,
+                      95,
+                      92,
+                      88
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/shiroku_kowai_codw.png",
+        "media":  93,
+        "calidad":  "codw",
+        "procedencia":  "Desconocido",
+        "owner":  "TaiyoDL"
+    },
+    {
+        "id":  "sekitan_codw",
+        "name":  "Sekitan",
+        "stats":  [
+                      83,
+                      85,
+                      83,
+                      81,
+                      82,
+                      70
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sekitan_danza_imperfecta_codw.png",
+        "media":  82,
+        "calidad":  "codw",
+        "procedencia":  "Konohagakure",
+        "owner":  "Nataliaa15"
+    },
+    {
+        "id":  "takeda_gozen_codw",
+        "name":  "Takeda Gozen",
+        "stats":  [
+                      70,
+                      94,
+                      89,
+                      88,
+                      84,
+                      87
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/takeda_gozen_codw.png",
+        "media":  86,
+        "calidad":  "codw",
+        "procedencia":  "Konohagakure",
+        "owner":  "HugoMan1307"
+    },
+    {
+        "id":  "taro_codw",
+        "name":  "Taro",
+        "stats":  [
+                      88,
+                      75,
+                      81,
+                      86,
+                      83,
+                      80
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/taro_codw.png",
+        "media":  82,
+        "calidad":  "codw",
+        "procedencia":  "Desconocido",
+        "owner":  "Adrianpepo"
+    },
+    {
+        "id":  "yumeno_watanabe_codw",
+        "name":  "Yumeno Watanabe",
+        "stats":  [
+                      88,
+                      59,
+                      75,
+                      82,
+                      77,
+                      60
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/yumeno_watanabe_codw.png",
+        "media":  80,
+        "calidad":  "codw",
+        "procedencia":  "Konohagakure",
+        "owner":  "TaiyoDL"
+    },
+    {
+        "id":  "betocs_hatake_codwmoments",
+        "name":  "Betocs Hatake",
+        "stats":  [
+                      96,
+                      99,
+                      93,
+                      95,
+                      89,
+                      92
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/betocs_hatake_evo_codwmoments.png",
+        "media":  94,
+        "calidad":  "codwmoments",
+        "procedencia":  "Amegakure",
+        "owner":  "MrVetoxx"
+    },
+    {
+        "id":  "dankha_sagi_codwmoments",
+        "name":  "Dankha Sagi",
+        "stats":  [
+                      93,
+                      87,
+                      85,
+                      95,
+                      83,
+                      80
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/dankha_sagi_evo_codwmoments.png",
+        "media":  89,
+        "calidad":  "codwmoments",
+        "procedencia":  "Konohagakure",
+        "owner":  "TaiyoDL"
+    },
+    {
+        "id":  "junketsu_evo",
+        "name":  "Junketsu",
+        "stats":  [
+                      91,
+                      85,
+                      89,
+                      84,
+                      85,
+                      85
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/junketsu_evo_codwmoments.png",
+        "media":  86,
+        "calidad":  "evo",
+        "procedencia":  "Desconocido",
+        "owner":  "Adrianpepo"
+    },
+    {
+        "id":  "ken_inazuma_codwmoments",
+        "name":  "Ken Inazuma",
+        "stats":  [
+                      96,
+                      85,
+                      80,
+                      88,
+                      78,
+                      65
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ken_inazuma_danza_liberada_codwmoments.png",
+        "media":  86,
+        "calidad":  "codwmoments",
+        "procedencia":  "Amegakure",
+        "owner":  "Alecrackman"
+    },
+    {
+        "id":  "kurai_tenro_codwmoments",
+        "name":  "Kurai Tenro",
+        "stats":  [
+                      85,
+                      92,
+                      85,
+                      88,
+                      81,
+                      80
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/kurai_tenro_danza_liberada_codwmoments.png",
+        "media":  87,
+        "calidad":  "codwmoments",
+        "procedencia":  "Sunagakure",
+        "owner":  "Manuel16"
+    },
+    {
+        "id":  "ryuki_codwmoments",
+        "name":  "Ryuki",
+        "stats":  [
+                      96,
+                      90,
+                      96,
+                      90,
+                      90,
+                      88
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ryuki_codwmoments.png",
+        "media":  91,
+        "calidad":  "codwmoments",
+        "procedencia":  "Iwagakure",
+        "owner":  "Wailant"
+    },
+    {
+        "id":  "sekitan_codwmoments",
+        "name":  "Sekitan",
+        "stats":  [
+                      90,
+                      94,
+                      88,
+                      90,
+                      90,
+                      80
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sekitan_danza_liberada_codwmoments.png",
+        "media":  89,
+        "calidad":  "codwmoments",
+        "procedencia":  "Konohagakure",
+        "owner":  "Nataliaa15"
+    },
+    {
+        "id":  "shiroku_kowai_codwmoments",
+        "name":  "Shiroku Kowai",
+        "stats":  [
+                      100,
+                      96,
+                      91,
+                      99,
+                      96,
+                      90
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/shiroku_kowai_evo_codwmoments.png",
+        "media":  95,
+        "calidad":  "codwmoments",
+        "procedencia":  "Desconocido",
+        "owner":  "TaiyoDL"
+    },
+    {
+        "id":  "zankoku_codwmoments",
+        "name":  "Zankoku",
+        "stats":  [
+                      80,
+                      99,
+                      94,
+                      91,
+                      88,
+                      95
+                  ],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/zankoku_codwmoments.png",
+        "media":  92,
+        "calidad":  "codwmoments",
+        "procedencia":  "Kizoku",
+        "owner":  "TaiyoDL"
+    }
 ]
