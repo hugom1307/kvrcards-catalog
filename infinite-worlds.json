@@ -1,14 +1,14 @@
 {
   "version": 7,
   "worldOrder": [
-    "amegakure_guerra",
-    "laboratorio",
-    "basedam",
-    "espacio",
-    "torneo_haseo",
-    "techlin",
     "kumogakure",
+    "amegakure_guerra",
+    "techlin",
+    "laboratorio",
     "guerradanzas",
+    "torneo_haseo",
+     "basedam",
+    "espacio",
     "konohagakure_antigua",
     "torneo_multiversal",
     "kazegakure"
