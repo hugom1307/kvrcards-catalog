@@ -2022,6 +2022,11 @@
       {
         "type": "pack",
         "packId": "sobre_legendario",
+        "amount": 2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_90_plus",
         "amount": 1
       },
       {
@@ -2066,7 +2071,7 @@
       },
       {
         "type": "pack",
-        "packId": "sobre_85_plus",
+        "packId": "sobre_90_plus",
         "amount": 1
       }
     ],
@@ -2105,7 +2110,7 @@
       },
       {
         "type": "pack",
-        "packId": "sobre_83_plus",
+        "packId": "sobre_legendario",
         "amount": 1
       }
     ],
@@ -2176,7 +2181,7 @@
       {
         "type": "pack",
         "packId": "sobre_especial",
-        "amount": 1
+        "amount": 3
       },
       {
         "type": "item",
@@ -2263,7 +2268,7 @@
       },
       {
         "type": "pack",
-        "packId": "sobre_oro",
+        "packId": "sobre_85_plus",
         "amount": 1
       }
     ],
@@ -2310,7 +2315,7 @@
       },
       {
         "type": "pack",
-        "packId": "sobre_83_plus",
+        "packId": "sobre_legendario",
         "amount": 1
       }
     ],
