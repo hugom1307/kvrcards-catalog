@@ -476,5 +476,75 @@
     "gradient":"linear-gradient(to bottom, #FF0000 0%, #FFA807 44%, #021D4F 71%, #085EFF 59%, #4321FF 29%)",
     "unlockDescription":"Completa el Kizuna 'Eclipse'"
     
+  },
+ {
+    "id": "mitad",
+    "name": "A la mitad",
+    "description": "Junta la creación y la destrucción",
+    "gradient":"linear-gradient(135deg, #00FFE1 0%, #A9110F 100%)",
+    "unlockDescription":"Compra este título en la tienda del evento especial: La Gran Guerra de las Danzas Parte I"
+  },
+ {
+    "id": "heroe_redimido",
+    "name": "Héroe redimido",
+    "description": "La bondad de una persona transformó a una bestia salvaje en un hombre lleno de justicia y amabilidad",
+    "gradient": "linear-gradient(to right, #4A154B 0%, #D4AF37 100%)",
+    "unlockDescription": "Completa el prestigio de Yaban Hito"
+  },
+  {
+    "id": "nigromante_mayor",
+    "name": "Nigromante Mayor",
+    "description": "Alcanza y evoluciona el punto más alto de la nigromancia, demuestra que eres la persona con el valor más alto",
+    "gradient": "linear-gradient(to right, #71717A 0%, #FFFFFF 100%)",
+    "unlockDescription": "Completa el prestigio de Shiroku Kowai"
+  },
+  {
+    "id": "gigante_vengativo",
+    "name": "Gigante Vengativo",
+    "description": "Venga a tu pueblo de la cruel raza humana",
+    "gradient": "linear-gradient(to right, #78350F 0%, #F59E0B 100%)",
+    "unlockDescription": "Completa el prestigio de Ryuki"
+  },
+  {
+    "id": "lluvia_roja",
+    "name": "Lluvia Roja",
+    "description": "Lucha por tus seres queridos mientras cargas tu pasado en los homrbros",
+    "gradient": "linear-gradient(to right, #1E3A8A 0%, #60A5FA 100%)",
+    "unlockDescription": "Completa el prestigio de Ayato Hyuga"
+  },
+  {
+    "id": "dragon_desierto",
+    "name": "Dragón del Desierto",
+    "description": "Ruge de forma en la que todo el desierto escuche tu llegada",
+    "gradient": "linear-gradient(to right, #9A3412 0%, #FB923C 100%)",
+    "unlockDescription": "Completa el prestigio de Kai Senju"
+  },
+  {
+    "id": "lluvia_azul",
+    "name": "Lluvia Azul",
+    "description": "Demuestra que tu esfuerzo no fue helado",
+    "gradient": "linear-gradient(to right, #334155 0%, #38BDF8 100%)",
+    "unlockDescription": "Completa el prestigio de Betocs Hatake"
+  },
+ {
+    "id": "conquistador_rura",
+    "name": "Conquistador de Rura",
+    "description": "Reúne a los tres generales supremos de Rura y desata su dominio absoluto sobre el campo de batalla.",
+    "gradient": "linear-gradient(to right, #4A0E17 0%, #8B0000 50%, #FF4500 100%)",
+    "unlockDescription": "Obtén a los 3 Generales de Rura (codwmoments) en las misiones limitadas"
+  },
+  {
+    "id": "soberano_de_la_guerra",
+    "name": "Soberano de la Guerra",
+    "description": "Demuestra una supremacía indiscutible conquistando 75 rondas en los frentes del conflicto bélico.",
+    "gradient": "linear-gradient(to right, #1F1C18 0%, #8E0E00 50%, #F5AF19 100%)",
+    "unlockDescription": "Completa la misión Dominio Supremo de la Guerra ganando 75 rondas"
+  },
+  {
+    "id": "guardian_alianza",
+    "name": "Guardián de la Alianza",
+    "description": "Recluta al cuarteto de generales aliados y consolida el frente unificado inquebrantable.",
+    "gradient": "linear-gradient(to right, #0F2027 0%, #203A43 50%, #2C5364 100%)",
+    "unlockDescription": "Recluta a los 4 Generales Aliados (codw) en las misiones limitadas"
   }
 ]
