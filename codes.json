@@ -1,115 +1,6 @@
 {
-  "version": 10,
+  "version": 11,
   "codes": [
-    {
-      "code": "DELAYCARDS",
-      "active": false,
-      "rewardsType": "mixed",
-      "rewards": {
-        "coins": 10000,
-        "traits": 5,
-        "packs": [
-          {
-            "packId": "sobre_oro",
-            "quantity": 1
-          }
-        ],
-        "cards": [
-          {
-            "cardId": "canje",
-            "quantity": 1
-          }
-        ]
-      },
-      "description": "Sentimos la espera, por ello aquí tenéis un código en compensación: 10000 Coins, 1 sobre oro, 5 traits y un canjeo de una evolucion exclusiva propia."
-    },
-    {
-      "code": "ELEMENTALARC",
-      "active": false,
-      "rewardsType": "mixed",
-      "rewards": {
-        "traits": 5,
-        "packs": [
-          {
-            "packId": "sobre_elemental",
-            "quantity": 1
-          },
-          {
-            "packId": "sobre_bronce",
-            "quantity": 3
-          }
-        ]
-      },
-      "description": "Bienvenidos al evento de la 1.0: 5 traits, 1 sobre Elemental y 3 sobres bronce."
-    },
-    {
-      "code": "BENDICION_JUANJO",
-      "active": true,
-      "singleUse": true,
-      "supporterBlessing": true,
-      "rewardsType": "mixed",
-      "rewards": {
-        "kvr": 300
-      },
-      "description": "Bendición del Supporter: 300 KvR instantáneos + 30 días de recompensas diarias."
-    },
-    {
-      "code": "GIVEAWAYS_VETO",
-      "active": true,
-      "singleUse": true,
-      "rewardsType": "mixed",
-      "rewards": {
-        "packs": [
-          {
-            "packId": "sobre_83_plus",
-            "quantity": 1
-          },
-          {
-            "packId": "sobre_elemental",
-            "quantity": 1
-          }
-        ]
-      },
-      "description": "1 Sobre +83 + 1 Sobre Elemental"
-    },
-    {
-      "code": "OFERTA_BIENVENIDA_JUANJO",
-      "active": true,
-      "singleUse": true,
-      "rewardsType": "mixed",
-      "rewards": {
-        "packs": [
-          {
-            "packId": "sobre_supporter",
-            "quantity": 1
-          }
-        ],
-        "kvr": 300,
-        "titles": [
-          "knight_supporter"
-        ]
-      },
-      "description": "OFERTA DE BIENVENIDA! 300 KVR + TÍTULO EXCLUSIVO + SOBRE EXCLUSIVO"
-    },
-    {
-      "code": "OFERTA_BIENVENIDA_ADAN",
-      "active": true,
-      "singleUse": true,
-      "rewardsType": "mixed",
-      "rewards": {
-        "packs": [
-          {
-            "packId": "sobre_supporter",
-            "quantity": 1
-          }
-        ],
-        "kvr": 300,
-        "titles": [
-          "knight_supporter"
-        ]
-      },
-      "description": "OFERTA DE BIENVENIDA! 300 KVR + TÍTULO EXCLUSIVO + SOBRE EXCLUSIVO"
-    },
     {
       "code": "OFERTA_BIENVENIDA_ADRIAN",
       "active": true,
@@ -130,120 +21,7 @@
       "description": "OFERTA DE BIENVENIDA! 300 KVR + TÍTULO EXCLUSIVO + SOBRE EXCLUSIVO"
     },
     {
-      "code": "OFERTA_BIENVENIDA_MARIO",
-      "active": true,
-      "singleUse": true,
-      "rewardsType": "mixed",
-      "rewards": {
-        "packs": [
-          {
-            "packId": "sobre_supporter",
-            "quantity": 1
-          }
-        ],
-        "kvr": 300,
-        "titles": [
-          "knight_supporter"
-        ]
-      },
-      "description": "OFERTA DE BIENVENIDA! 300 KVR + TÍTULO EXCLUSIVO + SOBRE EXCLUSIVO"
-    },
-    {
-      "code": "TITULO_KNIGHTSUPPORTER_FIXED",
-      "active": true,
-      "rewardsType": "mixed",
-      "rewards": {
-        "titles": [
-          "knight_supporter"
-        ]
-      },
-      "description": "título giveado por el error previo"
-    },
-    {
-      "code": "TITULOS_JOSE",
-      "active": true,
-      "singleUse": true,
-      "rewardsType": "mixed",
-      "rewards": {
-        "titles": [
-          "coleccionista",
-          "adinerado",
-          "abridor",
-          "oro_puro"
-        ]
-      },
-      "description": "títulos giveados por bug"
-    },
-    {
-      "code": "SORRY",
-      "active": true,
-      "rewardsType": "mixed",
-      "rewards": {
-        "traits": 15,
-        "packs": [
-          {
-            "packId": "sobre_85_plus",
-            "quantity": 1
-          },
-          {
-            "packId": "sobre_81_plus",
-            "quantity": 3
-          }
-        ]
-      },
-      "description": "Sentimos un montón los cambios de balance del primer día y los borrados de carta, no queremos afectar negativamente la experiencia del juego, toma esto a cambio."
-    },
-    {
-      "code": "VERSION2ISHERE",
-      "active": true,
-      "rewardsType": "mixed",
-      "rewards": {
-        "packs": [
-          {
-            "packId": "sobre_torneohaseo",
-            "quantity": 1
-          },
-          {
-            "packId": "sobre_85_plus",
-            "quantity": 2
-          }
-        ]
-      },
-      "description": "¡Celebración de la Versión 2.0! Recompensa: 1 Sobre Torneo de Haseo y 2 Sobres Élite Oscuro +85."
-    },
-    {
-      "code": "INEEDTRAITS",
-      "active": true,
-      "rewardsType": "mixed",
-      "rewards": {
-        "coins": 50000,
-        "traits": 25
-      },
-      "description": "Pack de recursos: 50.000 Coins y 25 Traits."
-    },
-    {
-      "code": "ILOVEPLUSHIES",
-      "active": true,
-      "rewardsType": "mixed",
-      "rewards": {
-        "items": [
-          {
-            "itemId": "plush_coin",
-            "name": "Plush Coin",
-            "quantity": 1
-          }
-        ],
-        "plushies": [
-          {
-            "plushieId": "omni_plushie",
-            "name": "Omni Plushie"
-          }
-        ]
-      },
-      "description": "¡Amor por los peluches! 1 Plush Coin y 1 Omni Plushie universal."
-    },
-    {
-      "code": "KAZEGAKUREISHERE",
+      "code": "VERSION3NOW",
       "active": true,
       "rewardsType": "mixed",
       "rewards": {
@@ -254,12 +32,54 @@
             "quantity": 1
           },
           {
-            "packId": "sobre_flashback",
+            "packId": "sobre_guerradanzas",
+            "quantity": 3
+          }
+        ],
+        "items": [
+          {
+            "itemId": "plush_coin",
+            "name": "Plush Coin",
+            "quantity": 1
+          }
+        ]
+      },
+      "description": "¡Celebración de la Versión 3.0! Recompensas: 1 Sobre Legendario, 3 Sobres Guerra de las Danzas, 1 Plush Coin y 50 Traits."
+    },
+    {
+      "code": "GIVEMEPACKS",
+      "active": true,
+      "rewardsType": "mixed",
+      "rewards": {
+        "packs": [
+          {
+            "packId": "sobre_legendario",
+            "quantity": 1
+          },
+          {
+            "packId": "sobre_85_plus",
             "quantity": 5
           }
         ]
       },
-      "description": "¡Llegada del evento Kazegakure! 50 Traits, 1 Sobre Legendario y 5 Sobres Flashback."
+      "description": "¡Pack de Sobres! Recompensas: 1 Sobre Legendario y 5 Sobres +85."
+    },
+    {
+      "code": "SORRY4MAINTENANCE",
+      "active": true,
+      "rewardsType": "mixed",
+      "rewards": {
+        "coins": 100000,
+        "kvr": 100,
+        "items": [
+          {
+            "itemId": "ggd1_coin",
+            "name": "Moneda de la Gran Guerra de las Danzas",
+            "quantity": 100
+          }
+        ]
+      },
+      "description": "Compensación por mantenimiento: 100.000 Coins, 100 KvR Coins y 100 Monedas de la Gran Guerra de las Danzas."
     }
   ]
 }
