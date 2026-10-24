@@ -4008,5 +4008,1313 @@
         ]
       }
     ]
-  }
+  },
+  {
+        "cardId":  "yaban_hito",
+        "name":  "Yaban Hito",
+        "levels":  [
+                       {
+                           "prestige":  1,
+                           "xpRequired":  100,
+                           "missions":  [
+                                            {
+                                                "name":  "Jugar 3 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  3,
+                                                "xp":  100
+                                            },
+                                            {
+                                                "name":  "Ganar 2 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  2,
+                                                "xp":  100
+                                            },
+                                            {
+                                                "name":  "Ganar 5 rondas con cartas de procedencia Kizoku",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Kizoku",
+                                                "target":  5,
+                                                "xp":  100
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "coins",
+                                               "amount":  2500
+                                           },
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_oro",
+                                               "amount":  1
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  2,
+                           "xpRequired":  500,
+                           "missions":  [
+                                            {
+                                                "name":  "Gana 10 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  10,
+                                                "xp":  250
+                                            },
+                                            {
+                                                "name":  "Ganar 10 rondas con esta carta",
+                                                "type":  "winsRounds",
+                                                "target":  10,
+                                                "xp":  250
+                                            },
+                                            {
+                                                "name":  "Ganar 15 rondas con cartas de procedencia Kizoku",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Kizoku",
+                                                "target":  15,
+                                                "xp":  300
+                                            },
+                                            {
+                                                "name":  "Ganar 15 rondas con cartas de TaiyoDL",
+                                                "type":  "winsRounds",
+                                                "owner":  "TaiyoDL",
+                                                "target":  15,
+                                                "xp":  250
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_oro",
+                                               "amount":  5
+                                           },
+                                           {
+                                               "type":  "coins",
+                                               "amount":  5000
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  3,
+                           "xpRequired":  2000,
+                           "missions":  [
+                                            {
+                                                "name":  "Jugar 25 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  25,
+                                                "xp":  800
+                                            },
+                                            {
+                                                "name":  "Ganar 15 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  15,
+                                                "xp":  800
+                                            },
+                                            {
+                                                "name":  "Ganar 50 rondas con cartas de procedencia Kizoku",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Kizoku",
+                                                "target":  50,
+                                                "xp":  800
+                                            },
+                                            {
+                                                "name":  "Ganar 50 rondas con cartas de TaiyoDL",
+                                                "type":  "winsRounds",
+                                                "owner":  "TaiyoDL",
+                                                "target":  50,
+                                                "xp":  800
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "coins",
+                                               "amount":  10000
+                                           },
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_83_plus",
+                                               "amount":  3
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  4,
+                           "xpRequired":  5000,
+                           "missions":  [
+                                            {
+                                                "name":  "Jugar 50 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  50,
+                                                "xp":  1500
+                                            },
+                                            {
+                                                "name":  "Ganar 35 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  35,
+                                                "xp":  2000
+                                            },
+                                            {
+                                                "name":  "Gana 150 rondas con cartas de procedencia Kizoku",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Kizoku",
+                                                "target":  150,
+                                                "xp":  2000
+                                            },
+                                            {
+                                                "name":  "Gana 150 rondas con cartas de TaiyoDL",
+                                                "type":  "winsRounds",
+                                                "owner":  "TaiyoDL",
+                                                "target":  150,
+                                                "xp":  2000
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_legendario",
+                                               "amount":  1
+                                           },
+                                           {
+                                               "type":  "coins",
+                                               "amount":  35000
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  5,
+                           "xpRequired":  10000,
+                           "missions":  [
+                                            {
+                                                "name":  "Gana 100 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  100,
+                                                "xp":  4000
+                                            },
+                                            {
+                                                "name":  "Jugar 120 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  120,
+                                                "xp":  3000
+                                            },
+                                            {
+                                                "name":  "Ganar 200 rondas con cartas de procedencia Kizoku de TaiyoDL",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Kizoku",
+                                                "owner":  "TaiyoDL",
+                                                "target":  200,
+                                                "xp":  4000
+                                            },
+                                            {
+                                                "name":  "Ganar 250 rondas con cartas de procedencia Kizoku",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Kizoku",
+                                                "target":  250,
+                                                "xp":  3500
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "title",
+                                               "titleId":  "heroe_redimido"
+                                           },
+                                           {
+                                               "type":  "coins",
+                                               "amount":  50000
+                                           },
+                                           {
+                                               "type":  "background",
+                                               "backgroundId":  "fondo_yaban"
+                                           }
+                                       ]
+                       }
+                   ]
+    },
+    {
+        "cardId":  "shiroku_kowai",
+        "name":  "Shiroku Kowai",
+        "levels":  [
+                       {
+                           "prestige":  1,
+                           "xpRequired":  100,
+                           "missions":  [
+                                            {
+                                                "name":  "Jugar 3 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  3,
+                                                "xp":  100
+                                            },
+                                            {
+                                                "name":  "Ganar 2 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  2,
+                                                "xp":  100
+                                            },
+                                            {
+                                                "name":  "Ganar 5 rondas con cartas de procedencia Desconocida",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Desconocido",
+                                                "target":  5,
+                                                "xp":  100
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "coins",
+                                               "amount":  2500
+                                           },
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_oro",
+                                               "amount":  1
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  2,
+                           "xpRequired":  500,
+                           "missions":  [
+                                            {
+                                                "name":  "Gana 10 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  10,
+                                                "xp":  250
+                                            },
+                                            {
+                                                "name":  "Ganar 10 rondas con esta carta",
+                                                "type":  "winsRounds",
+                                                "target":  10,
+                                                "xp":  250
+                                            },
+                                            {
+                                                "name":  "Ganar 15 rondas con cartas de procedencia Desconocida",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Desconocido",
+                                                "target":  15,
+                                                "xp":  300
+                                            },
+                                            {
+                                                "name":  "Ganar 15 rondas con cartas de TaiyoDL",
+                                                "type":  "winsRounds",
+                                                "owner":  "TaiyoDL",
+                                                "target":  15,
+                                                "xp":  250
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_oro",
+                                               "amount":  5
+                                           },
+                                           {
+                                               "type":  "coins",
+                                               "amount":  5000
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  3,
+                           "xpRequired":  2000,
+                           "missions":  [
+                                            {
+                                                "name":  "Jugar 25 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  25,
+                                                "xp":  800
+                                            },
+                                            {
+                                                "name":  "Ganar 15 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  15,
+                                                "xp":  800
+                                            },
+                                            {
+                                                "name":  "Ganar 50 rondas con cartas de procedencia Desconocida",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Desconocido",
+                                                "target":  50,
+                                                "xp":  800
+                                            },
+                                            {
+                                                "name":  "Ganar 50 rondas con cartas de TaiyoDL",
+                                                "type":  "winsRounds",
+                                                "owner":  "TaiyoDL",
+                                                "target":  50,
+                                                "xp":  800
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "coins",
+                                               "amount":  10000
+                                           },
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_83_plus",
+                                               "amount":  3
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  4,
+                           "xpRequired":  5000,
+                           "missions":  [
+                                            {
+                                                "name":  "Jugar 50 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  50,
+                                                "xp":  1500
+                                            },
+                                            {
+                                                "name":  "Ganar 35 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  35,
+                                                "xp":  2000
+                                            },
+                                            {
+                                                "name":  "Gana 150 rondas con cartas de procedencia Desconocida",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Desconocido",
+                                                "target":  150,
+                                                "xp":  2000
+                                            },
+                                            {
+                                                "name":  "Gana 150 rondas con cartas de TaiyoDL",
+                                                "type":  "winsRounds",
+                                                "owner":  "TaiyoDL",
+                                                "target":  150,
+                                                "xp":  2000
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_legendario",
+                                               "amount":  1
+                                           },
+                                           {
+                                               "type":  "coins",
+                                               "amount":  35000
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  5,
+                           "xpRequired":  10000,
+                           "missions":  [
+                                            {
+                                                "name":  "Gana 100 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  100,
+                                                "xp":  4000
+                                            },
+                                            {
+                                                "name":  "Jugar 120 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  120,
+                                                "xp":  3000
+                                            },
+                                            {
+                                                "name":  "Ganar 200 rondas con cartas de procedencia Desconocida de TaiyoDL",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Desconocido",
+                                                "owner":  "TaiyoDL",
+                                                "target":  200,
+                                                "xp":  4000
+                                            },
+                                            {
+                                                "name":  "Ganar 250 rondas con cartas de procedencia Desconocida",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Desconocido",
+                                                "target":  250,
+                                                "xp":  3500
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "title",
+                                               "titleId":  "nigromante_mayor"
+                                           },
+                                           {
+                                               "type":  "coins",
+                                               "amount":  50000
+                                           },
+                                           {
+                                               "type":  "background",
+                                               "backgroundId":  "fondo_shiroku"
+                                           }
+                                       ]
+                       }
+                   ]
+    },
+    {
+        "cardId":  "ryuki_icono",
+        "name":  "Ryuki",
+        "levels":  [
+                       {
+                           "prestige":  1,
+                           "xpRequired":  100,
+                           "missions":  [
+                                            {
+                                                "name":  "Jugar 3 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  3,
+                                                "xp":  100
+                                            },
+                                            {
+                                                "name":  "Ganar 2 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  2,
+                                                "xp":  100
+                                            },
+                                            {
+                                                "name":  "Ganar 5 rondas con cartas de Iwagakure",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Iwagakure",
+                                                "target":  5,
+                                                "xp":  100
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "coins",
+                                               "amount":  2500
+                                           },
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_oro",
+                                               "amount":  1
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  2,
+                           "xpRequired":  500,
+                           "missions":  [
+                                            {
+                                                "name":  "Gana 10 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  10,
+                                                "xp":  250
+                                            },
+                                            {
+                                                "name":  "Ganar 10 rondas con esta carta",
+                                                "type":  "winsRounds",
+                                                "target":  10,
+                                                "xp":  250
+                                            },
+                                            {
+                                                "name":  "Ganar 15 rondas con cartas de Iwagakure",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Iwagakure",
+                                                "target":  15,
+                                                "xp":  300
+                                            },
+                                            {
+                                                "name":  "Ganar 15 rondas con cartas de Wailant",
+                                                "type":  "winsRounds",
+                                                "owner":  "Wailant",
+                                                "target":  15,
+                                                "xp":  250
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_oro",
+                                               "amount":  5
+                                           },
+                                           {
+                                               "type":  "coins",
+                                               "amount":  5000
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  3,
+                           "xpRequired":  2000,
+                           "missions":  [
+                                            {
+                                                "name":  "Jugar 25 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  25,
+                                                "xp":  800
+                                            },
+                                            {
+                                                "name":  "Ganar 15 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  15,
+                                                "xp":  800
+                                            },
+                                            {
+                                                "name":  "Ganar 50 rondas con cartas de Iwagakure",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Iwagakure",
+                                                "target":  50,
+                                                "xp":  800
+                                            },
+                                            {
+                                                "name":  "Ganar 50 rondas con cartas de Wailant",
+                                                "type":  "winsRounds",
+                                                "owner":  "Wailant",
+                                                "target":  50,
+                                                "xp":  800
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "coins",
+                                               "amount":  10000
+                                           },
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_83_plus",
+                                               "amount":  3
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  4,
+                           "xpRequired":  5000,
+                           "missions":  [
+                                            {
+                                                "name":  "Jugar 50 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  50,
+                                                "xp":  1500
+                                            },
+                                            {
+                                                "name":  "Ganar 35 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  35,
+                                                "xp":  2000
+                                            },
+                                            {
+                                                "name":  "Gana 150 rondas con cartas de Iwagakure",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Iwagakure",
+                                                "target":  150,
+                                                "xp":  2000
+                                            },
+                                            {
+                                                "name":  "Gana 150 rondas con cartas de Wailant",
+                                                "type":  "winsRounds",
+                                                "owner":  "Wailant",
+                                                "target":  150,
+                                                "xp":  2000
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_legendario",
+                                               "amount":  1
+                                           },
+                                           {
+                                               "type":  "coins",
+                                               "amount":  35000
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  5,
+                           "xpRequired":  10000,
+                           "missions":  [
+                                            {
+                                                "name":  "Gana 100 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  100,
+                                                "xp":  4000
+                                            },
+                                            {
+                                                "name":  "Jugar 120 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  120,
+                                                "xp":  3000
+                                            },
+                                            {
+                                                "name":  "Ganar 200 rondas con cartas de Iwagakure de Wailant",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Iwagakure",
+                                                "owner":  "Wailant",
+                                                "target":  200,
+                                                "xp":  4000
+                                            },
+                                            {
+                                                "name":  "Ganar 250 rondas con cartas de Iwagakure",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Iwagakure",
+                                                "target":  250,
+                                                "xp":  3500
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "title",
+                                               "titleId":  "gigante_vengativo"
+                                           },
+                                           {
+                                               "type":  "coins",
+                                               "amount":  50000
+                                           },
+                                           {
+                                               "type":  "background",
+                                               "backgroundId":  "fondo_ryuki"
+                                           }
+                                       ]
+                       }
+                   ]
+    },
+    {
+        "cardId":  "ayato_hyuga_icono",
+        "name":  "Ayato Hyuga",
+        "levels":  [
+                       {
+                           "prestige":  1,
+                           "xpRequired":  100,
+                           "missions":  [
+                                            {
+                                                "name":  "Jugar 3 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  3,
+                                                "xp":  100
+                                            },
+                                            {
+                                                "name":  "Ganar 2 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  2,
+                                                "xp":  100
+                                            },
+                                            {
+                                                "name":  "Ganar 5 rondas con cartas de procedencia Amegakure",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Amegakure",
+                                                "target":  5,
+                                                "xp":  100
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "coins",
+                                               "amount":  2500
+                                           },
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_oro",
+                                               "amount":  1
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  2,
+                           "xpRequired":  500,
+                           "missions":  [
+                                            {
+                                                "name":  "Gana 10 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  10,
+                                                "xp":  250
+                                            },
+                                            {
+                                                "name":  "Ganar 10 rondas con esta carta",
+                                                "type":  "winsRounds",
+                                                "target":  10,
+                                                "xp":  250
+                                            },
+                                            {
+                                                "name":  "Ganar 15 rondas con cartas de procedencia Amegakure",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Amegakure",
+                                                "target":  15,
+                                                "xp":  300
+                                            },
+                                            {
+                                                "name":  "Ganar 15 rondas con cartas de Adrianpepo",
+                                                "type":  "winsRounds",
+                                                "owner":  "Adrianpepo",
+                                                "target":  15,
+                                                "xp":  250
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_oro",
+                                               "amount":  5
+                                           },
+                                           {
+                                               "type":  "coins",
+                                               "amount":  5000
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  3,
+                           "xpRequired":  2000,
+                           "missions":  [
+                                            {
+                                                "name":  "Jugar 25 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  25,
+                                                "xp":  800
+                                            },
+                                            {
+                                                "name":  "Ganar 15 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  15,
+                                                "xp":  800
+                                            },
+                                            {
+                                                "name":  "Ganar 50 rondas con cartas de procedencia Amegakure",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Amegakure",
+                                                "target":  50,
+                                                "xp":  800
+                                            },
+                                            {
+                                                "name":  "Ganar 50 rondas con cartas de Adrianpepo",
+                                                "type":  "winsRounds",
+                                                "owner":  "Adrianpepo",
+                                                "target":  50,
+                                                "xp":  800
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "coins",
+                                               "amount":  10000
+                                           },
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_83_plus",
+                                               "amount":  3
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  4,
+                           "xpRequired":  5000,
+                           "missions":  [
+                                            {
+                                                "name":  "Jugar 50 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  50,
+                                                "xp":  1500
+                                            },
+                                            {
+                                                "name":  "Ganar 35 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  35,
+                                                "xp":  2000
+                                            },
+                                            {
+                                                "name":  "Gana 150 rondas con cartas de procedencia Amegakure",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Amegakure",
+                                                "target":  150,
+                                                "xp":  2000
+                                            },
+                                            {
+                                                "name":  "Gana 150 rondas con cartas de Adrianpepo",
+                                                "type":  "winsRounds",
+                                                "owner":  "Adrianpepo",
+                                                "target":  150,
+                                                "xp":  2000
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_especial",
+                                               "amount":  2
+                                           },
+                                           {
+                                               "type":  "coins",
+                                               "amount":  35000
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  5,
+                           "xpRequired":  10000,
+                           "missions":  [
+                                            {
+                                                "name":  "Gana 100 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  100,
+                                                "xp":  4000
+                                            },
+                                            {
+                                                "name":  "Jugar 120 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  120,
+                                                "xp":  3000
+                                            },
+                                            {
+                                                "name":  "Ganar 200 rondas con cartas de procedencia Amegakure de Adrianpepo",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Amegakure",
+                                                "owner":  "Adrianpepo",
+                                                "target":  200,
+                                                "xp":  4000
+                                            },
+                                            {
+                                                "name":  "Ganar 250 rondas con cartas de procedencia Amegakure",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Amegakure",
+                                                "target":  250,
+                                                "xp":  3500
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "title",
+                                               "titleId":  "lluvia_roja"
+                                           },
+                                           {
+                                               "type":  "coins",
+                                               "amount":  50000
+                                           },
+                                           {
+                                               "type":  "background",
+                                               "backgroundId":  "fondo_ayato"
+                                           }
+                                       ]
+                       }
+                   ]
+    },
+    {
+        "cardId":  "kai_senju_icono",
+        "name":  "Kai Senju",
+        "levels":  [
+                       {
+                           "prestige":  1,
+                           "xpRequired":  100,
+                           "missions":  [
+                                            {
+                                                "name":  "Jugar 3 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  3,
+                                                "xp":  100
+                                            },
+                                            {
+                                                "name":  "Ganar 2 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  2,
+                                                "xp":  100
+                                            },
+                                            {
+                                                "name":  "Ganar 5 rondas con cartas de procedencia Sunagakure",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Sunagakure",
+                                                "target":  5,
+                                                "xp":  100
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "coins",
+                                               "amount":  2500
+                                           },
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_oro",
+                                               "amount":  1
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  2,
+                           "xpRequired":  500,
+                           "missions":  [
+                                            {
+                                                "name":  "Gana 10 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  10,
+                                                "xp":  250
+                                            },
+                                            {
+                                                "name":  "Ganar 10 rondas con esta carta",
+                                                "type":  "winsRounds",
+                                                "target":  10,
+                                                "xp":  250
+                                            },
+                                            {
+                                                "name":  "Ganar 15 rondas con cartas de procedencia Sunagakure",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Sunagakure",
+                                                "target":  15,
+                                                "xp":  300
+                                            },
+                                            {
+                                                "name":  "Ganar 15 rondas con cartas de Manuel2767",
+                                                "type":  "winsRounds",
+                                                "owner":  "Manuel2767",
+                                                "target":  15,
+                                                "xp":  250
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_oro",
+                                               "amount":  5
+                                           },
+                                           {
+                                               "type":  "coins",
+                                               "amount":  5000
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  3,
+                           "xpRequired":  2000,
+                           "missions":  [
+                                            {
+                                                "name":  "Jugar 25 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  25,
+                                                "xp":  800
+                                            },
+                                            {
+                                                "name":  "Ganar 15 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  15,
+                                                "xp":  800
+                                            },
+                                            {
+                                                "name":  "Ganar 50 rondas con cartas de procedencia Sunagakure",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Sunagakure",
+                                                "target":  50,
+                                                "xp":  800
+                                            },
+                                            {
+                                                "name":  "Ganar 50 rondas con cartas de Manuel2767",
+                                                "type":  "winsRounds",
+                                                "owner":  "Manuel2767",
+                                                "target":  50,
+                                                "xp":  800
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "coins",
+                                               "amount":  10000
+                                           },
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_83_plus",
+                                               "amount":  3
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  4,
+                           "xpRequired":  5000,
+                           "missions":  [
+                                            {
+                                                "name":  "Jugar 50 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  50,
+                                                "xp":  1500
+                                            },
+                                            {
+                                                "name":  "Ganar 35 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  35,
+                                                "xp":  2000
+                                            },
+                                            {
+                                                "name":  "Gana 150 rondas con cartas de procedencia Sunagakure",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Sunagakure",
+                                                "target":  150,
+                                                "xp":  2000
+                                            },
+                                            {
+                                                "name":  "Gana 150 rondas con cartas de Manuel2767",
+                                                "type":  "winsRounds",
+                                                "owner":  "Manuel2767",
+                                                "target":  150,
+                                                "xp":  2000
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_legendario",
+                                               "amount":  1
+                                           },
+                                           {
+                                               "type":  "coins",
+                                               "amount":  35000
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  5,
+                           "xpRequired":  10000,
+                           "missions":  [
+                                            {
+                                                "name":  "Gana 100 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  100,
+                                                "xp":  4000
+                                            },
+                                            {
+                                                "name":  "Jugar 120 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  120,
+                                                "xp":  3000
+                                            },
+                                            {
+                                                "name":  "Ganar 200 rondas con cartas de procedencia Sunagakure de Manuel2767",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Sunagakure",
+                                                "owner":  "Manuel2767",
+                                                "target":  200,
+                                                "xp":  4000
+                                            },
+                                            {
+                                                "name":  "Ganar 250 rondas con cartas de procedencia Sunagakure",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Sunagakure",
+                                                "target":  250,
+                                                "xp":  3500
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "title",
+                                               "titleId":  "dragon_desierto"
+                                           },
+                                           {
+                                               "type":  "coins",
+                                               "amount":  50000
+                                           },
+                                           {
+                                               "type":  "background",
+                                               "backgroundId":  "fondo_kai"
+                                           }
+                                       ]
+                       }
+                   ]
+    },
+    {
+        "cardId":  "betocs_hatake_icono",
+        "name":  "Betocs Hatake",
+        "levels":  [
+                       {
+                           "prestige":  1,
+                           "xpRequired":  100,
+                           "missions":  [
+                                            {
+                                                "name":  "Jugar 3 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  3,
+                                                "xp":  100
+                                            },
+                                            {
+                                                "name":  "Ganar 2 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  2,
+                                                "xp":  100
+                                            },
+                                            {
+                                                "name":  "Ganar 5 rondas con cartas de procedencia Amegakure",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Amegakure",
+                                                "target":  5,
+                                                "xp":  100
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "coins",
+                                               "amount":  2500
+                                           },
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_oro",
+                                               "amount":  1
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  2,
+                           "xpRequired":  500,
+                           "missions":  [
+                                            {
+                                                "name":  "Gana 10 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  10,
+                                                "xp":  250
+                                            },
+                                            {
+                                                "name":  "Ganar 10 rondas con esta carta",
+                                                "type":  "winsRounds",
+                                                "target":  10,
+                                                "xp":  250
+                                            },
+                                            {
+                                                "name":  "Ganar 15 rondas con cartas de procedencia Amegakure",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Amegakure",
+                                                "target":  15,
+                                                "xp":  300
+                                            },
+                                            {
+                                                "name":  "Ganar 15 rondas con cartas de MrVetoxx",
+                                                "type":  "winsRounds",
+                                                "owner":  "MrVetoxx",
+                                                "target":  15,
+                                                "xp":  250
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_oro",
+                                               "amount":  5
+                                           },
+                                           {
+                                               "type":  "coins",
+                                               "amount":  5000
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  3,
+                           "xpRequired":  2000,
+                           "missions":  [
+                                            {
+                                                "name":  "Jugar 25 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  25,
+                                                "xp":  800
+                                            },
+                                            {
+                                                "name":  "Ganar 15 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  15,
+                                                "xp":  800
+                                            },
+                                            {
+                                                "name":  "Ganar 50 rondas con cartas de procedencia Amegakure",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Amegakure",
+                                                "target":  50,
+                                                "xp":  800
+                                            },
+                                            {
+                                                "name":  "Ganar 50 rondas con cartas de MrVetoxx",
+                                                "type":  "winsRounds",
+                                                "owner":  "MrVetoxx",
+                                                "target":  50,
+                                                "xp":  800
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "coins",
+                                               "amount":  10000
+                                           },
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_83_plus",
+                                               "amount":  3
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  4,
+                           "xpRequired":  5000,
+                           "missions":  [
+                                            {
+                                                "name":  "Jugar 50 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  50,
+                                                "xp":  1500
+                                            },
+                                            {
+                                                "name":  "Ganar 35 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  35,
+                                                "xp":  2000
+                                            },
+                                            {
+                                                "name":  "Gana 150 rondas con cartas de procedencia Amegakure",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Amegakure",
+                                                "target":  150,
+                                                "xp":  2000
+                                            },
+                                            {
+                                                "name":  "Gana 150 rondas con cartas de MrVetoxx",
+                                                "type":  "winsRounds",
+                                                "owner":  "MrVetoxx",
+                                                "target":  150,
+                                                "xp":  2000
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "pack",
+                                               "packId":  "sobre_especial",
+                                               "amount":  2
+                                           },
+                                           {
+                                               "type":  "coins",
+                                               "amount":  35000
+                                           }
+                                       ]
+                       },
+                       {
+                           "prestige":  5,
+                           "xpRequired":  10000,
+                           "missions":  [
+                                            {
+                                                "name":  "Gana 100 batallas con esta carta",
+                                                "type":  "wins",
+                                                "target":  100,
+                                                "xp":  4000
+                                            },
+                                            {
+                                                "name":  "Jugar 120 batallas con esta carta",
+                                                "type":  "played",
+                                                "target":  120,
+                                                "xp":  3000
+                                            },
+                                            {
+                                                "name":  "Ganar 200 rondas con cartas de procedencia Amegakure de MrVetoxx",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Amegakure",
+                                                "owner":  "MrVetoxx",
+                                                "target":  200,
+                                                "xp":  4000
+                                            },
+                                            {
+                                                "name":  "Ganar 250 rondas con cartas de procedencia Amegakure",
+                                                "type":  "winsRounds",
+                                                "procedencia":  "Amegakure",
+                                                "target":  250,
+                                                "xp":  3500
+                                            }
+                                        ],
+                           "rewards":  [
+                                           {
+                                               "type":  "title",
+                                               "titleId":  "lluvia_azul"
+                                           },
+                                           {
+                                               "type":  "coins",
+                                               "amount":  50000
+                                           },
+                                           {
+                                               "type":  "background",
+                                               "backgroundId":  "fondo_betocs"
+                                           }
+                                       ]
+                       }
+                   ]
+    }
 ]
