@@ -52,6 +52,23 @@
         "amount": 50
       }
     },
+     {
+      "id": "item_plush_coin",
+      "name": "Plush Coin",
+      "description": "Objeto usable para obtener Plushies.",
+      "stock": 5,
+      "category": "item",
+      "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/plushcoin.png",
+      "reward": {
+        "type": "item",
+        "itemId": "plush_coin",
+        "amount": 1
+      },
+      "cost": {
+        "currencyId": "ggd1_coin",
+        "amount": 25
+      }
+    },
     {
       "id": "shop2_sobre_inmo",
       "name": "Sobre Inmo +90",
