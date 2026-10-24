@@ -131,5 +131,12 @@
     "description": "Canjea estas monedas en la tienda del evento.",
     "calidad": "Raro",
     "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/ggd1.png"
+  },
+  {
+    "id": "tumba_del_heroe",
+    "name": "Tumba del Héroe",
+    "description": "El momento en el que un héroe muere... y un guerrero nace",
+    "calidad": "Mítico",
+    "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/tumba_del_heroe.png"
   }
 ]
