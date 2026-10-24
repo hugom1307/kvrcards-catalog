@@ -311,6 +311,286 @@
         "name": "Kai",
         "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/kuraiplushie.png"
       }
+    },
+    {
+    "id": "plushie_suta",
+    "name": "Plushie: Suta",
+    "description": "La diosa de la luna",
+    "plushieId": "suta",
+    "cardIds": [
+      "ayato_hyuga_icono"
+    ],
+    "targetCardName": "Ayato Hyuga",
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/ayato.png",
+    "requirements": {
+      "prestigeLevel": 5,
+      "duplicateCopies": 2,
+      "items": [
+        {
+          "id": "plush_coin",
+          "name": "Plush Coin",
+          "amount": 1
+        }
+      ]
+    },
+    "reward": {
+      "type": "plushie",
+      "plushieId": "suta",
+      "name": "Suta",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/ayato.png"
     }
+  },
+  {
+    "id": "plushie_ayato_uzumaki",
+    "name": "Plushie: Ayato Uzumaki",
+    "description": "Al igual que la luna con la Tierra, siempre estuvo con él como un satélite",
+    "plushieId": "ayato_uzumaki",
+    "cardIds": [
+      "betocs_hatake_icono"
+    ],
+    "targetCardName": "Betocs Hatake",
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/betocs.png",
+    "requirements": {
+      "prestigeLevel": 5,
+      "duplicateCopies": 2,
+      "items": [
+        {
+          "id": "plush_coin",
+          "name": "Plush Coin",
+          "amount": 1
+        }
+      ]
+    },
+    "reward": {
+      "type": "plushie",
+      "plushieId": "ayato_uzumaki",
+      "name": "Ayato Uzumaki",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/betocs.png"
+    }
+  },
+  {
+    "id": "plushie_suru_sagi",
+    "name": "Plushie: Suru Sagi",
+    "description": "<<Me da igual que no tengamos la misma sangre, tu eres mi hermanito>>",
+    "plushieId": "suru_sagi",
+    "cardIds": [
+      "dankha_sagi"
+    ],
+    "targetCardName": "Dankha Sagi",
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/dankha.png",
+    "requirements": {
+      "prestigeLevel": 5,
+      "duplicateCopies": 2,
+      "items": [
+        {
+          "id": "plush_coin",
+          "name": "Plush Coin",
+          "amount": 1
+        }
+      ]
+    },
+    "reward": {
+      "type": "plushie",
+      "plushieId": "suru_sagi",
+      "name": "Suru Sagi",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/dankha.png"
+    }
+  },
+  {
+    "id": "plushie_sora_inazuma",
+    "name": "Plushie: Sora Inazuma",
+    "description": "Aquella que lo acompañó aún cuando ni él mismo se reconocia",
+    "plushieId": "sora_inazuma",
+    "cardIds": [
+      "iyari_ryuga_icono"
+    ],
+    "targetCardName": "Iyari Ryuga",
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/iyari.png",
+    "requirements": {
+      "prestigeLevel": 5,
+      "duplicateCopies": 2,
+      "items": [
+        {
+          "id": "plush_coin",
+          "name": "Plush Coin",
+          "amount": 1
+        }
+      ]
+    },
+    "reward": {
+      "type": "plushie",
+      "plushieId": "sora_inazuma",
+      "name": "Sora Inazuma",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/iyari.png"
+    }
+  },
+  {
+    "id": "plushie_doman_kurimunzoso",
+    "name": "Plushie: Doman Kurimunzoso",
+    "description": "Una fuerte lealtad rota por errores y resentimientos",
+    "plushieId": "doman_kurimunzoso",
+    "cardIds": [
+      "kai_senju_icono"
+    ],
+    "targetCardName": "Kai Senju",
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/kai.png",
+    "requirements": {
+      "prestigeLevel": 5,
+      "duplicateCopies": 2,
+      "items": [
+        {
+          "id": "plush_coin",
+          "name": "Plush Coin",
+          "amount": 1
+        }
+      ]
+    },
+    "reward": {
+      "type": "plushie",
+      "plushieId": "doman_kurimunzoso",
+      "name": "Doman Kurimunzoso",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/kai.png"
+    }
+  },
+  {
+    "id": "plushie_taiyo_uchiha",
+    "name": "Plushie: Taiyo Uchiha",
+    "description": "Aunque no lo mostrara, fue la parte más importante de su vida",
+    "plushieId": "taiyo_uchiha",
+    "cardIds": [
+      "kiri_uzumaki"
+    ],
+    "targetCardName": "Kiri Uzumaki",
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/kiri.png",
+    "requirements": {
+      "prestigeLevel": 5,
+      "duplicateCopies": 2,
+      "items": [
+        {
+          "id": "plush_coin",
+          "name": "Plush Coin",
+          "amount": 1
+        }
+      ]
+    },
+    "reward": {
+      "type": "plushie",
+      "plushieId": "taiyo_uchiha",
+      "name": "Taiyo Uchiha",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/kiri.png"
+    }
+  },
+  {
+    "id": "plushie_aya",
+    "name": "Plushie: Aya",
+    "description": "Te forjaré como una hija",
+    "plushieId": "aya",
+    "cardIds": [
+      "ryuki_icono"
+    ],
+    "targetCardName": "Ryuki",
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/ryuki.png",
+    "requirements": {
+      "prestigeLevel": 5,
+      "duplicateCopies": 2,
+      "items": [
+        {
+          "id": "plush_coin",
+          "name": "Plush Coin",
+          "amount": 1
+        }
+      ]
+    },
+    "reward": {
+      "type": "plushie",
+      "plushieId": "aya",
+      "name": "Aya",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/ryuki.png"
+    }
+  },
+  {
+    "id": "plushie_mei_uzumaki",
+    "name": "Plushie: Mei Uzumaki",
+    "description": "De cierta manera la vio crecer, pero también la vio perecer",
+    "plushieId": "mei_uzumaki",
+    "cardIds": [
+      "shind_inazuma_icono"
+    ],
+    "targetCardName": "Shind Inazuma",
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/shind.png",
+    "requirements": {
+      "prestigeLevel": 5,
+      "duplicateCopies": 2,
+      "items": [
+        {
+          "id": "plush_coin",
+          "name": "Plush Coin",
+          "amount": 1
+        }
+      ]
+    },
+    "reward": {
+      "type": "plushie",
+      "plushieId": "mei_uzumaki",
+      "name": "Mei Uzumaki",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/shind.png"
+    }
+  },
+  {
+    "id": "plushie_kosuke_y_kenta",
+    "name": "Plushie: Kosuke y Kenta",
+    "description": "No había mayor felicidad y orgullo que el saber que sus hermanos tenían el potencial para superarlo, lástima que nunca llegó ese día, pero nunca permitió que los separaran...",
+    "plushieId": "kosuke_y_kenta",
+    "cardIds": [
+      "shiroku_kowai"
+    ],
+    "targetCardName": "Shiroku Kowai",
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/shiroku.png",
+    "requirements": {
+      "prestigeLevel": 5,
+      "duplicateCopies": 2,
+      "items": [
+        {
+          "id": "plush_coin",
+          "name": "Plush Coin",
+          "amount": 1
+        }
+      ]
+    },
+    "reward": {
+      "type": "plushie",
+      "plushieId": "kosuke_y_kenta",
+      "name": "Kosuke y Kenta",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/shiroku.png"
+    }
+  },
+  {
+    "id": "plushie_tamiko_ozoku",
+    "name": "Plushie: Tamiko Ozoku",
+    "description": "Aquella que le mostró la bondad y le dio la oportunidad de cambiar y ser lo que es hoy, un gran héroe",
+    "plushieId": "tamiko_ozoku",
+    "cardIds": [
+      "yaban_hito"
+    ],
+    "targetCardName": "Yaban Hito",
+    "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/yabanYzankoku.png",
+    "requirements": {
+      "prestigeLevel": 5,
+      "duplicateCopies": 2,
+      "items": [
+        {
+          "id": "plush_coin",
+          "name": "Plush Coin",
+          "amount": 1
+        }
+      ]
+    },
+    "reward": {
+      "type": "plushie",
+      "plushieId": "tamiko_ozoku",
+      "name": "Tamiko Ozoku",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/yabanYzankoku.png"
+    }
+  }
   ]
 }
