@@ -96,5 +96,40 @@
   "description": "Gracias a esto, el poder de Ayato y Betocs se multiplicará",
   "calidad": "Mítico",
   "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/kuramachibi.png"
+},
+{
+  "id": "guadanya",
+  "name": "Guadaña del Nigromante",
+  "description": "La guadaña del legendario nigromante y general de Rura, Shiroku Kowai",
+  "calidad": "Mítico",
+  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/guadaña.png"
+},
+{
+  "id": "alas_del_angel",
+  "name": "Las alas del Ángel",
+  "description": "Las alas de la gran danza del Ángel",
+  "calidad": "Mítico",
+  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/alasdankha.png"
+},
+{
+  "id": "pendiente_betocs",
+  "name": "Pendiente del Hielo",
+  "description": "Un mítico pendiente de cierto personaje muy serio",
+  "calidad": "Mítico",
+  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/pendientehielo.png"
+},
+{
+  "id": "palo_junketsu",
+  "name": "Suficiente",
+  "description": "Tranquilo Ransu ya me voy...",
+  "calidad": "Mítico",
+  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/palojunketsu.png"
+},
+  {
+  "id": "ggd1_coin",
+  "name": "Moneda de la Gran Guerra de las Danzas",
+  "description": "Canjea estas monedas en la tienda del evento.",
+  "calidad": "Raro",
+  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/ggd1.png"
 }
 ]
