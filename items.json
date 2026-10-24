@@ -89,5 +89,12 @@
   "description": "Un arma muy antigua, perteneciente al clan Raiden.",
   "calidad": "Mítico",
   "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/segmentus.png"
+},
+{
+  "id": "kurama_chibi",
+  "name": "Kurama Chibi",
+  "description": "Gracias a esto, el poder de Ayato y Betocs se multiplicará",
+  "calidad": "Mítico",
+  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/kuramachibi.png"
 }
 ]
