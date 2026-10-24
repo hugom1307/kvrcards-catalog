@@ -1,6 +1,21 @@
 {
   "updates": [
     {
+      "version": "2.9.0",
+      "title": "Parche 2.9.0: Colección Plushies Completa, Calidad Knight, Modo 7v1 y Debug de Traits",
+      "description": "Actualización mayor con colección completa de Plushies (con filtro B/N para no obtenidos), calidad Knight en Traits con cinemáticas y rasgo Inmo, probabilidades oficiales de rasgos, balance de Monarch y Mimo, nuevo modo de combate 7v1 para el Segundo Evento Especial y control de calidad forzada en modo Debug.",
+      "date": "2026-10-24",
+      "improvements": [
+        "Colección de Plushies: integración completa del botón 'Ver colección completa' que ahora muestra los 14 peluches del catálogo, con filtro en blanco y negro (grayscale 100%) para los no obtenidos y contador exacto 0/X.",
+        "Calidad Knight en Traits: incorporación de la nueva calidad Knight con gradiente azul y plateado, efecto de aura luminosa en la tira de la ruleta, sonido de tensión y cinemática épica.",
+        "Rasgo Knight 'Inmo': muestra estadísticas en 0 en la interfaz previa, pero en combate reproduce cinemática exclusiva y supera siempre en +1 la estadística rival, asegurando la victoria del punto.",
+        "Probabilidades Oficiales de Traits: Inmo fijado en 0.001%, rasgos Míticos en 0.3% total (0.1% cada uno), Legendarios en 1.0% total (~0.333% c/u) y restantes distribuidos proporcionalmente sumando 100% con formato de 3 decimales en el índice.",
+        "Modo Debug de Traits: nueva herramienta en el panel de Debug para forzar tiradas de rasgos exclusivamente a las calidades seleccionadas (Knight, Mítico, etc.) para probar animaciones y cinemáticas al instante.",
+        "Segundo Evento Especial y Modo 7v1: combate 7 cartas del jugador contra 1 carta fija del rival que va agotando sus estadísticas consecutivamente, con mundos/dificultades y segunda tienda especial.",
+        "Balance de Rasgos: Monarch nerfeado (+10% y vulnerable a debuffs normales excepto poderes) y corrección de copia de buffs de Kizuna en el rasgo Mimo."
+      ]
+    },
+    {
       "version": "2.0.3",
       "title": "Parche 2.0.3: Aislamiento de Eventos, Ruleta Gambling y Probabilidades",
       "description": "Corrección de errores: limitación estricta de Gambling Mode exclusivamente al Torneo de Haseo, separación total entre mini eventos y evento especial, blindaje de probabilidades de drop (Sombrero Sospechoso al 2%) y protección de catálogo remoto.",

@@ -1692,7 +1692,9 @@
     "description": "Completa todas las misiones diarias",
     "requirement": {
       "type": "complete_all_daily_missions",
-      "description": "Completar todas las misiones diarias"
+      "description": "Completar todas las misiones diarias",
+      "amount": 6,
+      "target": 6
     },
     "rewards": [
       {
@@ -1713,7 +1715,9 @@
     "description": "Completa todas las misiones semanales",
     "requirement": {
       "type": "complete_all_weekly_missions",
-      "description": "Completar todas las misiones semanales"
+      "description": "Completar todas las misiones semanales",
+      "amount": 6,
+      "target": 6
     },
     "rewards": [
       {

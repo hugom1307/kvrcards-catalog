@@ -8,17 +8,17 @@
                     "baseUrl":  "https://hugom1307.github.io/kvrcards-catalog"
                 },
     "maintenance":  {
-                        "enabled":  true,
+                        "enabled":  false,
                         "title":  "Mantenimiento en Curso",
                         "message":  "Estamos actualizando el juego para mejorar tu experiencia.\n\nVolveremos pronto. Gracias por tu paciencia!",
-                        "estimatedTime":  "Varias horas"
+                        "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "2.5.8",
-                    "minimumRequired":  "2.5.8",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.8.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.5.8.zip",
-                    "changelog":  "Correccion critica de reinicio de prestigios personalizados y reclamos de cartas",
+                    "current":  "2.9.0",
+                    "minimumRequired":  "2.9.0",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.9.0.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.9.0.zip",
+                    "changelog":  "Parche 2.9.0: Coleccion Plushies Completa, Calidad Knight, Modo 7v1 y Debug de Traits",
                     "forceUpdate":  true
                 }
 }
