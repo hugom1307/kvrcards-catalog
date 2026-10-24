@@ -18,7 +18,7 @@
                     "minimumRequired":  "2.9.2",
                     "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.9.2.zip",
                     "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.9.2.zip",
-                    "changelog":  "Evoluciones pasadas, nuevos objetos y optimizaciones",
+                    "changelog":  "Evoluciones exclusivamente remotas sin archivos locales",
                     "forceUpdate":  true
                 }
 }
