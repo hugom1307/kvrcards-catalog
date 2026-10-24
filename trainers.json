@@ -697,5 +697,199 @@
       "taiyo_uchiha_iconosuperprime",
       "daruma_kenjiku"
     ]
+  },
+  {
+    "id": "junketsu_normal",
+    "nombre": "Junketsu",
+      "titulo": "La Sangre Traicionera",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/junketsu.png",
+     "mode": "7v1",
+    "dificultades": ["ggd1_1"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/danzasnormal.png",
+    "intervaloMedias": [92, 99],
+    "cartasObligatorias": [
+      "junketsu_codw@especialista"
+    ]
+  },
+  {
+    "id": "dankha_normal",
+    "nombre": "Dankha Sagi",
+      "titulo": "El Ángel",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/dankha.png",
+     "mode": "7v1",
+    "dificultades": ["ggd1_2"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/danzasnormal.png",
+    "intervaloMedias": [92, 99],
+    "buff": {
+    "nombre": "La Traición",
+    "stats": {
+      "ninjutsu": 10,
+      "taijutsu":3,
+      "velocidad": 10,
+      "resistencia":5
+    }
+       },
+    "cartasObligatorias": [
+      "dankha_sagi_codwmoments"
+    ]
+  },
+   {
+    "id": "betocs_normal",
+    "nombre": "Betocs Hatake",
+      "titulo": "Invierno eterno",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/betocs.jpg",
+      "mode": "7v1",
+    "dificultades": ["ggd1_3"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/danzasnormal.png",
+    "intervaloMedias": [92, 99],
+    "buff": {
+    "nombre": "Mi última batalla",
+    "stats": {
+      "ninjutsu": 5,
+      "taijutsu":5,
+      "velocidad": 3,
+      "resistencia":3
+    }
+       },
+    "cartasObligatorias": [
+      "betocs_hatake_codw"
+    ]
+  },
+  {
+    "id": "shiroku_normal",
+    "nombre": "Shiroku Kowai",
+      "titulo": "El Nigromante",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/shiroku.png",
+      "mode": "7v1",
+    "dificultades": ["ggd1_4"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/danzasnormal.png",
+    "intervaloMedias": [92, 99],
+    "buff": {
+    "nombre": "Mi última batalla",
+    "stats": {
+      "ninjutsu": 5,
+      "taijutsu":5
+    }
+       },
+    "cartasObligatorias": [
+      "shiroku_kowai_codw"
+    ]
+  },
+   {
+    "id": "zankoku_normal",
+    "nombre": "Zankoku",
+      "titulo": "El guerrero",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/zankoku.png",
+      "mode": "7v1",
+    "dificultades": ["ggd1_5"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/danzasnormal.png",
+    "intervaloMedias": [92, 99],
+    "buff": {
+    "nombre": "Yaban ha muerto...",
+    "stats": {
+      "fisico": 10,
+      "taijutsu":10
+    }
+       },
+    "cartasObligatorias": [
+      "zankoku_codwmoments"
+    ]
+  },
+  {
+    "id": "junketsu_dificil",
+    "nombre": "Junketsu",
+      "titulo": "La Sangre Traicionera",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/junketsu.png",
+     "mode": "7v1",
+    "dificultades": ["dificil_ggd1_1"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/danzasdificil.png",
+    "intervaloMedias": [92, 99],
+    "cartasObligatorias": [
+      "junketsu_evo@monarch"
+    ]
+  },
+  {
+    "id": "dankha_dificil",
+    "nombre": "Dankha Sagi",
+      "titulo": "El Ángel",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/dankha.png",
+     "mode": "7v1",
+    "dificultades": ["dificil_ggd1_2"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/danzasdificil.png",
+    "intervaloMedias": [92, 99],
+    "buff": {
+    "nombre": "La Traición",
+    "stats": {
+      "ninjutsu": 10,
+      "taijutsu":3,
+      "velocidad": 10,
+      "resistencia":5
+    }
+       },
+    "cartasObligatorias": [
+      "dankha_sagi_codwmoments@especialista"
+    ]
+  },
+   {
+    "id": "betocs_dificil",
+    "nombre": "Betocs Hatake",
+      "titulo": "Invierno eterno",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/betocs.jpg",
+      "mode": "7v1",
+   "dificultades": ["dificil_ggd1_3"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/danzasdificil.png",
+    "intervaloMedias": [92, 99],
+    "buff": {
+    "nombre": "Mi última batalla",
+    "stats": {
+      "ninjutsu": 15,
+      "taijutsu":10,
+      "velocidad": 8,
+      "resistencia":7
+    }
+       },
+    "cartasObligatorias": [
+      "betocs_hatake_codw"
+    ]
+  },
+  {
+    "id": "shiroku_dificil",
+    "nombre": "Shiroku Kowai",
+      "titulo": "El Nigromante",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/entrenadores/shiroku.png",
+      "mode": "7v1",
+   "dificultades": ["dificil_ggd1_4"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/danzasdificil.png",
+    "intervaloMedias": [92, 99],
+    "buff": {
+    "nombre": "Mi última batalla",
+    "stats": {
+      "ninjutsu": 10,
+      "taijutsu":10
+    }
+       },
+    "cartasObligatorias": [
+      "shiroku_kowai_codw@especialista"
+    ]
+  },
+   {
+    "id": "zankoku_dificil",
+    "nombre": "Zankoku",
+      "titulo": "El guerrero",
+    "imagen": "https://hugom1307.github.io/kvrcards-catalog/image/botsoffline/zankoku.png",
+      "mode": "7v1",
+    "dificultades": ["dificil_ggd1_5"],
+    "fondo": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/danzasdificil.png",
+    "intervaloMedias": [92, 99],
+    "buff": {
+    "nombre": "Yaban ha muerto...",
+    "stats": {
+      "fisico": 10,
+      "taijutsu":10
+    }
+       },
+    "cartasObligatorias": [
+      "zankoku_codwmoments@especialista"
+    ]
   }
 ]
