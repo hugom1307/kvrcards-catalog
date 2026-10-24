@@ -1,135 +1,135 @@
 [
-{
-  "id": "sombrero_sospechoso",
-  "name": "Sombrero Sospechoso",
-  "description": "Este sombrero me suena de algo... ¿Por qué lo guarda Hangaku?",
-  "calidad": "Mítico",
-  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/sombrero_sospechoso.png"
-},
-{
-  "id": "deseo",
-  "name": "Deseo de Haseo",
-  "description": "Canjea tu deseo en la tienda del evento del Torneo de Haseo",
-  "calidad": "Raro",
-  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/deseo.png"
-},
-{
-  "id": "alma_del_sol",
-  "name": "Alma del Sol",
-  "description": "Este alma... me recuerda al de cierta danza, quizás sirva para algún personaje.",
-  "calidad": "Mítico",
-  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Alma_del_Sol.png"
-},
-{
-  "id": "capa_baryon_yang",
-  "name": "Capa Baryon Yang",
-  "description": "El gran modo baryon de Minato, con el cual le pegó una paliza a Shin.",
-  "calidad": "Mítico",
-  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Capa_Barion_Yang.png"
-},
-{
-  "id": "capa_baryon_ying",
-  "name": "Capa Baryon Ying",
-  "description": "El gran modo baryon de Shin, con el cual no ganó, pero dejó buenos momentos.",
-  "calidad": "Mítico",
-  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Capa_Barion_Ying.png"
-},
-{
-  "id": "octava_puerta",
-  "name": "Octava Puerta",
-  "description": "Finalmente obtuviste la octava puerta, solo encájala en el personaje indicado y disfruta de ella.",
-  "calidad": "Mítico",
-  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Octava_Puerta.png"
-},
-{
-  "id": "pergamino_elemental_agua",
-  "name": "Pergamino Elemental Agua",
-  "description": "Entrégalo a Daren Hyuga para desbloquear su poder interno.",
-  "calidad": "Mítico",
-  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Pergamino_elemental_agua.png"
-},
-{
-  "id": "pergamino_elemental_fuego",
-  "name": "Pergamino Elemental Fuego",
-  "description": "Entrégalo a Zagren Senju para desbloquear su poder interno.",
-  "calidad": "Mítico",
-  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Pergamino_elemental_fuego.png"
-},
-{
-  "id": "pergamino_elemental_rayo",
-  "name": "Pergamino Elemental Rayo",
-  "description": "Entrégalo a Benkei Uchiha para desbloquear su poder interno.",
-  "calidad": "Mítico",
-  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Pergamino_elemental_rayo.png"
-},
-{
-  "id": "bankakyo_byakugan",
-  "name": "Bankakyo Byakugan",
-  "description": "Cuando juntes dos de estos ojos, podrás desbloquear al verdadero heredero otsutsuki.",
-  "calidad": "Mítico",
-  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/bankaikio_byakugan.png"
-},
-{
-  "id": "puertas_internas",
-  "name": "Puertas Internas",
-  "description": "Has conseguido activar las puertas internas. Si consigues 8, podrás canjear algo especial.",
-  "calidad": "Mítico",
-  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/puertasinternas.png"
-},
-{
-  "id": "plush_coin",
-  "name": "Plush Coin",
-  "description": "Moneda especial canjeable por plushies.",
-  "calidad": "Legendario",
-  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/plushcoin.png"
-},
-{
-  "id": "segmentus",
-  "name": "Segmentus",
-  "description": "Un arma muy antigua, perteneciente al clan Raiden.",
-  "calidad": "Mítico",
-  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/segmentus.png"
-},
-{
-  "id": "kurama_chibi",
-  "name": "Kurama Chibi",
-  "description": "Gracias a esto, el poder de Ayato y Betocs se multiplicará",
-  "calidad": "Mítico",
-  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/kuramachibi.png"
-},
-{
-  "id": "guadanya",
-  "name": "Guadaña del Nigromante",
-  "description": "La guadaña del legendario nigromante y general de Rura, Shiroku Kowai",
-  "calidad": "Mítico",
-  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/guadaña.png"
-},
-{
-  "id": "alas_del_angel",
-  "name": "Las alas del Ángel",
-  "description": "Las alas de la gran danza del Ángel",
-  "calidad": "Mítico",
-  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/alasdankha.png"
-},
-{
-  "id": "pendiente_betocs",
-  "name": "Pendiente del Hielo",
-  "description": "Un mítico pendiente de cierto personaje muy serio",
-  "calidad": "Mítico",
-  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/pendientehielo.png"
-},
-{
-  "id": "palo_junketsu",
-  "name": "Suficiente",
-  "description": "Tranquilo Ransu ya me voy...",
-  "calidad": "Mítico",
-  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/palojunketsu.png"
-},
   {
-  "id": "ggd1_coin",
-  "name": "Moneda de la Gran Guerra de las Danzas",
-  "description": "Canjea estas monedas en la tienda del evento.",
-  "calidad": "Raro",
-  "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/ggd1.png"
-}
+    "id": "sombrero_sospechoso",
+    "name": "Sombrero Sospechoso",
+    "description": "Este sombrero me suena de algo... ¿Por qué lo guarda Hangaku?",
+    "calidad": "Mítico",
+    "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/sombrero_sospechoso.png"
+  },
+  {
+    "id": "deseo",
+    "name": "Deseo de Haseo",
+    "description": "Canjea tu deseo en la tienda del evento del Torneo de Haseo",
+    "calidad": "Raro",
+    "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/deseo.png"
+  },
+  {
+    "id": "alma_del_sol",
+    "name": "Alma del Sol",
+    "description": "Este alma... me recuerda al de cierta danza, quizás sirva para algún personaje.",
+    "calidad": "Mítico",
+    "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Alma_del_Sol.png"
+  },
+  {
+    "id": "capa_baryon_yang",
+    "name": "Capa Baryon Yang",
+    "description": "El gran modo baryon de Minato, con el cual le pegó una paliza a Shin.",
+    "calidad": "Mítico",
+    "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Capa_Barion_Yang.png"
+  },
+  {
+    "id": "capa_baryon_ying",
+    "name": "Capa Baryon Ying",
+    "description": "El gran modo baryon de Shin, con el cual no ganó, pero dejó buenos momentos.",
+    "calidad": "Mítico",
+    "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Capa_Barion_Ying.png"
+  },
+  {
+    "id": "octava_puerta",
+    "name": "Octava Puerta",
+    "description": "Finalmente obtuviste la octava puerta, solo encájala en el personaje indicado y disfruta de ella.",
+    "calidad": "Mítico",
+    "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Octava_Puerta.png"
+  },
+  {
+    "id": "pergamino_elemental_agua",
+    "name": "Pergamino Elemental Agua",
+    "description": "Entrégalo a Daren Hyuga para desbloquear su poder interno.",
+    "calidad": "Mítico",
+    "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Pergamino_elemental_agua.png"
+  },
+  {
+    "id": "pergamino_elemental_fuego",
+    "name": "Pergamino Elemental Fuego",
+    "description": "Entrégalo a Zagren Senju para desbloquear su poder interno.",
+    "calidad": "Mítico",
+    "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Pergamino_elemental_fuego.png"
+  },
+  {
+    "id": "pergamino_elemental_rayo",
+    "name": "Pergamino Elemental Rayo",
+    "description": "Entrégalo a Benkei Uchiha para desbloquear su poder interno.",
+    "calidad": "Mítico",
+    "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/Pergamino_elemental_rayo.png"
+  },
+  {
+    "id": "bankakyo_byakugan",
+    "name": "Bankakyo Byakugan",
+    "description": "Cuando juntes dos de estos ojos, podrás desbloquear al verdadero heredero otsutsuki.",
+    "calidad": "Mítico",
+    "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/bankaikio_byakugan.png"
+  },
+  {
+    "id": "puertas_internas",
+    "name": "Puertas Internas",
+    "description": "Has conseguido activar las puertas internas. Si consigues 8, podrás canjear algo especial.",
+    "calidad": "Mítico",
+    "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/puertasinternas.png"
+  },
+  {
+    "id": "plush_coin",
+    "name": "Plush Coin",
+    "description": "Moneda especial canjeable por plushies.",
+    "calidad": "Legendario",
+    "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/plushcoin.png"
+  },
+  {
+    "id": "segmentus",
+    "name": "Segmentus",
+    "description": "Un arma muy antigua, perteneciente al clan Raiden.",
+    "calidad": "Mítico",
+    "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/segmentus.png"
+  },
+  {
+    "id": "kurama_chibi",
+    "name": "Kurama Chibi",
+    "description": "Gracias a esto, el poder de Ayato y Betocs se multiplicará",
+    "calidad": "Mítico",
+    "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/kuramachibi.png"
+  },
+  {
+    "id": "guadanya",
+    "name": "Guadaña del Nigromante",
+    "description": "La guadaña del legendario nigromante y general de Rura, Shiroku Kowai",
+    "calidad": "Mítico",
+    "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/guadaña.png"
+  },
+  {
+    "id": "alas_del_angel",
+    "name": "Las alas del Ángel",
+    "description": "Las alas de la gran danza del Ángel",
+    "calidad": "Mítico",
+    "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/alasdankha.png"
+  },
+  {
+    "id": "pendiente_betocs",
+    "name": "Pendiente del Hielo",
+    "description": "Un mítico pendiente de cierto personaje muy serio",
+    "calidad": "Mítico",
+    "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/pendientehielo.png"
+  },
+  {
+    "id": "palo_junketsu",
+    "name": "Suficiente",
+    "description": "Tranquilo Ransu ya me voy...",
+    "calidad": "Mítico",
+    "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/palojunketsu.png"
+  },
+  {
+    "id": "ggd1_coin",
+    "name": "Moneda de la Gran Guerra de las Danzas",
+    "description": "Canjea estas monedas en la tienda del evento.",
+    "calidad": "Raro",
+    "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/items/ggd1.png"
+  }
 ]

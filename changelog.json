@@ -1,6 +1,18 @@
 {
   "updates": [
     {
+      "version": "2.9.2",
+      "title": "Parche 2.9.2: Nuevas Evoluciones, Categoría Evoluciones Pasadas y Nuevos Objetos",
+      "description": "Nueva sección de Evoluciones Pasadas con su botón gráfico oficial, 6 nuevas evoluciones (Ayato & Betocs, Junketsu, Betocs Hatake Moments, Shiroku Kowai Moments, Dankha Sagi Moments y Kyō) con misiones específicas y soporte para recompensas de items en la temporada del modo Infinito.",
+      "date": "2026-10-24",
+      "improvements": [
+        "Nueva categoría 'Evoluciones Pasadas' ubicada entre las evoluciones de eventos y evo-plushies, con su respectivo botón e interfaz integrada.",
+        "6 nuevas evoluciones agregadas: Ayato & Betocs (Exclusive 2), Junketsu (Evo), Betocs Hatake (Moments), Shiroku Kowai (Moments), Dankha Sagi (Moments) y Kyō (Evo) con requisitos de batalla, victorias con personajes y canje de objetos.",
+        "Soporte completo para objetos en las recompensas del modo Infinito: integración de animaciones al reclamar y visualización precisa de imágenes del catálogo de items.",
+        "Sincronización de nuevos objetos oficiales en el catálogo remoto: Kurama Chibi, Guadaña del Nigromante, Las alas del Ángel, Pendiente del Hielo, Suficiente y Moneda de la Gran Guerra de las Danzas."
+      ]
+    },
+    {
       "version": "2.9.1",
       "title": "Parche 2.9.1: Hotfix Cinemática de Combate del Rasgo Inmo",
       "description": "Corrección visual en combate: visualización prioritaria en primer plano (z-index corregido por encima del escenario de batalla) para la cinemática cósmica del rasgo Knight 'Inmo' con logo, auras radiantes y sonido de detonación.",

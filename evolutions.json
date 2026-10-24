@@ -107,294 +107,292 @@
         }
       ]
     },
-   
-  {
-    "id": "evo_canje_especial1_evo2",
-    "name": "Canje Especial (Evo 2) de tu propio OC: Ronan Hatake",
-    "type": "featured",
-    "visibleOnly": [
-      "HugoMan"
-    ],
-    "cardFrom": "ronan_hatake_evo1",
-    "cardTo": "ronan_hatake_evo2",
-    "repeatable": false,
-    "missions": [
-      {
-        "id": "canje1_evo2_m1_jugar_batallas",
-        "description": "Juega 50 batallas en general",
-        "type": "battles_played",
-        "target": 50
-      },
-      {
-        "id": "canje1_evo2_m2_ganar_con_carta",
-        "description": "Gana 20 partidas con Ronan Hatake (Evo 1) en tu equipo",
-        "type": "win_games_with_card",
-        "cardId": "ronan_hatake_evo1",
-        "target": 20
-      }
-    ]
-  },
-  {
-    "id": "evo_canje_especial2_evo2",
-    "name": "Canje Especial (Evo 2) de tu propio OC: Kurai Tenro",
-    "type": "featured",
-    "visibleOnly": [
-      "ManuelHyuga"
-    ],
-    "cardFrom": "kurai_tenro_evo1",
-    "cardTo": "kurai_tenro_evo2",
-    "repeatable": false,
-    "missions": [
-      {
-        "id": "canje2_evo2_m1_jugar_batallas",
-        "description": "Juega 50 batallas en general",
-        "type": "battles_played",
-        "target": 50
-      },
-      {
-        "id": "canje2_evo2_m2_ganar_con_carta",
-        "description": "Gana 20 partidas con Kurai Tenro (Evo 1) en tu equipo",
-        "type": "win_games_with_card",
-        "cardId": "kurai_tenro_evo1",
-        "target": 20
-      }
-    ]
-  },
-  {
-    "id": "evo_canje_especial3_evo2",
-    "name": "Canje Especial (Evo 2) de tu propio OC: Sukui Uzumaki",
-    "type": "featured",
-    "visibleOnly": [
-      "Juanjovc201"
-    ],
-    "cardFrom": "sukui_uzumaki_evo1",
-    "cardTo": "sukui_uzumaki_evo2",
-    "repeatable": false,
-    "missions": [
-      {
-        "id": "canje3_evo2_m1_jugar_batallas",
-        "description": "Juega 50 batallas en general",
-        "type": "battles_played",
-        "target": 50
-      },
-      {
-        "id": "canje3_evo2_m2_ganar_con_carta",
-        "description": "Gana 20 partidas con Sukui Uzumaki (Evo 1) en tu equipo",
-        "type": "win_games_with_card",
-        "cardId": "sukui_uzumaki_evo1",
-        "target": 20
-      }
-    ]
-  },
-  {
-    "id": "evo_canje_especial4_evo2",
-    "name": "Canje Especial (Evo 2) de tu propio OC: Sekitan",
-    "type": "featured",
-    "visibleOnly": [
-      "pipatronica"
-    ],
-    "cardFrom": "sekitan_evo1",
-    "cardTo": "sekitan_evo2",
-    "repeatable": false,
-    "missions": [
-      {
-        "id": "canje4_evo2_m1_jugar_batallas",
-        "description": "Juega 50 batallas en general",
-        "type": "battles_played",
-        "target": 50
-      },
-      {
-        "id": "canje4_evo2_m2_ganar_con_carta",
-        "description": "Gana 20 partidas con Sekitan (Evo 1) en tu equipo",
-        "type": "win_games_with_card",
-        "cardId": "sekitan_evo1",
-        "target": 20
-      }
-    ]
-  },
-  {
-    "id": "evo_canje_especial5_evo2",
-    "name": "Canje Especial (Evo 2) de tu propio OC: Ken Inazuma",
-    "type": "featured",
-    "visibleOnly": [
-      "Alecrack"
-    ],
-    "cardFrom": "ken_inazuma_evo1",
-    "cardTo": "ken_inazuma_evo2",
-    "repeatable": false,
-    "missions": [
-      {
-        "id": "canje5_evo2_m1_jugar_batallas",
-        "description": "Juega 50 batallas en general",
-        "type": "battles_played",
-        "target": 50
-      },
-      {
-        "id": "canje5_evo2_m2_ganar_con_carta",
-        "description": "Gana 20 partidas con Ken Inazuma (Evo 1) en tu equipo",
-        "type": "win_games_with_card",
-        "cardId": "ken_inazuma_evo1",
-        "target": 20
-      }
-    ]
-  },
-  {
-    "id": "evo_canje_especial6_evo2",
-    "name": "Canje Especial (Evo 2) de tu propio OC: Raiden Fuutaro",
-    "type": "featured",
-    "visibleOnly": [
-      "Floingo02"
-    ],
-    "cardFrom": "raiden_fuutaro_evo1",
-    "cardTo": "raiden_fuutaro_evo2",
-    "repeatable": false,
-    "missions": [
-      {
-        "id": "canje6_evo2_m1_jugar_batallas",
-        "description": "Juega 50 batallas en general",
-        "type": "battles_played",
-        "target": 50
-      },
-      {
-        "id": "canje6_evo2_m2_ganar_con_carta",
-        "description": "Gana 20 partidas con Raiden Fuutaro (Evo 1) en tu equipo",
-        "type": "win_games_with_card",
-        "cardId": "raiden_fuutaro_evo1",
-        "target": 20
-      }
-    ]
-  },
-  {
-    "id": "evo_canje_especial7_evo2",
-    "name": "Canje Especial (Evo 2) de tu propio OC: Taka Uzumaki",
-    "type": "featured",
-    "visibleOnly": [
-      "Vetot"
-    ],
-    "cardFrom": "taka_uzumaki_evo1",
-    "cardTo": "taka_uzumaki_evo2",
-    "repeatable": false,
-    "missions": [
-      {
-        "id": "canje7_evo2_m1_jugar_batallas",
-        "description": "Juega 50 batallas en general",
-        "type": "battles_played",
-        "target": 50
-      },
-      {
-        "id": "canje7_evo2_m2_ganar_con_carta",
-        "description": "Gana 20 partidas con Taka Uzumaki (Evo 1) en tu equipo",
-        "type": "win_games_with_card",
-        "cardId": "taka_uzumaki_evo1",
-        "target": 20
-      }
-    ]
-  },
-  {
-    "id": "evo_canje_especial8_evo2",
-    "name": "Canje Especial (Evo 2) de tu propio OC: Kenji Ikari",
-    "type": "featured",
-    "visibleOnly": [
-      "Pepo189"
-    ],
-    "cardFrom": "kenji_ikari_evo1",
-    "cardTo": "kenji_ikari_evo2",
-    "repeatable": false,
-    "missions": [
-      {
-        "id": "canje8_evo2_m1_jugar_batallas",
-        "description": "Juega 50 batallas en general",
-        "type": "battles_played",
-        "target": 50
-      },
-      {
-        "id": "canje8_evo2_m2_ganar_con_carta",
-        "description": "Gana 20 partidas con Kenji Ikari (Evo 1) en tu equipo",
-        "type": "win_games_with_card",
-        "cardId": "kenji_ikari_evo1",
-        "target": 20
-      }
-    ]
-  },
-  {
-    "id": "evo_canje_especial9_evo2",
-    "name": "Canje Especial (Evo 2) de tu propio OC: Aya",
-    "type": "featured",
-    "visibleOnly": [
-      "wAiLaNt"
-    ],
-    "cardFrom": "aya_evo1",
-    "cardTo": "aya_evo2",
-    "repeatable": false,
-    "missions": [
-      {
-        "id": "canje9_evo2_m1_jugar_batallas",
-        "description": "Juega 50 batallas en general",
-        "type": "battles_played",
-        "target": 50
-      },
-      {
-        "id": "canje9_evo2_m2_ganar_con_carta",
-        "description": "Gana 20 partidas con Aya (Evo 1) en tu equipo",
-        "type": "win_games_with_card",
-        "cardId": "aya_evo1",
-        "target": 20
-      }
-    ]
-  },
-  {
-    "id": "evo_canje_especial10_evo2",
-    "name": "Canje Especial (Evo 2) de tu propio OC: Mikori Fukasa",
-    "type": "featured",
-    "visibleOnly": [
-      "TaiyoteDL"
-    ],
-    "cardFrom": "mikori_fukasa_evo1",
-    "cardTo": "mikori_fukasa_evo2",
-    "repeatable": false,
-    "missions": [
-      {
-        "id": "canje10_evo2_m1_jugar_batallas",
-        "description": "Juega 50 batallas en general",
-        "type": "battles_played",
-        "target": 50
-      },
-      {
-        "id": "canje10_evo2_m2_ganar_con_carta",
-        "description": "Gana 20 partidas con Mikori Fukasa (Evo 1) en tu equipo",
-        "type": "win_games_with_card",
-        "cardId": "mikori_fukasa_evo1",
-        "target": 20
-      }
-    ]
-  },
-  {
-    "id": "evo_canje_especial13_evo2",
-    "name": "Canje Especial (Evo 2) de tu propio OC: Vivar",
-    "type": "featured",
-    "visibleOnly": [
-      "Manuel2767"
-    ],
-    "cardFrom": "vivar_evo1",
-    "cardTo": "vivar_evo2",
-    "repeatable": false,
-    "missions": [
-      {
-        "id": "canje13_evo2_m1_jugar_batallas",
-        "description": "Juega 50 batallas en general",
-        "type": "battles_played",
-        "target": 50
-      },
-      {
-        "id": "canje13_evo2_m2_ganar_con_carta",
-        "description": "Gana 20 partidas con Vivar (Evo 1) en tu equipo",
-        "type": "win_games_with_card",
-        "cardId": "vivar_evo1",
-        "target": 20
-      }
-    ]
-  },
-
+    {
+      "id": "evo_canje_especial1_evo2",
+      "name": "Canje Especial (Evo 2) de tu propio OC: Ronan Hatake",
+      "type": "featured",
+      "visibleOnly": [
+        "HugoMan"
+      ],
+      "cardFrom": "ronan_hatake_evo1",
+      "cardTo": "ronan_hatake_evo2",
+      "repeatable": false,
+      "missions": [
+        {
+          "id": "canje1_evo2_m1_jugar_batallas",
+          "description": "Juega 50 batallas en general",
+          "type": "battles_played",
+          "target": 50
+        },
+        {
+          "id": "canje1_evo2_m2_ganar_con_carta",
+          "description": "Gana 20 partidas con Ronan Hatake (Evo 1) en tu equipo",
+          "type": "win_games_with_card",
+          "cardId": "ronan_hatake_evo1",
+          "target": 20
+        }
+      ]
+    },
+    {
+      "id": "evo_canje_especial2_evo2",
+      "name": "Canje Especial (Evo 2) de tu propio OC: Kurai Tenro",
+      "type": "featured",
+      "visibleOnly": [
+        "ManuelHyuga"
+      ],
+      "cardFrom": "kurai_tenro_evo1",
+      "cardTo": "kurai_tenro_evo2",
+      "repeatable": false,
+      "missions": [
+        {
+          "id": "canje2_evo2_m1_jugar_batallas",
+          "description": "Juega 50 batallas en general",
+          "type": "battles_played",
+          "target": 50
+        },
+        {
+          "id": "canje2_evo2_m2_ganar_con_carta",
+          "description": "Gana 20 partidas con Kurai Tenro (Evo 1) en tu equipo",
+          "type": "win_games_with_card",
+          "cardId": "kurai_tenro_evo1",
+          "target": 20
+        }
+      ]
+    },
+    {
+      "id": "evo_canje_especial3_evo2",
+      "name": "Canje Especial (Evo 2) de tu propio OC: Sukui Uzumaki",
+      "type": "featured",
+      "visibleOnly": [
+        "Juanjovc201"
+      ],
+      "cardFrom": "sukui_uzumaki_evo1",
+      "cardTo": "sukui_uzumaki_evo2",
+      "repeatable": false,
+      "missions": [
+        {
+          "id": "canje3_evo2_m1_jugar_batallas",
+          "description": "Juega 50 batallas en general",
+          "type": "battles_played",
+          "target": 50
+        },
+        {
+          "id": "canje3_evo2_m2_ganar_con_carta",
+          "description": "Gana 20 partidas con Sukui Uzumaki (Evo 1) en tu equipo",
+          "type": "win_games_with_card",
+          "cardId": "sukui_uzumaki_evo1",
+          "target": 20
+        }
+      ]
+    },
+    {
+      "id": "evo_canje_especial4_evo2",
+      "name": "Canje Especial (Evo 2) de tu propio OC: Sekitan",
+      "type": "featured",
+      "visibleOnly": [
+        "pipatronica"
+      ],
+      "cardFrom": "sekitan_evo1",
+      "cardTo": "sekitan_evo2",
+      "repeatable": false,
+      "missions": [
+        {
+          "id": "canje4_evo2_m1_jugar_batallas",
+          "description": "Juega 50 batallas en general",
+          "type": "battles_played",
+          "target": 50
+        },
+        {
+          "id": "canje4_evo2_m2_ganar_con_carta",
+          "description": "Gana 20 partidas con Sekitan (Evo 1) en tu equipo",
+          "type": "win_games_with_card",
+          "cardId": "sekitan_evo1",
+          "target": 20
+        }
+      ]
+    },
+    {
+      "id": "evo_canje_especial5_evo2",
+      "name": "Canje Especial (Evo 2) de tu propio OC: Ken Inazuma",
+      "type": "featured",
+      "visibleOnly": [
+        "Alecrack"
+      ],
+      "cardFrom": "ken_inazuma_evo1",
+      "cardTo": "ken_inazuma_evo2",
+      "repeatable": false,
+      "missions": [
+        {
+          "id": "canje5_evo2_m1_jugar_batallas",
+          "description": "Juega 50 batallas en general",
+          "type": "battles_played",
+          "target": 50
+        },
+        {
+          "id": "canje5_evo2_m2_ganar_con_carta",
+          "description": "Gana 20 partidas con Ken Inazuma (Evo 1) en tu equipo",
+          "type": "win_games_with_card",
+          "cardId": "ken_inazuma_evo1",
+          "target": 20
+        }
+      ]
+    },
+    {
+      "id": "evo_canje_especial6_evo2",
+      "name": "Canje Especial (Evo 2) de tu propio OC: Raiden Fuutaro",
+      "type": "featured",
+      "visibleOnly": [
+        "Floingo02"
+      ],
+      "cardFrom": "raiden_fuutaro_evo1",
+      "cardTo": "raiden_fuutaro_evo2",
+      "repeatable": false,
+      "missions": [
+        {
+          "id": "canje6_evo2_m1_jugar_batallas",
+          "description": "Juega 50 batallas en general",
+          "type": "battles_played",
+          "target": 50
+        },
+        {
+          "id": "canje6_evo2_m2_ganar_con_carta",
+          "description": "Gana 20 partidas con Raiden Fuutaro (Evo 1) en tu equipo",
+          "type": "win_games_with_card",
+          "cardId": "raiden_fuutaro_evo1",
+          "target": 20
+        }
+      ]
+    },
+    {
+      "id": "evo_canje_especial7_evo2",
+      "name": "Canje Especial (Evo 2) de tu propio OC: Taka Uzumaki",
+      "type": "featured",
+      "visibleOnly": [
+        "Vetot"
+      ],
+      "cardFrom": "taka_uzumaki_evo1",
+      "cardTo": "taka_uzumaki_evo2",
+      "repeatable": false,
+      "missions": [
+        {
+          "id": "canje7_evo2_m1_jugar_batallas",
+          "description": "Juega 50 batallas en general",
+          "type": "battles_played",
+          "target": 50
+        },
+        {
+          "id": "canje7_evo2_m2_ganar_con_carta",
+          "description": "Gana 20 partidas con Taka Uzumaki (Evo 1) en tu equipo",
+          "type": "win_games_with_card",
+          "cardId": "taka_uzumaki_evo1",
+          "target": 20
+        }
+      ]
+    },
+    {
+      "id": "evo_canje_especial8_evo2",
+      "name": "Canje Especial (Evo 2) de tu propio OC: Kenji Ikari",
+      "type": "featured",
+      "visibleOnly": [
+        "Pepo189"
+      ],
+      "cardFrom": "kenji_ikari_evo1",
+      "cardTo": "kenji_ikari_evo2",
+      "repeatable": false,
+      "missions": [
+        {
+          "id": "canje8_evo2_m1_jugar_batallas",
+          "description": "Juega 50 batallas en general",
+          "type": "battles_played",
+          "target": 50
+        },
+        {
+          "id": "canje8_evo2_m2_ganar_con_carta",
+          "description": "Gana 20 partidas con Kenji Ikari (Evo 1) en tu equipo",
+          "type": "win_games_with_card",
+          "cardId": "kenji_ikari_evo1",
+          "target": 20
+        }
+      ]
+    },
+    {
+      "id": "evo_canje_especial9_evo2",
+      "name": "Canje Especial (Evo 2) de tu propio OC: Aya",
+      "type": "featured",
+      "visibleOnly": [
+        "wAiLaNt"
+      ],
+      "cardFrom": "aya_evo1",
+      "cardTo": "aya_evo2",
+      "repeatable": false,
+      "missions": [
+        {
+          "id": "canje9_evo2_m1_jugar_batallas",
+          "description": "Juega 50 batallas en general",
+          "type": "battles_played",
+          "target": 50
+        },
+        {
+          "id": "canje9_evo2_m2_ganar_con_carta",
+          "description": "Gana 20 partidas con Aya (Evo 1) en tu equipo",
+          "type": "win_games_with_card",
+          "cardId": "aya_evo1",
+          "target": 20
+        }
+      ]
+    },
+    {
+      "id": "evo_canje_especial10_evo2",
+      "name": "Canje Especial (Evo 2) de tu propio OC: Mikori Fukasa",
+      "type": "featured",
+      "visibleOnly": [
+        "TaiyoteDL"
+      ],
+      "cardFrom": "mikori_fukasa_evo1",
+      "cardTo": "mikori_fukasa_evo2",
+      "repeatable": false,
+      "missions": [
+        {
+          "id": "canje10_evo2_m1_jugar_batallas",
+          "description": "Juega 50 batallas en general",
+          "type": "battles_played",
+          "target": 50
+        },
+        {
+          "id": "canje10_evo2_m2_ganar_con_carta",
+          "description": "Gana 20 partidas con Mikori Fukasa (Evo 1) en tu equipo",
+          "type": "win_games_with_card",
+          "cardId": "mikori_fukasa_evo1",
+          "target": 20
+        }
+      ]
+    },
+    {
+      "id": "evo_canje_especial13_evo2",
+      "name": "Canje Especial (Evo 2) de tu propio OC: Vivar",
+      "type": "featured",
+      "visibleOnly": [
+        "Manuel2767"
+      ],
+      "cardFrom": "vivar_evo1",
+      "cardTo": "vivar_evo2",
+      "repeatable": false,
+      "missions": [
+        {
+          "id": "canje13_evo2_m1_jugar_batallas",
+          "description": "Juega 50 batallas en general",
+          "type": "battles_played",
+          "target": 50
+        },
+        {
+          "id": "canje13_evo2_m2_ganar_con_carta",
+          "description": "Gana 20 partidas con Vivar (Evo 1) en tu equipo",
+          "type": "win_games_with_card",
+          "cardId": "vivar_evo1",
+          "target": 20
+        }
+      ]
+    },
     {
       "id": "evo_jimmy_dual",
       "name": "Evolución de Jimmy",
@@ -538,262 +536,421 @@
         }
       ]
     },
-      {
-    "id": "evo_evento_maito_gai",
-    "name": "Evolución de Evento: Maito Gai",
-    "type": "event",
-    "repeatable": false,
-    "cardFrom": "maito_gai_edotensei",
-    "cardTo": "maito_gai_evo",
-    "requiredItems": [
-      {
-        "id": "octava_puerta",
-        "amount": 1
-      }
-    ],
-    "missions": [
-      {
-        "id": "maito_gai_evo_m1_battles",
-        "description": "Juega 30 partidas con Maito Gai (Edo Tensei) en tu equipo",
-        "type": "play_games_with_card",
-        "target": 30
-      },
-      {
-        "id": "maito_gai_evo_m2_rounds",
-        "description": "Gana 50 rondas en combate con Maito Gai (Edo Tensei)",
-        "type": "rounds_won",
-        "target": 50,
-        "cardRequired": true
-      }
-    ]
-  },
-  {
-    "id": "evo_evento_minato_namikaze",
-    "name": "Evolución de Evento: Minato Namikaze",
-    "type": "event",
-    "repeatable": false,
-    "cardFrom": "minato_namikaze_edotensei",
-    "cardTo": "minato_namikaze_evo",
-    "requiredItems": [
-      {
-        "id": "capa_baryon_yang",
-        "amount": 1
-      }
-    ],
-    "missions": [
-      {
-        "id": "minato_namikaze_evo_m1_battles",
-        "description": "Juega 30 partidas con Minato Namikaze (Edo Tensei) en tu equipo",
-        "type": "play_games_with_card",
-        "target": 30
-      },
-      {
-        "id": "minato_namikaze_evo_m2_rounds",
-        "description": "Gana 50 rondas en combate con Minato Namikaze (Edo Tensei)",
-        "type": "rounds_won",
-        "target": 50,
-        "cardRequired": true
-      }
-    ]
-  },
-  {
-    "id": "evo_evento_taiyo_uchiha",
-    "name": "Evolución de Evento: Taiyo Uchiha",
-    "type": "event",
-    "repeatable": false,
-    "cardFrom": "taiyo_uchiha_icono",
-    "cardTo": "taiyo_uchiha_evo",
-    "requiredItems": [
-      {
-        "id": "alma_del_sol",
-        "amount": 1
-      }
-    ],
-    "missions": [
-      {
-        "id": "taiyo_uchiha_evo_m1_rounds_owner",
-        "description": "Gana 25 rondas con cartas creadas por TaiyoDL",
-        "type": "rounds_won_with_filter",
-        "owner": "TaiyoDL",
-        "target": 25
-      }
-    ]
-  },
-  {
-    "id": "evo_evento_shin_uzumaki",
-    "name": "Evolución de Evento: Shin Uzumaki",
-    "type": "event",
-    "repeatable": false,
-    "cardFrom": "shin_uzumaki_heroe",
-    "cardTo": "shin_uzumaki_evo",
-    "requiredItems": [
-      {
-        "id": "capa_baryon_ying",
-        "amount": 1
-      }
-    ],
-    "missions": [
-      {
-        "id": "shin_uzumaki_evo_m1_rounds_owner",
-        "description": "Gana 25 rondas con cartas creadas por Alecrackman",
-        "type": "rounds_won_with_filter",
-        "owner": "Alecrackman",
-        "target": 25
-      }
-    ]
-  },
-  {
-    "id": "evo_evento_daren_hyuga",
-    "name": "Evolución de Evento: Daren Hyuga",
-    "type": "event",
-    "repeatable": false,
-    "cardFrom": "daren_hyuga_coht",
-    "cardTo": "daren_hyuga_evoe",
-    "requiredItems": [
-      {
-        "id": "pergamino_elemental_agua",
-        "amount": 3
-      }
-    ],
-    "missions": [
-      {
-        "id": "daren_hyuga_evoe_m1_battle",
-        "description": "Juega 1 partida con Daren Hyuga (COHT) en tu equipo",
-        "type": "play_games_with_card",
-        "target": 1
-      }
-    ]
-  },
-  {
-    "id": "evo_evento_zagren_senju",
-    "name": "Evolución de Evento: Zagren Senju",
-    "type": "event",
-    "repeatable": false,
-    "cardFrom": "zagren_senju_heroe",
-    "cardTo": "zagren_senju_evoe",
-    "requiredItems": [
-      {
-        "id": "pergamino_elemental_fuego",
-        "amount": 3
-      }
-    ],
-    "missions": [
-      {
-        "id": "zagren_senju_evoe_m1_battle",
-        "description": "Juega 1 partida con Zagren Senju (Héroe) en tu equipo",
-        "type": "play_games_with_card",
-        "target": 1
-      }
-    ]
-  },
-  {
-    "id": "evo_evento_benkei_uchiha",
-    "name": "Evolución de Evento: Benkei Uchiha",
-    "type": "event",
-    "repeatable": false,
-    "cardFrom": "benkei_uchiha_icono",
-    "cardTo": "benkei_uchiha_evoe",
-    "requiredItems": [
-      {
-        "id": "pergamino_elemental_rayo",
-        "amount": 3
-      }
-    ],
-    "missions": [
-      {
-        "id": "benkei_uchiha_evoe_m1_battle",
-        "description": "Juega 1 partida con Benkei Uchiha (Ícono) en tu equipo",
-        "type": "play_games_with_card",
-        "target": 1
-      }
-    ]
-  },
-  {
-  "id": "evo_raiden_senjuro_secuencia",
-  "name": "Evolución: Raiden Senjuro",
-  "type": "featured",
-  "repeatable": false,
-  "phases": [
     {
-      "phase": 1,
-      "name": "Fase 1: Raiden Senjuro -> Evo 1",
-      "cardFrom": "raiden_senjuro",
-      "cardTo": "raiden_senjuro_evo1",
+      "id": "evo_evento_maito_gai",
+      "name": "Evolución de Evento: Maito Gai",
+      "type": "event",
+      "repeatable": false,
+      "cardFrom": "maito_gai_edotensei",
+      "cardTo": "maito_gai_evo",
+      "requiredItems": [
+        {
+          "id": "octava_puerta",
+          "amount": 1
+        }
+      ],
       "missions": [
         {
-          "id": "senjuro_p1_m1_wins",
-          "description": "Gana 30 partidas con Raiden Senjuro en tu equipo",
-          "type": "win_games_with_card",
+          "id": "maito_gai_evo_m1_battles",
+          "description": "Juega 30 partidas con Maito Gai (Edo Tensei) en tu equipo",
+          "type": "play_games_with_card",
           "target": 30
         },
         {
-          "id": "senjuro_p1_m2_rounds",
-          "description": "Gana 15 rondas en combate con Raiden Senjuro",
+          "id": "maito_gai_evo_m2_rounds",
+          "description": "Gana 50 rondas en combate con Maito Gai (Edo Tensei)",
           "type": "rounds_won",
-          "cardRequired": true,
-          "target": 15
+          "target": 50,
+          "cardRequired": true
+        }
+      ]
+    },
+    {
+      "id": "evo_evento_minato_namikaze",
+      "name": "Evolución de Evento: Minato Namikaze",
+      "type": "event",
+      "repeatable": false,
+      "cardFrom": "minato_namikaze_edotensei",
+      "cardTo": "minato_namikaze_evo",
+      "requiredItems": [
+        {
+          "id": "capa_baryon_yang",
+          "amount": 1
+        }
+      ],
+      "missions": [
+        {
+          "id": "minato_namikaze_evo_m1_battles",
+          "description": "Juega 30 partidas con Minato Namikaze (Edo Tensei) en tu equipo",
+          "type": "play_games_with_card",
+          "target": 30
         },
         {
-          "id": "senjuro_p1_m3_rounds_owner",
-          "description": "Gana 50 rondas con personajes creados por Grejino02",
+          "id": "minato_namikaze_evo_m2_rounds",
+          "description": "Gana 50 rondas en combate con Minato Namikaze (Edo Tensei)",
+          "type": "rounds_won",
+          "target": 50,
+          "cardRequired": true
+        }
+      ]
+    },
+    {
+      "id": "evo_evento_taiyo_uchiha",
+      "name": "Evolución de Evento: Taiyo Uchiha",
+      "type": "event",
+      "repeatable": false,
+      "cardFrom": "taiyo_uchiha_icono",
+      "cardTo": "taiyo_uchiha_evo",
+      "requiredItems": [
+        {
+          "id": "alma_del_sol",
+          "amount": 1
+        }
+      ],
+      "missions": [
+        {
+          "id": "taiyo_uchiha_evo_m1_rounds_owner",
+          "description": "Gana 25 rondas con cartas creadas por TaiyoDL",
           "type": "rounds_won_with_filter",
-          "owner": "Grejino02",
+          "owner": "TaiyoDL",
+          "target": 25
+        }
+      ]
+    },
+    {
+      "id": "evo_evento_shin_uzumaki",
+      "name": "Evolución de Evento: Shin Uzumaki",
+      "type": "event",
+      "repeatable": false,
+      "cardFrom": "shin_uzumaki_heroe",
+      "cardTo": "shin_uzumaki_evo",
+      "requiredItems": [
+        {
+          "id": "capa_baryon_ying",
+          "amount": 1
+        }
+      ],
+      "missions": [
+        {
+          "id": "shin_uzumaki_evo_m1_rounds_owner",
+          "description": "Gana 25 rondas con cartas creadas por Alecrackman",
+          "type": "rounds_won_with_filter",
+          "owner": "Alecrackman",
+          "target": 25
+        }
+      ]
+    },
+    {
+      "id": "evo_evento_daren_hyuga",
+      "name": "Evolución de Evento: Daren Hyuga",
+      "type": "event",
+      "repeatable": false,
+      "cardFrom": "daren_hyuga_coht",
+      "cardTo": "daren_hyuga_evoe",
+      "requiredItems": [
+        {
+          "id": "pergamino_elemental_agua",
+          "amount": 3
+        }
+      ],
+      "missions": [
+        {
+          "id": "daren_hyuga_evoe_m1_battle",
+          "description": "Juega 1 partida con Daren Hyuga (COHT) en tu equipo",
+          "type": "play_games_with_card",
+          "target": 1
+        }
+      ]
+    },
+    {
+      "id": "evo_evento_zagren_senju",
+      "name": "Evolución de Evento: Zagren Senju",
+      "type": "event",
+      "repeatable": false,
+      "cardFrom": "zagren_senju_heroe",
+      "cardTo": "zagren_senju_evoe",
+      "requiredItems": [
+        {
+          "id": "pergamino_elemental_fuego",
+          "amount": 3
+        }
+      ],
+      "missions": [
+        {
+          "id": "zagren_senju_evoe_m1_battle",
+          "description": "Juega 1 partida con Zagren Senju (Héroe) en tu equipo",
+          "type": "play_games_with_card",
+          "target": 1
+        }
+      ]
+    },
+    {
+      "id": "evo_evento_benkei_uchiha",
+      "name": "Evolución de Evento: Benkei Uchiha",
+      "type": "event",
+      "repeatable": false,
+      "cardFrom": "benkei_uchiha_icono",
+      "cardTo": "benkei_uchiha_evoe",
+      "requiredItems": [
+        {
+          "id": "pergamino_elemental_rayo",
+          "amount": 3
+        }
+      ],
+      "missions": [
+        {
+          "id": "benkei_uchiha_evoe_m1_battle",
+          "description": "Juega 1 partida con Benkei Uchiha (Ícono) en tu equipo",
+          "type": "play_games_with_card",
+          "target": 1
+        }
+      ]
+    },
+    {
+      "id": "evo_raiden_senjuro_secuencia",
+      "name": "Evolución: Raiden Senjuro",
+      "type": "featured",
+      "repeatable": false,
+      "phases": [
+        {
+          "phase": 1,
+          "name": "Fase 1: Raiden Senjuro -> Evo 1",
+          "cardFrom": "raiden_senjuro",
+          "cardTo": "raiden_senjuro_evo1",
+          "missions": [
+            {
+              "id": "senjuro_p1_m1_wins",
+              "description": "Gana 30 partidas con Raiden Senjuro en tu equipo",
+              "type": "win_games_with_card",
+              "target": 30
+            },
+            {
+              "id": "senjuro_p1_m2_rounds",
+              "description": "Gana 15 rondas en combate con Raiden Senjuro",
+              "type": "rounds_won",
+              "cardRequired": true,
+              "target": 15
+            },
+            {
+              "id": "senjuro_p1_m3_rounds_owner",
+              "description": "Gana 50 rondas con personajes creados por Grejino02",
+              "type": "rounds_won_with_filter",
+              "owner": "Grejino02",
+              "target": 50
+            }
+          ]
+        },
+        {
+          "phase": 2,
+          "name": "Fase 2: Raiden Senjuro Evo 1 -> Evo 2",
+          "cardFrom": "raiden_senjuro_evo1",
+          "cardTo": "raiden_senjuro_evo2",
+          "missions": [
+            {
+              "id": "senjuro_p2_m1_wins",
+              "description": "Gana 50 partidas con Raiden Senjuro (Evo 1) en tu equipo",
+              "type": "win_games_with_card",
+              "target": 50
+            },
+            {
+              "id": "senjuro_p2_m2_general_wins",
+              "description": "Gana 100 partidas en general",
+              "type": "win_games",
+              "cardRequired": false,
+              "target": 100
+            },
+            {
+              "id": "senjuro_p2_m3_iyari_kazegakure",
+              "description": "Vence 5 veces a Iyari Ryuga en el evento Kazegakure (Combate 3)",
+              "type": "win_event_battle",
+              "battleId": "kazegakure_3",
+              "opponent": "iyari ryuga",
+              "target": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "evo_evento_raiden_keitaro",
+      "name": "Evolución de Evento: Raiden Keitaro",
+      "type": "event",
+      "repeatable": false,
+      "cardFrom": "raiden_keitaro_sbc",
+      "cardTo": "raiden_keitaro_evo",
+      "requiredItems": [
+        {
+          "id": "segmentus",
+          "amount": 1
+        }
+      ],
+      "missions": [
+        {
+          "id": "keitaro_evo_m1_wins",
+          "description": "Gana 15 partidas con Raiden Keitaro SBC en tu equipo",
+          "type": "win_games_with_card",
+          "target": 15
+        }
+      ]
+    },
+    {
+      "id": "evo_evento_ayato_betocs",
+      "name": "Evolución de Evento: Ayato & Betocs",
+      "type": "event",
+      "repeatable": false,
+      "cardFrom": "ayato_betocs_exclusive",
+      "cardTo": "ayato_betocs_exclusive_exclusive2",
+      "requiredItems": [
+        {
+          "id": "kurama_chibi",
+          "amount": 1
+        }
+      ],
+      "missions": [
+        {
+          "id": "ayato_betocs_m1_play",
+          "description": "Juega 1 partida con Ayato & Betocs en tu equipo",
+          "type": "play_games_with_card",
+          "cardId": "ayato_betocs_exclusive",
+          "target": 1
+        }
+      ]
+    },
+    {
+      "id": "evo_evento_junketsu",
+      "name": "Evolución de Evento: Junketsu",
+      "type": "event",
+      "repeatable": false,
+      "cardFrom": "junketsu_codw",
+      "cardTo": "junketsu_evo",
+      "requiredItems": [
+        {
+          "id": "palo_junketsu",
+          "amount": 1
+        }
+      ],
+      "missions": [
+        {
+          "id": "junketsu_m1_play",
+          "description": "Juega 1 partida con Junketsu en tu equipo",
+          "type": "play_games_with_card",
+          "cardId": "junketsu_codw",
+          "target": 1
+        }
+      ]
+    },
+    {
+      "id": "evo_evento_betocs_hatake_moments",
+      "name": "Evolución de Evento: Betocs Hatake Moments",
+      "type": "event",
+      "repeatable": false,
+      "cardFrom": "betocs_hatake_codw",
+      "cardTo": "betocs_hatake_codwmoments",
+      "requiredItems": [
+        {
+          "id": "pendiente_betocs",
+          "amount": 1
+        }
+      ],
+      "missions": [
+        {
+          "id": "betocs_moments_m1_wins",
+          "description": "Gana 30 partidas con Betocs Hatake en tu equipo",
+          "type": "win_games_with_card",
+          "cardId": "betocs_hatake_codw",
+          "target": 30
+        },
+        {
+          "id": "betocs_moments_m2_rounds_owner",
+          "description": "Gana 50 rondas en combate con cartas de MrVetoxx",
+          "type": "rounds_won_with_filter",
+          "owner": "MrVetoxx",
           "target": 50
         }
       ]
     },
     {
-      "phase": 2,
-      "name": "Fase 2: Raiden Senjuro Evo 1 -> Evo 2",
-      "cardFrom": "raiden_senjuro_evo1",
-      "cardTo": "raiden_senjuro_evo2",
+      "id": "evo_evento_shiroku_kowai_moments",
+      "name": "Evolución de Evento: Shiroku Kowai Moments",
+      "type": "event",
+      "repeatable": false,
+      "cardFrom": "shiroku_kowai_codw",
+      "cardTo": "shiroku_kowai_codwmoments",
+      "requiredItems": [
+        {
+          "id": "guadanya",
+          "amount": 1
+        }
+      ],
       "missions": [
         {
-          "id": "senjuro_p2_m1_wins",
-          "description": "Gana 50 partidas con Raiden Senjuro (Evo 1) en tu equipo",
+          "id": "shiroku_moments_m1_wins",
+          "description": "Gana 50 partidas con Shiroku Kowai en tu equipo",
           "type": "win_games_with_card",
+          "cardId": "shiroku_kowai_codw",
           "target": 50
         },
         {
-          "id": "senjuro_p2_m2_general_wins",
-          "description": "Gana 100 partidas en general",
-          "type": "win_games",
-          "cardRequired": false,
-          "target": 100
+          "id": "shiroku_moments_m2_rounds_owner",
+          "description": "Gana 150 rondas en combate con cartas de TaiyoDL",
+          "type": "rounds_won_with_filter",
+          "owner": "TaiyoDL",
+          "target": 150
+        }
+      ]
+    },
+    {
+      "id": "evo_evento_dankha_sagi_moments",
+      "name": "Evolución de Evento: Dankha Sagi Moments",
+      "type": "event",
+      "repeatable": false,
+      "cardFrom": "dankha_sagi_codw",
+      "cardTo": "dankha_sagi_codwmoments",
+      "requiredItems": [
+        {
+          "id": "alas_del_angel",
+          "amount": 1
+        }
+      ],
+      "missions": [
+        {
+          "id": "dankha_moments_m1_wins",
+          "description": "Gana 1 partida con Dankha Sagi en tu equipo",
+          "type": "win_games_with_card",
+          "cardId": "dankha_sagi_codw",
+          "target": 1
+        }
+      ]
+    },
+    {
+      "id": "evo_kyo",
+      "name": "Evolución: Kyō",
+      "type": "featured",
+      "repeatable": false,
+      "cardFrom": "kyo",
+      "cardTo": "kyo_evo",
+      "missions": [
+        {
+          "id": "kyo_m1_rounds_gokei",
+          "description": "Gana 50 rondas en combate con cartas de procedencia Gokei",
+          "type": "rounds_won_with_filter",
+          "origin": "Gokei",
+          "target": 50
         },
         {
-          "id": "senjuro_p2_m3_iyari_kazegakure",
-          "description": "Vence 5 veces a Iyari Ryuga en el evento Kazegakure (Combate 3)",
-          "type": "win_event_battle",
-          "battleId": "kazegakure_3",
-          "opponent": "iyari ryuga",
-          "target": 5
+          "id": "kyo_m2_wins_kyo",
+          "description": "Gana 20 partidas con Kyō en tu equipo",
+          "type": "win_games_with_card",
+          "cardId": "kyo",
+          "target": 20
+        },
+        {
+          "id": "kyo_m3_open_packs",
+          "description": "Abre 100 sobres de cartas",
+          "type": "open_packs",
+          "target": 100
         }
       ]
     }
-  ]
-},
-    {
-  "id": "evo_evento_raiden_keitaro",
-  "name": "Evolución de Evento: Raiden Keitaro",
-  "type": "event",
-  "repeatable": false,
-  "cardFrom": "raiden_keitaro_sbc",
-  "cardTo": "raiden_keitaro_evo",
-  "requiredItems": [
-    {
-      "id": "segmentus",
-      "amount": 1
-    }
-  ],
-  "missions": [
-    {
-      "id": "keitaro_evo_m1_wins",
-      "description": "Gana 15 partidas con Raiden Keitaro SBC en tu equipo",
-      "type": "win_games_with_card",
-      "target": 15
-    }
-  ]
-}
   ]
 }

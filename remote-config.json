@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "2.9.1",
-                    "minimumRequired":  "2.9.1",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.9.1.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.9.1.zip",
-                    "changelog":  "Parche 2.9.1: Hotfix de visualizacion de cinematica de combate para el Rasgo Inmo",
+                    "current":  "2.9.2",
+                    "minimumRequired":  "2.9.2",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.9.2.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.9.2.zip",
+                    "changelog":  "Evoluciones pasadas, nuevos objetos y optimizaciones",
                     "forceUpdate":  true
                 }
 }
