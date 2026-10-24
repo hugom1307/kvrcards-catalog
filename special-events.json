@@ -256,193 +256,229 @@
       "name": "La Gran Guerra de las Danzas, Parte I",
       "subtitle": "Modo 7v1 - Enfréntate a los verdaderos monstruos de la guerra.",
       "description": "La guerra está a punto de comenzar, debes de asegurar la victoria o todo lo que quieres desaparecerá. Protege las danzas principales.",
-      "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/infinito/torneo_haseo.png",
+      "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/guerradanzas.png",
       "mode": "7v1",
       "shopUrl": "special-event-shop-2.json",
       "worlds": [
         {
-          "id": "titanes_normal",
-          "name": "Modo Normal: Los Colosos",
-          "description": "Supera los 5 niveles normales de combate 7v1 para ganar esencias de titán.",
-          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/escalones1.png",
-          "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/escalones.png",
+          "id": "modo_normal",
+          "name": "Modo Normal: Esperanza",
+          "description": "Adentrate en la guerra y sal victorioso.",
+          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/danzasnormal.png",
+          "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/danzasnormal.png",
           "mode": "7v1",
           "levels": [
             {
-              "id": "titan_normal_1",
+              "id": "ggd1_1",
               "levelNumber": 1,
-              "name": "Nivel 1: El Despertar del Coloso",
-              "description": "El primer coloso pone a prueba tu equipo en modo 7v1.",
+              "name": "Nivel 1: Junketsu",
+              "description": "Derrotalo si puedes, te recomiendo hacer turnos muy largos para lograrlo.",
               "mode": "7v1",
               "firstClearRewards": [
                 { "type": "coins", "amount": 15000 },
-                { "type": "item", "itemId": "esencia_titan", "amount": 5 }
+                { "type": "item", "itemId": "ggd1_coin", "amount": 15 },
+                { "type": "item", "itemId": "palo_junketsu", "amount": 1, "probability": 10 },
+                { "type": "traits", "amount": 5}
+                
               ],
               "repeatRewards": [
                 { "type": "coins", "amount": 1000 },
-                { "type": "item", "itemId": "esencia_titan", "amount": 2 }
+                { "type": "item", "itemId": "ggd1_coin", "amount": 5 },
+                { "type": "item", "itemId": "palo_junketsu", "amount": 1, "probability": 10 },
+                { "type": "traits", "amount": 1, "probability": 50 }
               ]
             },
             {
-              "id": "titan_normal_2",
+              "id": "ggd1_2",
               "levelNumber": 2,
-              "name": "Nivel 2: La Furia de la Bestia",
-              "description": "El coloso ataca con toda su fuerza en cada turno.",
+              "name": "Nivel 2: Dankha Sagi",
+              "description": "La Danza del Ángel es muy poderosa, apunta a sus alas.",
               "mode": "7v1",
-              "bossCardId": "seikatsu",
-              "firstClearRewards": [
-                { "type": "coins", "amount": 20000 },
-                { "type": "item", "itemId": "esencia_titan", "amount": 8 }
-              ],
-              "repeatRewards": [
-                { "type": "coins", "amount": 1500 },
-                { "type": "item", "itemId": "esencia_titan", "amount": 3 }
-              ]
-            },
-            {
-              "id": "titan_normal_3",
-              "levelNumber": 3,
-              "name": "Nivel 3: El Guardián Impenetrable",
-              "description": "Una defensa colosal que resiste a tu escuadrón.",
-              "mode": "7v1",
-              "bossCardId": "shin_uzumaki_heroe",
               "firstClearRewards": [
                 { "type": "coins", "amount": 25000 },
-                { "type": "item", "itemId": "esencia_titan", "amount": 10 },
-                { "type": "traits", "amount": 5 }
+                { "type": "item", "itemId": "ggd1_coin", "amount": 25 },
+                { "type": "item", "itemId": "alas_del_angel", "amount": 1, "probability": 5 },
+                { "type": "traits", "amount": 10}
+                
               ],
               "repeatRewards": [
-                { "type": "coins", "amount": 2000 },
-                { "type": "item", "itemId": "esencia_titan", "amount": 4 }
+                { "type": "coins", "amount": 1000 },
+                { "type": "item", "itemId": "ggd1_coin", "amount": 5 },
+                { "type": "item", "itemId": "alas_del_angel", "amount": 1, "probability": 5 },
+                { "type": "traits", "amount": 1, "probability": 50 }
               ]
             },
             {
-              "id": "titan_normal_4",
-              "levelNumber": 4,
-              "name": "Nivel 4: La Fuerza de la Tempestad",
-              "description": "La batalla se intensifica al acercarte al último coloso.",
+              "id": "ggd1_3",
+              "levelNumber": 3,
+              "name": "Nivel 3: Betocs Hatake",
+              "description": "La maestría del hielo te azecha, debes acabar con él antes de que sea demasiado tarde.",
               "mode": "7v1",
-              "bossCardId": "kinan_hatake_icono",
-              "firstClearRewards": [
+               "firstClearRewards": [
                 { "type": "coins", "amount": 30000 },
-                { "type": "item", "itemId": "esencia_titan", "amount": 12 },
-                { "type": "traits", "amount": 8 }
+                { "type": "item", "itemId": "ggd1_coin", "amount": 25 },
+                { "type": "item", "itemId": "pendiente_betocs", "amount": 1, "probability": 3 },
+                { "type": "traits", "amount": 20}
+                
               ],
               "repeatRewards": [
-                { "type": "coins", "amount": 2500 },
-                { "type": "item", "itemId": "esencia_titan", "amount": 5 }
+                { "type": "coins", "amount": 1000 },
+                { "type": "item", "itemId": "ggd1_coin", "amount": 5 },
+                { "type": "item", "itemId": "pendiente_betocs", "amount": 1, "probability": 3 },
+                { "type": "traits", "amount": 1, "probability": 50 }
               ]
             },
             {
-              "id": "titan_normal_5",
-              "levelNumber": 5,
-              "name": "Nivel 5: El Coloso Supremo",
-              "description": "Supera el último desafío normal para desbloquear el modo difícil.",
+              "id": "ggd1_4",
+              "levelNumber": 4,
+              "name": "Nivel 4: Shiroku Kowai",
+              "description": "El nigromante, muy peligroso por su capacidad para alcanzar tu alma, se precavido o acabarás mal.",
               "mode": "7v1",
-              "bossCardId": "ryuki_icono",
-              "firstClearRewards": [
-                { "type": "coins", "amount": 40000 },
-                { "type": "item", "itemId": "esencia_titan", "amount": 20 },
-                { "type": "traits", "amount": 15 }
+               "firstClearRewards": [
+                { "type": "coins", "amount": 50000 },
+                { "type": "item", "itemId": "ggd1_coin", "amount": 35 },
+                { "type": "item", "itemId": "guadanya", "amount": 1, "probability": 3 },
+                { "type": "traits", "amount": 25}
+                
               ],
               "repeatRewards": [
-                { "type": "coins", "amount": 3000 },
-                { "type": "item", "itemId": "esencia_titan", "amount": 6 }
+                { "type": "coins", "amount": 1000 },
+                { "type": "item", "itemId": "ggd1_coin", "amount": 5 },
+                { "type": "item", "itemId": "guadanya", "amount": 1, "probability": 3 },
+                { "type": "traits", "amount": 1, "probability": 50 }
+              ]
+            },
+            {
+              "id": "ggd1_5",
+              "levelNumber": 5,
+              "name": "Nivel 5: Zankoku",
+              "description": "El héroe de Kizoku revela su lado oscuro... ya no te queda de otra que acabar con él.",
+              "mode": "7v1",
+              "firstClearRewards": [
+                { "type": "coins", "amount": 100000 },
+                { "type": "item", "itemId": "ggd1_coin", "amount": 100 },
+                { "type": "item", "itemId": "tumba_del_heroe", "amount": 1, "probability": 5 },
+                { "type": "pack", "packId": "sobre_90_plus", "amount": 1 },
+                { "type": "traits", "amount": 25}
+                
+              ],
+              "repeatRewards": [
+                { "type": "coins", "amount": 1000 },
+                { "type": "item", "itemId": "ggd1_coin", "amount": 5 },
+                { "type": "item", "itemId": "tumba_del_heroe", "amount": 1, "probability": 5 },
+                { "type": "traits", "amount": 1, "probability": 50 }
               ]
             }
           ]
         },
         {
           "id": "titanes_dificil",
-          "name": "Modo Difícil: La Pesadilla Ancestral",
-          "description": "5 niveles de máxima exigencia en combate 7v1.",
-          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/escalones1.png",
-          "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/escalones.png",
+          "name": "Modo Difícil: Tributo",
+          "description": "Miles de grandes personas han fallecido. Vuelve a la guerra para vengarlos.",
+          "image": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/danzasdificil.png",
+          "backgroundImage": "https://hugom1307.github.io/kvrcards-catalog/image/fondos/danzasdificil.png",
           "materialItemId": "esencia_ancestral",
           "materialName": "Esencia Ancestral",
           "mode": "7v1",
           "levels": [
-            {
-              "id": "titan_dificil_1",
+           {
+              "id": "dificil_ggd1_1",
               "levelNumber": 1,
-              "name": "Nivel 1: Retorno de la Pesadilla",
-              "description": "Un inicio implacable en modo difícil.",
+              "name": "Nivel 1: Junketsu",
+              "description": "Derrotalo si puedes, te recomiendo hacer turnos muy largos para lograrlo.",
               "mode": "7v1",
-              "bossCardId": "shind_inazuma_iconoprime",
               "firstClearRewards": [
-                { "type": "coins", "amount": 30000 },
-                { "type": "item", "itemId": "esencia_ancestral", "amount": 8 }
-              ],
-              "repeatRewards": [
-                { "type": "coins", "amount": 2000 },
-                { "type": "item", "itemId": "esencia_ancestral", "amount": 3 }
-              ]
-            },
-            {
-              "id": "titan_dificil_2",
-              "levelNumber": 2,
-              "name": "Nivel 2: El Trueno Inmortal",
-              "description": "Velocidad demoledora en cada asalto 7v1.",
-              "mode": "7v1",
-              "bossCardId": "raiden_keitaro_sbc",
-              "firstClearRewards": [
-                { "type": "coins", "amount": 35000 },
-                { "type": "item", "itemId": "esencia_ancestral", "amount": 10 }
-              ],
-              "repeatRewards": [
-                { "type": "coins", "amount": 2500 },
-                { "type": "item", "itemId": "esencia_ancestral", "amount": 4 }
-              ]
-            },
-            {
-              "id": "titan_dificil_3",
-              "levelNumber": 3,
-              "name": "Nivel 3: El Ojo de la Devastación",
-              "description": "Resiste las 7 estadísticas del jefe ancestral.",
-              "mode": "7v1",
-              "bossCardId": "daruma_kenjiku",
-              "firstClearRewards": [
-                { "type": "coins", "amount": 40000 },
-                { "type": "item", "itemId": "esencia_ancestral", "amount": 15 },
-                { "type": "traits", "amount": 10 }
-              ],
-              "repeatRewards": [
-                { "type": "coins", "amount": 3000 },
-                { "type": "item", "itemId": "esencia_ancestral", "amount": 5 }
-              ]
-            },
-            {
-              "id": "titan_dificil_4",
-              "levelNumber": 4,
-              "name": "Nivel 4: La Fuerza Absoluta",
-              "description": "Frente al creador de la arena en combate individual.",
-              "mode": "7v1",
-              "bossCardId": "iyari_ryuga_flashback",
-              "firstClearRewards": [
-                { "type": "coins", "amount": 50000 },
-                { "type": "item", "itemId": "esencia_ancestral", "amount": 20 },
-                { "type": "traits", "amount": 15 }
-              ],
-              "repeatRewards": [
-                { "type": "coins", "amount": 3500 },
-                { "type": "item", "itemId": "esencia_ancestral", "amount": 6 }
-              ]
-            },
-            {
-              "id": "titan_dificil_5",
-              "levelNumber": 5,
-              "name": "Nivel 5: El Titán Supremo",
-              "description": "La máxima prueba del evento 7v1.",
-              "mode": "7v1",
-              "bossCardId": "kizuna_otsutsuki_coht",
-              "firstClearRewards": [
-                { "type": "coins", "amount": 100000 },
-                { "type": "item", "itemId": "esencia_ancestral", "amount": 35 },
-                { "type": "traits", "amount": 25 }
+               { "type": "coins", "amount": 5000 },
+                { "type": "item", "itemId": "ggd1_coin", "amount": 10 },
+                { "type": "item", "itemId": "palo_junketsu", "amount": 1, "probability": 20 },
+                { "type": "traits", "amount": 2, "probability": 80 }
+                
               ],
               "repeatRewards": [
                 { "type": "coins", "amount": 5000 },
-                { "type": "item", "itemId": "esencia_ancestral", "amount": 8 }
+                { "type": "item", "itemId": "ggd1_coin", "amount": 10 },
+                { "type": "item", "itemId": "palo_junketsu", "amount": 1, "probability": 10 },
+                { "type": "traits", "amount": 2, "probability": 80 }
+              ]
+            },
+            {
+              "id": "dificil_ggd1_2",
+              "levelNumber": 2,
+              "name": "Nivel 2: Dankha Sagi",
+              "description": "La Danza del Ángel es muy poderosa, apunta a sus alas.",
+              "mode": "7v1",
+              "firstClearRewards": [
+                { "type": "coins", "amount": 5000 },
+                { "type": "item", "itemId": "ggd1_coin", "amount": 10 },
+                { "type": "item", "itemId": "alas_del_angel", "amount": 1, "probability": 10 },
+                { "type": "traits", "amount": 2, "probability": 80 }
+                
+              ],
+              "repeatRewards": [
+                { "type": "coins", "amount": 5000 },
+                { "type": "item", "itemId": "ggd1_coin", "amount": 10 },
+                { "type": "item", "itemId": "alas_del_angel", "amount": 1, "probability": 5 },
+                { "type": "traits", "amount": 2, "probability": 80 }
+              ]
+            },
+            {
+              "id": "dificil_ggd1_3",
+              "levelNumber": 3,
+              "name": "Nivel 3: Betocs Hatake",
+              "description": "La maestría del hielo te azecha, debes acabar con él antes de que sea demasiado tarde.",
+              "mode": "7v1",
+               "firstClearRewards": [
+                { "type": "coins", "amount": 5000 },
+                { "type": "item", "itemId": "ggd1_coin", "amount": 10 },
+                { "type": "item", "itemId": "pendiente_betocs", "amount": 1, "probability": 5 },
+                { "type": "traits", "amount": 2, "probability": 80 }
+                
+              ],
+              "repeatRewards": [
+                { "type": "coins", "amount": 5000 },
+                { "type": "item", "itemId": "ggd1_coin", "amount": 10 },
+                { "type": "item", "itemId": "pendiente_betocs", "amount": 1, "probability": 3 },
+                { "type": "traits", "amount": 2, "probability": 80 }
+              ]
+            },
+            {
+              "id": "dificil_ggd1_4",
+              "levelNumber": 4,
+              "name": "Nivel 4: Shiroku Kowai",
+              "description": "El nigromante, muy peligroso por su capacidad para alcanzar tu alma, se precavido o acabarás mal.",
+              "mode": "7v1",
+               "firstClearRewards": [
+               { "type": "coins", "amount": 5000 },
+                { "type": "item", "itemId": "ggd1_coin", "amount": 10 },
+                { "type": "item", "itemId": "guadanya", "amount": 1, "probability": 5 },
+                { "type": "traits", "amount": 2, "probability": 80 }
+                
+              ],
+              "repeatRewards": [
+                { "type": "coins", "amount": 5000 },
+                { "type": "item", "itemId": "ggd1_coin", "amount": 10 },
+                { "type": "item", "itemId": "guadanya", "amount": 1, "probability": 3 },
+                { "type": "traits", "amount": 2, "probability": 80 }
+              ]
+            },
+            {
+              "id": "dificil_ggd1_5",
+              "levelNumber": 5,
+              "name": "Nivel 5: Zankoku",
+              "description": "El héroe de Kizoku revela su lado oscuro... ya no te queda de otra que acabar con él.",
+              "mode": "7v1",
+              "firstClearRewards": [
+                { "type": "coins", "amount": 5000 },
+                { "type": "item", "itemId": "ggd1_coin", "amount": 10 },
+                { "type": "item", "itemId": "tumba_del_heroe", "amount": 1, "probability": 5 },
+                { "type": "traits", "amount": 2, "probability": 80 }
+                
+              ],
+              "repeatRewards": [
+                { "type": "coins", "amount": 5000 },
+                { "type": "item", "itemId": "ggd1_coin", "amount": 10 },
+                { "type": "item", "itemId": "tumba_del_heroe", "amount": 1, "probability": 5 },
+                { "type": "traits", "amount": 2, "probability": 80 }
               ]
             }
           ]
