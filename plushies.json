@@ -264,6 +264,250 @@
         { "ninjutsu": 2 },
         { "velocidad": 2 }
       ]
-    }
+    },
+    {
+    "id": "suta",
+    "nombre": "Suta",
+    "descripcion": "La diosa de la luna",
+    "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/ayato.png",
+    "ownerId": [
+      "ayato_hyuga",
+      "ayato_hyuga_codw",
+      "ayato_hyuga_flashback",
+      "ayato_hyuga_icono",
+      "ayato_hyuga_iconoprime",
+      "ayato_hyuga_iconosuperprime"
+    ],
+    "universal": false,
+    "buff": [
+      {
+        "media": 2
+      },
+      {
+        "velocidad": 3
+      },
+      {
+        "ninjutsu": 1
+      }
+    ]
+  },
+  {
+    "id": "ayato_uzumaki",
+    "nombre": "Ayato Uzumaki",
+    "descripcion": "Al igual que la luna con la Tierra, siempre estuvo con él como un satélite",
+    "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/betocs.png",
+    "ownerId": [
+      "betocs_hatake_codw",
+      "betocs_hatake_evo_codwmoments",
+      "betocs_hatake_flashback",
+      "betocs_hatake_icono",
+      "betocs_hatake_iconoprime",
+      "betocs_hatake_iconosuperprime"
+    ],
+    "universal": false,
+    "buff": [
+      {
+        "media": 2
+      },
+      {
+        "fisico": 2
+      },
+      {
+        "taijutsu": 1
+      }
+    ]
+  },
+  {
+    "id": "suru_sagi",
+    "nombre": "Suru Sagi",
+    "descripcion": "<<Me da igual que no tengamos la misma sangre, tu eres mi hermanito>>",
+    "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/dankha.png",
+    "ownerId": [
+      "dankha_sagi",
+      "dankha_sagi_codw",
+      "dankha_sagi_cota1",
+      "dankha_sagi_evo_codwmoments"
+    ],
+    "universal": false,
+    "buff": [
+      {
+        "media": 2
+      },
+      {
+        "velocidad": 2
+      },
+      {
+        "ninjutsu": 2
+      }
+    ]
+  },
+  {
+    "id": "sora_inazuma",
+    "nombre": "Sora Inazuma",
+    "descripcion": "Aquella que lo acompañó aún cuando ni él mismo se reconocia",
+    "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/iyari.png",
+    "ownerId": [
+      "iyari_ryuga_flashback",
+      "iyari_ryuga_icono",
+      "iyari_ryuga_iconoprime",
+      "iyari_ryuga_iconosuperprime"
+    ],
+    "universal": false,
+    "buff": [
+      {
+        "media": 1
+      },
+      {
+        "ninjutsu": 2
+      },
+      {
+        "resistencia": 2
+      }
+    ]
+  },
+  {
+    "id": "doman_kurimunzoso",
+    "nombre": "Doman Kurimunzoso",
+    "descripcion": "Una fuerte lealtad rota por errores y resentimientos",
+    "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/kai.png",
+    "ownerId": [
+      "kai_senju_codw",
+      "kai_senju_flashback",
+      "kai_senju_icono",
+      "kai_senju_iconoprime",
+      "kai_senju_iconosuperprime"
+    ],
+    "universal": false,
+    "buff": [
+      {
+        "media": 2
+      },
+      {
+        "fisico": 2
+      },
+      {
+        "resistencia": 2
+      }
+    ]
+  },
+  {
+    "id": "taiyo_uchiha",
+    "nombre": "Taiyo Uchiha",
+    "descripcion": "Aunque no lo mostrara, fue la parte más importante de su vida",
+    "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/kiri.png",
+    "ownerId": [
+      "kiri_uzumaki",
+      "kiri_uzumaki_iconoprime",
+      "kiri_uzumaki_iconosuperprime"
+    ],
+    "universal": false,
+    "buff": [
+      {
+        "media": 2
+      },
+      {
+        "ninjutsu": 2
+      },
+      {
+        "defensa": 1
+      },
+      {
+        "velocidad": 1
+      }
+    ]
+  },
+  {
+    "id": "aya",
+    "nombre": "Aya",
+    "descripcion": "Te forjaré como una hija",
+    "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/ryuki.png",
+    "ownerId": [
+      "ryuki_codwmoments",
+      "ryuki_heroe",
+      "ryuki_icono",
+      "ryuki_iconoprime",
+      "ryuki_iconosuperprime"
+    ],
+    "universal": false,
+    "buff": [
+      {
+        "media": 1
+      },
+      {
+        "ninjutsu": 1
+      },
+      {
+        "resistencia": 1
+      },
+      {
+        "taijutsu": 1
+      },
+      {
+        "defensa": 1
+      }
+    ]
+  },
+  {
+    "id": "mei_uzumaki",
+    "nombre": "Mei Uzumaki",
+    "descripcion": "De cierta manera la vio crecer, pero también la vio perecer",
+    "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/shind.png",
+    "ownerId": [
+      "shind_inazuma_icono",
+      "shind_inazuma_iconoprime",
+      "shind_inazuma_iconosuperprime"
+    ],
+    "universal": false,
+    "buff": [
+      {
+        "media": 1
+      },
+      {
+        "velocidad": 3
+      }
+    ]
+  },
+  {
+    "id": "kosuke_y_kenta",
+    "nombre": "Kosuke y Kenta",
+    "descripcion": "No había mayor felicidad y orgullo que el saber que sus hermanos tenían el potencial para superarlo, lástima que nunca llegó ese día, pero nunca permitió que los separaran...",
+    "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/shiroku.png",
+    "ownerId": [
+      "shiroku_kowai",
+      "shiroku_kowai_codw",
+      "shiroku_kowai_evo_codwmoments"
+    ],
+    "universal": false,
+    "buff": [
+      {
+        "resistencia": 1
+      },
+      {
+        "defensa": 3
+      }
+    ]
+  },
+  {
+    "id": "tamiko_ozoku",
+    "nombre": "Tamiko Ozoku",
+    "descripcion": "Aquella que le mostró la bondad y le dio la oportunidad de cambiar y ser lo que es hoy, un gran héroe",
+    "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/yabanYzankoku.png",
+    "ownerId": [
+      "yaban_hito",
+      "zankoku_codwmoments"
+    ],
+    "universal": false,
+    "buff": [
+      {
+        "media": 2
+      },
+      {
+        "fisico": 2
+      },
+      {
+        "resistencia": 2
+      }
+    ]
+  }
   ]
 }
