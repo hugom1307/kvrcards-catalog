@@ -236,5 +236,53 @@
   "boxColor": "linear-gradient(to right, #2B91BA 0%, #81BBE4 100%)",
   "borderColor": "#28E4C2",
   "descripcion": "Fondo obtenido al alcanzar el prestigio 5 con Raiden Senjuro."
-}
+},
+  {
+        "id":  "fondo_yaban",
+        "nombre":  "Yaban Hito",
+        "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_yaban.png",
+        "boxColor":  "linear-gradient(to right, #4A154B 0%, #280D2C 100%)",
+        "borderColor":  "#D4AF37",
+        "descripcion":  "Fondo obtenido al alcanzar el prestigio 5 con Yaban Hito."
+    },
+    {
+        "id":  "fondo_shiroku",
+        "nombre":  "Shiroku Kowai",
+        "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_shiroku.png",
+        "boxColor":  "linear-gradient(to right, #71717A 0%, #27272A 100%)",
+        "borderColor":  "#E4E4E7",
+        "descripcion":  "Fondo obtenido al alcanzar el prestigio 5 con Shiroku Kowai."
+    },
+    {
+        "id":  "fondo_ryuki",
+        "nombre":  "Ryuki",
+        "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_ryuki.png",
+        "boxColor":  "linear-gradient(to right, #78350F 0%, #451A03 100%)",
+        "borderColor":  "#F59E0B",
+        "descripcion":  "Fondo obtenido al alcanzar el prestigio 5 con Ryuki."
+    },
+    {
+        "id":  "fondo_ayato",
+        "nombre":  "Ayato Hyuga",
+        "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_ayato.png",
+        "boxColor":  "linear-gradient(to right, #1E3A8A 0%, #172554 100%)",
+        "borderColor":  "#60A5FA",
+        "descripcion":  "Fondo obtenido al alcanzar el prestigio 5 con Ayato Hyuga."
+    },
+    {
+        "id":  "fondo_kai",
+        "nombre":  "Kai Senju",
+        "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_kai.png",
+        "boxColor":  "linear-gradient(to right, #9A3412 0%, #431407 100%)",
+        "borderColor":  "#FB923C",
+        "descripcion":  "Fondo obtenido al alcanzar el prestigio 5 con Kai Senju."
+    },
+    {
+        "id":  "fondo_betocs",
+        "nombre":  "Betocs Hatake",
+        "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_betocs.png",
+        "boxColor":  "linear-gradient(to right, #334155 0%, #0F172A 100%)",
+        "borderColor":  "#38BDF8",
+        "descripcion":  "Fondo obtenido al alcanzar el prestigio 5 con Betocs Hatake."
+    }
 ]
