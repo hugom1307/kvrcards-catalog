@@ -255,6 +255,22 @@
     "coins": 20000,
     "kvr": 40
   }
+},
+{
+  "id": "sobre_guerradanzas",
+  "name": "Sobre de La Gran Guerra de las Danzas",
+  "cardsPerPack": 1,
+  "strategy": "qualityMedia",
+  "qualityWeights": {
+    "codw": 50,
+    "codwmoments": 50
+  },
+  "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_guerradanzas.png",
+  "openingGradient": ["#191D7A", "#563636", "#842B2B"],
+  "price": {
+    "coins": 60000,
+    "kvr": 40
+  }
 }
 ],
 "shop": [
