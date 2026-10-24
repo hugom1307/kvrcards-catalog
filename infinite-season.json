@@ -1,56 +1,58 @@
 {
-  "version": 2,
+  "version": 3,
   "season": {
-    "id": "season-2",
-    "name": "Temporada 2 - El Gran Torneo de Haseo"
+    "id": "season-3",
+    "name": "Temporada 3 - La Gran Guerra de las Danzas I"
   },
   "rewards": [
     {
       "level": 10,
       "rewards": [
-        { "type": "coins", "amount": 5000 },
-        { "type": "traits", "amount": 5 }
+        { "type": "coins", "amount": 15000 },
+        { "type": "traits", "amount": 15 }
       ]
     },
     {
       "level": 20,
       "rewards": [
-        { "type": "packs", "packId": "sobre_83_plus", "amount": 2 },
-        { "type": "traits", "amount": 5 }
+        { "type": "packs", "packId": "sobre_83_plus", "amount": 3 },
+        { "type": "traits", "amount": 15 }
       ]
     },
     {
       "level": 30,
       "rewards": [
         { "type": "packs", "packId": "sobre_85_plus", "amount": 1 },
-        { "type": "traits", "amount": 10 }
+        { "type": "traits", "amount": 20 }
       ]
     },
     {
       "level": 40,
       "rewards": [
         { "type": "coins", "amount": 30000 },
-        { "type": "packs", "packId": "sobre_torneohaseo", "amount": 2 }
+        { "type": "packs", "packId": "sobre_guerradanzas", "amount": 3 }
       ]
     },
     {
       "level": 50,
       "rewards": [
-        { "type": "title", "titleId": "anfitrion"},
-        { "type": "card", "cardId": "haseo_otsutsuki_exclusive" },
-        { "type": "traits", "amount": 20 }
+        { "type": "title", "titleId": "ying_y_yang"},
+        { "type": "card", "cardId": "ayato_betocs_exclusive" },
+        { "type": "traits", "amount": 50 }
       ]
     },
     {
       "level": 60,
       "rewards": [
-        { "type": "traits", "amount": 25 }
+        { "type": "traits", "amount": 25 },
+        { "type": "packs", "packId": "sobre_legendario", "amount": 1 }
       ]
     },
     {
       "level": 70,
       "rewards": [
-        { "type": "traits", "amount": 30 }
+        { "type": "traits", "amount": 30 },
+        { "type": "packs", "packId": "sobre_guerradanzas", "amount": 3 }
       ]
     },
     {
@@ -63,14 +65,17 @@
     {
       "level": 90,
       "rewards": [
-        { "type": "traits", "amount": 50 }
+        { "type": "traits", "amount": 100 }
       ]
     },
     {
       "level": 100,
       "rewards": [
         { "type": "coins", "amount": 100000 },
-        { "type": "packs", "packId": "sobre_edotensei", "amount": 1 }
+        { "type": "packs", "packId": "sobre_guerradanzas", "amount": 5 },
+        { "type": "card", "cardId": "ayato_betocs_exclusive" },
+        { "type": "item", "itemId": "kurama_chibi", "amount":1 }
+        
       ]
     }
   ],
