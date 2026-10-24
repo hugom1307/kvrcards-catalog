@@ -1,6 +1,18 @@
 {
   "updates": [
     {
+      "version": "2.9.3",
+      "title": "Parche 2.9.3: Corrección Integral de Prestigios Personalizados y Reclamos",
+      "description": "Corrección exhaustiva en la sincronización de prestigios personalizados: normalización de variantes de cartas (CODW, Moments, etc.) para compartir progreso, purga de reclamos fantasma y protección de recompensas desbloqueables.",
+      "date": "2026-10-24",
+      "improvements": [
+        "Normalización de variantes de cartas: cartas con sufijos especiales (_codw, _moments, _danza_imperfecta, etc.) ahora se unifican bajo la clave canónica del personaje, compartiendo el mismo prestigio personalizado y nivel.",
+        "Corrección de reclamos bloqueados: eliminados reclamos fantasma persistentes que impedían volver a reclamar recompensas de nivel al añadir un prestigio personalizado.",
+        "Sincronización bidireccional en Electron: optimizada la eliminación de reclamos por personaje con búsqueda normalizada en el backend para evitar que se restauren reclamos obsoletos.",
+        "Protección contra sobreescritura de XP: blindado el sistema de respaldo histórico para que nunca re-inyecte progreso antiguo sobre personajes con prestigios personalizados activos."
+      ]
+    },
+    {
       "version": "2.9.2",
       "title": "Parche 2.9.2: Nuevas Evoluciones, Categoría Evoluciones Pasadas y Nuevos Objetos",
       "description": "Nueva sección de Evoluciones Pasadas con su botón gráfico oficial, 6 nuevas evoluciones (Ayato & Betocs, Junketsu, Betocs Hatake Moments, Shiroku Kowai Moments, Dankha Sagi Moments y Kyō) con misiones específicas y soporte para recompensas de items en la temporada del modo Infinito.",

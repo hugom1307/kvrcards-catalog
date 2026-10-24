@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "2.9.2",
-                    "minimumRequired":  "2.9.2",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.9.2.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.9.2.zip",
-                    "changelog":  "Evoluciones exclusivamente remotas sin archivos locales",
+                    "current":  "2.9.3",
+                    "minimumRequired":  "2.9.3",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.9.3.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.9.3.zip",
+                    "changelog":  "Correccion integral de prestigios personalizados y reclamos",
                     "forceUpdate":  true
                 }
 }
