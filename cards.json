@@ -4852,7 +4852,7 @@
         "owner":  "Manuel16"
     },
     {
-        "id":  "ryuki_codwmoments",
+        "id":  "ryuki_codw",
         "name":  "Ryuki",
         "stats":  [
                       96,
@@ -4864,7 +4864,7 @@
                   ],
         "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ryuki_codwmoments.png",
         "media":  91,
-        "calidad":  "codwmoments",
+        "calidad":  "codw",
         "procedencia":  "Iwagakure",
         "owner":  "Wailant"
     },
