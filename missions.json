@@ -1992,5 +1992,354 @@
       }
     ],
     "repeatable": false
+  },
+  {
+    "id": "mision_lim_generales_rura",
+    "category": "limited",
+    "name": "Los Tres Generales de Rura",
+    "title": "Los Tres Generales de Rura",
+    "description": "Obtén a los 3 comandantes supremos de Rura en sus versiones exclusivas de codwmoments: Ryuki, Shiroku Kowai y Zankoku.",
+    "target": 3,
+    "condition": {
+      "type": "collect_cards",
+      "requiredCount": 3,
+      "cardNames": [
+        "Ryuki",
+        "Shiroku Kowai",
+        "Zankoku"
+      ],
+      "cardIds": [
+        "ryuki_codw",
+        "shiroku_kowai_codwmoments",
+        "zankoku_codwmoments"
+      ]
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 35000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_legendario",
+        "amount": 1
+      },
+      {
+        "type": "title",
+        "titleId": "conquistador_rura"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "mision_lim_generales_aliados",
+    "category": "limited",
+    "name": "La Alianza de los Cuatro Generales",
+    "title": "La Alianza de los Cuatro Generales",
+    "description": "Recluta al cuarteto de generales aliados en sus versiones exclusivas de codw: Ronan Hatake, Ayato Hyuga, Kai Senju y Betocs Hatake.",
+    "target": 4,
+    "condition": {
+      "type": "collect_cards",
+      "requiredCount": 4,
+      "cardNames": [
+        "Ronan Hatake",
+        "Ayato Hyuga",
+        "Kai Senju",
+        "Betocs Hatake"
+      ],
+      "cardIds": [
+        "ronan_hatake_codw",
+        "ayato_hyuga_codw",
+        "kai_senju_codw",
+        "betocs_hatake_codw"
+      ]
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 40000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_especial",
+        "amount": 2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount": 1
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "mision_lim_trio_danzas_imperfectas",
+    "category": "limited",
+    "name": "El Trío de las Danzas Imperfectas",
+    "title": "El Trío de las Danzas Imperfectas",
+    "description": "Consigue a los 3 usuarios de danza imperfecta codw: Ken Inazuma, Sekitan y Kurai Tenro.",
+    "target": 3,
+    "condition": {
+      "type": "collect_cards",
+      "requiredCount": 3,
+      "cardNames": [
+        "Ken Inazuma",
+        "Sekitan",
+        "Kurai Tenro"
+      ],
+      "cardIds": [
+        "ken_inazuma_codw",
+        "sekitan_codw",
+        "kurai_tenro_codw"
+      ]
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 30000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount": 1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount": 1
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "mision_lim_trio_danzas_liberadas",
+    "category": "limited",
+    "name": "El Trío de las Danzas Liberadas",
+    "title": "El Trío de las Danzas Liberadas",
+    "description": "Despierta el poder supremo reuniendo a los 3 usuarios de danza liberada codwmoments: Ken Inazuma, Sekitan y Kurai Tenro.",
+    "target": 3,
+    "condition": {
+      "type": "collect_cards",
+      "requiredCount": 3,
+      "cardNames": [
+        "Ken Inazuma",
+        "Sekitan",
+        "Kurai Tenro"
+      ],
+      "cardIds": [
+        "ken_inazuma_codwmoments",
+        "sekitan_codwmoments",
+        "kurai_tenro_codwmoments"
+      ]
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 45000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_especial",
+        "amount": 2
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_85_plus",
+        "amount": 1
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "mision_lim_choque_frentes",
+    "category": "limited",
+    "name": "Choque en el Frente de Batalla",
+    "title": "Choque en el Frente de Batalla",
+    "description": "Gana 25 batallas durante la vigencia del evento alineando al menos 2 cartas vinculadas al conflicto bélico (calidades codw / codwmoments).",
+    "target": 25,
+    "condition": {
+      "type": "battles_won",
+      "filter": {
+        "eventGroup": "guerra_rura_evento",
+        "acceptedQualities": [
+          "codw",
+          "codwmoments"
+        ],
+        "minThematicCards": 2
+      }
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 20000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_especial",
+        "amount": 1
+      },
+      {
+        "type": "item",
+        "itemId": "plush_coin",
+        "amount": 1
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "mision_lim_dominio_absoluto_evento",
+    "category": "limited",
+    "name": "Dominio Supremo de la Guerra",
+    "title": "Dominio Supremo de la Guerra",
+    "description": "Gana 75 rondas de combate en los escenarios del evento y consolida tu supremacía total.",
+    "target": 75,
+    "condition": {
+      "type": "rounds_won",
+      "filter": {
+        "eventGroup": "guerra_danzas"
+      }
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 50000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_legendario",
+        "amount": 1
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_90_plus",
+        "amount": 1
+      },
+      {
+        "type": "title",
+        "titleId": "soberano_de_la_guerra"
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "mision_fund_primer_plushie",
+    "category": "fundamentals",
+    "name": "El Despertar del Familiar",
+    "title": "El Despertar del Familiar",
+    "description": "Equipa un Omni Plushie a cualquier carta de tu alineación titular por primera vez.",
+    "target": 1,
+    "condition": {
+      "type": "equip_plushie",
+      "plushieId": "omni_plushie"
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 1500
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_plata",
+        "amount": 1
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "mision_fund_desgaste_plushie",
+    "category": "fundamentals",
+    "name": "Resonancia y Desgaste Táctico",
+    "title": "Resonancia y Desgaste Táctico",
+    "description": "Completa el ciclo completo de 16 partidas de durabilidad con un Omni Plushie aprovechando sus 4 fases de bonificación.",
+    "target": 16,
+    "condition": {
+      "type": "battles_with_plushie",
+      "plushieId": "omni_plushie"
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 3500
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_oro",
+        "amount": 1
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "mision_fund_maestria_prestigio",
+    "category": "fundamentals",
+    "name": "Hacia el Rango de Maestro",
+    "title": "Hacia el Rango de Maestro",
+    "description": "Alcanza el nivel 5 de Prestigio con cualquier carta base para desbloquear los requisitos de forja de su peluche exclusivo.",
+    "target": 1,
+    "condition": {
+      "type": "card_prestige_level",
+      "targetLevel": 5
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 6000
+      },
+      {
+        "type": "item",
+        "itemId": "plush_coin",
+        "amount": 1
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "mision_fund_crafteo_exclusivo",
+    "category": "fundamentals",
+    "name": "La Forja del Peluche Exclusivo",
+    "title": "La Forja del Peluche Exclusivo",
+    "description": "Fabrica con éxito tu primer Familiar Exclusivo de personaje en el taller de evoluciones (evo_plushies).",
+    "target": 1,
+    "condition": {
+      "type": "craft_evo_plushie"
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 10000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_83_plus",
+        "amount": 1
+      }
+    ],
+    "active": true
+  },
+  {
+    "id": "mision_fund_sinergia_familiar_titular",
+    "category": "fundamentals",
+    "name": "Sinergia de Alma Gemela",
+    "title": "Sinergia de Alma Gemela",
+    "description": "Gana 20 rondas de combate en el equipo titular con una carta que lleve equipado su Plushie Exclusivo personal.",
+    "target": 20,
+    "condition": {
+      "type": "rounds_won",
+      "filter": {
+        "withExclusivePlushie": true
+      }
+    },
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 15000
+      },
+      {
+        "type": "pack",
+        "packId": "sobre_especial",
+        "amount": 1
+      }
+    ],
+    "active": true
   }
 ]

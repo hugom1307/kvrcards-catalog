@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "2.9.3",
-                    "minimumRequired":  "2.9.3",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.9.3.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-2.9.3.zip",
-                    "changelog":  "Correccion integral de prestigios personalizados y reclamos",
+                    "current":  "3.0.0",
+                    "minimumRequired":  "3.0.0",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.0.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.0.zip",
+                    "changelog":  "Actualizacion 3.0.0: Nuevas misiones limitadas y fundamentales, correccion en seleccion de estadisticas de combate y mejoras de rasgos",
                     "forceUpdate":  true
                 }
 }

@@ -1,6 +1,19 @@
 {
   "updates": [
     {
+      "version": "3.0.0",
+      "title": "Actualización 3.0.0: Nuevas Misiones del Evento y Fundamentales, y Correcciones de Combate",
+      "description": "Gran actualización con 11 nuevas misiones (6 de evento limitadas y 5 fundamentales de Plushies y Prestigio), soporte para recompensas de objetos y títulos, corrección crítica en la selección de estadísticas y control de turnos en combate.",
+      "date": "2026-10-24",
+      "improvements": [
+        "Nuevas Misiones Limitadas del Evento: Incorporadas 'Los Tres Generales de Rura', 'La Alianza de los Cuatro Generales', 'El Trío de las Danzas Imperfectas', 'El Trío de las Danzas Liberadas', 'Choque en el Frente de Batalla' y 'Dominio Supremo de la Guerra' con títulos exclusivos 'Conquistador de Rura' y 'Soberano de la Guerra'.",
+        "Nuevas Misiones Fundamentales: 'El Despertar del Familiar' (equipar Omni Plushie), 'Resonancia y Desgaste Táctico' (16 partidas de durabilidad), 'Hacia el Rango de Maestro' (Prestigio Nvl 5), 'La Forja del Peluche Exclusivo' (fabricar familiar exclusivo) y 'Sinergia de Alma Gemela' (20 rondas ganadas con peluche exclusivo titular).",
+        "Soporte Completo para Recompensas de Items en Misiones: Normalización, visualización con icono dinámico y acreditación automática en el inventario al reclamar recompensas de objetos.",
+        "Corrección Crítica en Combates: Solucionado el bloqueo al inicio de batalla donde se ejecutaba incorrectamente la selección aleatoria de IA y los botones de estadísticas dejaban de responder.",
+        "Perfeccionamiento del Rasgo Inmo: Sincronización visual inmediata en pantalla del valor resultante (+1) tras la reproducción de la cinemática cósmica."
+      ]
+    },
+    {
       "version": "2.9.3",
       "title": "Parche 2.9.3: Corrección Integral de Prestigios Personalizados y Reclamos",
       "description": "Corrección exhaustiva en la sincronización de prestigios personalizados: normalización de variantes de cartas (CODW, Moments, etc.) para compartir progreso, purga de reclamos fantasma y protección de recompensas desbloqueables.",

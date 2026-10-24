@@ -1,550 +1,436 @@
 [
- {
+  {
     "id": "novato",
     "name": "Novato",
     "description": "Título inicial para todos los jugadores",
     "gradient": "linear-gradient(135deg, #9b9b9b 0%, #191919 100%)",
-    "unlockDescription":"Juega al juego Bro"
+    "unlockDescription": "Juega al juego Bro"
   },
   {
     "id": "knight_supporter",
     "name": "KNIGHT SUPPORTER",
     "description": "Eres un grande, título por apoyar a los creadores del juego.",
     "gradient": "linear-gradient(135deg, #FFB300 0%, #CC9D1C 20%, #998738 40%, #667255 60%, #335C71 80%, #00468D 100%)",
-    "unlockDescription":"Compra la oferta de bienvenida y dale plata al owner para que tenga para comer"
+    "unlockDescription": "Compra la oferta de bienvenida y dale plata al owner para que tenga para comer"
   },
   {
     "id": "coleccionista",
     "name": "Coleccionista",
     "description": "Demuestra tu amor por el coleccionismo",
-    "gradient":"linear-gradient(to left, #008080 0%, #FFFFFF 25%, #05C1FF 50%, #FFFFFF 75%, #005757 100%)",
-    "unlockDescription":"Consigue 50 cartas diferentes"
+    "gradient": "linear-gradient(to left, #008080 0%, #FFFFFF 25%, #05C1FF 50%, #FFFFFF 75%, #005757 100%)",
+    "unlockDescription": "Consigue 50 cartas diferentes"
   },
   {
     "id": "adinerado",
     "name": "Adinerado",
     "description": "I have money",
-    "gradient":"linear-gradient(to right, #B7DEED 0%, #E9EFB9 25%, #0EE266 75%, #F3FF0C 100%)",
-    "unlockDescription":"Acumula 10,000 Coins"
+    "gradient": "linear-gradient(to right, #B7DEED 0%, #E9EFB9 25%, #0EE266 75%, #F3FF0C 100%)",
+    "unlockDescription": "Acumula 10,000 Coins"
   },
   {
     "id": "abridor",
     "name": "Abridor de Sobres",
     "description": "Let´s go Gambling",
-    "gradient":"linear-gradient(to right, #E4EFC0 0%, #ABBD73 100%)",
-    "unlockDescription":"Abre 100 sobres"
+    "gradient": "linear-gradient(to right, #E4EFC0 0%, #ABBD73 100%)",
+    "unlockDescription": "Abre 100 sobres"
   },
   {
     "id": "oro_puro",
     "name": "Oro Puro",
     "description": "Oro de 24 Quilates",
-    "gradient":"linear-gradient(to right, #FCEABB 0%, #F9FC52 50%, #F87408 51%, #FBDF93 100%)",
-    "unlockDescription":"Consigue 10 cartas de calidad Oro"
+    "gradient": "linear-gradient(to right, #FCEABB 0%, #F9FC52 50%, #F87408 51%, #FBDF93 100%)",
+    "unlockDescription": "Consigue 10 cartas de calidad Oro"
   },
   {
     "id": "icono_legendario",
     "name": "Icono Legendario",
     "description": "Conviértete en el mejor knightCard Trainer",
-    "gradient":"linear-gradient(to right, #CB60B3 0%, #C146A1 50%, #A80077 51%, #DB36A4 100%)",
-    "unlockDescription":"Consigue 5 cartas de calidad Icono"
+    "gradient": "linear-gradient(to right, #CB60B3 0%, #C146A1 50%, #A80077 51%, #DB36A4 100%)",
+    "unlockDescription": "Consigue 5 cartas de calidad Icono"
   },
   {
     "id": "millonario",
     "name": "Millonario",
     "description": "Parezco el banco de España",
-    "gradient":"linear-gradient(to bottom right, #CB9902 0%, #FBCE04 50%, #EAEAEA 51%, #DBB613 100%)",
-    "unlockDescription":"Acumula 100,000 Coins"
+    "gradient": "linear-gradient(to bottom right, #CB9902 0%, #FBCE04 50%, #EAEAEA 51%, #DBB613 100%)",
+    "unlockDescription": "Acumula 100,000 Coins"
   },
   {
     "id": "maestro_kvr",
     "name": "Maestro KvR",
     "description": "Un verdadero Senior del juego",
-    "gradient":"linear-gradient(to right, #A7CFDF 0%, #23538A 100%)",
-    "unlockDescription":"Acumula 1,000 KvR Coins"
+    "gradient": "linear-gradient(to right, #A7CFDF 0%, #23538A 100%)",
+    "unlockDescription": "Acumula 1,000 KvR Coins"
   },
   {
     "id": "elite",
     "name": "Élite",
     "description": "Demuestra que el dinero sobra",
-    "gradient":"linear-gradient(to left, #00FF00 0%, #00FFFF 100%)",
-    "unlockDescription":"Compra este título exclusivo por 500 KvR Coins"
+    "gradient": "linear-gradient(to left, #00FF00 0%, #00FFFF 100%)",
+    "unlockDescription": "Compra este título exclusivo por 500 KvR Coins"
   },
   {
     "id": "emperador_infinito",
     "name": "Emperador del Infinito",
     "description": "La danza del emperador te pertenece, has demostrado tu valía para conseguirla.",
-    "gradient":"linear-gradient(to right, #610000 0%, #CF1512 50%, #5C0908 100%)",
-    "unlockDescription":"Llega a nivel 50 del modo infinito durante la Temporada 1"
+    "gradient": "linear-gradient(to right, #610000 0%, #CF1512 50%, #5C0908 100%)",
+    "unlockDescription": "Llega a nivel 50 del modo infinito durante la Temporada 1"
   },
   {
     "id": "esperanza_desesperacion",
     "name": "Esperanza y Desesperación",
     "description": "Dos características únicas... ¿la luz de la esperanza, o la oscuridad de la desesperación?",
-    "gradient":"linear-gradient(to left, #40B43A 0%, #FC9145 100%)",
-    "unlockDescription":"Completa el Kizuna 'Esperanza y Desesperación'"
+    "gradient": "linear-gradient(to left, #40B43A 0%, #FC9145 100%)",
+    "unlockDescription": "Completa el Kizuna 'Esperanza y Desesperación'"
   },
   {
     "id": "poderes_kizoku",
     "name": "Poder de Kizoku",
     "description": "La máxima autoridad y poder del reino de Kizoku, encargados de papeles fundamentales y de hacer prosperar al reino de Kizoku",
-    "gradient":"linear-gradient(to left, #000000 13%, #0084FF 53%, #362224 59%, #F9D892 86%)",
-    "unlockDescription":"Completa el Kizuna 'Los 4 poderes de Kizoku'"
+    "gradient": "linear-gradient(to left, #000000 13%, #0084FF 53%, #362224 59%, #F9D892 86%)",
+    "unlockDescription": "Completa el Kizuna 'Los 4 poderes de Kizoku'"
   },
-   {
+  {
     "id": "elemental",
     "name": "Maestro elemental",
     "description": "El máximo exponente de cada elemento básico",
-    "gradient":"linear-gradient(to left, #FC9145 11%, #0084FF 21%, #663535 26%, #00FF00 74%, #7454FF 100%)",
-    "unlockDescription":"Completa el Kizuna 'Los elementales'"
+    "gradient": "linear-gradient(to left, #FC9145 11%, #0084FF 21%, #663535 26%, #00FF00 74%, #7454FF 100%)",
+    "unlockDescription": "Completa el Kizuna 'Los elementales'"
   },
   {
     "id": "heroe",
     "name": "Héroe de Kizoku",
     "description": "Orgulloso de mantener la seguridad en el reino de kizoku",
-    "gradient":"radial-gradient(circle farthest-corner at center center, #FC0000 0%, #F7FF56 100%)",
-     "unlockDescription":"Completa el Kizuna 'Héroes de Kizoku'"
+    "gradient": "radial-gradient(circle farthest-corner at center center, #FC0000 0%, #F7FF56 100%)",
+    "unlockDescription": "Completa el Kizuna 'Héroes de Kizoku'"
   },
-   {
+  {
     "id": "fundador_ani",
     "name": "Fundador de la A.N.I",
     "description": "Perteneciente al grupo que cambiará la historia para siempre",
-    "gradient":"radial-gradient(circle farthest-corner at center center, #EBF6FF 0%, #000000 100%)",
-    "unlockDescription":"Completa el Kizuna 'Fundadores de la A.N.I'"
+    "gradient": "radial-gradient(circle farthest-corner at center center, #EBF6FF 0%, #000000 100%)",
+    "unlockDescription": "Completa el Kizuna 'Fundadores de la A.N.I'"
   },
   {
     "id": "fundador_dam",
     "name": "Fundador de la D.A.M",
     "description": "Perteneciente al grupo que detendrá los planes de la A.N.I",
-    "gradient":"radial-gradient(circle farthest-corner at bottom center, #C121CF 0%, #CF94C6 100%)",
-    "unlockDescription":"Completa el Kizuna 'Fundadores de la D.A.M'"
+    "gradient": "radial-gradient(circle farthest-corner at bottom center, #C121CF 0%, #CF94C6 100%)",
+    "unlockDescription": "Completa el Kizuna 'Fundadores de la D.A.M'"
   },
-    {
+  {
     "id": "hermano_problematico",
     "name": "Hermano problemático",
     "description": "Familia disfuncional",
-    "gradient":"linear-gradient(to top left, #DEE591 0%, #DCE1E5 100%)",
-    "unlockDescription":"Completa el Kizuna 'Hermanos problemáticos'"
+    "gradient": "linear-gradient(to top left, #DEE591 0%, #DCE1E5 100%)",
+    "unlockDescription": "Completa el Kizuna 'Hermanos problemáticos'"
   },
   {
     "id": "maya",
     "name": "Maya Mancha",
     "description": "Él único e inigualable",
-    "gradient":"linear-gradient(to top left, #E5B8B8 0%, #E57F7F 100%)",
-    "unlockDescription":"Completa el Kizuna 'Familia Maya'"
+    "gradient": "linear-gradient(to top left, #E5B8B8 0%, #E57F7F 100%)",
+    "unlockDescription": "Completa el Kizuna 'Familia Maya'"
   },
-   {
+  {
     "id": "soldado",
     "name": "Soldado de Kizoku",
     "description": "Aquellos que se manchan las manos de sangre por el reino de Kizoku",
-    "gradient":"radial-gradient(circle farthest-corner at center center, #8A9196 0%, #C40000 53%, #362224 100%)",
-    "unlockDescription":"Completa el Kizuna 'Soldados de Kizoku'"
+    "gradient": "radial-gradient(circle farthest-corner at center center, #8A9196 0%, #C40000 53%, #362224 100%)",
+    "unlockDescription": "Completa el Kizuna 'Soldados de Kizoku'"
   },
-    {
+  {
     "id": "plata",
     "name": "Quiero plata 🤑",
     "description": "Todo sea por el dinero",
-    "gradient":"linear-gradient(to right, #FCCD4D 0%, #F8B500 51%, #FBDF93 100%)",
-    "unlockDescription":"Completa el Kizuna 'Plata 🤑'"
+    "gradient": "linear-gradient(to right, #FCCD4D 0%, #F8B500 51%, #FBDF93 100%)",
+    "unlockDescription": "Completa el Kizuna 'Plata 🤑'"
   },
   {
     "id": "ikari",
     "name": "Ikari",
     "description": "El clan con más ambición",
-    "gradient":" linear-gradient(to top, #FFFB05 0%, #0CFFFB 100%)",
-    "unlockDescription":"Completa el Kizuna 'Clan Ikari'"
+    "gradient": " linear-gradient(to top, #FFFB05 0%, #0CFFFB 100%)",
+    "unlockDescription": "Completa el Kizuna 'Clan Ikari'"
   },
   {
     "id": "rival",
     "name": "⚪ Rival eterno ⚪",
     "description": "Todo por mis amigos",
-    "gradient":" linear-gradient(to bottom right, #FEFEFE 10%, #0374FF 100%)",
-    "unlockDescription":"Completa el Kizuna 'Rivalidad eterna'"
+    "gradient": " linear-gradient(to bottom right, #FEFEFE 10%, #0374FF 100%)",
+    "unlockDescription": "Completa el Kizuna 'Rivalidad eterna'"
   },
   {
     "id": "rival2",
     "name": "⚫ Rival eterno ⚫",
     "description": "Todo por mi hijo",
-    "gradient":"linear-gradient(to bottom right, #D60000 10%, #000000 100%)",
-    "unlockDescription":"Completa el Kizuna 'Rivalidad eterna'"
+    "gradient": "linear-gradient(to bottom right, #D60000 10%, #000000 100%)",
+    "unlockDescription": "Completa el Kizuna 'Rivalidad eterna'"
   },
   {
     "id": "cientifico",
     "name": "Científico",
     "description": "<<En verdad...La ciencia es hermosa>>",
-    "gradient":"linear-gradient(to bottom left, #A6695B 20%, #D5D96C 100%)",
-    "unlockDescription":"Completa el Kizuna 'Amantes de la ciencia'"
+    "gradient": "linear-gradient(to bottom left, #A6695B 20%, #D5D96C 100%)",
+    "unlockDescription": "Completa el Kizuna 'Amantes de la ciencia'"
   },
   {
     "id": "elfo",
     "name": "Elfo",
     "description": "Regalito para el Adán 🥰",
-    "gradient":"linear-gradient(to right, #CFE7fA 0%, #6393C1 100%)",
-    "unlockDescription":"Completa el Kizuna 'Aldea Teleri'"
+    "gradient": "linear-gradient(to right, #CFE7fA 0%, #6393C1 100%)",
+    "unlockDescription": "Completa el Kizuna 'Aldea Teleri'"
   },
-    {
+  {
     "id": "kazegake",
     "name": "Kazekage",
     "description": "El rey del desierto",
-    "gradient":"linear-gradient(to bottom right, #FFE09C 0%, #FF8400 100%)",
-    "unlockDescription":"Completa el Kizuna 'Kazekages'"
+    "gradient": "linear-gradient(to bottom right, #FFE09C 0%, #FF8400 100%)",
+    "unlockDescription": "Completa el Kizuna 'Kazekages'"
   },
   {
     "id": "nigromante",
     "name": "Nigromante",
     "description": "Domina las artes del alma",
-    "gradient":"linear-gradient(to bottom, #1F4037 0%, #80E1C2 100%)",
-    "unlockDescription":"Completa el Kizuna 'Nigromantes'"
+    "gradient": "linear-gradient(to bottom, #1F4037 0%, #80E1C2 100%)",
+    "unlockDescription": "Completa el Kizuna 'Nigromantes'"
   },
   {
     "id": "dueño_electrones",
     "name": "El Dueño de los Electrones",
     "description": "Tu prestigio con Ronan Hatake es el máximo. Sus mangekyos te dan poder",
     "gradient": "linear-gradient(to right, #121FCF 0%, #006AFF 20%, #CF1512 50%, #7B0D0B 80%)",
-    "unlockDescription":"Completa el prestigio de Ronan Hatake"
+    "unlockDescription": "Completa el prestigio de Ronan Hatake"
   },
   {
     "id": "amekage",
     "name": "Amekage",
     "description": "El hijo de la lluvia",
-    "gradient":"linear-gradient(to bottom right, #0D10CF 0%, #ADB8CF 100%)",
-    "unlockDescription":"Completa el Kizuna 'Amekages'"
+    "gradient": "linear-gradient(to bottom right, #0D10CF 0%, #ADB8CF 100%)",
+    "unlockDescription": "Completa el Kizuna 'Amekages'"
   },
   {
     "id": "hokage",
     "name": "Hokage",
     "description": "El protector de la hoja",
-    "gradient":"linear-gradient(to bottom left, #1AA008 53%, #FF3243 100%)",
-    "unlockDescription":"Completa el Kizuna 'Hokages'"
+    "gradient": "linear-gradient(to bottom left, #1AA008 53%, #FF3243 100%)",
+    "unlockDescription": "Completa el Kizuna 'Hokages'"
   },
-   {
+  {
     "id": "kage",
     "name": "Kage absoluto",
     "description": "Gobernador de todo el continente elemental",
-    "gradient":"linear-gradient(to right, #FF0000 0%, #FFFF00 25%, #05C1FF 50%, #FFFF00 75%, #FF0000 100%)",
-    "unlockDescription":"Completa el Kizuna 'Kages'"
+    "gradient": "linear-gradient(to right, #FF0000 0%, #FFFF00 25%, #05C1FF 50%, #FFFF00 75%, #FF0000 100%)",
+    "unlockDescription": "Completa el Kizuna 'Kages'"
   },
   {
     "id": "raiden",
     "name": "Raiden",
     "description": "Hagamos todo geométrico",
-    "gradient":"linear-gradient(to left, #358DA0 0%, #8CFF72 100%)",
-    "unlockDescription":"Completa el Kizuna 'Clan Raiden'"
+    "gradient": "linear-gradient(to left, #358DA0 0%, #8CFF72 100%)",
+    "unlockDescription": "Completa el Kizuna 'Clan Raiden'"
   },
   {
     "id": "ryuga",
     "name": "Ryuga",
     "description": "Parte del linaje maldito",
-    "gradient":"linear-gradient(to top left, #B993D6 0%, #8CA6DB 100%)",
-    "unlockDescription":"Completa el Kizuna 'Familia Ryuga'"
+    "gradient": "linear-gradient(to top left, #B993D6 0%, #8CA6DB 100%)",
+    "unlockDescription": "Completa el Kizuna 'Familia Ryuga'"
   },
-   {
+  {
     "id": "sectario",
     "name": "Sectario",
     "description": "Alabado sea el culto",
-    "gradient":"linear-gradient(to bottom, #F9F586 0%, #A1FFCE 100%)",
-    "unlockDescription":"Completa el Kizuna 'Sectarios'"
+    "gradient": "linear-gradient(to bottom, #F9F586 0%, #A1FFCE 100%)",
+    "unlockDescription": "Completa el Kizuna 'Sectarios'"
   },
   {
     "id": "noroi",
     "name": "Noroi",
     "description": "Solamente poseyendo este apellido, saben que representas un peligro alertante",
-    "gradient":"linear-gradient(to bottom, #FF0099 0%, #493240 100%)",
-    "unlockDescription":"Completa el Kizuna 'Familia Noroi'"
+    "gradient": "linear-gradient(to bottom, #FF0099 0%, #493240 100%)",
+    "unlockDescription": "Completa el Kizuna 'Familia Noroi'"
   },
-    {
+  {
     "id": "utrerano",
     "name": "Utrerano",
     "description": "¡Extrovertio y andalu!",
-    "gradient":"linear-gradient(to bottom, #C6FFDD 0%, #FBD786 50%, #F7797D 100%)",
-    "unlockDescription":"Completa el Kizuna 'Utrera'"
+    "gradient": "linear-gradient(to bottom, #C6FFDD 0%, #FBD786 50%, #F7797D 100%)",
+    "unlockDescription": "Completa el Kizuna 'Utrera'"
   },
- {
+  {
     "id": "beta",
     "name": "Beta-Tester",
     "description": "Chambeando por el pago de 0€",
-    "gradient":"linear-gradient(to bottom right, #AA4B6B 0%, #3B8D99 100%)",
-    "unlockDescription":"Haber chambeado y beta testear el juego o añadir ideas y contenido"
+    "gradient": "linear-gradient(to bottom right, #AA4B6B 0%, #3B8D99 100%)",
+    "unlockDescription": "Haber chambeado y beta testear el juego o añadir ideas y contenido"
   },
- {
+  {
     "id": "error_salvaje",
     "name": "Error Salvaje",
     "description": "Su nacimiento fue un error, pero demostrará que su vida no lo será",
-    "gradient":"linear-gradient(to bottom, #B993D6 0%, #72D5E7 100%)",
-    "unlockDescription":"Completa el prestigio de Mikori Fukasa"
+    "gradient": "linear-gradient(to bottom, #B993D6 0%, #72D5E7 100%)",
+    "unlockDescription": "Completa el prestigio de Mikori Fukasa"
   },
   {
     "id": "corrupto",
     "name": "Corrupto",
     "description": "Tras la unión y el nacimiento de su verdadero ser, todos conocerán su verdadero potencial",
-    "gradient":"linear-gradient(to bottom, #1E0004 0%, #BE82A6 100%)",
-    "unlockDescription":"Completa el prestigio de Ken Inazuma"
+    "gradient": "linear-gradient(to bottom, #1E0004 0%, #BE82A6 100%)",
+    "unlockDescription": "Completa el prestigio de Ken Inazuma"
   },
-    {
+  {
     "id": "tormenta_creciente",
     "name": "Tormenta Creciente",
     "description": "No permitirá que nadie más muera, ya sea curando o haciendo que los enemigos sufran su ira como si fuera una tormenta feroz",
-    "gradient":"linear-gradient(to bottom, #8823BF 0%, #3E4DF3 100%)",
-    "unlockDescription":"Completa el prestigio de Sekitan"
+    "gradient": "linear-gradient(to bottom, #8823BF 0%, #3E4DF3 100%)",
+    "unlockDescription": "Completa el prestigio de Sekitan"
   },
-   {
+  {
     "id": "sol_de_la_esperanza",
     "name": "Sol de la Esperanza",
     "description": "Se un Sol que guíe a tu pueblo",
-    "gradient":"linear-gradient(to bottom, #FF6A00 0%, #FFEA01 100%)",
-    "unlockDescription":"Completa el prestigio de Kurai Tenro"
+    "gradient": "linear-gradient(to bottom, #FF6A00 0%, #FFEA01 100%)",
+    "unlockDescription": "Completa el prestigio de Kurai Tenro"
   },
   {
     "id": "brisa_de_desesperacion",
     "name": "Brisa de Desesperación",
     "description": "Aquel que vive cada batalla como si fuera la última",
-    "gradient":"linear-gradient(to bottom, #82E874 0%, #3C3700 100%)",
-    "unlockDescription":"Completa el prestigio de Sukui Uzumaki"
+    "gradient": "linear-gradient(to bottom, #82E874 0%, #3C3700 100%)",
+    "unlockDescription": "Completa el prestigio de Sukui Uzumaki"
   },
   {
     "id": "emocion_enmascarada",
     "name": "Emoción Enmascarada",
     "description": "Transforma tus más fuertes emociones en máscaras de poder 'Por Lore'",
-    "gradient":"linear-gradient(to bottom, #FBFF03 20%, #128EF3 50%, #F30000 78%)",
-    "unlockDescription":"Completa el prestigio de Taka Uzumaki"
+    "gradient": "linear-gradient(to bottom, #FBFF03 20%, #128EF3 50%, #F30000 78%)",
+    "unlockDescription": "Completa el prestigio de Taka Uzumaki"
   },
   {
     "id": "espada_hispanica",
     "name": "Espada Hispánica",
     "description": "Demuestra tu amor por Hispania",
-    "gradient":"linear-gradient(to bottom, #FCFCFC 0%, #A4A4A4 100%)",
-    "unlockDescription":"Completa el prestigio de Vivar"
+    "gradient": "linear-gradient(to bottom, #FCFCFC 0%, #A4A4A4 100%)",
+    "unlockDescription": "Completa el prestigio de Vivar"
   },
-   {
+  {
     "id": "geometrico",
     "name": "Geométrico",
     "description": "¡Que todo sea Geométrico!",
-    "gradient":"linear-gradient(to bottom, #4DFF56 0%, #DCDCDC 100%)",
-    "unlockDescription":"Completa el prestigio de Raiden Fuutaro"
+    "gradient": "linear-gradient(to bottom, #4DFF56 0%, #DCDCDC 100%)",
+    "unlockDescription": "Completa el prestigio de Raiden Fuutaro"
   },
-   {
+  {
     "id": "desertor",
     "name": "Desertor",
     "description": "Deja todo lo que amabas y odiabas atrás para un nuevo comienzo",
-    "gradient":"linear-gradient(to bottom, #FCCD4D 0%, #91DBF8 100%)",
-    "unlockDescription":"Completa el prestigio de Kenji Ikari"
+    "gradient": "linear-gradient(to bottom, #FCCD4D 0%, #91DBF8 100%)",
+    "unlockDescription": "Completa el prestigio de Kenji Ikari"
   },
-  
-{
+  {
     "id": "mujer_de_acero",
     "name": "Mujer de Acero",
     "description": "Forjada y criada por un gigante legendario",
-    "gradient":"linear-gradient(to bottom, #DFEDFA 0%, #ADC4DA 100%)",
-    "unlockDescription":"Completa el prestigio de Aya"
+    "gradient": "linear-gradient(to bottom, #DFEDFA 0%, #ADC4DA 100%)",
+    "unlockDescription": "Completa el prestigio de Aya"
   },
   {
     "id": "hermano_de_todos",
     "name": "Hermano de todos",
     "description": "Has unido a todos los hermanos importantes del rol",
-    "gradient":"linear-gradient(to left, #381DCF 0%, #05C1FF 50%, #CF2219 100%)",
-    "unlockDescription":"Completa el Kizuna 'Hermandad absoluta'"
+    "gradient": "linear-gradient(to left, #381DCF 0%, #05C1FF 50%, #CF2219 100%)",
+    "unlockDescription": "Completa el Kizuna 'Hermandad absoluta'"
   },
- {
+  {
     "id": "alta_esfera",
     "name": "Alta Esfera",
     "description": "<<Kylian Dictador 🫡>>",
-    "gradient":"linear-gradient(to bottom, #8A2387 0%, #E94057 60%, #F27121 100%)",
-    "unlockDescription":"Asciende al plano superior de alta esfera a base de corrupción"
+    "gradient": "linear-gradient(to bottom, #8A2387 0%, #E94057 60%, #F27121 100%)",
+    "unlockDescription": "Asciende al plano superior de alta esfera a base de corrupción"
   },
- {
+  {
     "id": "otsutsuki",
     "name": "Otsutsuki",
     "description": "Reune a la raza que dió guerra en el pasado",
-    "gradient":"linear-gradient(to bottom, #5CE1FF 0%, #ECECEC 25%, #05C1FF 50%, #E9E9E9 75%, #9CF7FF 100%)",
-    "unlockDescription":"Completa el Kizuna 'Clan Otsutsuki'"
+    "gradient": "linear-gradient(to bottom, #5CE1FF 0%, #ECECEC 25%, #05C1FF 50%, #E9E9E9 75%, #9CF7FF 100%)",
+    "unlockDescription": "Completa el Kizuna 'Clan Otsutsuki'"
   },
-    {
+  {
     "id": "administrador",
     "name": "Administrador",
     "description": "Invitado especial del torneo de Haseo",
-    "gradient":"linear-gradient(to bottom, #FFD412 0%, #FFA73D 30%, #FF580A 60%, #FFF36A 100%)",
-    "unlockDescription":"Completa el Kizuna 'Administradores'"
+    "gradient": "linear-gradient(to bottom, #FFD412 0%, #FFA73D 30%, #FF580A 60%, #FFF36A 100%)",
+    "unlockDescription": "Completa el Kizuna 'Administradores'"
   },
   {
     "id": "octava_puerta",
     "name": "8º PUERTA",
     "description": "¡8º PUERTA, ABIERTA!",
-    "gradient":"linear-gradient(to bottom, #3251FF 0%, #FF0000 50%, #000000 100%)",
-    "unlockDescription":"Completa el Kizuna 'Puertas al límite'"
+    "gradient": "linear-gradient(to bottom, #3251FF 0%, #FF0000 50%, #000000 100%)",
+    "unlockDescription": "Completa el Kizuna 'Puertas al límite'"
   },
-{
+  {
     "id": "vip",
     "name": "V.I.P",
     "description": "Acompaña a tu administrador en el gran torneo de Haseo",
-    "gradient":"linear-gradient(to right, #CFCFCF 0%, #CBE43F 50%, #A5AD49 50%, #745E5E 100%)",
-    "unlockDescription":"Compra este título en la tienda del evento especial: Torneo de Haseo'"
+    "gradient": "linear-gradient(to right, #CFCFCF 0%, #CBE43F 50%, #A5AD49 50%, #745E5E 100%)",
+    "unlockDescription": "Compra este título en la tienda del evento especial: Torneo de Haseo'"
   },
-{
+  {
     "id": "relampago_amarillo",
     "name": "El Relámpago Amarillo",
     "description": "El ninja más rápido de la historia",
-    "gradient":"linear-gradient(to right, #DEE825 0%, #C0B324 50%, #CDCA2E 100%)",
-    "unlockDescription":"Completa el prestigio de Minato Namikaze"
+    "gradient": "linear-gradient(to right, #DEE825 0%, #C0B324 50%, #CDCA2E 100%)",
+    "unlockDescription": "Completa el prestigio de Minato Namikaze"
   },
- {
+  {
     "id": "fantasma_de_los_uchiha",
     "name": "El Fantasma de los Uchiha",
     "description": "¿Prefieres los clones con o sin susanoo?",
-    "gradient":"linear-gradient(to right, #963939 0%, #EC1414 50%, #911D1D 100%)",
-    "unlockDescription":"Completa el prestigio de Madara Uchiha"
+    "gradient": "linear-gradient(to right, #963939 0%, #EC1414 50%, #911D1D 100%)",
+    "unlockDescription": "Completa el prestigio de Madara Uchiha"
   },
- {
+  {
     "id": "hombre_enmascarado",
     "name": "El Hombre Enmascarado",
     "description": "Estoy en el infierno...",
-    "gradient":"linear-gradient(to right, #52256D 0%, #AA19DA 50%, #751A99 100%)",
-    "unlockDescription":"Completa el prestigio de Obito Uchiha"
+    "gradient": "linear-gradient(to right, #52256D 0%, #AA19DA 50%, #751A99 100%)",
+    "unlockDescription": "Completa el prestigio de Obito Uchiha"
   },
- {
+  {
     "id": "bestia_verde_de_konoha",
     "name": "La Bestia Verde de Konoha",
     "description": "Yo te declaro el más fuerte de todos!",
-    "gradient":"linear-gradient(to right, #06BD83 0%, #1B8611 50%, #53ED28 100%)",
-    "unlockDescription":"Completa el prestigio de Maito Gai"
+    "gradient": "linear-gradient(to right, #06BD83 0%, #1B8611 50%, #53ED28 100%)",
+    "unlockDescription": "Completa el prestigio de Maito Gai"
   },
- {
+  {
     "id": "gaara_del_desierto",
     "name": "Gaara del Desierto",
     "description": "Soy Gaara el de la defensa perfecta!",
-    "gradient":"linear-gradient(to right, #CFD17B 0%, #D4DA6E 50%, #595625 100%)",
-    "unlockDescription":"Completa el prestigio de Gaara"
+    "gradient": "linear-gradient(to right, #CFD17B 0%, #D4DA6E 50%, #595625 100%)",
+    "unlockDescription": "Completa el prestigio de Gaara"
   },
- {
+  {
     "id": "anfitrion",
     "name": "El Anfitrión del Torneo",
     "description": "Has alcanzado el rango más alto, ahora tú mismo organizarás el Torneo de Haseo",
-    "gradient":"linear-gradient(to right, #00BFD1 0%, #2A9AA9 50%, #BFF5FF 100%)",
-    "unlockDescription":"Llega a nivel 50 del modo infinito durante la Temporada 2"
+    "gradient": "linear-gradient(to right, #00BFD1 0%, #2A9AA9 50%, #BFF5FF 100%)",
+    "unlockDescription": "Llega a nivel 50 del modo infinito durante la Temporada 2"
   },
   {
-    "id": "edotensei",
-    "name": "Edo Tensei",
-    "description": "Te han revivido, cumple tu objetivo",
-    "gradient":"linear-gradient(to right, #6B3787 0%, #AF4ED0 50%, #75338F 100%)",
-    "unlockDescription":"Llega a nivel 50 del modo infinito durante la Temporada 2"
-  },
-  {
-    "id": "trinidad",
-    "name": "LA TRINIDAD",
-    "description": "J.P.T",
-    "gradient":"linear-gradient(to right, #2E93FF 0%, #DA0000 50%, #FFC20A 100%)",
-    "unlockDescription":"Llega a nivel 50 del modo infinito durante la Temporada 2"
-  },
- {
-    "id": "creacion",
-    "name": "Creación",
-    "description": "El verdadero Raiden de la creación",
-    "gradient":"linear-gradient(to right, #1DDDE0 0%, #56C4FF 50%, #CCE0E4 100%)",
-    "unlockDescription":"Completa el prestigio de Senjuro"
-  },
- {
-    "id": "destruccion",
-    "name": "Destrucción",
-    "description": "El verdadero Raiden de la destrucción",
-    "gradient":"linear-gradient(to right, #20E09D 0%, #10D213 50%, #1BB26E 100%)",
-    "unlockDescription":"Completa el prestigio de Keitaro"
-  },
- {
-    "id": "lamento",
-    "name": "El Lamento",
-    "description": "El trato que nunca quiso, pero debió aceptar",
-    "gradient":"linear-gradient(to right, #5C407F 0%, #8D42D2 50%, #B20707 100%)",
-    "unlockDescription":"Completa el prestigio de Iyari"
-  },
- {
-    "id": "falso_caos",
-    "name": "Falso Caos",
-    "description": "El experimento salió mal...",
-    "gradient":"linear-gradient(to right, #2A1D3A 0%, #9A9A9A 50%, #813DB2 100%)",
-    "unlockDescription":"Completa el prestigio de Daruma"
-  },
- {
-    "id": "realidad",
-    "name": "Realidad",
-    "description": "Junta la creación y la destrucción",
-    "gradient":"linear-gradient(to bottom, #00FF00 0%, #58FF6C 50%, #2CFFC3 50%, #00FFFF 100%)",
-    "unlockDescription":"Completa el Kizuna 'Hermanos de la realidad (EVO)'"
-  },
-  {
-"id": "eclipse",
-    "name": "ECLIPSE",
-    "description": "La unión del Sol y la Luna",
-    "gradient":"linear-gradient(to bottom, #FF0000 0%, #FFA807 44%, #021D4F 71%, #085EFF 59%, #4321FF 29%)",
-    "unlockDescription":"Completa el Kizuna 'Eclipse'"
-    
-  },
- {
-    "id": "mitad",
-    "name": "A la mitad",
-    "description": "Junta la creación y la destrucción",
-    "gradient":"linear-gradient(135deg, #00FFE1 0%, #A9110F 100%)",
-    "unlockDescription":"Compra este título en la tienda del evento especial: La Gran Guerra de las Danzas Parte I"
-  },
- {
-    "id": "heroe_redimido",
-    "name": "Héroe redimido",
-    "description": "La bondad de una persona transformó a una bestia salvaje en un hombre lleno de justicia y amabilidad",
-    "gradient": "linear-gradient(to right, #4A154B 0%, #D4AF37 100%)",
-    "unlockDescription": "Completa el prestigio de Yaban Hito"
-  },
-  {
-    "id": "nigromante_mayor",
-    "name": "Nigromante Mayor",
-    "description": "Alcanza y evoluciona el punto más alto de la nigromancia, demuestra que eres la persona con el valor más alto",
-    "gradient": "linear-gradient(to right, #71717A 0%, #FFFFFF 100%)",
-    "unlockDescription": "Completa el prestigio de Shiroku Kowai"
-  },
-  {
-    "id": "gigante_vengativo",
-    "name": "Gigante Vengativo",
-    "description": "Venga a tu pueblo de la cruel raza humana",
-    "gradient": "linear-gradient(to right, #78350F 0%, #F59E0B 100%)",
-    "unlockDescription": "Completa el prestigio de Ryuki"
-  },
-  {
-    "id": "lluvia_roja",
-    "name": "Lluvia Roja",
-    "description": "Lucha por tus seres queridos mientras cargas tu pasado en los homrbros",
-    "gradient": "linear-gradient(to right, #1E3A8A 0%, #60A5FA 100%)",
-    "unlockDescription": "Completa el prestigio de Ayato Hyuga"
-  },
-  {
-    "id": "dragon_desierto",
-    "name": "Dragón del Desierto",
-    "description": "Ruge de forma en la que todo el desierto escuche tu llegada",
-    "gradient": "linear-gradient(to right, #9A3412 0%, #FB923C 100%)",
-    "unlockDescription": "Completa el prestigio de Kai Senju"
-  },
-  {
-    "id": "lluvia_azul",
-    "name": "Lluvia Azul",
-    "description": "Demuestra que tu esfuerzo no fue helado",
-    "gradient": "linear-gradient(to right, #334155 0%, #38BDF8 100%)",
-    "unlockDescription": "Completa el prestigio de Betocs Hatake"
-  },
- {
     "id": "conquistador_rura",
     "name": "Conquistador de Rura",
-    "description": "Reúne a los tres generales supremos de Rura y desata su dominio absoluto sobre el campo de batalla.",
-    "gradient": "linear-gradient(to right, #4A0E17 0%, #8B0000 50%, #FF4500 100%)",
-    "unlockDescription": "Obtén a los 3 Generales de Rura (codwmoments) en las misiones limitadas"
+    "description": "Por obtener a los 3 comandantes supremos de Rura en sus versiones exclusivas.",
+    "gradient": "linear-gradient(135deg, #8B0000 0%, #DC143C 50%, #FF4500 100%)",
+    "unlockDescription": "Completa la misión Los Tres Generales de Rura"
   },
   {
     "id": "soberano_de_la_guerra",
     "name": "Soberano de la Guerra",
-    "description": "Demuestra una supremacía indiscutible conquistando 75 rondas en los frentes del conflicto bélico.",
-    "gradient": "linear-gradient(to right, #1F1C18 0%, #8E0E00 50%, #F5AF19 100%)",
-    "unlockDescription": "Completa la misión Dominio Supremo de la Guerra ganando 75 rondas"
-  },
-  {
-    "id": "guardian_alianza",
-    "name": "Guardián de la Alianza",
-    "description": "Recluta al cuarteto de generales aliados y consolida el frente unificado inquebrantable.",
-    "gradient": "linear-gradient(to right, #0F2027 0%, #203A43 50%, #2C5364 100%)",
-    "unlockDescription": "Recluta a los 4 Generales Aliados (codw) en las misiones limitadas"
+    "description": "Por consolidar tu supremacía total en los escenarios de guerra.",
+    "gradient": "linear-gradient(135deg, #4A0E4E 0%, #8A2BE2 50%, #FFD700 100%)",
+    "unlockDescription": "Completa la misión Dominio Supremo de la Guerra"
   }
 ]
