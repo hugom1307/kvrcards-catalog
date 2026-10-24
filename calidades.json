@@ -138,7 +138,27 @@
     "valor": 10000,
     "order": 13
   }, 
-
+{
+    "id": "codw",
+    "name": "C.O.D.W (Card Of Dance's War)",
+    "special": true,
+    "maskImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/calidades/codw.png",
+    "sparkColor": "#474b4e",
+    "tradeable": true,
+    "valor": 10000,
+    "order": 14
+  }, 
+  {
+    "id": "codwmoments",
+    "name": "C.O.D.W Moments",
+    "special": true,
+    "maskImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/calidades/codwmoments.png",
+    "sparkColor": "#474b4e",
+    "packable": false,
+    "tradeable": true,
+    "valor": 10000,
+    "order": 15
+  }, 
   {
     "id": "evo",
     "name": "Evo",
@@ -147,6 +167,6 @@
     "sparkColor": "#c084fc",
     "tradeable": false,
     "valor": 0,
-    "order": 14
+    "order": 16
   }
 ]
