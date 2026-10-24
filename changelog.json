@@ -1,6 +1,16 @@
 {
   "updates": [
     {
+      "version": "2.9.1",
+      "title": "Parche 2.9.1: Hotfix Cinemática de Combate del Rasgo Inmo",
+      "description": "Corrección visual en combate: visualización prioritaria en primer plano (z-index corregido por encima del escenario de batalla) para la cinemática cósmica del rasgo Knight 'Inmo' con logo, auras radiantes y sonido de detonación.",
+      "date": "2026-10-24",
+      "improvements": [
+        "Cinemática del Rasgo Inmo: corregida la jerarquía de capas (z-index) del overlay para que se reproduzca por encima del escenario de batalla tanto en partidas contra la IA como en batallas online.",
+        "Asegurada la inyección dinámica del logo oficial, lema, animación flotante y efectos sonoros de impacto cósmico durante la activación del rasgo supremo Inmo antes del comparador de estadísticas."
+      ]
+    },
+    {
       "version": "2.9.0",
       "title": "Parche 2.9.0: Colección Plushies Completa, Calidad Knight, Modo 7v1 y Debug de Traits",
       "description": "Actualización mayor con colección completa de Plushies (con filtro B/N para no obtenidos), calidad Knight en Traits con cinemáticas y rasgo Inmo, probabilidades oficiales de rasgos, balance de Monarch y Mimo, nuevo modo de combate 7v1 para el Segundo Evento Especial y control de calidad forzada en modo Debug.",
