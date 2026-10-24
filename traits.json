@@ -239,7 +239,7 @@
     {
       "id": "especialista",
       "name": "Especialista",
-      "description": "Aumenta 5 puntos a todas las stats. Además, es inmune a cualquier efecto que reduzca sus estadísticas.",
+      "description": "Aumenta 5% a todas las stats. Además, es inmune a cualquier efecto que reduzca sus estadísticas.",
       "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/especialista.png",
       "rarity": "legendary",
       "effect": {
@@ -269,9 +269,19 @@
     {
       "id": "monarch",
       "name": "Monarch",
-      "description": "El rey manda. Aumenta un 20% todas las stats",
+      "description": "El rey manda. Aumenta un 10% todas las stats",
       "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/monarch.png",
       "rarity": "mythic",
+      "effect": {
+        "type": "special"
+      }
+    },
+     {
+      "id": "inmo",
+      "name": "Inmo",
+      "description": "Siempre serás superior a tu rival",
+      "imageUrl": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/inmotrait.png",
+      "rarity": "knight",
       "effect": {
         "type": "special"
       }
