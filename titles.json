@@ -432,5 +432,13 @@
     "description": "Por consolidar tu supremacía total en los escenarios de guerra.",
     "gradient": "linear-gradient(135deg, #4A0E4E 0%, #8A2BE2 50%, #FFD700 100%)",
     "unlockDescription": "Completa la misión Dominio Supremo de la Guerra"
+  },
+{
+    "id": "mitad",
+    "name": "A la mitad",
+    "description": "Gané... pero a la mitad",
+    "gradient": "linear-gradient(to right, #05EAE6 0%, #CF1512 100%)",
+    "unlockDescription": "Compra este título en la tienda del evento especial: Guerra de las Danzas Parte I"
   }
+ 
 ]
