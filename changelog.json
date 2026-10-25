@@ -1,6 +1,18 @@
 {
   "updates": [
     {
+      "version": "3.0.1",
+      "title": "Parche 3.0.1: Corrección de Rasgos de Soporte, Persistencia de Tienda y Batallas Online",
+      "description": "Corrección para los rasgos Full Support y Support Máximo, persistencia blindada del stock de sobres en tienda (sobres agotados se mantienen agotados tras reiniciar) y resolución de desincronizaciones en el modo 7v7 online.",
+      "date": "2026-10-25",
+      "improvements": [
+        "Corrección de Rasgos Full Support y Support Máximo: Solucionada la pérdida de buffeos acumulativos (+3% por 3 turnos y +10% en siguiente ronda) tanto en combates locales como online al salir una carta del campo.",
+        "Persistencia Blindada de Sobres Limitados en Tienda: Eliminado el reseteo involuntario de compras de sobres al reiniciar el juego o recibir actualizaciones del catálogo. Los sobres agotados permanecen agotados permanentemente.",
+        "Corrección Crítica en Modo 7v7 Online: Resuelto el bug por el cual en rondas posteriores a la ruleta se invocaba la IA local del rival provocando cartas fantasma, bloqueos de turno y botones de estadísticas deshabilitados.",
+        "Control Robusto de Turnos y Errores Online: El cliente valida el turno antes de enviar la estadística al servidor, y si ocurre cualquier desfase de turno se restauran los botones para evitar que la partida quede congelada."
+      ]
+    },
+    {
       "version": "3.0.0",
       "title": "Actualización 3.0.0: Nuevas Misiones del Evento y Fundamentales, y Correcciones de Combate",
       "description": "Gran actualización con 11 nuevas misiones (6 de evento limitadas y 5 fundamentales de Plushies y Prestigio), soporte para recompensas de objetos y títulos, corrección crítica en la selección de estadísticas y control de turnos en combate.",

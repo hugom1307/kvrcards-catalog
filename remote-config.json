@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "3.0.0",
-                    "minimumRequired":  "3.0.0",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.0.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.0.zip",
-                    "changelog":  "Actualizacion 3.0.0: Nuevas misiones limitadas y fundamentales, correccion en seleccion de estadisticas de combate y mejoras de rasgos",
+                    "current":  "3.0.1",
+                    "minimumRequired":  "3.0.1",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.1.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.1.zip",
+                    "changelog":  "Parche 3.0.1: Correccion de Full Support y Support Max, persistencia de sobres agotados y correcciones criticas en flujo 7v7 online",
                     "forceUpdate":  true
                 }
 }
