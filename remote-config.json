@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "3.0.2",
-                    "minimumRequired":  "3.0.2",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.2.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.2.zip",
-                    "changelog":  "Parche 3.0.2: Ajuste de sonido para animacion de tirada de traits",
+                    "current":  "3.0.3",
+                    "minimumRequired":  "3.0.3",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.3.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.3.zip",
+                    "changelog":  "Parche 3.0.3: Correccion de poder Anulo, ampliacion de ventana de entregables y limpieza de badge legendario en traits",
                     "forceUpdate":  true
                 }
 }

@@ -1,6 +1,17 @@
 {
   "updates": [
     {
+      "version": "3.0.3",
+      "title": "Parche 3.0.3: Corrección de Poder Anulo, Inventario de Entregables y Badges de Traits",
+      "description": "Corrección para el poder Anulo en combates offline y del evento para impedir que la IA reutilice la estadística anulada, ampliación significativa de la ventana de selección de cartas en entregables y solución visual a badges residuales de rasgos legendarios.",
+      "date": "2026-10-25",
+      "improvements": [
+        "Poder Anulo Corregido: La IA ya no puede volver a elegir la estadística que acaba de ser anulada por el jugador en combates offline, eventos y modo 7v1.",
+        "Inventario de Entregables más Amplio: La caja del modal de entrega de cartas ahora es notablemente más ancha (hasta 1650px) y el panel de requisitos cuenta con 460px de amplitud para leer cómodamente descripciones y checklist sin texto apretado.",
+        "Corrección Visual en Traits: El texto y badge \"RASGO LEGENDARIO\" se limpian por completo tras cerrar la ventana, evitando que persistan sobre la imagen al obtener rasgos comunes o raros en tiradas posteriores."
+      ]
+    },
+    {
       "version": "3.0.2",
       "title": "Parche 3.0.2: Ajuste de Sonido para Animación de Tirada de Traits",
       "description": "Añadida nueva opción en Ajustes de Sonido para silenciar el sonido de la ruleta/animación al tirar rasgos, preservando intactos los efectos especiales y cinemáticas de rasgos Legendarios, Míticos y Knight.",
