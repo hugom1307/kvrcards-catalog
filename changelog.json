@@ -1,6 +1,16 @@
 {
   "updates": [
     {
+      "version": "3.0.2",
+      "title": "Parche 3.0.2: Ajuste de Sonido para Animación de Tirada de Traits",
+      "description": "Añadida nueva opción en Ajustes de Sonido para silenciar el sonido de la ruleta/animación al tirar rasgos, preservando intactos los efectos especiales y cinemáticas de rasgos Legendarios, Míticos y Knight.",
+      "date": "2026-10-25",
+      "improvements": [
+        "Opción de Sonido de Traits: Añadido interruptor en Ajustes > Sonido para activar/desactivar el sonido continuo de giro de la ruleta de rasgos.",
+        "Preservación de Efectos Épicos: Los efectos de tensión, explosión y fanfarrias cósmicas al conseguir rasgos Legendarios, Míticos o Knight (como Inmo) se mantienen completamente activos."
+      ]
+    },
+    {
       "version": "3.0.1",
       "title": "Parche 3.0.1: Corrección de Rasgos de Soporte, Persistencia de Tienda y Batallas Online",
       "description": "Corrección para los rasgos Full Support y Support Máximo, persistencia blindada del stock de sobres en tienda (sobres agotados se mantienen agotados tras reiniciar) y resolución de desincronizaciones en el modo 7v7 online.",

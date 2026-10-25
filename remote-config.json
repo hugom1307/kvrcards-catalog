@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "3.0.1",
-                    "minimumRequired":  "3.0.1",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.1.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.1.zip",
-                    "changelog":  "Parche 3.0.1: Correccion de Full Support y Support Max, persistencia de sobres agotados y correcciones criticas en flujo 7v7 online",
+                    "current":  "3.0.2",
+                    "minimumRequired":  "3.0.2",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.2.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.2.zip",
+                    "changelog":  "Parche 3.0.2: Ajuste de sonido para animacion de tirada de traits",
                     "forceUpdate":  true
                 }
 }
