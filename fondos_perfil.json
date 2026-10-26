@@ -239,7 +239,7 @@
 },
   {
         "id":  "fondo_yaban",
-        "nombre":  "Yaban Hito",
+        "nombre":  "Guerrero y Héroe",
         "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_yaban.png",
         "boxColor":  "linear-gradient(to right, #4A154B 0%, #280D2C 100%)",
         "borderColor":  "#D4AF37",
@@ -247,7 +247,7 @@
     },
     {
         "id":  "fondo_shiroku",
-        "nombre":  "Shiroku Kowai",
+        "nombre":  "Recolector de almas",
         "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_shiroku.png",
         "boxColor":  "linear-gradient(to right, #71717A 0%, #27272A 100%)",
         "borderColor":  "#E4E4E7",
@@ -255,7 +255,7 @@
     },
     {
         "id":  "fondo_ryuki",
-        "nombre":  "Ryuki",
+        "nombre":  "El lugar soñado",
         "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_ryuki.png",
         "boxColor":  "linear-gradient(to right, #78350F 0%, #451A03 100%)",
         "borderColor":  "#F59E0B",
@@ -263,7 +263,7 @@
     },
     {
         "id":  "fondo_ayato",
-        "nombre":  "Ayato Hyuga",
+        "nombre":  "Una luna preciosa",
         "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_ayato.png",
         "boxColor":  "linear-gradient(to right, #1E3A8A 0%, #172554 100%)",
         "borderColor":  "#60A5FA",
@@ -271,7 +271,7 @@
     },
     {
         "id":  "fondo_kai",
-        "nombre":  "Kai Senju",
+        "nombre":  "Recuerdos infinitos",
         "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_kai.png",
         "boxColor":  "linear-gradient(to right, #9A3412 0%, #431407 100%)",
         "borderColor":  "#FB923C",
@@ -279,7 +279,7 @@
     },
     {
         "id":  "fondo_betocs",
-        "nombre":  "Betocs Hatake",
+        "nombre":  "Invierno eterno",
         "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_betocs.png",
         "boxColor":  "linear-gradient(to right, #334155 0%, #0F172A 100%)",
         "borderColor":  "#38BDF8",
