@@ -437,7 +437,7 @@
     "id": "mitad",
     "name": "A la mitad",
     "description": "Gané... pero a la mitad",
-    "gradient": "linear-gradient(to right, #05EAE6 0%, #CF1512 100%)",
+    "gradient": "linear-gradient(to bottom, #05EAE6 0%, #CF1512 100%)",
     "unlockDescription": "Compra este título en la tienda del evento especial: Guerra de las Danzas Parte I"
   },
   {
