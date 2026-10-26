@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "3.0.3",
-                    "minimumRequired":  "3.0.3",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.3.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.3.zip",
-                    "changelog":  "Parche 3.0.3: Correccion de poder Anulo, ampliacion de ventana de entregables y limpieza de badge legendario en traits",
+                    "current":  "3.0.4",
+                    "minimumRequired":  "3.0.4",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.4.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.4.zip",
+                    "changelog":  "Parche 3.0.4: Correccion de misiones de owner en evoluciones y prestigios y seguimiento de mision guerra_danzas",
                     "forceUpdate":  true
                 }
 }

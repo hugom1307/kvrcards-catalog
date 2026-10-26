@@ -1,6 +1,17 @@
 {
   "updates": [
     {
+      "version": "3.0.4",
+      "title": "Parche 3.0.4: Corrección de Misiones de Owner en Evoluciones y Prestigios y Seguimiento de Guerra de las Danzas",
+      "description": "Solución al registro de victorias de ronda con cartas de propietarios específicos (como TaiyoDL) en evoluciones y prestigios para modos offline y eventos, y corrección en el seguimiento de la misión de 75 rondas del evento especial Guerra de las Danzas.",
+      "date": "2026-10-26",
+      "improvements": [
+        "Misiones de Owner en Evoluciones y Prestigios: Se restauró la llamada a registro de rondas ganadas en combates offline y eventos, permitiendo que misiones que requieren ganar rondas con cartas de creadores específicos (ej: TaiyoDL para la evolución de Shiroku) progresen adecuadamente tanto en offline como online.",
+        "Misión Dominio Supremo de la Guerra (75 Rondas): Corregido el paso de contexto en victorias de ronda de batallas del evento especial para que la misión mision_lim_dominio_absoluto_evento acumule correctamente las 75 rondas del evento guerra_danzas.",
+        "Compatibilidad de Metadatos de Cartas: Mejorado el fallback al catálogo para resolver el dueño y procedencia de cualquier carta durante el combate aunque haya sido modificada o clonada."
+      ]
+    },
+    {
       "version": "3.0.3",
       "title": "Parche 3.0.3: Corrección de Poder Anulo, Inventario de Entregables y Badges de Traits",
       "description": "Corrección para el poder Anulo en combates offline y del evento para impedir que la IA reutilice la estadística anulada, ampliación significativa de la ventana de selección de cartas en entregables y solución visual a badges residuales de rasgos legendarios.",
