@@ -240,7 +240,7 @@
   {
         "id":  "fondo_yaban",
         "nombre":  "Guerrero y Héroe",
-        "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_yaban.png",
+        "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_yaban1.png",
         "boxColor":  "linear-gradient(to right, #4A154B 0%, #280D2C 100%)",
         "borderColor":  "#D4AF37",
         "descripcion":  "Fondo obtenido al alcanzar el prestigio 5 con Yaban Hito."
@@ -248,7 +248,7 @@
     {
         "id":  "fondo_shiroku",
         "nombre":  "Recolector de almas",
-        "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_shiroku.png",
+        "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_shiroku1.png",
         "boxColor":  "linear-gradient(to right, #71717A 0%, #27272A 100%)",
         "borderColor":  "#E4E4E7",
         "descripcion":  "Fondo obtenido al alcanzar el prestigio 5 con Shiroku Kowai."
@@ -256,7 +256,7 @@
     {
         "id":  "fondo_ryuki",
         "nombre":  "El lugar soñado",
-        "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_ryuki.png",
+        "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_ryuki1.png",
         "boxColor":  "linear-gradient(to right, #78350F 0%, #451A03 100%)",
         "borderColor":  "#F59E0B",
         "descripcion":  "Fondo obtenido al alcanzar el prestigio 5 con Ryuki."
@@ -264,7 +264,7 @@
     {
         "id":  "fondo_ayato",
         "nombre":  "Una luna preciosa",
-        "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_ayato.png",
+        "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_ayato1.png",
         "boxColor":  "linear-gradient(to right, #1E3A8A 0%, #172554 100%)",
         "borderColor":  "#60A5FA",
         "descripcion":  "Fondo obtenido al alcanzar el prestigio 5 con Ayato Hyuga."
@@ -272,7 +272,7 @@
     {
         "id":  "fondo_kai",
         "nombre":  "Recuerdos infinitos",
-        "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_kai.png",
+        "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_kai1.png",
         "boxColor":  "linear-gradient(to right, #9A3412 0%, #431407 100%)",
         "borderColor":  "#FB923C",
         "descripcion":  "Fondo obtenido al alcanzar el prestigio 5 con Kai Senju."
@@ -280,7 +280,7 @@
     {
         "id":  "fondo_betocs",
         "nombre":  "Invierno eterno",
-        "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_betocs.png",
+        "imagen":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/fondos/fondo_betocs1.png",
         "boxColor":  "linear-gradient(to right, #334155 0%, #0F172A 100%)",
         "borderColor":  "#38BDF8",
         "descripcion":  "Fondo obtenido al alcanzar el prestigio 5 con Betocs Hatake."
