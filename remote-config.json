@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "3.0.8",
-                    "minimumRequired":  "3.0.8",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.8.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.8.zip",
-                    "changelog":  "Transicion forzada Temporada 3 para usuarios afectados",
+                    "current":  "3.0.9",
+                    "minimumRequired":  "3.0.9",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.9.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.9.zip",
+                    "changelog":  "Transicion forzada Temporada 3 para Pepo189 y Floingo02",
                     "forceUpdate":  true
                 }
 }
