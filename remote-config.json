@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "3.0.6",
-                    "minimumRequired":  "3.0.6",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.6.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.6.zip",
-                    "changelog":  "Fix ReferenceError batalla y correccion compras/restock sobres tienda",
+                    "current":  "3.0.7",
+                    "minimumRequired":  "3.0.7",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.7.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.7.zip",
+                    "changelog":  "Correccion de stock en tienda y compras infinitas",
                     "forceUpdate":  true
                 }
 }
