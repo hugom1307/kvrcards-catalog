@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "3.0.5",
-                    "minimumRequired":  "3.0.5",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.5.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.5.zip",
-                    "changelog":  "Fix mision rango maestro prestigio 5 y nombres de plushies en coleccion",
+                    "current":  "3.0.6",
+                    "minimumRequired":  "3.0.6",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.6.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.6.zip",
+                    "changelog":  "Fix ReferenceError batalla y correccion compras/restock sobres tienda",
                     "forceUpdate":  true
                 }
 }
