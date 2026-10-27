@@ -2050,7 +2050,7 @@
     "requirement": [
       {
         "type": "own_card",
-        "cardId": "ronan_codw",
+        "cardId": "ronan_hatake_codw",
         "amount": 1,
         "description": "Poseer a Ronan C.O.D.W"
       },
@@ -2189,7 +2189,7 @@
     "condition": {
       "type": "battles_won",
       "filter": {
-        "eventGroup": "guerra_rura_evento",
+        "eventGroup": "guerra_danzas",
         "acceptedQualities": [
           "codw",
           "codwmoments"
