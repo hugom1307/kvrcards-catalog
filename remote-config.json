@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "3.0.4",
-                    "minimumRequired":  "3.0.4",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.4.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.4.zip",
-                    "changelog":  "Parche 3.0.4: Correccion de misiones de owner en evoluciones y prestigios y seguimiento de mision guerra_danzas",
+                    "current":  "3.0.5",
+                    "minimumRequired":  "3.0.5",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.5.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.5.zip",
+                    "changelog":  "Fix mision rango maestro prestigio 5 y nombres de plushies en coleccion",
                     "forceUpdate":  true
                 }
 }
