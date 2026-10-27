@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "3.0.7",
-                    "minimumRequired":  "3.0.7",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.7.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.7.zip",
-                    "changelog":  "Correccion de stock en tienda y compras infinitas",
+                    "current":  "3.0.8",
+                    "minimumRequired":  "3.0.8",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.8.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.0.8.zip",
+                    "changelog":  "Transicion forzada Temporada 3 para usuarios afectados",
                     "forceUpdate":  true
                 }
 }
