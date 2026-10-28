@@ -268,7 +268,7 @@
     {
     "id": "suta",
     "nombre": "Suta",
-    "descripcion": "La diosa de la luna",
+    "descripcion": "Al igual que la luna con la Tierra, siempre estuvo con él como un satélite. Familiar exclusivo para Ayato.",
     "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/ayato.png",
     "ownerId": [
       "ayato_hyuga",
@@ -281,20 +281,20 @@
     "universal": false,
     "buff": [
       {
-        "media": 2
+        "media": 3
       },
       {
-        "velocidad": 3
+        "velocidad": 2
       },
       {
-        "ninjutsu": 1
+        "ninjutsu": 2
       }
     ]
   },
   {
     "id": "ayato_uzumaki",
     "nombre": "Ayato Uzumaki",
-    "descripcion": "Al igual que la luna con la Tierra, siempre estuvo con él como un satélite",
+    "descripcion": "Ayaño, ñengo muchos ñervios. Familiar exclusivo para Betocs.",
     "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/betocs.png",
     "ownerId": [
       "betocs_hatake_codw",
@@ -307,20 +307,20 @@
     "universal": false,
     "buff": [
       {
-        "media": 2
+        "media": 3
       },
       {
         "fisico": 2
       },
       {
-        "taijutsu": 1
+        "taijutsu": 2
       }
     ]
   },
   {
     "id": "suru_sagi",
     "nombre": "Suru Sagi",
-    "descripcion": "<<Me da igual que no tengamos la misma sangre, tu eres mi hermanito>>",
+    "descripcion": "<<Me da igual que no tengamos la misma sangre, tu eres mi hermanito>>. Familiar exclusivo para Dankha.",
     "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/dankha.png",
     "ownerId": [
       "dankha_sagi",
@@ -331,7 +331,7 @@
     "universal": false,
     "buff": [
       {
-        "media": 2
+        "media": 3
       },
       {
         "velocidad": 2
@@ -344,7 +344,7 @@
   {
     "id": "sora_inazuma",
     "nombre": "Sora Inazuma",
-    "descripcion": "Aquella que lo acompañó aún cuando ni él mismo se reconocia",
+    "descripcion": "Aquella que lo acompañó aún cuando ni él mismo se reconocia. Familiar exclusivo para Iyari.",
     "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/iyari.png",
     "ownerId": [
       "iyari_ryuga_flashback",
@@ -355,7 +355,7 @@
     "universal": false,
     "buff": [
       {
-        "media": 1
+        "media": 3
       },
       {
         "ninjutsu": 2
@@ -368,7 +368,7 @@
   {
     "id": "doman_kurimunzoso",
     "nombre": "Doman Kurimunzoso",
-    "descripcion": "Una fuerte lealtad rota por errores y resentimientos",
+    "descripcion": "Una fuerte lealtad rota por errores y resentimientos. Familiar exclusivo para Kai.",
     "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/kai.png",
     "ownerId": [
       "kai_senju_codw",
@@ -380,7 +380,7 @@
     "universal": false,
     "buff": [
       {
-        "media": 2
+        "media": 3
       },
       {
         "fisico": 2
@@ -393,7 +393,7 @@
   {
     "id": "taiyo_uchiha",
     "nombre": "Taiyo Uchiha",
-    "descripcion": "Aunque no lo mostrara, fue la parte más importante de su vida",
+    "descripcion": "Aunque no lo mostrara, fue la parte más importante de su vida. Familiar exclusivo para Kiri.",
     "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/kiri.png",
     "ownerId": [
       "kiri_uzumaki",
@@ -403,23 +403,20 @@
     "universal": false,
     "buff": [
       {
-        "media": 2
+        "media": 3
       },
       {
         "ninjutsu": 2
       },
       {
-        "defensa": 1
-      },
-      {
-        "velocidad": 1
+        "defensa": 2
       }
     ]
   },
   {
     "id": "aya",
     "nombre": "Aya",
-    "descripcion": "Te forjaré como una hija",
+    "descripcion": "Te forjaré como una hija. Familiar exclusivo para Ryuki.",
     "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/ryuki.png",
     "ownerId": [
       "ryuki_codwmoments",
@@ -431,26 +428,20 @@
     "universal": false,
     "buff": [
       {
-        "media": 1
+        "media": 3
       },
       {
-        "ninjutsu": 1
+        "ninjutsu": 2
       },
       {
-        "resistencia": 1
-      },
-      {
-        "taijutsu": 1
-      },
-      {
-        "defensa": 1
+        "resistencia": 2
       }
     ]
   },
   {
     "id": "mei_uzumaki",
     "nombre": "Mei Uzumaki",
-    "descripcion": "De cierta manera la vio crecer, pero también la vio perecer",
+    "descripcion": "De cierta manera la vio crecer, pero también la vio perecer. Familiar exclusivo para Shind.",
     "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/shind.png",
     "ownerId": [
       "shind_inazuma_icono",
@@ -460,17 +451,20 @@
     "universal": false,
     "buff": [
       {
-        "media": 1
+        "media": 3
       },
       {
-        "velocidad": 3
+        "velocidad": 2
+      },
+      {
+        "ninjutsu": 2
       }
     ]
   },
   {
     "id": "kosuke_y_kenta",
     "nombre": "Kosuke y Kenta",
-    "descripcion": "No había mayor felicidad y orgullo que el saber que sus hermanos tenían el potencial para superarlo, lástima que nunca llegó ese día, pero nunca permitió que los separaran...",
+    "descripcion": "No había mayor felicidad y orgullo que el saber que sus hermanos tenían el potencial para superarlo, lástima que nunca llegó ese día, pero nunca permitió que los separaran.... Familiar exclusivo para Shiroku.",
     "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/shiroku.png",
     "ownerId": [
       "shiroku_kowai",
@@ -479,18 +473,21 @@
     ],
     "universal": false,
     "buff": [
+        {
+            "media":3
+        },
       {
-        "resistencia": 1
+        "ninjutsu": 2
       },
       {
-        "defensa": 3
+        "taijutsu": 2
       }
     ]
   },
   {
     "id": "tamiko_ozoku",
     "nombre": "Tamiko Ozoku",
-    "descripcion": "Aquella que le mostró la bondad y le dio la oportunidad de cambiar y ser lo que es hoy, un gran héroe",
+    "descripcion": "Aquella que le mostró la bondad y le dio la oportunidad de cambiar y ser lo que es hoy, un gran héroe. Familiar exclusivo para Yaban/Zankoku.",
     "foto": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/plushies/yabanYzankoku.png",
     "ownerId": [
       "yaban_hito",
@@ -499,13 +496,13 @@
     "universal": false,
     "buff": [
       {
-        "media": 2
+        "media": 3
       },
       {
         "fisico": 2
       },
       {
-        "resistencia": 2
+        "taijutsu": 2
       }
     ]
   }
