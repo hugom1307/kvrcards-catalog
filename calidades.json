@@ -114,7 +114,7 @@
     "maskImage": "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/calidades/flashback.png",
     "sparkColor": "#800080",
     "tradeable": true,
-    "packable": false,
+    "packable": true,
     "valor": 1000,
     "order": 11
   },
