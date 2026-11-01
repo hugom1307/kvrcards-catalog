@@ -1,6 +1,19 @@
 {
   "updates": [
     {
+      "version": "3.3.0",
+      "title": "Parche 3.3.0: Rework de Rankings, Rework de Trades, Auto-Reclamar de Prestigios, Mejoras en Filtros y Nuevos Códigos",
+      "description": "Rework integral de la interfaz de Rankings y Trades con estética azul oscuro y dorado sin emojis, eliminación de rankings semanales y conservación de temporada e histórico en Modo Infinito, auto-reclamar de misiones y recompensas de prestigio en Mi Colección, corrección y filtros avanzados de rasgos por calidad y nuevos códigos canjeables.",
+      "date": "2026-11-01",
+      "improvements": [
+        "Rework de Rankings: Eliminados los rankings semanales en todas las categorías estándar, dejando exclusivamente la tabla histórica global. En Modo Infinito se mantienen las pestañas de Temporada e Histórico. Rediseño visual premium en azul oscuro y dorado con podios de honor exclusivos para el Top 1 (Oro), Top 2 (Plata) y Top 3 (Bronce).",
+        "Rework de Trades: Rediseño visual profesional sin emojis en el selector de trades, sala de búsqueda con radar orbital animado y menú de amigos con acciones estilizadas.",
+        "Prestigios en Mi Colección: Nuevo desplegable con dos botones funcionales para auto-reclamar misiones completadas (sumando XP y avanzando niveles) y auto-reclamar recompensas acumuladas con modal dedicado con scroll obligatorio.",
+        "Filtros de Rasgos Avanzados: Priorización de calidades al filtrar por 'Cualquiera' (Knight > Mítico > Legendario > Épico > Raro > Común), filtros dedicados por calidad de rasgo y orden invertido desde traits.json.",
+        "Nuevos Códigos Canjeables: Añadidos códigos SEASON2WINNER y BUGCARDS con cartas exclusivas, sobres especiales, coins y traits."
+      ]
+    },
+    {
       "version": "3.0.4",
       "title": "Parche 3.0.4: Corrección de Misiones de Owner en Evoluciones y Prestigios y Seguimiento de Guerra de las Danzas",
       "description": "Solución al registro de victorias de ronda con cartas de propietarios específicos (como TaiyoDL) en evoluciones y prestigios para modos offline y eventos, y corrección en el seguimiento de la misión de 75 rondas del evento especial Guerra de las Danzas.",
