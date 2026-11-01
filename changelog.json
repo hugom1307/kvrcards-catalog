@@ -1,6 +1,18 @@
 {
   "updates": [
     {
+      "version": "3.3.2",
+      "title": "Parche 3.3.2: Corrección Crítica en Trades (Descuento de Objetos al llegar a 0)",
+      "description": "Corrección de persistencia y sincronización en intercambios de objetos (items) y peluches (plushies). Al tradear la última unidad (cantidad 1), el objeto se descuenta correctamente a 0 unidades y se elimina del inventario de forma inmediata y definitiva sin duplicarse ni resucitar en memoria o disco.",
+      "date": "2026-11-01",
+      "improvements": [
+        "Descuento Correcto de Objetos a 0: Solucionado el fallo por el cual tradear el último objeto disponible dejaba 1 unidad infinita. Ahora se limpia correctamente del inventario local, se marca como consumido a 0 y se sincroniza con el servidor.",
+        "Recargas Autoritativas del Servidor: applyInventoryData y saveInventory respetan de manera estricta las recargas posteriores a trades, impidiendo que la heurística de recuperación restaure objetos o peluches legítimamente intercambiados.",
+        "Sincronización en Ambos Jugadores: Implementada la limpieza local de ofertas completadas tanto para el jugador que confirma el trade como para el que recibe la confirmación mediante polling.",
+        "Caché Visual de Colección Actualizada: La vista de objetos en Mi Colección actualiza de inmediato el estado real y elimina cachés residuales cuando la cantidad de un objeto llega a 0."
+      ]
+    },
+    {
       "version": "3.3.1",
       "title": "Parche 3.3.1: Corrección Crítica en Mejorámela (Consumo Real de Cartas Sacrificadas)",
       "description": "Corrección de seguridad que impedía que las cartas sacrificadas en el modo Mejorámela se gastasen del inventario, impidiendo tiradas infinitas y garantizando la persistencia local y remota de cada tirada.",
