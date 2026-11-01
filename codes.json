@@ -80,6 +80,53 @@
         ]
       },
       "description": "Compensación por mantenimiento: 100.000 Coins, 100 KvR Coins y 100 Monedas de la Gran Guerra de las Danzas."
+    },
+        {
+      "code": "SEASON2WINNER",
+      "active": true,
+      "rewardsType": "mixed",
+      "rewards": {
+        "coins": 100000,
+        "cards": [
+          {
+            "cardId": "ayari_hyuga_evos2",
+            "quantity": 1
+          },
+          {
+            "cardId": "haseo_otsutsuki_exclusive",
+            "quantity": 1
+          }
+        ],
+        "packs": [
+          {
+            "packId": "sobre_90_plus",
+            "quantity": 1
+          }
+        ],
+        "titles": [
+          "ganador_torneo"
+        ]
+      },
+      "description": "¡Premio Ganador Temporada 2! Cartas Ayari Hyuga Exclusiva y Haseo Otsutsuki Exclusivo, 100.000 Coins, 1 Sobre +90 y Título Ganador del Torneo."
+    },
+    {
+      "code": "BUGCARDS",
+      "active": true,
+      "rewardsType": "mixed",
+      "rewards": {
+        "traits": 50,
+        "packs": [
+          {
+            "packId": "sobre_legendario",
+            "quantity": 2
+          },
+          {
+            "packId": "sobre_guerradanzas",
+            "quantity": 4
+          }
+        ]
+      },
+      "description": "¡Compensación BUGCARDS por la versión 3.3! Recompensas: 2 Sobres Legendarios, 4 Sobres Guerra de las Danzas y 50 Traits."
     }
   ]
 }
