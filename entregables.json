@@ -830,7 +830,7 @@
   "tipo": "especial",
   "descripcion": "Entrega exactamente 50 cartas (todas de media 75+, con al menos 10 de procedencia Kizoku, al menos 10 cartas especiales, al menos 10 cartas de media 86+, al menos 25 del owner TaiyoDL y al menos 2 cartas con media 91+) a cambio de 5 Sobres Guerra de Danzas y la carta Hikaru Uzumaki SBC.",
   "imagenes": [
-    "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/hikaru_uzumaki_sbc.png"
+    "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/hikarusbc.png"
   ],
   "limites": {
     "minCartas": 50,
