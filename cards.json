@@ -4918,5 +4918,25 @@
         "calidad":  "codwmoments",
         "procedencia":  "Kizoku",
         "owner":  "TaiyoDL"
+    },
+  {
+        "id":  "hikaru_uzumaki_sbc",
+        "name":  "Hikari Uzumaki",
+        "stats":  [86,95,87,86,80,90],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/hikarusbc.png",
+        "media":  89,
+        "calidad":  "sbc",
+        "procedencia":  "Kizoku",
+        "owner":  "TaiyoDL"
+    },
+  {
+        "id":  "ayari_hyuga_evos2",
+        "name":  "Ayari Hyuga",
+        "stats":  [96,90,92,95,94,85],
+        "imageUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/ayariseason2.png",
+        "media":  92,
+        "calidad":  "evo",
+        "procedencia":  "Konohagakure",
+        "owner":  "Grejino02"
     }
 ]
