@@ -1,6 +1,17 @@
 {
   "updates": [
     {
+      "version": "3.3.1",
+      "title": "Parche 3.3.1: Corrección Crítica en Mejorámela (Consumo Real de Cartas Sacrificadas)",
+      "description": "Corrección de seguridad que impedía que las cartas sacrificadas en el modo Mejorámela se gastasen del inventario, impidiendo tiradas infinitas y garantizando la persistencia local y remota de cada tirada.",
+      "date": "2026-11-01",
+      "improvements": [
+        "Consumo Real en Mejorámela: Corregida la resolución de IDs base en Electron y frontend para cartas con guiones bajos o instancias con rasgos/mejoras. Todas las cartas sacrificadas son descontadas de forma inmediata e irreversible de la colección y del almacenamiento en disco.",
+        "Sincronización Directa de Inventario: El Upgrader consulta prioritariamente el inventario local de Electron eliminando retrasos y evitando que peticiones remotas sobreescriban los consumos con datos obsoletos.",
+        "Validación Previa Estricta: Se verifica la posesión real de todas las copias seleccionadas antes de autorizar el giro de la ruleta tanto en cliente como en proceso principal."
+      ]
+    },
+    {
       "version": "3.3.0",
       "title": "Parche 3.3.0: Rework de Rankings, Rework de Trades, Auto-Reclamar de Prestigios, Mejoras en Filtros y Nuevos Códigos",
       "description": "Rework integral de la interfaz de Rankings y Trades con estética azul oscuro y dorado sin emojis, eliminación de rankings semanales y conservación de temporada e histórico en Modo Infinito, auto-reclamar de misiones y recompensas de prestigio en Mi Colección, corrección y filtros avanzados de rasgos por calidad y nuevos códigos canjeables.",

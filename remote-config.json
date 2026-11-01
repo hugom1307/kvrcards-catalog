@@ -14,11 +14,11 @@
                         "estimatedTime":  "10 minutos"
                     },
     "version":  {
-                    "current":  "3.3.0",
-                    "minimumRequired":  "3.3.0",
-                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.3.0.zip",
-                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.3.0.zip",
-                    "changelog":  "Rework rankings, rework trades, auto-reclamar prestigio, filtros de rasgos y nuevos codigos",
+                    "current":  "3.3.1",
+                    "minimumRequired":  "3.3.1",
+                    "downloadUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.3.1.zip",
+                    "patchUrl":  "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/updates/patch-3.3.1.zip",
+                    "changelog":  "Corrección crítica en Mejorámela: Consumo real e inmediato de cartas sacrificadas en inventario local y servidor remoto.",
                     "forceUpdate":  true
                 }
 }
