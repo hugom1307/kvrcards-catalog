@@ -823,6 +823,144 @@
       "resetDiario": true,
       "limiteDiario": 5,
       "repetible": 5
+    },
+    {
+  "id": "sbc_hikaru_uzumaki_sbc",
+  "nombre": "SBC Especial: Hikaru Uzumaki",
+  "tipo": "especial",
+  "descripcion": "Entrega exactamente 50 cartas (todas de media 75+, con al menos 10 de procedencia Kizoku, al menos 10 cartas especiales, al menos 10 cartas de media 86+, al menos 25 del owner TaiyoDL y al menos 2 cartas con media 91+) a cambio de 5 Sobres Guerra de Danzas y la carta Hikaru Uzumaki SBC.",
+  "imagenes": [
+    "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/hikaru_uzumaki_sbc.png"
+  ],
+  "limites": {
+    "minCartas": 50,
+    "maxCartas": 50
+  },
+  "requisitos": {
+    "mediaMinima": 75,
+    "mediaMaxima": null,
+    "minimoCartasConMedia": [
+      {
+        "media": 86,
+        "cantidad": 10
+      },
+      {
+        "media": 91,
+        "cantidad": 2
+      }
+    ],
+    "cartasEspecificas": [],
+    "calidades": {
+      "minimo": {
+        "special": 10
+      },
+      "maximo": {}
+    },
+    "stats": {
+      "ninjutsuMin": null,
+      "ninjutsuMax": null,
+      "taijutsuMin": null,
+      "taijutsuMax": null,
+      "velocidadMin": null,
+      "velocidadMax": null,
+      "defensaMin": null,
+      "defensaMax": null,
+      "resistenciaMin": null,
+      "resistenciaMax": null,
+      "fisicoMin": null,
+      "fisicoMax": null
+    },
+    "procedencias": {
+      "minimo": {
+        "Kizoku": 10
+      },
+      "maximo": {}
+    },
+    "owners": {
+      "minimo": {
+        "TaiyoDL": 25
+      },
+      "maximo": {}
     }
+  },
+  "recompensas": {
+    "cards": [
+      {
+        "id": "hikaru_uzumaki_sbc",
+        "cantidad": 1
+      }
+    ],
+    "packs": [
+      {
+        "id": "sobre_guerradanzas",
+        "cantidad": 5
+      }
+    ]
+  },
+  "repetible": true
+},
+    {
+  "id": "sbc_evento_diario_codw",
+  "nombre": "SBC Diario de Evento: Guerra de Danzas",
+  "tipo": "evento",
+  "descripcion": "Entrega exactamente 4 cartas (las 4 deben ser especiales en general y al menos 2 de calidad CODW) a cambio de 1 Sobre Guerra de Danzas y 1 Sobre Especial.",
+  "imagenes": [
+    "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_guerradanzas.png",
+    "https://raw.githubusercontent.com/hugom1307/kvrcards-catalog/main/image/sobre_especial.png"
+  ],
+  "limites": {
+    "minCartas": 4,
+    "maxCartas": 4
+  },
+  "requisitos": {
+    "mediaMinima": null,
+    "mediaMaxima": null,
+    "cartasEspecificas": [],
+    "calidades": {
+      "minimo": {
+        "codw": 2,
+        "special": 4
+      },
+      "maximo": {}
+    },
+    "stats": {
+      "ninjutsuMin": null,
+      "ninjutsuMax": null,
+      "taijutsuMin": null,
+      "taijutsuMax": null,
+      "velocidadMin": null,
+      "velocidadMax": null,
+      "defensaMin": null,
+      "defensaMax": null,
+      "resistenciaMin": null,
+      "resistenciaMax": null,
+      "fisicoMin": null,
+      "fisicoMax": null
+    },
+    "procedencias": {
+      "minimo": {},
+      "maximo": {}
+    },
+    "owners": {
+      "minimo": {},
+      "maximo": {}
+    }
+  },
+  "recompensas": {
+    "packs": [
+      {
+        "id": "sobre_guerradanzas",
+        "cantidad": 1
+      },
+      {
+        "id": "sobre_especial",
+        "cantidad": 1
+      }
+    ]
+  },
+  "repetible": 5,
+  "resetDiario": true,
+  "limiteDiario": 5
+}
   ]
 }
