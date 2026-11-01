@@ -481,6 +481,12 @@
     "description": "Demuestra que tu esfuerzo no fue helado",
     "gradient": "linear-gradient(to right, #334155 0%, #38BDF8 100%)",
     "unlockDescription": "Completa el prestigio de Betocs Hatake"
+  },
+ {
+    "id": "ganador_torneo",
+    "name": "GANADOR DEL TORNEO (S2)",
+    "description": "Ganador de la temporada 2 del infinito, pide tu deseo.",
+    "gradient": "linear-gradient(to top right, #b3faff 0%, #ddedf4 25%, #8a8ec1 50%, #87b8f7 100%)",
+    "unlockDescription": "(Inobtenible) Finaliza primero en el ranking del infinito de la temporada 2"
   }
- 
 ]
